@@ -215,16 +215,6 @@
 		"download": "http://download.vcmi.eu/mods/repository/TrueTypeFonts.zip",
 		"modType": "Graphical"
 	},
-	"vcmi": {
-		"name": "VCMI essential files",
-		"description": "Essential files required for VCMI to run correctly",
-		"size": 2066,
-		"version": "0.98",
-		"author": "VCMI Team",
-		"contact": "http://forum.vcmi.eu/index.php",
-		"download": "http://download.vcmi.eu/mods/repository/vcmi.zip",
-		"modType": "Graphical"
-	},
 	"witchking-arts": {
 		"name": "Witchking artifacts",
 		"description": "First new artifact pack proposed by Withcking",
