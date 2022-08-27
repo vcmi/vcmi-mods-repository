@@ -8,6 +8,19 @@
 		"modType" : "Graphical",
 		"download": "https://github.com/vcmi-mods/vcmi-essential-files/archive/refs/heads/master.zip"
 	},
+	"Korean TrueType Fonts": {
+		"name" : "Korean True type fonts",
+		"description" : "Mod that replaces original bitmap fonts with similar Korean true type fonts",
+		"version" : "1.0",
+		"author" : "hwiorn",
+		"contact" : "https://github.com/hwiorn/vcmi-mod-korean-truetype-fonts",
+		"modType" : "Graphical",
+		"download": "https://github.com/vcmi-mods/vcmi-mod-korean-truetype-fonts/archive/refs/heads/master.zip",
+		"screenshots": [
+			"https://raw.githubusercontent.com/vcmi-mods/vcmi-mod-korean-truetype-fonts/master/sc1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/vcmi-mod-korean-truetype-fonts/master/sc2.png"
+		]
+	},
 	"ai trace": {
 		"name": "Adventure AI trace",
 		"description": "Configures console log for extensive adventure AI debug info",
@@ -15,8 +28,7 @@
 		"author": "Warmonger",
 		"contact": "http://forum.vcmi.eu/viewtopic.php?t=776",
 		"modType": "Test",
-		"download": "https://mods.vcmi.download/archive/adventure-ai-trace/821190ef5396702bf763c764ed532781b1fc1ce6.zip",
-		"size": 924
+		"download": "https://github.com/vcmi-mods/adventure-ai-trace/archive/refs/heads/upstream.zip"
 	},
 	"axolotl creatures pack": {
 		"name": "Axolotl Creatures Pack",
