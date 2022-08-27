@@ -1,4 +1,13 @@
 {
+	"vcmi": {
+		"name" : "VCMI essential files",
+		"description" : "Essential files required for VCMI to run correctly",
+		"version" : "1.03",
+		"author" : "VCMI Team",
+		"contact" : "http://forum.vcmi.eu/index.php",
+		"modType" : "Graphical",
+		"download": "https://github.com/vcmi-mods/vcmi-essential-files/archive/refs/heads/master.zip"
+	},
 	"ai trace": {
 		"name": "Adventure AI trace",
 		"description": "Configures console log for extensive adventure AI debug info",
