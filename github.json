@@ -1,0 +1,84 @@
+{
+	"vcmi": {
+		"name" : "VCMI essential files",
+		"description" : "Essential files required for VCMI to run correctly",
+		"version" : "1.03",
+		"author" : "VCMI Team",
+		"contact" : "http://forum.vcmi.eu/index.php",
+		"modType" : "Graphical",
+		"download": "https://github.com/vcmi-mods/vcmi-essential-files/archive/refs/heads/master.zip"
+	},
+	"Korean TrueType Fonts": {
+		"name" : "Korean True type fonts",
+		"description" : "Mod that replaces original bitmap fonts with similar Korean true type fonts",
+		"version" : "1.0",
+		"author" : "hwiorn",
+		"contact" : "https://github.com/hwiorn/vcmi-mod-korean-truetype-fonts",
+		"modType" : "Graphical",
+		"download": "https://github.com/vcmi-mods/vcmi-mod-korean-truetype-fonts/archive/refs/heads/master.zip",
+		"screenshots": [
+			"https://raw.githubusercontent.com/vcmi-mods/vcmi-mod-korean-truetype-fonts/master/sc1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/vcmi-mod-korean-truetype-fonts/master/sc2.png"
+		]
+	},
+	"ai trace": {
+		"name" : "Adventure AI trace",
+		"description" : "Configures console log for extensive adventure AI debug info",
+		"version" : "1.0",
+		"author" : "Warmonger",
+		"contact" : "http://forum.vcmi.eu/viewtopic.php?t=776",
+		"modType" : "Test",
+		"download" : "https://github.com/vcmi-mods/adventure-ai-trace/archive/refs/heads/upstream.zip"
+	},
+	"quick exchange": {
+		"name" : "VCMI Quick Exchange",
+		"description" : "Quick Exchange related resources",
+		"version" : "1.0",
+		"author" : "VCMI Team",
+		"contact" : "http://forum.vcmi.eu/index.php",
+		"modType" : "Graphical",
+		"download" : "https://github.com/vcmi-mods/quick-exchange/archive/refs/heads/master.zip"
+	},
+	"mac demo support":
+	{
+		"author" : "misiokles and SXX",
+		"contact" : "",
+		"name" : "MacOS demo assets support",
+		"description" : "With this mod enabled you can play using game data extracted from Heroes 3: Complete demo for Mac. All towns and creatures missing will be disabled, but be aware that most custom maps depend on them.",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Other",
+		"version" : "0.1",
+		"changelog" :
+		{
+			"0.1" : [ "Initial release" ]
+		},
+		"download" : "https://github.com/vcmi-mods/mac-demo-support/archive/refs/heads/master.zip"
+	},
+	"ai testing maps":
+	{
+		"name" : "VCMI maps for AI testing",
+		"description" : "Following maps can be used for automatic testing of VCAI or any other adventure AI implementation in VCMI. Check README.md file for detailed documentation.",
+		"author" : "SXX",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "https://creativecommons.org/licenses/by-sa/4.0/",
+		"contact" : "https://forum.vcmi.eu/t/map-pack-for-automated-ai-testing/4566",
+		"version" : "1.0.0",
+		"modType" : "Test",
+		"changelog" :
+		{
+			"1.0.0" : [ "Initial public release"]
+		},
+		"download" : "https://github.com/vcmi-mods/ai-testing-maps/archive/refs/heads/master.zip"
+	},
+	"campaign heroes":
+	{
+		"name" : "Campaign Heroes",
+		"description" : "All 20 campaign heroes are now available in random maps",
+		"author" : "avatar",
+		"version" : "1.11",
+		"contact" : "",
+		"modType" : "Heroes",
+		"download" : "https://github.com/vcmi-mods/campaign-heroes/archive/refs/heads/master.zip"
+	}
+}
