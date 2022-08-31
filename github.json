@@ -8,6 +8,47 @@
 		"modType" : "Graphical",
 		"download": "https://github.com/vcmi-mods/vcmi-essential-files/archive/refs/heads/master.zip"
 	},
+	"hota": {
+		"author" : "Hota Crew, ported by VCMI Team & edeksumo & avatar",
+		"contact" : "http://forum.vcmi.eu/viewtopic.php?t=748",
+		"description" : "Work-in-progress port of Horn of the Abyss expansion for made by Hota Crew",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Expansion",
+		"name" : "Horn of the Abyss",
+		"version" : "1.3.5",
+		"changelog" :
+	    {
+	        "1.3.5"   : [ "New features (Interference, new artifacts, Steel Golems)" ],
+			"1.3.22"   : [ "New hero specialty format" ],
+			"1.3.21"   : [ "Added Cannon war machine", "Fixed creature sounds", "Added Ironfist of the Ogre artifact", "Added HotA fonts", "Small fixes" ]
+	    },
+	    "download": "https://github.com/vcmi-mods/horn-of-the-abyss/archive/refs/heads/master.zip"
+	},
+	"tidesOfWar": {
+		"author" : "Mod Design Team",
+		"contact" : "http://www.forum.acidcave.net/topic.php?TID=1423",
+		"description" : "In every nine standard H3 town, you have oppurtunity to build one dwelling for altenative creature.",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Expansion",
+		"name" : "Tides of War",
+		"version" : "1.0.0",	
+		"conflicts" :
+		[
+			"hota.hota balance"
+		],
+		"download": "https://github.com/vcmi-mods/tides-of-war/archive/refs/heads/master.zip"
+	},
+	"wog": {
+		"name" : "In The Wake of Gods",
+		"description" : "Unnofficial addon for Heroes of Might and Magic III",
+		"version" : "9.0.2",
+		"author" : "WoG Team & epigones",
+		"contact" : "http://forum.vcmi.eu/index.php",
+		"modType" : "Expansion",
+		"download": "https://github.com/vcmi-mods/wake-of-gods/archive/refs/heads/master.zip"
+	},
 	"Korean TrueType Fonts": {
 		"name" : "Korean True type fonts",
 		"description" : "Mod that replaces original bitmap fonts with similar Korean true type fonts",
