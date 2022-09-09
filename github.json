@@ -76,15 +76,6 @@
 		"modType" : "Test",
 		"download" : "https://github.com/vcmi-mods/adventure-ai-trace/archive/refs/heads/upstream.zip"
 	},
-	"quick exchange": {
-		"name" : "VCMI Quick Exchange",
-		"description" : "Quick Exchange related resources",
-		"version" : "1.0",
-		"author" : "VCMI Team",
-		"contact" : "http://forum.vcmi.eu/index.php",
-		"modType" : "Graphical",
-		"download" : "https://github.com/vcmi-mods/quick-exchange/archive/refs/heads/master.zip"
-	},
 	"mac demo support":
 	{
 		"author" : "misiokles and SXX",
