@@ -143,7 +143,7 @@
 			"1.3.0" : ["Improved creatures sprites"],
 			"1.3.1" : ["Fixed creature 5 and 6 lvl sprites", "Fixed Marchettes' specialy"],
 			"1.4.0" : ["Lvl 3 alternative unit and two new heroes"]
-		}
+		},
 		"download" : "https://github.com/vcmi-mods/forge/archive/refs/heads/master.zip"
 	}
 }
