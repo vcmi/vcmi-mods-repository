@@ -145,5 +145,20 @@
 			"1.4.0" : ["Lvl 3 alternative unit and two new heroes"]
 		},
 		"download" : "https://github.com/vcmi-mods/forge/archive/refs/heads/master.zip"
+	},
+	"axolotl-creatures-pack":
+	{
+		"name" : "Axolotl Creatures Pack",
+		"description" : "Axolotl creatures pack by Gilu. Mods adds 43 new creatures).",
+		"author" : "Axolotl. And then Gilu, Avatar, fred79, Andruids, Troggly, MK, Witchking. Sound: Disciples 2",
+		"version" : "1.0",
+		"contact" : "vcmi.eu",
+		"modType" : "Creatures",
+		"changelog" :
+		{
+			"1.0"   : [ "4 new creatures", "All adventure map buildings", "some ambient sounds added" ],
+			"0.995"   : [ "Older release" ]
+		}, 
+		"download" : "https://github.com/vcmi-mods/Axolotl-Creatures-Pack/archive/refs/heads/main.zip"
 	}
 }
