@@ -16,7 +16,7 @@
 		    "1.3.22"   : [ "New hero specialty format" ],
 		    "1.3.21"   : [ "Added Cannon war machine", "Fixed creature sounds", "Added Ironfist of the Ogre artifact", "Added HotA fonts", "Small fixes" ]
 		},
-		"download": "https://github.com/vcmi-mods/horn-of-the-abyss/archive/refs/heads/beta.zip"
+		"download": "https://github.com/vcmi-mods/horn-of-the-abyss/archive/refs/heads/vcmi-1.0.zip"
 	},
 	"Forge":
 	{
