@@ -39,6 +39,6 @@
 			"1.4.0" : ["Lvl 3 alternative unit and two new heroes"],
 			"2.0.0" : ["Asphalt terrain added as native terrain for the Forge"]
 		},
-		"download" : "https://github.com/vcmi-mods/forge/archive/refs/heads/beta.zip"
+		"download" : "https://github.com/vcmi-mods/forge/archive/refs/heads/vcmi-1.0.zip"
 	}
 }
