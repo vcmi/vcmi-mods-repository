@@ -198,5 +198,42 @@
 			"1.7.0" : [ "VCMI" ] 
 		},
 		"download" : "https://github.com/vcmi-mods/german-translation/archive/refs/heads/master.zip"
+	},
+	"tarnum":
+	{
+		"name" : "Tarnum is back (Original Factions)", 
+		"description" : "Playable Tarnum in all his previous incarnations (Knight, Ranger, Barbarian, Wizard, Beastmaster and Overlord) as well as 3 new ones (Death Knight, Demoniac and Planeswalker). Most of the graphics are exported from Heroes Chronicles, Heroes of Might and Magic 3 Complete or Horn of the Abyss. I'm the author of Planeswalker and Demoniac portraits and some speciality graphics, Hobbit is the author of Death Knight Tarnum (I received his permission to use this portrait). Mod gives each of original Heroes factions one Tarnum :)", 
+		"author" : "marif, Hobbit (Death Knight), HotA Team (Overlord speciality icons)", 
+		"contact" : "http://forum.vcmi.eu/viewtopic.php?t=798", 
+		"version" : "1.1.0", 
+		"modType" : "Heroes",    
+		"changelog" : 
+		{ 
+			"1.0.0" : [ "Initial release" ], 
+			"1.0.1" : [ "Bug fixes" ], 
+			"1.0.2" : [ "Changed Overlord Tarnum speciality icons to the ones used in HotA", "Changes in abilities of Death Knight Tarnum (added basic Offence, reduced Necromancy to basic)", "Fixed quantity of Beastmaster Tarnum's Serpent Flies" ], 
+			"1.0.3" : [ "Bug fixes" ], 
+			"1.0.4" : [ "Updated mod file to VCMI version 0.96" ],
+			"1.0.5" : [ "Graphic fixes", "New specialty format" ],
+			"1.1.0" : [ "Few new Tarnums were added :)" ]
+		},
+		"download" : "https://github.com/vcmi-mods/tarnum/archive/refs/heads/main.zip"
+	},
+	"neutralHeroes":
+	{
+		"version" : "1.03",
+		"author" : "avatar, Nephretes, Witchking, draeganfire, MK. Portraits are taken from various sources from the net.",
+		"contact" : "http://www.vault.acidcave.net/download.php?id=553",
+		"description" : "Mod creates neutral heroes class called Drifter. Drifter can be hired in Tavers, but can't chosen as starting heroes.",
+		"modType" : "Heroes",
+		"name" : "Neutral Heroes",
+		"changelog" :
+		{
+			"1.0"   : ["Initial release"],
+			"1.01"  : ["fixes"],
+			"1.02"   : ["Add female hero sprites"],
+			"1.03"   : ["Add two HotA heroes"]
+		},
+		"download" : "https://github.com/vcmi-mods/neutralHeroes/archive/refs/heads/main.zip"
 	}
 }
