@@ -182,5 +182,21 @@
 			"0.995"   : [ "Older release" ]
 		}, 
 		"download" : "https://github.com/vcmi-mods/Axolotl-Creatures-Pack/archive/refs/heads/main.zip"
+	},
+	"german-translation":
+	{
+		"name" : "HoMM3 for VCMI in german",
+		"description" : "Patch changes any Heroes3 complete localisation into german.\nBased on german files found on https://www.mightandmagicworld.de/filebase/heroes_3_patches-c12/index.html files from 10.04.2018\n initial mod by magikyr\nextended by anonymous",
+		"version" : "1.7",
+		"author" : "mightandmagicworld ported by magikyr extended by heroesiiifan",
+		"contact" : "",
+		"modType" : "Language",
+		"changelog" : 
+		{ 
+			"1.0.0" : [ "Initial release by magikyr (only txt-files and h3c campaign)" ], 
+			"1.1.0" : [ "Complete rework with new maps, graphics and texts" ],
+			"1.7.0" : [ "VCMI" ] 
+		},
+		"download" : "https://github.com/vcmi-mods/german-translation/archive/refs/heads/master.zip"
 	}
 }
