@@ -23,7 +23,7 @@
 		"compatibility" :
 		{
 			"min" : "1.1.0"
-		}
+		},
 		"download": "https://github.com/vcmi-mods/horn-of-the-abyss/archive/refs/heads/vcmi-1.1.zip",
 		"screenshots":
 		[
