@@ -245,18 +245,46 @@
 		"version" : "1.07",
 		"modType" : "Town",	
 		"conflicts" :
-    	[
-        	"bastille"
-    	],
+    		[
+        		"bastille"
+    		],
 		"changelog" :
-    	{
+    		{
 			"1.07"   : ["Partial grail building support"],
 			"1.06"   : ["Partial special buildings support"],
 			"1.05"   : ["new interface and new abilities, new lvl 6 creatures!"],
 			"1.02"   : [ "Added new commander", "Cosmetic fixes" ],
 			"1.01"   : [ "Bug fixes" ],
 			"1.00"   : [ "Initial release" ]
-    	},
+	    	},
 		"download" : "https://github.com/vcmi-mods/highlandsTown/archive/refs/heads/main.zip"
+	},
+	"courtyard":
+	{
+		"name" : "Courtyard town",
+		"author" : "Trith, special thanks to: avatar, Kammer, Andruids, Hobbicus and MDT team",
+		"contact" : "NONE",
+		"description" : "New faction.",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Town",
+		"version" : "1.02",
+		"changelog" :
+		{
+			"1.02"   : [ "Tweaks" ],       
+			"1.01"   : [ "Special buildings support" ],
+			"1.00"   : [ "Initian release"  ]
+		},
+		"compatibility":
+		{
+			"min" : "1.0.0"
+		},
+		"download" : "https://github.com/vcmi-mods/Courtyard/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/Courtyard/main/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/Courtyard/main/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/Courtyard/main/screenshots/screen3.png"
+		]
 	}
 }
