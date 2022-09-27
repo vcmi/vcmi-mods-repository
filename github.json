@@ -235,5 +235,28 @@
 			"1.03"   : ["Add two HotA heroes"]
 		},
 		"download" : "https://github.com/vcmi-mods/neutralHeroes/archive/refs/heads/main.zip"
+	},
+	"highlandsTown":
+	{
+		"name" : "Highlands Town",
+		"description" : "New town made by Turbanellos. New townscreen.",
+		"author" : "FF Team, mod : Turbanellos",
+		"contact" : "http://forum.vcmi.eu/index.php",
+		"version" : "1.07",
+		"modType" : "Town",	
+		"conflicts" :
+    	[
+        	"bastille"
+    	],
+		"changelog" :
+    	{
+			"1.07"   : ["Partial grail building support"],
+			"1.06"   : ["Partial special buildings support"],
+			"1.05"   : ["new interface and new abilities, new lvl 6 creatures!"],
+			"1.02"   : [ "Added new commander", "Cosmetic fixes" ],
+			"1.01"   : [ "Bug fixes" ],
+			"1.00"   : [ "Initial release" ]
+    	},
+		"download" : "https://github.com/vcmi-mods/highlandsTown/archive/refs/heads/main.zip"
 	}
 }
