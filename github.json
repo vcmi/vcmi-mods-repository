@@ -287,5 +287,25 @@
 			"https://raw.githubusercontent.com/vcmi-mods/Courtyard/main/screenshots/screen2.png",
 			"https://raw.githubusercontent.com/vcmi-mods/Courtyard/main/screenshots/screen3.png"
 		]
+	},
+	"tok":
+	{
+		"name" : "The Other Kingdom",
+		"author" : "Fiorin",
+		"contact" : "http://fior.in/",
+		"description" : "New neutral creatures, new classes, heroes and graphics improvements made by Fiorin",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Creatures",
+		"version" : "0.1",
+		"changelog" :
+		{
+			"0.1"   : [ "Initian release"  ]
+		},
+		"compatibility":
+		{
+			"min" : "1.0.0"
+		},
+		"download" : "https://github.com/vcmi-mods/tok/archive/refs/heads/main.zip"
 	}
 }
