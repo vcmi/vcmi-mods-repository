@@ -55,7 +55,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.0/screenshots/09.png",
 		]
 	},
-	"tidesOfWar":
+	"tides-of-war":
 	{
 		"author" : "Mod Design Team",
 		"contact" : "http://www.forum.acidcave.net/topic.php?TID=1423",
@@ -137,7 +137,7 @@
 		},
 		"download" : "https://github.com/vcmi-mods/ai-testing-maps/archive/refs/heads/master.zip"
 	},
-	"campaign heroes":
+	"campaign-heroes":
 	{
 		"name" : "Campaign Heroes",
 		"description" : "All 20 campaign heroes are now available in random maps",
@@ -147,7 +147,7 @@
 		"modType" : "Heroes",
 		"download" : "https://github.com/vcmi-mods/campaign-heroes/archive/refs/heads/master.zip"
 	},
-	"Forge":
+	"forge":
 	{
 		"name" : "Forge town",
 		"description" : "New town made by Mod Design Team as part of The Heavenly Forge addon",
@@ -182,7 +182,7 @@
 			"1.0"   : [ "4 new creatures", "All adventure map buildings", "some ambient sounds added" ],
 			"0.995"   : [ "Older release" ]
 		}, 
-		"download" : "https://github.com/vcmi-mods/Axolotl-Creatures-Pack/archive/refs/heads/main.zip"
+		"download" : "https://github.com/vcmi-mods/axolotl-creatures-pack/archive/refs/heads/main.zip"
 	},
 	"german-translation":
 	{
@@ -220,7 +220,7 @@
 		},
 		"download" : "https://github.com/vcmi-mods/tarnum/archive/refs/heads/main.zip"
 	},
-	"neutralHeroes":
+	"neutral-heroes":
 	{
 		"version" : "1.03",
 		"author" : "avatar, Nephretes, Witchking, draeganfire, MK. Portraits are taken from various sources from the net.",
@@ -235,9 +235,9 @@
 			"1.02"   : ["Add female hero sprites"],
 			"1.03"   : ["Add two HotA heroes"]
 		},
-		"download" : "https://github.com/vcmi-mods/neutralHeroes/archive/refs/heads/main.zip"
+		"download" : "https://github.com/vcmi-mods/neutral-heroes/archive/refs/heads/main.zip"
 	},
-	"highlandsTown":
+	"highlands-town":
 	{
 		"name" : "Highlands Town",
 		"description" : "New town made by Turbanellos. New townscreen.",
@@ -258,7 +258,7 @@
 			"1.01"   : [ "Bug fixes" ],
 			"1.00"   : [ "Initial release" ]
 	    	},
-		"download" : "https://github.com/vcmi-mods/highlandsTown/archive/refs/heads/main.zip"
+		"download" : "https://github.com/vcmi-mods/highlands-town/archive/refs/heads/main.zip"
 	},
 	"courtyard":
 	{
@@ -274,18 +274,18 @@
 		{
 			"1.02"   : [ "Tweaks" ],       
 			"1.01"   : [ "Special buildings support" ],
-			"1.00"   : [ "Initian release"  ]
+			"1.00"   : [ "Initial release"  ]
 		},
 		"compatibility":
 		{
 			"min" : "1.0.0"
 		},
-		"download" : "https://github.com/vcmi-mods/Courtyard/archive/refs/heads/main.zip",
+		"download" : "https://github.com/vcmi-mods/courtyard/archive/refs/heads/main.zip",
 		"screenshots":
 		[
-			"https://raw.githubusercontent.com/vcmi-mods/Courtyard/main/screenshots/screen1.png",
-			"https://raw.githubusercontent.com/vcmi-mods/Courtyard/main/screenshots/screen2.png",
-			"https://raw.githubusercontent.com/vcmi-mods/Courtyard/main/screenshots/screen3.png"
+			"https://raw.githubusercontent.com/vcmi-mods/courtyard/main/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/courtyard/main/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/courtyard/main/screenshots/screen3.png"
 		]
 	},
 	"tok":
@@ -300,12 +300,62 @@
 		"version" : "0.1",
 		"changelog" :
 		{
-			"0.1"   : [ "Initian release"  ]
+			"0.1"   : [ "Initial release"  ]
 		},
 		"compatibility":
 		{
 			"min" : "1.0.0"
 		},
 		"download" : "https://github.com/vcmi-mods/tok/archive/refs/heads/main.zip"
+	},
+	"magic-fader":
+	{
+		"name" : "Magic Fader",
+		"author" : "avatar. Graphic: HotA Team (rejected material).",
+		"contact" : "NONE",
+		"description" : "New secondary skill: Magic Fader. Partially blocks casting spells by enemy hero.",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Skills",
+		"version" : "1.02",
+		"changelog" :
+		{
+			"1.0.0"   : [ "Initial release"  ]
+		},
+		"compatibility":
+		{
+			"min" : "1.0.0"
+		},
+		"download" : "https://github.com/vcmi-mods/magic-fader/archive/refs/heads/main.zip"
+	},
+	"grove":
+	{
+		"name" : "Grove town",
+		"author" : "New Grove Team & Trith, mod : Kuririn & Pointer, fixes: avatar, Alyx182008",
+		"contact" : "NONE",
+		"description" : "New town made by New Grove Team & Trith.",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Town",
+		"version" : "1.16",
+		"changelog" :
+		{
+			"1.16"   : [ "Tweaks" ],       
+			"1.10"   : [ "Special buildings support" ],
+			"1.00"   : [ "Initial release"  ]
+		},
+		"compatibility":
+		{
+			"min" : "1.0.0"
+		},
+		"download" : "https://github.com/vcmi-mods/grove/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/grove/main/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/grove/main/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/grove/main/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/vcmi-mods/grove/main/screenshots/screen4.png",
+			"https://raw.githubusercontent.com/vcmi-mods/grove/main/screenshots/screen5.png",
+		]
 	}
 }
