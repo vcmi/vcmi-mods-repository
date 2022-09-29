@@ -71,11 +71,11 @@
 		],
 		"download": "https://github.com/vcmi-mods/tides-of-war/archive/refs/heads/master.zip"
 	},
-	"wog":
+	"wake-of-gods":
 	{
 		"name" : "In The Wake of Gods",
 		"description" : "Unnofficial addon for Heroes of Might and Magic III",
-		"version" : "9.0.2",
+		"version" : "9.0.4",
 		"author" : "WoG Team & epigones",
 		"contact" : "http://forum.vcmi.eu/index.php",
 		"modType" : "Expansion",
