@@ -383,5 +383,30 @@
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/combine-grail/main/screenshots/screen1.png"
 		]
+	},
+	"fairy-town":
+	{
+		"name" : "Fairy town",
+		"author" : "New town made by New fairy Team, updated by Turbanellos in 2022.",
+		"contact" : "NONE",
+		"description" : "Grail as combined artifact. Find 5 new artifacts to combine Grail of them instead of digging.",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Town",
+		"version" : "1.5",
+		"changelog" :
+		{
+			"1.5"   : [ "Totally reworked town" ],
+			"1.0"   : [ "Initial release" ]
+		},	
+		"compatibility":
+		{
+			"min" : "1.0.0"
+		},
+		"download" : "https://github.com/vcmi-mods/fairy-town/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/fairy-town/main/screenshots/screen1.png"
+		]
 	}
 }
