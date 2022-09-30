@@ -408,5 +408,34 @@
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/fairy-town/main/screenshots/screen1.png"
 		]
+	},
+	"haven-town":
+	{
+		"name" : " Haven town",
+		"author" : "Ganymed, Necronix, Deo. VCMI port acidchalk.Updated by Ben Yan(Turbanellos) in March 2022.",
+		"contact" : "NONE",
+		"description" : "New town made by Turbanellos.",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Town",
+		"version" : "1.10",
+		"changelog" :
+		{
+			"1.10"	:  [ "Great Updates" ],
+			"1.04"   : [ "Special buildings support" ],
+			"1.03"   : [ "Another fixes" ],
+			"1.02"   : [ "Some missing buildings" ],
+			"1.01"   : [ "New hero specialty format", "Bugfixes" ],
+			"1.0"   : [ "Initial release" ]
+		},	
+		"compatibility":
+		{
+			"min" : "1.0.0"
+		},
+		"download" : "https://github.com/vcmi-mods/haven-town/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/haven-town/main/screenshots/screen1.png"
+		]
 	}
 }
