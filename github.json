@@ -460,7 +460,7 @@
 		},
       		"conflicts":
       		[
-       		"wog,commanders", 
+       		"wog.commanders", 
        		"wake-of-gods.commanders"
       		]
 		"download" : "https://github.com/vcmi-mods/reworked-commanders/archive/refs/heads/main.zip",
