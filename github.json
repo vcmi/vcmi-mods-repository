@@ -437,5 +437,38 @@
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/haven-town/main/screenshots/screen1.png"
 		]
+	},
+	"reworked-commanders":
+	{
+		"name" : "Reworked commanders",
+		"author" : "Concept and most Commanders' graphics - WoG Team; New Commanders Mod - Avatar support and MinosKing; Werewolf def - MDT; Orange Orc def - HotA Team; Idea and implemetation - Andruids; Sunseeker def - Andruids, based on Kuririn's Crusader; Totem def - Andruids, based on Rettosukero's Wendigo.",
+		"contact" : "NONE",
+		"description" : "Reworked commanders for original factions. Loosely based on abilities and design of WoG commanders. Read Reworked_Commanders_VCMI_Manual.pdf for more infos",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Creatures",
+		"version" : "1.11",
+		"changelog" :
+		{
+			"1.11"	:  [ "Tweaks" ],
+			"1.1"   : [ "Balance changes" ],
+			"1.0"   : [ "Initial release" ]
+		},	
+		"compatibility":
+		{
+			"min" : "1.0.0"
+		},
+      		"conflicts":
+      		[
+       		"wog,commanders", 
+       		"wake-of-gods.commanders"
+      		]
+		"download" : "https://github.com/vcmi-mods/reworked-commanders/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/reworked-commanders/main/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/reworked-commanders/main/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/reworked-commanders/main/screenshots/screen3.png"
+		]
 	}
 }
