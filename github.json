@@ -462,13 +462,42 @@
       		[
        		"wog.commanders", 
        		"wake-of-gods.commanders"
-      		]
+      		],
 		"download" : "https://github.com/vcmi-mods/reworked-commanders/archive/refs/heads/main.zip",
 		"screenshots":
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/reworked-commanders/main/screenshots/screen1.png",
 			"https://raw.githubusercontent.com/vcmi-mods/reworked-commanders/main/screenshots/screen2.png",
 			"https://raw.githubusercontent.com/vcmi-mods/reworked-commanders/main/screenshots/screen3.png"
+		]
+	},
+	"cathedral-town":
+	{
+		"name" : "Cathedral town",
+		"author" : "Ben Yan",
+		"contact" : "NONE",
+		"description" : "Cathedral Town is a mod which recreated by Ben Yan.",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Town",
+		"version" : "1.0.2",
+		"changelog" :
+    		{
+			"1.0.2"   : [ "Grail building support" ],
+			"1.0.1"   : [ "Special buildings support" ],
+			"1.0.0"   : [ "Initial release" ]
+    		},	
+		"compatibility":
+		{
+			"min" : "1.0.0"
+		},
+		"download" : "https://github.com/vcmi-mods/cathedral-town/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/cathedral-town/main/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/cathedral-town/main/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/cathedral-town/main/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/vcmi-mods/cathedral-town/main/screenshots/screen4.png"
 		]
 	}
 }
