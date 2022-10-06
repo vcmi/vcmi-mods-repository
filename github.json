@@ -156,7 +156,7 @@
 		"contact" : "http://www.forum.acidcave.net/topic.php?TID=1423",
 		"modType" : "Town",
 		"changelog" :
-    		{
+    	{
 	        	"1.0"   : ["Initial release"],
 			"1.1"   : ["Graphic and balance fixes"],
 			"1.2"   : ["Added Commander for WoG players", "Fixed masks", "Fixed Dreadnought's special spell"],
@@ -545,14 +545,40 @@
 			"min" : "1.0.0"
 		},
 		"changelog" :
-    		{
+    	{
 			"1.1"   : [ "Added one more screen" ],
 			"1.0"   : [ "Initial release" ]
-    		},
+    	},
 		"download" : "https://github.com/vcmi-mods/h3-themes/archive/refs/heads/main.zip",
 		"screenshots":
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/h3-themes/main/screenshots/screen1.png"
+		]
+	},
+	"creatures-hidden-potential":
+	{
+		"name" : "Creatures Hidden Potential",
+		"author" : "Andruids",
+		"contact" : "madaosoul@gmail.com",
+		"description" : "Mod adding various bonuses for creatures, to make use of their unused animations, with as slight impact to game's balance as possible.",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Creatures",
+		"version" : "0.4",
+		"compatibility" :
+		{
+			"min" : "1.0.0"
+		},
+		"changelog" :
+    	{
+			"0.4"   : [ "Initial release" ]
+    	},
+		"download" : "https://github.com/vcmi-mods/creatures-hidden-potential/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/creatures-hidden-potential/main/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/creatures-hidden-potential/main/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/creatures-hidden-potential/main/screenshots/screen1.png"
 		]
 	}
 }
