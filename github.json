@@ -580,5 +580,36 @@
 			"https://raw.githubusercontent.com/vcmi-mods/creatures-hidden-potential/main/screenshots/screen2.png",
 			"https://raw.githubusercontent.com/vcmi-mods/creatures-hidden-potential/main/screenshots/screen3.png"
 		]
+	},
+	"asylum-town":
+	{
+		"name" : "Asylum town",
+		"author" : "FF Team, mod : Turbanellos",
+		"contact" : "https://forum.vcmi.eu/t/preserve-new-and-asylum-town/1061",
+		"description" : "New town made by Turbanellos, The Forgotten Fields. Asylum Town is a new force with mental attack.",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Town",
+		"version" : "1.06",
+		"compatibility" :
+		{
+			"min" : "1.0.0"
+		},
+		"changelog" :
+    	{
+			"1.06"   : [ "Reworks and tweaks" ],
+			"1.00"   : [ "Initial release" ],
+    	},
+		"download" : "https://github.com/vcmi-mods/asylum-town/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen4.png",
+			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen5.png",
+			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen6.png",
+			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen7.png"
+		]
 	}
 }
