@@ -611,5 +611,62 @@
 			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen6.png",
 			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen7.png"
 		]
+	},
+	"death-valley-town":
+	{
+		"name" : "Death Valley",
+		"author" : "VCMI ROFL and Turbanellos(Ben Yan)",
+		"contact" : "https://forum.vcmi.eu/t/death-valley-1-1-0-version/5648",
+		"description" : "New necro town",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Town",
+		"version" : "1.10",
+		"compatibility" :
+		{
+			"min" : "1.0.0"
+		},
+		"changelog" :
+		{
+			"1.00"   : [ "Initial release" ],
+			"1.10"	: [" changes for town screen, map objects, seige screen, creatures"]
+		},
+		"download" : "https://github.com/vcmi-mods/death-valley-town/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/death-valley-town/main/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/death-valley-town/main/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/death-valley-town/main/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/vcmi-mods/death-valley-town/main/screenshots/screen4.png",
+			"https://raw.githubusercontent.com/vcmi-mods/death-valley-town/main/screenshots/screen5.png"
+		]
+	},
+	"tartarus-town":
+	{
+		"name" : "Tartarus town",
+		"author" : "FF Team, mod : Turbanellos",
+		"contact" : "https://forum.vcmi.eu/t/new-town-tartarus-ice-demons/5623",
+		"description" : "New town made by Turbanellos(Ben YAN), Tartarus is a new town for ice demons. Released in January 2022.",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Town",
+		"version" : "1.00",
+		"compatibility" :
+		{
+			"min" : "1.0.0"
+		},
+		"changelog" :
+		{
+			"1.00"   : [ "Initial release" ]
+		},
+		"download" : "https://github.com/vcmi-mods/tartarus-town/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen4.png",
+			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen5.png"
+		]
 	}
 }
