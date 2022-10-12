@@ -702,5 +702,32 @@
 			"https://raw.githubusercontent.com/vcmi-mods/preserve-town/main/screenshots/screen5.png",
 			"https://raw.githubusercontent.com/vcmi-mods/preserve-town/main/screenshots/screen6.png"
 		]
+	},
+	"new-pavilion":
+	{
+		"name" : "Pavilion town",
+		"author" : "Bastion New Town Group, edeksumo, New Pawulon Team, Acid Cave community",
+		"contact" : "madaosoul@gmail.com",
+		"description" : "Modified and balanced version of the egyptian 'Bastion Town' ported to VCMI by edeksumo with help of Acid Cave modding community, originally conceptualised and created by New Town Group.",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Town",
+		"version" : "2.7",
+		"compatibility" :
+		{
+			"min" : "1.0.0"
+		},
+		"changelog" :
+		{
+		},
+		"download" : "https://github.com/vcmi-mods/new-pavilion/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/main/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/main/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/main/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/vcmi-mods/pnew-pavilion/main/screenshots/screen4.png",
+			"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/main/screenshots/screen5.png"
+		]
 	}
 }
