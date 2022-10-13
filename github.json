@@ -515,10 +515,10 @@
 			"min" : "1.0.0"
 		},
 		"changelog" :
-    		{
+    	{
 			"1.2.3"   : [ "Lots od changes and fixes" ],
 			"0.95"   : [ "Initial release" ]
-    		},
+    	},
 		"download" : "https://github.com/vcmi-mods/ruins-town/archive/refs/heads/main.zip",
 		"screenshots":
 		[
@@ -740,10 +740,6 @@
 		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
 		"modType" : "Town",
 		"version" : "0.8",
-		"compatibility" :
-		{
-			"min" : "1.0.0"
-		},
 		"changelog" :
 		{
 			"0.80"   : [ "Various fixes"  ],
