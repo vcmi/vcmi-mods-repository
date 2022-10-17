@@ -302,10 +302,6 @@
 		{
 			"0.1"   : [ "Initial release"  ]
 		},
-		"compatibility":
-		{
-			"min" : "1.0.0"
-		},
 		"download" : "https://github.com/vcmi-mods/tok/archive/refs/heads/main.zip"
 	},
 	"magic-fader":
@@ -753,6 +749,30 @@
 			"https://raw.githubusercontent.com/vcmi-mods/abyss-town/main/screenshots/screen3.png",
 			"https://raw.githubusercontent.com/vcmi-mods/abyss-town/main/screenshots/screen4.png",
 			"https://raw.githubusercontent.com/vcmi-mods/abyss-town/main/screenshots/screen5.png"
+		]
+	},
+	"retreat-town":
+	{
+		"name" : "Retreat town",
+		"author" : "XEricSin, Zeryss, acidchalk, avatar",
+		"contact" : "http://heroescommunity.com/viewthread.php3?TID=42498",
+		"description" : "Retreat town with chinese climax",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Town",
+		"version" : "0.5.1",
+		"changelog" :
+		{
+			"0.5.1" : [ "Special buildings support" ],
+			"0.5.0" : [ "Re-worked mod to match ERA original version" ]
+		},
+		"download" : "https://github.com/vcmi-mods/retreat-town/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/retreat-town/main/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/retreat-town/main/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/retreat-town/main/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/vcmi-mods/retreat-town/main/screenshots/screen4.gif"
 		]
 	}
 }
