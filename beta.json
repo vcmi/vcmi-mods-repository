@@ -1,30 +1,6 @@
 {
 	"hota": {
-		"author" : "Hota Crew, ported by VCMI Team & edeksumo & avatar",
-		"contact" : "http://forum.vcmi.eu/viewtopic.php?t=748",
-		"description" : "Work-in-progress port of Horn of the Abyss expansion for made by Hota Crew",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Expansion",
-		"name" : "Horn of the Abyss",
-		"version" : "1.5.1",
-		"changelog" :
-		{
-			"1.5.1"   : [ "Updated new terrain configuration"],
-			"1.5.0"   : [ "Added warehouses", "Added ancient lamp", "Added magic colosseum", "Added sea barrel", "Update obstacles config to be compatible with 1.1.0" ],
-			"1.4.4"   : [ "Add missing battlefield obstacles" ],
-			"1.4.3"   : [ "Fix battlefield obstacles" ],
-			"1.4.2"   : [ "Update configs and restructure the mod" , "Campaign heroes submod was added" ],
-			"1.4.1"   : [ "Fixes for mine types" ],
-			"1.4.0"   : [ "Added higlands and wastelands terrains", "reworked Eovacius' specialty", "added two submods" ],
-			"1.3.5"   : [ "New features (Interference, new artifacts, Steel Golems)" ],
-			"1.3.22"   : [ "New hero specialty format" ],
-			"1.3.21"   : [ "Added Cannon war machine", "Fixed creature sounds", "Added Ironfist of the Ogre artifact", "Added HotA fonts", "Small fixes" ]
-		},
-		"compatibility" :
-		{
-			"min" : "1.1.0"
-		},
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.1/hota/mod.json",
 		"download": "https://github.com/vcmi-mods/horn-of-the-abyss/archive/refs/heads/vcmi-1.1.zip",
 		"screenshots":
 		[
@@ -41,25 +17,7 @@
 	},
 	"Forge":
 	{
-		"name" : "Forge town",
-		"description" : "New town made by Mod Design Team as part of The Heavenly Forge addon",
-		"version" : "2.0.0",
-		"author" : "Mod Design Team",
-		"contact" : "http://www.forum.acidcave.net/topic.php?TID=1423",
-		"modType" : "Town",
-		"changelog" :
-    		{
-	        	"1.0"   : ["Initial release"],
-			"1.1"   : ["Graphic and balance fixes"],
-			"1.2"   : ["Added Commander for WoG players", "Fixed masks", "Fixed Dreadnought's special spell"],
-			"1.2.1" : ["Fixed lvl6 upg. horde value"],
-			"1.2.2" : ["Small fixes in dwellings and lvl5 creatures' ability configuration"],
-			"1.2.3" : ["New hero specialty format", "Alien is no longer Forge submod", "Added Sword Breaker artifact"],
-			"1.3.0" : ["Improved creatures sprites"],
-			"1.3.1" : ["Fixed creature 5 and 6 lvl sprites", "Fixed Marchettes' specialy"],
-			"1.4.0" : ["Lvl 3 alternative unit and two new heroes"],
-			"2.0.0" : ["Asphalt terrain added as native terrain for the Forge"]
-		},
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/forge/vcmi-1.1/mod.json",
 		"download" : "https://github.com/vcmi-mods/forge/archive/refs/heads/vcmi-1.0.zip"
 	}
 }
