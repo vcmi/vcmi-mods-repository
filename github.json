@@ -820,5 +820,25 @@
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/lost-souls/main/screenshots/screen1.png"
 		]
+	},
+	"kurek-creatures":
+	{
+		"name" : "Kurek creatures",
+		"contact" : "http://www.forum.acidcave.net/profile.php?UID=4121",
+		"description" : "Mod adds two new neutral creatures: Cherub and Marid",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Creatures",
+		"version" : "1.00",
+		"changelog" :
+		{
+			"1.00" : ["Initial release"]
+		},	  
+		"download" : "https://github.com/vcmi-mods/kurek-creatures/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/kurek-creatures/main/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/kurek-creatures/main/screenshots/screen2.png",
+		]
 	}
 }
