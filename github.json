@@ -904,5 +904,34 @@
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/new-old-spells-plus/main/screenshots/screen1.png"
 		]
+	},
+	"andruids-expansion":
+	{
+		"name" : "Andruids Expansion mod",
+		"author" : "Andruids, M&M Community",
+		"contact" : "madaosoul@gmail.com",
+		"description" : "Various modifications expanding Heroes III mechanics and elements (http://heroescommunity.com/viewthread.php3?TID=45286)",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Expansion",
+		"version" : "0.7.5",
+		"changelog" :
+		{
+			"0.7.5" : ["Initial release"]
+		},  
+		"download" : "https://github.com/vcmi-mods/andruids-expansion/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/andruids-expansion/main/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/andruids-expansion/main/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/andruids-expansion/main/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/vcmi-mods/andruids-expansion/main/screenshots/screen4.png",
+			"https://raw.githubusercontent.com/vcmi-mods/andruids-expansion/main/screenshots/screen5.png",
+			"https://raw.githubusercontent.com/vcmi-mods/andruids-expansion/main/screenshots/screen6.png",
+			"https://raw.githubusercontent.com/vcmi-mods/andruids-expansion/main/screenshots/screen7.png",
+			"https://raw.githubusercontent.com/vcmi-mods/andruids-expansion/main/screenshots/screen8.png",
+			"https://raw.githubusercontent.com/vcmi-mods/andruids-expansion/main/screenshots/screen9.png",
+			"https://raw.githubusercontent.com/vcmi-mods/andruids-expansion/main/screenshots/screen10.png"
+		]
 	}
 }
