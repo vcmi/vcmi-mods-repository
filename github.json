@@ -933,5 +933,27 @@
 			"https://raw.githubusercontent.com/vcmi-mods/andruids-expansion/main/screenshots/screen9.png",
 			"https://raw.githubusercontent.com/vcmi-mods/andruids-expansion/main/screenshots/screen10.png"
 		]
+	},
+	"portraits-packs":
+	{
+		"name" : "Portraits packs",
+		"author" : "Dtnmang, Nitroflower, Striker, Vallex",
+		"contact" : "https://forum.vcmi.eu/c/international-board/content-creation/12",
+		"description" : "Portaits packs for standard HoMM3 heroes ported from ERA2 mods by avatar",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Graphical",
+		"version" : "1.0",
+		"changelog" :
+		{
+			"1.0" : ["Initial release"]
+		},  
+		"download" : "https://github.com/vcmi-mods/portraits-packs/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/portraits-packs/main/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/portraits-packs/main/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/portraits-packs/main/screenshots/screen3.png"
+		]
 	}
 }
