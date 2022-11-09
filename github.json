@@ -881,5 +881,28 @@
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/andruids-spell-balance/main/screenshots/screen1.png"
 		]
+	},
+	"new-old-spells-plus":
+	{
+		"name" : "New Old Spells+",
+		"author" : "Warmonger, avatar, Kuririn, Andruids",
+		"contact" : "https://forum.vcmi.eu/c/international-board/content-creation/12",
+		"description" : "9 spells from other Homm games",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Spells",
+		"version" : "0.9.5",
+		"changelog" :
+		{
+			"0.8" : ["Initial release"],
+			"0.9" : ["Added spell Fear (abandoned H3 spell)"],
+			"0.9.1" : ["Small improvements"],
+			"0.9.5" : ["Graphical lifting, some balancing improvements and adapting to the new spell format"]
+		},  
+		"download" : "https://github.com/vcmi-mods/new-old-spells-plus/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/new-old-spells-plus/main/screenshots/screen1.png"
+		]
 	}
 }
