@@ -943,17 +943,19 @@
 		"licenseName" : "Creative Commons Attribution-ShareAlike",
 		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
 		"modType" : "Graphical",
-		"version" : "1.0",
+		"version" : "1.1",
 		"changelog" :
 		{
-			"1.0" : ["Initial release"]
+			"1.0" : ["Initial release"],
+			"1.1"   : [ "Added StableDiffusion AI portraits pack" ]
 		},  
 		"download" : "https://github.com/vcmi-mods/portraits-packs/archive/refs/heads/main.zip",
 		"screenshots":
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/portraits-packs/main/screenshots/screen1.png",
 			"https://raw.githubusercontent.com/vcmi-mods/portraits-packs/main/screenshots/screen2.png",
-			"https://raw.githubusercontent.com/vcmi-mods/portraits-packs/main/screenshots/screen3.png"
+			"https://raw.githubusercontent.com/vcmi-mods/portraits-packs/main/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/vcmi-mods/portraits-packs/main/screenshots/screen4.png"
 		]
 	},
 	"heroes-iii-orchestra":
