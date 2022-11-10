@@ -955,5 +955,24 @@
 			"https://raw.githubusercontent.com/vcmi-mods/portraits-packs/main/screenshots/screen2.png",
 			"https://raw.githubusercontent.com/vcmi-mods/portraits-packs/main/screenshots/screen3.png"
 		]
+	},
+	"heroes-iii-orchestra":
+	{
+		"name" : "Heroes III Orchestra",
+		"author" : "Heroes III Orchestra",
+		"contact" : "https://www.youtube.com/c/HeroesOrchestra",
+		"description" : "Orchestral tracks of Heroes III towns and combat, arranged by Heroes Orchestra",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Music",
+		"version" : "1.0",
+		"changelog" :
+		{
+			"1.0" : ["Initial release"]
+		},  
+		"download" : "https://github.com/vcmi-mods/heroes-iii-orchestra/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+		]
 	}
 }
