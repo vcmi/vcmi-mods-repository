@@ -976,5 +976,71 @@
 		"screenshots":
 		[
 		]
+	},
+	"mega-pack-rus":
+	{
+		"name" : "MegaPack Rus",
+		"author" : "ZoTaC, Dmitry - mygms.ru",
+		"contact" : "https://forum.df2.ru/index.php?showtopic=35881",
+		"description" : "Исправляет кривости графики русских локализаций SoD и Complete от Буки",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Translation",
+		"version" : "1.2",
+		"changelog" :
+		{
+			"1.0" : ["Initial release"],
+			"1.2"   : [ "Update" ]
+		},  
+		"download" : "https://github.com/vcmi-mods/mega-pack-rus/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/main/screenshots/sc-1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/main/screenshots/sc-2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/main/screenshots/sc-3.png",
+			"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/main/screenshots/sc-4.png",
+			"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/main/screenshots/sc-5.png",
+			"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/main/screenshots/sc-6.png",
+			"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/main/screenshots/sc-7.png"
+		]
+	},
+	"vcmi-mod-ce-ukr":
+	{
+		"name" : "Complete Edition: Ukrainian translation",
+		"author" : "olexn",
+		"contact" : "https://toloka.to/u59021",
+		"description" : "Українізатор гри Heroes of Might and Magic III: Complete Edition",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Translation",
+		"version" : "1.0.1",
+		"changelog" :
+		{
+			"1.0" : ["Initial release"],
+			"1.0.1"   : [ "Update" ]
+		},  
+		"download" : "https://github.com/vcmi-mods/vcmi-mod-ce-ukr/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+		]
+	},
+	"h3-for-vcmi-englisation":
+	{
+		"name" : "H3 for VCMI englisation",
+		"author" : "avatar",
+		"contact" : "https://forum.vcmi.eu/c/international-board/content-creation/12",
+		"description" : "If you have HoMM 3 installed in other language than english, this mod change your local files into english (except graphics)",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Translation",
+		"version" : "1.0",
+		"changelog" :
+		{
+			"1.0" : ["Initial release"]
+		},  
+		"download" : "https://github.com/vcmi-mods/h3-for-vcmi-englisation/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+		]
 	}
 }
