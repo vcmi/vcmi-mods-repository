@@ -1042,5 +1042,51 @@
 		"screenshots":
 		[
 		]
+	},
+	"new-interface-mod":
+	{
+		"name" : "New-style Interface",
+		"author" : "FCst1 and NI team. Mod - Kuririn",
+		"contact" : "https://www.youtube.com/watch?v=BMz2CFtGuEw",
+		"description" : "Mod changes many of standard H3 interface graphics (not works for all resolutions).",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Interface",
+		"version" : "1.0",
+		"changelog" :
+		{
+			"1.0" : ["Initial release"]
+		},  
+		"download" : "https://github.com/vcmi-mods/new-interface-mod/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+		"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/main/screenshots/screen1.png",
+		"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/main/screenshots/screen2.png",
+		"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/main/screenshots/screen3.png",
+		"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/main/screenshots/screen4.png",
+		"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/main/screenshots/screen5.png",
+		"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/main/screenshots/screen6.png",
+		]
+	},
+	"hi-rez-menu":
+	{
+		"name" : "High-res Menu",
+		"author" : "Dru",
+		"contact" : "https://forum.vcmi.eu/c/international-board/content-creation/12",
+		"description" : "High resolution main menu pack created by Dru for VCMI",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Interface",
+		"version" : "1.1",
+		"changelog" :
+		{
+			"1.0" : ["Initial release"],
+			"1.1" : ["Fixes"]
+		},  
+		"download" : "https://github.com/vcmi-mods/hi-rez-menu/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+		"https://raw.githubusercontent.com/vcmi-mods/hi-rez-menu/main/screenshots/screen1.png"
+		]
 	}
 }
