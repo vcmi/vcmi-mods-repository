@@ -1088,5 +1088,19 @@
 		[
 		"https://raw.githubusercontent.com/vcmi-mods/hi-rez-menu/main/screenshots/screen1.png"
 		]
-	}
+	},
+	"no-battle-intro":
+	{
+		"name" : "No Battle Music",
+		"description" : "Here are a few silent .wav files to remove the start up battle fx sound that freezes battle for around 3 seconds.",
+		"version" : "1.0",
+		"author" : "Nicolás Suárez",
+		"contact" : "forum.vcmi.eu",
+		"modType" : "Music",
+		"changelog" :
+    		{
+			"1.00" : [ "Initial release" ]
+   		}
+		"download": "https://github.com/vcmi-mods/no-battle-intro/archive/refs/heads/master.zip"
+	},
 }
