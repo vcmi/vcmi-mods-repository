@@ -1102,7 +1102,7 @@
 		"changelog" :
     		{
 			"1.00" : [ "Initial release" ]
-   		}
+   		},
 		"download": "https://github.com/vcmi-mods/no-battle-intro/archive/refs/heads/master.zip"
-	},
+	}
 }
