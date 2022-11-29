@@ -595,10 +595,10 @@
 			"min" : "1.0.0"
 		},
 		"changelog" :
-    	{
+		{
 			"1.06"   : [ "Reworks and tweaks" ],
-			"1.00"   : [ "Initial release" ],
-    	},
+			"1.00"   : [ "Initial release" ]
+		},
 		"download" : "https://github.com/vcmi-mods/asylum-town/archive/refs/heads/main.zip",
 		"screenshots":
 		[
