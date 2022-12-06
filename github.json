@@ -1,206 +1,78 @@
 {
 	"vcmi-extras":
 	{
-		"name" : "VCMI extras",
-		"description" : "Extra mods to enable core VCMI functionality",
-		"version" : "2.3",
-		"author" : "VCMI Team",
-		"contact" : "http://forum.vcmi.eu/index.php",
-		"modType" : "Graphical",
-		"changelog" :
-		{
-			"2.3" : ["Added resolution 1366x644 fits better for iPhone"],
-			"2.2" : ["Remove Resourceful AI as submod"],
-			"2.1" : ["Added Resourceful AI as submod"],
-			"2.0" : ["Restructure of the essential files mod"],
-			"1.00" : ["Update defaultTemplates submod"]
-		},
-		"download": "https://github.com/vcmi-mods/vcmi-extras/archive/refs/heads/vcmi-1.0.zip"
+		"mod": "https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/master/mod.json",
+		"download": "https://github.com/vcmi-mods/vcmi-extras/archive/refs/heads/master.zip"
 	},
-	"hota":
-	{
-		"author" : "Hota Crew, ported by VCMI Team & edeksumo & avatar",
-		"contact" : "http://forum.vcmi.eu/viewtopic.php?t=748",
-		"description" : "Work-in-progress port of Horn of the Abyss expansion for made by Hota Crew",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Expansion",
-		"name" : "Horn of the Abyss",
-		"version" : "1.4.4",
-		"changelog" :
-		{
-			"1.4.4"   : [ "Add missing battlefield obstacles" ],
-			"1.4.3"   : [ "Fix battlefield obstacles" ],
-			"1.4.2"   : [ "Update configs and restructure the mod" , "Campaign heroes submod was added" ],
-			"1.4.1"   : [ "Fixes for mine types" ],
-			"1.4.0"   : [ "Added higlands and wastelands terrains", "reworked Eovacius' specialty", "added two submods" ],
-			"1.3.5"   : [ "New features (Interference, new artifacts, Steel Golems)" ],
-			"1.3.22"   : [ "New hero specialty format" ],
-			"1.3.21"   : [ "Added Cannon war machine", "Fixed creature sounds", "Added Ironfist of the Ogre artifact", "Added HotA fonts", "Small fixes" ]
-		},
-		"compatibility" :
-		{
-			"min" : "1.0.0",
-			"max" : "1.0.0"
-		},
-		"download": "https://github.com/vcmi-mods/horn-of-the-abyss/archive/refs/heads/vcmi-1.0.zip",
+	"hota": {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.1/hota/mod.json",
+		"download": "https://github.com/vcmi-mods/horn-of-the-abyss/archive/refs/heads/vcmi-1.1.zip",
 		"screenshots":
 		[
-			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.0/screenshots/01.png",
-			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.0/screenshots/02.png",
-			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.0/screenshots/03.png",
-			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.0/screenshots/04.png",
-			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.0/screenshots/05.png",
-			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.0/screenshots/06.png",
-			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.0/screenshots/07.png",
-			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.0/screenshots/08.png",
-			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.0/screenshots/09.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.1/screenshots/01.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.1/screenshots/02.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.1/screenshots/03.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.1/screenshots/04.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.1/screenshots/05.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.1/screenshots/06.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.1/screenshots/07.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.1/screenshots/08.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.1/screenshots/09.png",
 		]
+	},
+	"forge":
+	{
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/forge/vcmi-1.1/mod.json",
+		"download" : "https://github.com/vcmi-mods/forge/archive/refs/heads/vcmi-1.1.zip"
 	},
 	"tides-of-war":
 	{
-		"author" : "Mod Design Team",
-		"contact" : "http://www.forum.acidcave.net/topic.php?TID=1423",
-		"description" : "In every nine standard H3 town, you have oppurtunity to build one dwelling for altenative creature.",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Expansion",
-		"name" : "Tides of War",
-		"version" : "1.0.0",	
-		"conflicts" :
-		[
-			"hota.hota balance"
-		],
+		"mod": "https://raw.githubusercontent.com/vcmi-mods/tides-of-war/master/mod.json",
 		"download": "https://github.com/vcmi-mods/tides-of-war/archive/refs/heads/master.zip"
 	},
 	"wake-of-gods":
 	{
-		"name" : "In The Wake of Gods",
-		"description" : "Unnofficial addon for Heroes of Might and Magic III",
-		"version" : "9.0.4",
-		"author" : "WoG Team & epigones",
-		"contact" : "http://forum.vcmi.eu/index.php",
-		"modType" : "Expansion",
+		"mod": "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/master/mod.json",
 		"download": "https://github.com/vcmi-mods/wake-of-gods/archive/refs/heads/master.zip"
 	},
 	"Korean TrueType Fonts":
 	{
-		"name" : "Korean True type fonts",
-		"description" : "Mod that replaces original bitmap fonts with similar Korean true type fonts",
-		"version" : "1.0",
-		"author" : "hwiorn",
-		"contact" : "https://github.com/hwiorn/vcmi-mod-korean-truetype-fonts",
-		"modType" : "Graphical",
+		"mod": "https://raw.githubusercontent.com/vcmi-mods/vcmi-mod-korean-truetype-fonts/master/Korean%20TrueType%20Fonts/mod.json",
 		"download": "https://github.com/vcmi-mods/vcmi-mod-korean-truetype-fonts/archive/refs/heads/master.zip",
-		"screenshots": [
+		"screenshots":
+		[
 			"https://raw.githubusercontent.com/vcmi-mods/vcmi-mod-korean-truetype-fonts/master/sc1.png",
 			"https://raw.githubusercontent.com/vcmi-mods/vcmi-mod-korean-truetype-fonts/master/sc2.png"
 		]
 	},
 	"ai trace":
 	{
-		"name" : "Adventure AI trace",
-		"description" : "Configures console log for extensive adventure AI debug info",
-		"version" : "1.0",
-		"author" : "Warmonger",
-		"contact" : "http://forum.vcmi.eu/viewtopic.php?t=776",
-		"modType" : "Test",
+		"mod": "https://raw.githubusercontent.com/vcmi-mods/adventure-ai-trace/upstream/mod.json",
 		"download" : "https://github.com/vcmi-mods/adventure-ai-trace/archive/refs/heads/upstream.zip"
 	},
 	"mac demo support":
 	{
-		"author" : "misiokles and SXX",
-		"contact" : "",
-		"name" : "MacOS demo assets support",
-		"description" : "With this mod enabled you can play using game data extracted from Heroes 3: Complete demo for Mac. All towns and creatures missing will be disabled, but be aware that most custom maps depend on them.",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Other",
-		"version" : "0.1",
-		"changelog" :
-		{
-			"0.1" : [ "Initial release" ]
-		},
+		"mod": "https://raw.githubusercontent.com/vcmi-mods/mac-demo-support/master/mod.json",
 		"download" : "https://github.com/vcmi-mods/mac-demo-support/archive/refs/heads/master.zip"
 	},
 	"ai testing maps":
 	{
-		"name" : "VCMI maps for AI testing",
-		"description" : "Following maps can be used for automatic testing of VCAI or any other adventure AI implementation in VCMI. Check README.md file for detailed documentation.",
-		"author" : "SXX",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "https://creativecommons.org/licenses/by-sa/4.0/",
-		"contact" : "https://forum.vcmi.eu/t/map-pack-for-automated-ai-testing/4566",
-		"version" : "1.0.0",
-		"modType" : "Test",
-		"changelog" :
-		{
-			"1.0.0" : [ "Initial public release"]
-		},
+		"mod": "https://raw.githubusercontent.com/vcmi-mods/ai-testing-maps/master/mod.json",
 		"download" : "https://github.com/vcmi-mods/ai-testing-maps/archive/refs/heads/master.zip"
 	},
 	"campaign-heroes":
 	{
-		"name" : "Campaign Heroes",
-		"description" : "All 20 campaign heroes are now available in random maps",
-		"author" : "avatar",
-		"version" : "1.11",
-		"contact" : "",
-		"modType" : "Heroes",
+		"mod": "https://raw.githubusercontent.com/vcmi-mods/campaign-heroes/master/mod.json",
 		"download" : "https://github.com/vcmi-mods/campaign-heroes/archive/refs/heads/master.zip"
-	},
-	"forge":
-	{
-		"name" : "Forge town",
-		"description" : "New town made by Mod Design Team as part of The Heavenly Forge addon",
-		"version" : "1.4.0",
-		"author" : "Mod Design Team",
-		"contact" : "http://www.forum.acidcave.net/topic.php?TID=1423",
-		"modType" : "Town",
-		"changelog" :
-    	{
-	        	"1.0"   : ["Initial release"],
-			"1.1"   : ["Graphic and balance fixes"],
-			"1.2"   : ["Added Commander for WoG players", "Fixed masks", "Fixed Dreadnought's special spell"],
-			"1.2.1" : ["Fixed lvl6 upg. horde value"],
-			"1.2.2" : ["Small fixes in dwellings and lvl5 creatures' ability configuration"],
-			"1.2.3" : ["New hero specialty format", "Alien is no longer Forge submod", "Added Sword Breaker artifact"],
-			"1.3.0" : ["Improved creatures sprites"],
-			"1.3.1" : ["Fixed creature 5 and 6 lvl sprites", "Fixed Marchettes' specialy"],
-			"1.4.0" : ["Lvl 3 alternative unit and two new heroes"]
-		},
-		"download" : "https://github.com/vcmi-mods/forge/archive/refs/heads/master.zip"
 	},
 	"axolotl-creatures-pack":
 	{
-		"name" : "Axolotl Creatures Pack",
-		"description" : "Axolotl creatures pack by Gilu. Mods adds 43 new creatures).",
-		"author" : "Axolotl. And then Gilu, Avatar, fred79, Andruids, Troggly, MK, Witchking. Sound: Disciples 2",
-		"version" : "1.0",
-		"contact" : "vcmi.eu",
-		"modType" : "Creatures",
-		"changelog" :
-		{
-			"1.0"   : [ "4 new creatures", "All adventure map buildings", "some ambient sounds added" ],
-			"0.995"   : [ "Older release" ]
-		}, 
+		"mod": "https://raw.githubusercontent.com/vcmi-mods/axolotl-creatures-pack/main/mod.json",
 		"download" : "https://github.com/vcmi-mods/axolotl-creatures-pack/archive/refs/heads/main.zip"
 	},
 	"german-translation":
 	{	
-		"name" : "German translation",
-		"description" : "Patch changes any Heroes3 complete localisation into german.",
-		"version" : "1.9.0",
-		"author" : "heroesiiifan and many others",
-		"contact" : "https://github.com/heroesiiifan/HoMM3-German",
-		"modType" : "Translation",
-		"changelog" : 
-		{ 
-			"1.0.0" : [ "Initial release by magikyr (only txt-files and h3c campaign)" ], 
-			"1.1.0" : [ "Complete rework with new maps, graphics and texts" ],
-			"1.7.0" : [ "VCMI" ],
-			"1.9.0" : [ "small adjustments, new strings" ] 
-		},
+		"mod": "https://raw.githubusercontent.com/vcmi-mods/german-translation/master/mod.json",
 		"download" : "https://github.com/vcmi-mods/german-translation/archive/refs/heads/master.zip"
 	},
 	"tarnum":
