@@ -916,10 +916,10 @@
 		"licenseName" : "Creative Commons Attribution-ShareAlike",
 		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
 		"modType" : "Expansion",
-		"version" : "0.7.51",
+		"version" : "0.7.6",
 		"changelog" :
 		{
-			"0.7.51" : ["Proper mod folder names"],
+			"0.7.6" : ["Proper mod folder names"],
 			"0.7.5" : ["Initial release"]
 		},  
 		"download" : "https://github.com/vcmi-mods/andruids-expansion/archive/refs/heads/main.zip",
