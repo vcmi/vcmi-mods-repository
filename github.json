@@ -1129,5 +1129,126 @@
 			"https://raw.githubusercontent.com/vcmi-mods/greenhouse-town/main/screenshots/screen3.png",
 			"https://raw.githubusercontent.com/vcmi-mods/greenhouse-town/main/screenshots/screen4.png"
 		]
+	},
+	"sand-tower":
+	{
+		"name" : "Sand Tower",
+		"author" : "totkotoriy, J. M. Sower",
+		"contact" : "http://forum.vcmi.eu/viewtopic.php?p=11046&sid=c709e37f1a8d8b91d286928e90cf4a8a#11046",
+		"description" : "Mod changes Tower's internal look into more sandy",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Graphical town modifications",
+		"version" : "1.1",
+		"changelog" :
+		{
+			"1.1" : [ "Fixes" ],
+			"1.0" : [ "Initial release" ]
+		},
+		"download" : "https://github.com/vcmi-mods/sand-tower/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/sand-tower/main/screenshots/screen1.png"
+		]
+	},
+	"autumn-rampart":
+	{
+		"name" : "Autumn Rampart",
+		"author" : "Irhak alias Kreegan",
+		"contact" : "http://www.forum.acidcave.net/profile.php?UID=1646",
+		"description" : "Alternative, darker Rampart",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Graphical town modifications",
+		"version" : "0.92",
+		"changelog" :
+		{
+			"0.92"   : [ "Fixed problem with map editor" ],
+			"0.91"   : [ "Adds Fountain of Fortune def", "Small fixes" ],
+			"0.9"   : [ "Initial release" ]
+		},
+		"download" : "https://github.com/vcmi-mods/autumn-rampart/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/autumn-rampart/main/screenshots/screen1.png"
+		]
+	},
+	"another-rampart":
+	{
+		"name" : "Another Rampart",
+		"author" : "Unknown, kuririn, avatar",
+		"contact" : "unknown",
+		"description" : "Another Rampart mod for ERA II ported to VCMI. New internal Rampart look.",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Graphical town modifications",
+		"version" : "1.0",
+		"changelog" :
+		{
+			"1.1"   : [ "Renamed folders" ]
+			"1.0"   : [ "Initial release" ]
+		},
+		"download" : "https://github.com/vcmi-mods/another-rampart/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/another-rampart/main/screenshots/screen1.png"
+		]
+	},
+	"red-castle":
+	{
+		"name" : "Red Castle",
+		"author" : "Mitlandy, avatar",
+		"contact" : "unknown",
+		"description" : "Tired of blue colour in Castle? What's about some red?",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Graphical town modifications",
+		"version" : "1.0",
+		"changelog" :
+		{
+			"1.1"   : [ "Fixes" ]
+			"1.0"   : [ "Initial release" ]
+		},
+		"download" : "https://github.com/vcmi-mods/red-castle/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/red-castle/main/screenshots/screen1.png"
+		]
+	},
+	"lotrd-townscreens":
+	{
+		"name" : "LotRD townscreens",
+		"author" : "itsjustme",
+		"contact" : "https://www.youtube.com/watch?v=GTEYML9dXtQ",
+		"description" : "Ten townscreens ported from LotRD mod",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Graphical town modifications",
+		"version" : "1.0",
+		"changelog" :
+		{
+			"1.0"   : [ "Initial release" ]
+		},
+		"download" : "https://github.com/vcmi-mods/lotrd-townscreens/archive/refs/heads/main.zip"
+	},
+	"ghost-necropolis":
+	{
+		"name" : "Ghost Necropolis",
+		"author" : "avatar, Ubisoft",
+		"contact" : "unknown",
+		"description" : "Buildings in Necropolis are faded like a ghost",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Graphical town modifications",
+		"version" : "1.0",
+		"changelog" :
+		{
+			"1.0"   : [ "Initial release" ]
+		},
+		"download" : "https://github.com/vcmi-mods/ghost-necropolis/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/ghost-necropolis/main/screenshots/screen1.png"
+		]
 	}
 }
