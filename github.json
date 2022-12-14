@@ -1105,5 +1105,29 @@
 			"1.00" : [ "Initial release" ]
    		},
 		"download": "https://github.com/vcmi-mods/no-battle-intro/archive/refs/heads/master.zip"
+	},
+	"greenhouse-town":
+	{
+		"name" : "Greenhouse",
+		"author" : "Mad Hatter Workshop",
+		"contact" : "https://www.youtube.com/@MadHatterDomain",
+		"description" : "Greenhouse - Town of Vegetables and Fruits.",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Town",
+		"version" : "0.1.5",
+		"changelog" :
+		{
+			"0.1.5" : [ "Fixes" ],
+			"0.1.0" : [ "Initial release" ]
+		},
+		"download" : "https://github.com/vcmi-mods/greenhouse-town/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/greenhouse-town/main/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/greenhouse-town/main/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/greenhouse-town/main/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/vcmi-mods/greenhouse-town/main/screenshots/screen4.png"
+		]
 	}
 }
