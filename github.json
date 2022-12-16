@@ -1250,5 +1250,65 @@
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/ghost-necropolis/main/screenshots/screen1.png"
 		]
+	},
+	"quartz":
+	{
+		"name" : "Quartz",
+		"author" : "feanor, Bes",
+		"contact" : "https://www.youtube.com/watch?v=so3g9CGkNAU",
+		"description" : "HoMM3 towns in the mirror.",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Graphical town modifications",
+		"version" : "1.0",
+		"changelog" :
+		{
+			"1.0"   : [ "Initial release" ]
+		},
+		"download" : "https://github.com/vcmi-mods/quartz/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/quartz/main/screenshots/screen1.png"
+		]
+	},
+	"snow-in-Tower":
+	{
+		"name" : "Snow in Tower",
+		"author" : "Andruids, whoever made the snow gif",
+		"contact" : "madaosoul@gmail.com",
+		"description" : "Additional animation that changes the weather in the Tower town screen.",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Graphical town modifications",
+		"version" : "0.5",
+		"changelog" :
+		{
+			"0.5"   : [ "Initial release" ]
+		},
+		"download" : "https://github.com/vcmi-mods/snow-in-Tower/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/snow-in-Tower/main/screenshots/screen1.png"
+		]
+	},
+	"snow-castle":
+	{
+		"name" : "Snow Castle",
+		"author" : "Planet Avril, Dreamaker, avatar",
+		"contact" : "http://heroescommunity.com/viewthread.php3?TID=39205",
+		"description" : "Graphical town modifications.",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Graphical town modifications",
+		"version" : "1.0",
+		"changelog" :
+		{
+			"1.0"   : [ "Initial release" ]
+		},
+		"download" : "https://github.com/vcmi-mods/snow-castle/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/snow-castle/main/screenshots/screen1.png"
+		]
 	}
 }
