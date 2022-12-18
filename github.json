@@ -66,7 +66,12 @@
 		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
 		"modType" : "Expansion",
 		"name" : "Tides of War",
-		"version" : "1.0.0",	
+		"version" : "1.0.1",
+		"changelog" :
+		{
+			"1.0.1"   : [ "Fixes" ],
+			"1.0.0"   : [ "Initial release" ]
+		},			
 		"conflicts" :
 		[
 			"hota.hota balance"
@@ -649,13 +654,14 @@
 		"licenseName" : "Creative Commons Attribution-ShareAlike",
 		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
 		"modType" : "Town",
-		"version" : "1.00",
+		"version" : "1.01",
 		"compatibility" :
 		{
 			"min" : "1.0.0"
 		},
 		"changelog" :
 		{
+			"1.01"   : [ "Fixes, added Arrow Towers icons" ],
 			"1.00"   : [ "Initial release" ]
 		},
 		"download" : "https://github.com/vcmi-mods/tartarus-town/archive/refs/heads/main.zip",
@@ -665,7 +671,8 @@
 			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen2.png",
 			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen3.png",
 			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen4.png",
-			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen5.png"
+			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen5.png,
+			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen6.png"
 		]
 	},
 	"preserve-town":
