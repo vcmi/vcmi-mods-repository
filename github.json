@@ -1185,5 +1185,10 @@
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/snow-castle/main/screenshots/screen1.png"
 		]
+	},
+	"resourceful-ai":
+	{
+		"mod": "https://raw.githubusercontent.com/vcmi-mods/resourceful-ai/master/mod.json",
+		"download": "https://github.com/vcmi-mods/resourceful-ai/archive/refs/heads/master.zip"
 	}
 }
