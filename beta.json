@@ -1,3 +1,22 @@
 {
-
+	"hota": {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.2/hota/mod.json",
+		"download": "https://github.com/vcmi-mods/horn-of-the-abyss/archive/refs/heads/vcmi-1.2.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.2/screenshots/01.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.2/screenshots/02.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.2/screenshots/03.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.2/screenshots/04.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.2/screenshots/05.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.2/screenshots/06.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.2/screenshots/07.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.2/screenshots/08.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.2/screenshots/09.png"
+		]
+	},
+	"wake-of-gods": {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.2/hota/mod.json",
+		"download": "https://github.com/vcmi-mods/wake-of-gods/archive/refs/heads/vcmi-1.2.zip"
+	}
 }
