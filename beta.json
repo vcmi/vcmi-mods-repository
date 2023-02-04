@@ -15,4 +15,8 @@
 			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.2/screenshots/09.png"
 		]
 	},
+	"wake-of-gods": {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.2/mod.json",
+		"download": "https://github.com/vcmi-mods/wake-of-gods/archive/refs/heads/vcmi-1.2.zip"
+	}
 }
