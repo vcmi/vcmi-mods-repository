@@ -17,7 +17,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.1/screenshots/06.png",
 			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.1/screenshots/07.png",
 			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.1/screenshots/08.png",
-			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.1/screenshots/09.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.1/screenshots/09.png"
 		]
 	},
 	"forge":
@@ -226,7 +226,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/grove/main/screenshots/screen2.png",
 			"https://raw.githubusercontent.com/vcmi-mods/grove/main/screenshots/screen3.png",
 			"https://raw.githubusercontent.com/vcmi-mods/grove/main/screenshots/screen4.png",
-			"https://raw.githubusercontent.com/vcmi-mods/grove/main/screenshots/screen5.png",
+			"https://raw.githubusercontent.com/vcmi-mods/grove/main/screenshots/screen5.png"
 		]
 	},
 	"combine-grail":
@@ -539,7 +539,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen2.png",
 			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen3.png",
 			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen4.png",
-			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen5.png,
+			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen5.png",
 			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen6.png"
 		]
 	},
@@ -716,7 +716,7 @@
 		"screenshots":
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/kurek-creatures/main/screenshots/screen1.png",
-			"https://raw.githubusercontent.com/vcmi-mods/kurek-creatures/main/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/kurek-creatures/main/screenshots/screen2.png"
 		]
 	},
 	"undead-sphinxes":
@@ -943,7 +943,7 @@
 		"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/main/screenshots/screen3.png",
 		"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/main/screenshots/screen4.png",
 		"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/main/screenshots/screen5.png",
-		"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/main/screenshots/screen6.png",
+		"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/main/screenshots/screen6.png"
 		]
 	},
 	"hi-rez-menu":
@@ -1060,7 +1060,7 @@
 		"version" : "1.0",
 		"changelog" :
 		{
-			"1.1"   : [ "Renamed folders" ]
+			"1.1"   : [ "Renamed folders" ],
 			"1.0"   : [ "Initial release" ]
 		},
 		"download" : "https://github.com/vcmi-mods/another-rampart/archive/refs/heads/main.zip",
@@ -1081,7 +1081,7 @@
 		"version" : "1.0",
 		"changelog" :
 		{
-			"1.1"   : [ "Fixes" ]
+			"1.1"   : [ "Fixes" ],
 			"1.0"   : [ "Initial release" ]
 		},
 		"download" : "https://github.com/vcmi-mods/red-castle/archive/refs/heads/main.zip",
@@ -1185,5 +1185,10 @@
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/snow-castle/main/screenshots/screen1.png"
 		]
+	},
+	"resourceful-ai":
+	{
+		"mod": "https://raw.githubusercontent.com/vcmi-mods/resourceful-ai/master/mod.json",
+		"download": "https://github.com/vcmi-mods/resourceful-ai/archive/refs/heads/master.zip"
 	}
 }
