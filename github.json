@@ -1190,5 +1190,20 @@
 	{
 		"mod": "https://raw.githubusercontent.com/vcmi-mods/resourceful-ai/master/mod.json",
 		"download": "https://github.com/vcmi-mods/resourceful-ai/archive/refs/heads/master.zip"
+	},
+	"an-expansion":
+	{
+		"name" : "an-expansion",
+		"author" : "Vũ Đắc Hoàng Â",
+		"contact" : "https://vudachoangan.com",
+		"description" : "Rebalances skills, heroes, creatures, etc.",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Mechanics",
+		"version" : "2.5.0",
+		"changelog" :
+		{
+		},
+		"download" : "https://github.com/vdhan/an-expansion/archive/refs/heads/master.zip"
 	}
 }
