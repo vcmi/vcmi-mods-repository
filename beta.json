@@ -23,5 +23,9 @@
 	"wake-of-gods": {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.2/mod.json",
 		"download": "https://github.com/vcmi-mods/wake-of-gods/archive/refs/heads/vcmi-1.2.zip"
+	},
+	"neutral-heroes": {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/neutral-heroes/vcmi-1.2/mod.json",
+		"download": "https://github.com/vcmi-mods/neutral-heroes/archive/refs/heads/vcmi-1.2.zip"
 	}
 }
