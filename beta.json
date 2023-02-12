@@ -27,5 +27,19 @@
 	"neutral-heroes": {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/neutral-heroes/vcmi-1.2/mod.json",
 		"download": "https://github.com/vcmi-mods/neutral-heroes/archive/refs/heads/vcmi-1.2.zip"
+	},
+	"asylum-town": {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/asylum-town/vcmi-1.2/asylum-town/mod.json",
+		"download": "https://github.com/vcmi-mods/asylum-town/archive/refs/heads/vcmi-1.2.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen4.png",
+			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen5.png",
+			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen6.png",
+			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen7.png"
+		]
 	}
 }
