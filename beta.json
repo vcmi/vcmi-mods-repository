@@ -41,5 +41,9 @@
 			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen6.png",
 			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen7.png"
 		]
+	},
+	"highlands-town": {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/highlands-town/vcmi-1.2/mod.json",
+		"download": "https://github.com/vcmi-mods/highlands-town/archive/refs/heads/vcmi-1.2.zip"
 	}
 }
