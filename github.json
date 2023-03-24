@@ -836,6 +836,26 @@
 			"https://raw.githubusercontent.com/vcmi-mods/portraits-packs/main/screenshots/screen4.png"
 		]
 	},
+	"h3-for-vcmi-englisation":
+	{
+		"name" : "H3 for VCMI englisation",
+		"author" : "avatar",
+		"contact" : "https://forum.vcmi.eu/c/international-board/content-creation/12",
+		"description" : "If you have HoMM 3 installed in other language than english, this mod change your local files into english (except graphics)",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Translation",
+		"version" : "1.1",
+		"changelog" :
+		{
+			"1.1"   : [ "zipped content folder" ],
+			"1.0" : ["Initial release"]
+		},  
+		"download" : "https://github.com/vcmi-mods/h3-for-vcmi-englisation/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+		]
+	},
 	"heroes-iii-orchestra":
 	{
 		"name" : "Heroes III Orchestra",
