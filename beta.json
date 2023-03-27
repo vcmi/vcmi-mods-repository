@@ -53,5 +53,10 @@
 	"german-translation": {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/german-translation/vcmi-1.2/mod.json",
 		"download": "https://github.com/vcmi-mods/german-translation/archive/refs/heads/vcmi-1.2.zip"
+	},
+	"vcmi-mod-ce-ukr":
+	{
+		"mod": "https://raw.githubusercontent.com/vcmi-mods/vcmi-mod-ce-ukr/vcmi-1.2/ce-ukr/mod.json",
+		"download" : "https://github.com/vcmi-mods/vcmi-mod-ce-ukr/archive/refs/heads/vcmi-1.2.zip",
 	}
 }

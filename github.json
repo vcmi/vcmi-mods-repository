@@ -75,6 +75,11 @@
 		"mod": "https://raw.githubusercontent.com/vcmi-mods/german-translation/master/mod.json",
 		"download" : "https://github.com/vcmi-mods/german-translation/archive/refs/heads/master.zip"
 	},
+	"vcmi-mod-ce-ukr":
+	{
+		"mod": "https://raw.githubusercontent.com/vcmi-mods/vcmi-mod-ce-ukr/vcmi-1.1/ce-ukr/mod.json",
+		"download" : "https://github.com/vcmi-mods/vcmi-mod-ce-ukr/archive/refs/heads/vcmi-1.1.zip",
+	},
 	"tarnum":
 	{
 		"name" : "Tarnum is back (Original Factions)", 
@@ -900,26 +905,6 @@
 			"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/main/screenshots/sc-5.png",
 			"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/main/screenshots/sc-6.png",
 			"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/main/screenshots/sc-7.png"
-		]
-	},
-	"vcmi-mod-ce-ukr":
-	{
-		"name" : "Complete Edition: Ukrainian translation",
-		"author" : "olexn",
-		"contact" : "https://toloka.to/u59021",
-		"description" : "Українізатор гри Heroes of Might and Magic III: Complete Edition",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Translation",
-		"version" : "1.0.1",
-		"changelog" :
-		{
-			"1.0" : ["Initial release"],
-			"1.0.1"   : [ "Update" ]
-		},  
-		"download" : "https://github.com/vcmi-mods/vcmi-mod-ce-ukr/archive/refs/heads/main.zip",
-		"screenshots":
-		[
 		]
 	},
 	"new-interface-mod":
