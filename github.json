@@ -80,6 +80,11 @@
 		"mod": "https://raw.githubusercontent.com/vcmi-mods/vcmi-mod-ce-ukr/vcmi-1.1/ce-ukr/mod.json",
 		"download" : "https://github.com/vcmi-mods/vcmi-mod-ce-ukr/archive/refs/heads/vcmi-1.1.zip",
 	},
+	"h3-for-vcmi-englisation":
+	{
+		"mod": "https://raw.githubusercontent.com/IvanSavenko/h3-for-vcmi-englisation/vcmi-1.1/H3forVCMIenglisation/mod.json",
+		"download" : "https://github.com/IvanSavenko/h3-for-vcmi-englisation/archive/refs/heads/vcmi-1.1.zip",
+	},
 	"tarnum":
 	{
 		"name" : "Tarnum is back (Original Factions)", 
@@ -839,26 +844,6 @@
 			"https://raw.githubusercontent.com/vcmi-mods/portraits-packs/main/screenshots/screen2.png",
 			"https://raw.githubusercontent.com/vcmi-mods/portraits-packs/main/screenshots/screen3.png",
 			"https://raw.githubusercontent.com/vcmi-mods/portraits-packs/main/screenshots/screen4.png"
-		]
-	},
-	"h3-for-vcmi-englisation":
-	{
-		"name" : "H3 for VCMI englisation",
-		"author" : "avatar",
-		"contact" : "https://forum.vcmi.eu/c/international-board/content-creation/12",
-		"description" : "If you have HoMM 3 installed in other language than english, this mod change your local files into english (except graphics)",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Translation",
-		"version" : "1.1",
-		"changelog" :
-		{
-			"1.1"   : [ "zipped content folder" ],
-			"1.0" : ["Initial release"]
-		},  
-		"download" : "https://github.com/vcmi-mods/h3-for-vcmi-englisation/archive/refs/heads/main.zip",
-		"screenshots":
-		[
 		]
 	},
 	"heroes-iii-orchestra":
