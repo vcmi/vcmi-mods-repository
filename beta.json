@@ -57,7 +57,7 @@
 	"vcmi-mod-ce-ukr":
 	{
 		"mod": "https://raw.githubusercontent.com/vcmi-mods/vcmi-mod-ce-ukr/vcmi-1.2/ce-ukr/mod.json",
-		"download" : "https://github.com/vcmi-mods/vcmi-mod-ce-ukr/archive/refs/heads/vcmi-1.2.zip",
+		"download" : "https://github.com/vcmi-mods/vcmi-mod-ce-ukr/archive/refs/heads/vcmi-1.2.zip"
 	},
 	"h3-for-vcmi-englisation":
 	{

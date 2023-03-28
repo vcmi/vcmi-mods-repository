@@ -78,12 +78,12 @@
 	"vcmi-mod-ce-ukr":
 	{
 		"mod": "https://raw.githubusercontent.com/vcmi-mods/vcmi-mod-ce-ukr/vcmi-1.1/ce-ukr/mod.json",
-		"download" : "https://github.com/vcmi-mods/vcmi-mod-ce-ukr/archive/refs/heads/vcmi-1.1.zip",
+		"download" : "https://github.com/vcmi-mods/vcmi-mod-ce-ukr/archive/refs/heads/vcmi-1.1.zip"
 	},
 	"h3-for-vcmi-englisation":
 	{
 		"mod": "https://raw.githubusercontent.com/IvanSavenko/h3-for-vcmi-englisation/vcmi-1.1/H3forVCMIenglisation/mod.json",
-		"download" : "https://github.com/IvanSavenko/h3-for-vcmi-englisation/archive/refs/heads/vcmi-1.1.zip",
+		"download" : "https://github.com/IvanSavenko/h3-for-vcmi-englisation/archive/refs/heads/vcmi-1.1.zip"
 	},
 	"tarnum":
 	{
@@ -1161,21 +1161,6 @@
 	{
 		"mod": "https://raw.githubusercontent.com/vcmi-mods/resourceful-ai/master/mod.json",
 		"download": "https://github.com/vcmi-mods/resourceful-ai/archive/refs/heads/master.zip"
-	},
-	"an-expansion":
-	{
-		"name" : "an-expansion",
-		"author" : "Vũ Đắc Hoàng Â",
-		"contact" : "https://vudachoangan.com",
-		"description" : "Rebalances skills, heroes, creatures, etc.",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Mechanics",
-		"version" : "2.5.0",
-		"changelog" :
-		{
-		},
-		"download" : "https://github.com/vdhan/an-expansion/archive/refs/heads/master.zip"
 	},
 	"an-expansion":
 	{
