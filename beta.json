@@ -61,7 +61,7 @@
 	},
 	"h3-for-vcmi-englisation":
 	{
-		"mod": "https://raw.githubusercontent.com/IvanSavenko/h3-for-vcmi-englisation/vcmi-1.2/H3forVCMIenglisation/mod.json",
-		"download" : "https://github.com/IvanSavenko/h3-for-vcmi-englisation/archive/refs/heads/vcmi-1.2.zip"
+		"mod": "https://raw.githubusercontent.com/vcmi-mods/h3-for-vcmi-englisation/vcmi-1.2/H3forVCMIenglisation/mod.json",
+		"download" : "https://github.com/vcmi-mods/h3-for-vcmi-englisation/archive/refs/heads/vcmi-1.2.zip"
 	}
 }
