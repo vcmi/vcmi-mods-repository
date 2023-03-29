@@ -28,6 +28,10 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tides-of-war/vcmi-1.2/mod.json",
 		"download": "https://github.com/vcmi-mods/tides-of-war/archive/refs/heads/vcmi-1.2.zip"
 	},
+	"courtyard": {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/courtyard/vcmi-1.2/Courtyard/mod.json",
+		"download": "https://github.com/vcmi-mods/courtyard/archive/refs/heads/vcmi-1.2.zip"
+	},
 	"neutral-heroes": {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/neutral-heroes/vcmi-1.2/mod.json",
 		"download": "https://github.com/vcmi-mods/neutral-heroes/archive/refs/heads/vcmi-1.2.zip"
