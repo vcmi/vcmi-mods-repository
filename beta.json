@@ -54,6 +54,10 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/highlands-town/vcmi-1.2/mod.json",
 		"download": "https://github.com/vcmi-mods/highlands-town/archive/refs/heads/vcmi-1.2.zip"
 	},
+	"new-pavilion": {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.2/New Pavilion/mod.json",
+		"download": "https://github.com/vcmi-mods/new-pavilion/archive/refs/heads/vcmi-1.2.zip"
+	},
 	"german-translation": {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/german-translation/vcmi-1.2/mod.json",
 		"download": "https://github.com/vcmi-mods/german-translation/archive/refs/heads/vcmi-1.2.zip"
