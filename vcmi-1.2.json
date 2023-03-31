@@ -1,0 +1,1005 @@
+{
+	"vcmi-extras":
+	{
+		"mod": "https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.2/mod.json",
+		"download": "https://github.com/vcmi-mods/vcmi-extras/archive/refs/heads/vcmi-1.2.zip"
+	},
+	"hota": {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.2/hota/mod.json",
+		"download": "https://github.com/vcmi-mods/horn-of-the-abyss/archive/refs/heads/vcmi-1.2.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.2/screenshots/01.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.2/screenshots/02.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.2/screenshots/03.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.2/screenshots/04.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.2/screenshots/05.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.2/screenshots/06.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.2/screenshots/07.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.2/screenshots/08.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.2/screenshots/09.png"
+		]
+	},
+	"wake-of-gods": {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.2/mod.json",
+		"download": "https://github.com/vcmi-mods/wake-of-gods/archive/refs/heads/vcmi-1.2.zip"
+	},
+	"tides-of-war": {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tides-of-war/vcmi-1.2/mod.json",
+		"download": "https://github.com/vcmi-mods/tides-of-war/archive/refs/heads/vcmi-1.2.zip"
+	},
+	"courtyard": {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/courtyard/vcmi-1.2/Courtyard/mod.json",
+		"download": "https://github.com/vcmi-mods/courtyard/archive/refs/heads/vcmi-1.2.zip"
+	},
+	"neutral-heroes": {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/neutral-heroes/vcmi-1.2/mod.json",
+		"download": "https://github.com/vcmi-mods/neutral-heroes/archive/refs/heads/vcmi-1.2.zip"
+	},
+	"asylum-town": {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/asylum-town/vcmi-1.2/asylum-town/mod.json",
+		"download": "https://github.com/vcmi-mods/asylum-town/archive/refs/heads/vcmi-1.2.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen4.png",
+			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen5.png",
+			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen6.png",
+			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen7.png"
+		]
+	},
+	"highlands-town": {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/highlands-town/vcmi-1.2/mod.json",
+		"download": "https://github.com/vcmi-mods/highlands-town/archive/refs/heads/vcmi-1.2.zip"
+	},
+	"new-pavilion": {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.2/New Pavilion/mod.json",
+		"download": "https://github.com/vcmi-mods/new-pavilion/archive/refs/heads/vcmi-1.2.zip"
+	},
+	"cathedral-town": {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.2/cathedral-town/mod.json",
+		"download": "https://github.com/vcmi-mods/cathedral-town/archive/refs/heads/vcmi-1.2.zip"
+	},
+	"death-valley-town": {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/death-valley-town/vcmi-1.2/death-valley-town/mod.json",
+		"download": "https://github.com/vcmi-mods/death-valley-town/archive/refs/heads/vcmi-1.2.zip"
+	},
+	"reworked-commanders": {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/reworked-commanders/vcmi-1.2/reworked-commanders/mod.json",
+		"download": "https://github.com/vcmi-mods/reworked-commanders/archive/refs/heads/vcmi-1.2.zip"
+	},
+	"andruids-expansion": {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/andruids-expansion/vcmi-1.2/andruids-expansion/mod.json",
+		"download": "https://github.com/vcmi-mods/andruids-expansion/archive/refs/heads/vcmi-1.2.zip"
+	},
+	"tok": {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tok/vcmi-1.2/mod.json",
+		"download": "https://github.com/vcmi-mods/tok/archive/refs/heads/vcmi-1.2.zip"
+	},
+	"elemental-nodes": {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/elemental-nodes/vcmi-1.2/elemental-nodes/mod.json",
+		"download": "https://github.com/vcmi-mods/elemental-nodes/archive/refs/heads/vcmi-1.2.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/elemental-nodes/vcmi-1.2/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/elemental-nodes/vcmi-1.2/screenshots/screen2.png"
+		]
+	},
+	"german-translation": {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/german-translation/vcmi-1.2/mod.json",
+		"download": "https://github.com/vcmi-mods/german-translation/archive/refs/heads/vcmi-1.2.zip"
+	},
+	"vcmi-mod-ce-ukr":
+	{
+		"mod": "https://raw.githubusercontent.com/vcmi-mods/vcmi-mod-ce-ukr/vcmi-1.2/ce-ukr/mod.json",
+		"download" : "https://github.com/vcmi-mods/vcmi-mod-ce-ukr/archive/refs/heads/vcmi-1.2.zip"
+	},
+	"h3-for-vcmi-englisation":
+	{
+		"mod": "https://raw.githubusercontent.com/vcmi-mods/h3-for-vcmi-englisation/vcmi-1.2/H3forVCMIenglisation/mod.json",
+		"download" : "https://github.com/vcmi-mods/h3-for-vcmi-englisation/archive/refs/heads/vcmi-1.2.zip"
+	},
+
+	"forge":
+	{
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/forge/vcmi-1.1/mod.json",
+		"download" : "https://github.com/vcmi-mods/forge/archive/refs/heads/vcmi-1.1.zip"
+	},
+	"Korean TrueType Fonts":
+	{
+		"mod": "https://raw.githubusercontent.com/vcmi-mods/vcmi-mod-korean-truetype-fonts/master/Korean%20TrueType%20Fonts/mod.json",
+		"download": "https://github.com/vcmi-mods/vcmi-mod-korean-truetype-fonts/archive/refs/heads/master.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/vcmi-mod-korean-truetype-fonts/master/sc1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/vcmi-mod-korean-truetype-fonts/master/sc2.png"
+		]
+	},
+	"ai trace":
+	{
+		"mod": "https://raw.githubusercontent.com/vcmi-mods/adventure-ai-trace/upstream/mod.json",
+		"download" : "https://github.com/vcmi-mods/adventure-ai-trace/archive/refs/heads/upstream.zip"
+	},
+	"mac demo support":
+	{
+		"mod": "https://raw.githubusercontent.com/vcmi-mods/mac-demo-support/master/mod.json",
+		"download" : "https://github.com/vcmi-mods/mac-demo-support/archive/refs/heads/master.zip"
+	},
+	"ai testing maps":
+	{
+		"mod": "https://raw.githubusercontent.com/vcmi-mods/ai-testing-maps/master/mod.json",
+		"download" : "https://github.com/vcmi-mods/ai-testing-maps/archive/refs/heads/master.zip"
+	},
+	"campaign-heroes":
+	{
+		"mod": "https://raw.githubusercontent.com/vcmi-mods/campaign-heroes/master/mod.json",
+		"download" : "https://github.com/vcmi-mods/campaign-heroes/archive/refs/heads/master.zip"
+	},
+	"axolotl-creatures-pack":
+	{
+		"mod": "https://raw.githubusercontent.com/vcmi-mods/axolotl-creatures-pack/main/mod.json",
+		"download" : "https://github.com/vcmi-mods/axolotl-creatures-pack/archive/refs/heads/main.zip"
+	},
+	"tarnum":
+	{
+		"name" : "Tarnum is back (Original Factions)", 
+		"description" : "Playable Tarnum in all his previous incarnations (Knight, Ranger, Barbarian, Wizard, Beastmaster and Overlord) as well as 3 new ones (Death Knight, Demoniac and Planeswalker). Most of the graphics are exported from Heroes Chronicles, Heroes of Might and Magic 3 Complete or Horn of the Abyss. I'm the author of Planeswalker and Demoniac portraits and some speciality graphics, Hobbit is the author of Death Knight Tarnum (I received his permission to use this portrait). Mod gives each of original Heroes factions one Tarnum :)", 
+		"author" : "marif, Hobbit (Death Knight), HotA Team (Overlord speciality icons)", 
+		"contact" : "http://forum.vcmi.eu/viewtopic.php?t=798", 
+		"version" : "1.1.0", 
+		"modType" : "Heroes",    
+		"changelog" : 
+		{ 
+			"1.0.0" : [ "Initial release" ], 
+			"1.0.1" : [ "Bug fixes" ], 
+			"1.0.2" : [ "Changed Overlord Tarnum speciality icons to the ones used in HotA", "Changes in abilities of Death Knight Tarnum (added basic Offence, reduced Necromancy to basic)", "Fixed quantity of Beastmaster Tarnum's Serpent Flies" ], 
+			"1.0.3" : [ "Bug fixes" ], 
+			"1.0.4" : [ "Updated mod file to VCMI version 0.96" ],
+			"1.0.5" : [ "Graphic fixes", "New specialty format" ],
+			"1.1.0" : [ "Few new Tarnums were added :)" ]
+		},
+		"download" : "https://github.com/vcmi-mods/tarnum/archive/refs/heads/main.zip"
+	},
+	"magic-fader":
+	{
+		"name" : "Magic Fader",
+		"author" : "avatar. Graphic: HotA Team (rejected material).",
+		"contact" : "NONE",
+		"description" : "New secondary skill: Magic Fader. Partially blocks casting spells by enemy hero.",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Skills",
+		"version" : "1.02",
+		"changelog" :
+		{
+			"1.0.0"   : [ "Initial release"  ]
+		},
+		"compatibility":
+		{
+			"min" : "1.0.0"
+		},
+		"download" : "https://github.com/vcmi-mods/magic-fader/archive/refs/heads/main.zip"
+	},
+	"grove":
+	{
+		"name" : "Grove town",
+		"author" : "New Grove Team & Trith, mod : Kuririn & Pointer, fixes: avatar, Alyx182008",
+		"contact" : "NONE",
+		"description" : "New town made by New Grove Team & Trith.",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Town",
+		"version" : "1.16",
+		"changelog" :
+		{
+			"1.16"   : [ "Tweaks" ],
+			"1.10"   : [ "Special buildings support" ],
+			"1.00"   : [ "Initial release"  ]
+		},
+		"compatibility":
+		{
+			"min" : "1.0.0"
+		},
+		"download" : "https://github.com/vcmi-mods/grove/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/grove/main/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/grove/main/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/grove/main/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/vcmi-mods/grove/main/screenshots/screen4.png",
+			"https://raw.githubusercontent.com/vcmi-mods/grove/main/screenshots/screen5.png"
+		]
+	},
+	"combine-grail":
+	{
+		"name" : "Combine Grail",
+		"author" : "avatar, Trith, Hobbit",
+		"contact" : "NONE",
+		"description" : "Grail as combined artifact. Find 5 new artifacts to combine Grail of them instead of digging.",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Mechanic",
+		"version" : "1.2",
+		"changelog" :
+		{
+			"1.2"   : [ "Tweaks" ],
+			"1.1"   : [ "Graphical fixes" ],
+			"1.0"   : [ "Initial release" ]
+		},	
+		"compatibility":
+		{
+			"min" : "1.0.0"
+		},
+		"download" : "https://github.com/vcmi-mods/combine-grail/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/combine-grail/main/screenshots/screen1.png"
+		]
+	},
+	"fairy-town":
+	{
+		"name" : "Fairy town",
+		"author" : "Ben Yan, New fairy Team, mod : Kuririn, zeryss, Draeganfire, avatar",
+		"contact" : "NONE",
+		"description" : "New town made by New fairy Team, updated by Turbanellos in 2022.",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Town",
+		"version" : "1.5",
+		"changelog" :
+		{
+			"1.5"   : [ "Totally reworked town" ],
+			"1.0"   : [ "Initial release" ]
+		},	
+		"compatibility":
+		{
+			"min" : "1.0.0"
+		},
+		"download" : "https://github.com/vcmi-mods/fairy-town/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/fairy-town/main/screenshots/screen1.png"
+		]
+	},
+	"haven-town":
+	{
+		"name" : "Haven town",
+		"author" : "Ganymed, Necronix, Deo. VCMI port acidchalk.Updated by Ben Yan(Turbanellos) in March 2022.",
+		"contact" : "NONE",
+		"description" : "New town made by Turbanellos.",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Town",
+		"version" : "1.10",
+		"changelog" :
+		{
+			"1.10"	:  [ "Great Updates" ],
+			"1.04"   : [ "Special buildings support" ],
+			"1.03"   : [ "Another fixes" ],
+			"1.02"   : [ "Some missing buildings" ],
+			"1.01"   : [ "New hero specialty format", "Bugfixes" ],
+			"1.0"   : [ "Initial release" ]
+		},	
+		"compatibility":
+		{
+			"min" : "1.0.0"
+		},
+		"download" : "https://github.com/vcmi-mods/haven-town/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/haven-town/main/screenshots/screen1.png"
+		]
+	},
+	"ruins-town":
+	{
+		"name" : "Ruins town",
+		"author" : "Fiorin",
+		"contact" : "https://fior.in",
+		"description" : "Ruins town\nVersion 1.2.3 - 2020/11/27\n\nMod done with much affection, enjoy. I await your feedback.\n\n More info at http://heroescommunity.com/viewthread.php3?TID=44951",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Town",
+		"version" : "1.2.3",
+		"compatibility" :
+		{
+			"min" : "1.0.0"
+		},
+		"changelog" :
+		{
+			"1.2.3"   : [ "Lots od changes and fixes" ],
+			"0.95"   : [ "Initial release" ]
+		},
+		"download" : "https://github.com/vcmi-mods/ruins-town/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/ruins-town/main/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/ruins-town/main/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/ruins-town/main/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/vcmi-mods/ruins-town/main/screenshots/screen4.png",
+			"https://raw.githubusercontent.com/vcmi-mods/ruins-town/main/screenshots/screen5.png",
+			"https://raw.githubusercontent.com/vcmi-mods/ruins-town/main/screenshots/screen6.png"
+		]
+	},
+	"h3-themes":
+	{
+		"name" : "H3 themes",
+		"author" : "New World Computing, HotA Team. Port: avatar",
+		"contact" : "NONE",
+		"description" : "Game screens from all HoMM3 parts: RoE, AB, SoD, HotA",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Themes",
+		"version" : "1.1",
+		"compatibility" :
+		{
+			"min" : "1.0.0"
+		},
+		"changelog" :
+		{
+			"1.1"   : [ "Added one more screen" ],
+			"1.0"   : [ "Initial release" ]
+		},
+		"download" : "https://github.com/vcmi-mods/h3-themes/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/h3-themes/main/screenshots/screen1.png"
+		]
+	},
+	"creatures-hidden-potential":
+	{
+		"name" : "Creatures Hidden Potential",
+		"author" : "Andruids",
+		"contact" : "madaosoul@gmail.com",
+		"description" : "Mod adding various bonuses for creatures, to make use of their unused animations, with as slight impact to game's balance as possible.",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Creatures",
+		"version" : "0.4",
+		"compatibility" :
+		{
+			"min" : "1.0.0"
+		},
+		"changelog" :
+		{
+			"0.4"   : [ "Initial release" ]
+		},
+		"download" : "https://github.com/vcmi-mods/creatures-hidden-potential/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/creatures-hidden-potential/main/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/creatures-hidden-potential/main/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/creatures-hidden-potential/main/screenshots/screen3.png"
+		]
+	},
+	"tartarus-town":
+	{
+		"name" : "Tartarus town",
+		"author" : "FF Team, mod : Turbanellos",
+		"contact" : "https://forum.vcmi.eu/t/new-town-tartarus-ice-demons/5623",
+		"description" : "New town made by Turbanellos(Ben YAN), Tartarus is a new town for ice demons. Released in January 2022.",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Town",
+		"version" : "1.02",
+		"compatibility" :
+		{
+			"min" : "1.0.0"
+		},
+		"changelog" :
+		{
+			"1.02"   : [ "New lvl6 creatures graphic" ],
+			"1.01"   : [ "Fixes, added Arrow Towers icons" ],
+			"1.00"   : [ "Initial release" ]
+		},
+		"download" : "https://github.com/vcmi-mods/tartarus-town/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen4.png",
+			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen5.png",
+			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen6.png"
+		]
+	},
+	"preserve-town":
+	{
+		"name" : "Preserve town",
+		"author" : "FF Team, mod : Turbanellos",
+		"contact" : "https://forum.vcmi.eu/t/preserve-new-and-asylum-town/1061",
+		"description" : "New town made by Turbanellos, The Forgotten Fields, avatar, acidchalk",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Town",
+		"version" : "1.1.6",
+		"compatibility" :
+		{
+			"min" : "1.0.0"
+		},
+		"changelog" :
+		{
+			"1.1.6"   : [ "Partial special building support" ],
+			"1.1.5"   : [ "New abilities and animations" ],
+			"1.1.2"   : [ "Small bug fixes", "New puzzle by acidchalk" ],
+			"1.1.1"   : [  "Upgaded graphic", "Hero males and female sprites on the battlefields", "Bug fixes" ],
+			"1.1.0"   : [ "Bug fixes" ],
+			"1.0.0"   : [ "Initial release" ]
+		},
+		"download" : "https://github.com/vcmi-mods/preserve-town/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/preserve-town/main/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/preserve-town/main/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/preserve-town/main/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/vcmi-mods/preserve-town/main/screenshots/screen4.png",
+			"https://raw.githubusercontent.com/vcmi-mods/preserve-town/main/screenshots/screen5.png",
+			"https://raw.githubusercontent.com/vcmi-mods/preserve-town/main/screenshots/screen6.png"
+		]
+	},
+	"abyss-town":
+	{
+		"name" : "Abyss town",
+		"author" : "Axolotl (graphics), mitlandy, Tooandorisu, Warmonger, misiokles, Troggly, Dydzio, Anonymous, StasPV",
+		"contact" : "https://forum.vcmi.eu/t/abyss-town-revived/1010",
+		"description" : "New town with ocean climax.",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Town",
+		"version" : "0.8",
+		"changelog" :
+		{
+			"0.80"   : [ "Various fixes"  ],
+			"0.70"   : [ "Initial release"  ]
+		},
+		"download" : "https://github.com/vcmi-mods/abyss-town/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/abyss-town/main/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/abyss-town/main/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/abyss-town/main/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/vcmi-mods/abyss-town/main/screenshots/screen4.png",
+			"https://raw.githubusercontent.com/vcmi-mods/abyss-town/main/screenshots/screen5.png"
+		]
+	},
+	"retreat-town":
+	{
+		"name" : "Retreat town",
+		"author" : "XEricSin, Zeryss, acidchalk, avatar",
+		"contact" : "http://heroescommunity.com/viewthread.php3?TID=42498",
+		"description" : "Retreat town with chinese climax",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Town",
+		"version" : "0.5.1",
+		"changelog" :
+		{
+			"0.5.1" : [ "Special buildings support" ],
+			"0.5.0" : [ "Re-worked mod to match ERA original version" ]
+		},
+		"download" : "https://github.com/vcmi-mods/retreat-town/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/retreat-town/main/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/retreat-town/main/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/retreat-town/main/screenshots/screen3.png"
+		]
+	},
+	"cetatea-town":
+	{
+		"name" : "Cetatea town",
+		"author" : "LizardWarrior, József Csanádi, Planet Avril, avatar, acidchalk",
+		"contact" : "http://heroescommunity.com/viewthread.php3?TID=39546",
+		"description" : "New town in Romanian Style",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Town",
+		"version" : "2.12",
+		"changelog" :
+		{
+			"2.12"   : [ "Special buildings support" ],
+			"2.11"   : [ "New hero specialty format", "New hero portraits" ]
+		},
+		"download" : "https://github.com/vcmi-mods/cetatea-town/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/cetatea-town/main/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/cetatea-town/main/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/cetatea-town/main/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/vcmi-mods/cetatea-town/main/screenshots/screen4.png",
+			"https://raw.githubusercontent.com/vcmi-mods/cetatea-town/main/screenshots/screen5.png"
+		]
+	},
+	"lost-souls":
+	{
+		"name" : "Lost souls",
+		"author" : "speehgee",
+		"contact" : "http://forum.vcmi.eu/viewforum.php?f=15",
+		"description" : "Mod adds one new neutral creature - Lost Soul",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Creatures",
+		"version" : "0.1.1",
+		"changelog" :
+		{
+			"0.1" : ["Initial release"],
+			"0.1.1" : ["fixed advAmount value", "new calculated AI/Fight values"]
+		},	  
+		"download" : "https://github.com/vcmi-mods/lost-souls/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/lost-souls/main/screenshots/screen1.png"
+		]
+	},
+	"kurek-creatures":
+	{
+		"name" : "Kurek creatures",
+		"author" : "Kurek",
+		"contact" : "http://www.forum.acidcave.net/profile.php?UID=4121",
+		"description" : "Mod adds two new neutral creatures: Cherub and Marid",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Creatures",
+		"version" : "1.00",
+		"changelog" :
+		{
+			"1.00" : ["Initial release"]
+		},	  
+		"download" : "https://github.com/vcmi-mods/kurek-creatures/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/kurek-creatures/main/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/kurek-creatures/main/screenshots/screen2.png"
+		]
+	},
+	"undead-sphinxes":
+	{
+		"name" : "Undead Sphinxes",
+		"author" : "witchking, fiorin, Trith, avatar, Andruids, fred79",
+		"contact" : "http://forum.vcmi.eu",
+		"description" : "Two new neutral creatures: Ashen Sphinx and Entombed Sphinx.",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Creatures",
+		"version" : "1.00",
+		"changelog" :
+		{
+			"1.0" : ["Initial release"]
+		},	  
+		"download" : "https://github.com/vcmi-mods/undead-sphinxes/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/undead-sphinxes/main/screenshots/screen1.png"
+		]
+	},
+	"andruids-spell-balance":
+	{
+		"name" : "New Magic Balance",
+		"author" : "Andruids",
+		"contact" : "http://heroescommunity.com/viewthread.php3?TID=30659&PID=1466087#focus",
+		"description" : "Modifications of Heroes 3 spells system (see screen1.png)",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Spells",
+		"version" : "0.8",
+		"changelog" :
+		{
+			"0.8" : ["Initial release"]
+		},	  
+		"download" : "https://github.com/vcmi-mods/andruids-spell-balance/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/andruids-spell-balance/main/screenshots/screen1.png"
+		]
+	},
+	"new-old-spells-plus":
+	{
+		"name" : "New Old Spells+",
+		"author" : "Warmonger, avatar, Kuririn, Andruids",
+		"contact" : "https://forum.vcmi.eu/c/international-board/content-creation/12",
+		"description" : "9 spells from other Homm games",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Spells",
+		"version" : "0.9.5",
+		"changelog" :
+		{
+			"0.8" : ["Initial release"],
+			"0.9" : ["Added spell Fear (abandoned H3 spell)"],
+			"0.9.1" : ["Small improvements"],
+			"0.9.5" : ["Graphical lifting, some balancing improvements and adapting to the new spell format"]
+		},  
+		"download" : "https://github.com/vcmi-mods/new-old-spells-plus/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/new-old-spells-plus/main/screenshots/screen1.png"
+		]
+	},
+	"portraits-packs":
+	{
+		"name" : "Portraits packs",
+		"author" : "Dtnmang, Nitroflower, Striker, Vallex",
+		"contact" : "https://forum.vcmi.eu/c/international-board/content-creation/12",
+		"description" : "Portaits packs for standard HoMM3 heroes ported from ERA2 mods by avatar",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Graphical",
+		"version" : "1.1",
+		"changelog" :
+		{
+			"1.0" : ["Initial release"],
+			"1.1"   : [ "Added StableDiffusion AI portraits pack" ]
+		},  
+		"download" : "https://github.com/vcmi-mods/portraits-packs/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/portraits-packs/main/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/portraits-packs/main/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/portraits-packs/main/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/vcmi-mods/portraits-packs/main/screenshots/screen4.png"
+		]
+	},
+	"heroes-iii-orchestra":
+	{
+		"name" : "Heroes III Orchestra",
+		"author" : "Heroes III Orchestra",
+		"contact" : "https://www.youtube.com/c/HeroesOrchestra",
+		"description" : "Orchestral tracks of Heroes III towns and combat, arranged by Heroes Orchestra",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Music",
+		"version" : "1.0",
+		"changelog" :
+		{
+			"1.0" : ["Initial release"]
+		},  
+		"download" : "https://github.com/vcmi-mods/heroes-iii-orchestra/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+		]
+	},
+	"mega-pack-rus":
+	{
+		"name" : "MegaPack Rus",
+		"author" : "ZoTaC, Dmitry - mygms.ru",
+		"contact" : "https://forum.df2.ru/index.php?showtopic=35881",
+		"description" : "Исправляет кривости графики русских локализаций SoD и Complete от Буки",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Translation",
+		"version" : "1.2",
+		"changelog" :
+		{
+			"1.0" : ["Initial release"],
+			"1.2"   : [ "Update" ]
+		},  
+		"download" : "https://github.com/vcmi-mods/mega-pack-rus/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/main/screenshots/sc-1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/main/screenshots/sc-2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/main/screenshots/sc-3.png",
+			"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/main/screenshots/sc-4.png",
+			"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/main/screenshots/sc-5.png",
+			"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/main/screenshots/sc-6.png",
+			"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/main/screenshots/sc-7.png"
+		]
+	},
+	"new-interface-mod":
+	{
+		"name" : "New-style Interface",
+		"author" : "FCst1 and NI team. Mod - Kuririn",
+		"contact" : "https://www.youtube.com/watch?v=BMz2CFtGuEw",
+		"description" : "Mod changes many of standard H3 interface graphics (not works for all resolutions).",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Interface",
+		"version" : "1.0",
+		"changelog" :
+		{
+			"1.0" : ["Initial release"]
+		},  
+		"download" : "https://github.com/vcmi-mods/new-interface-mod/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+		"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/main/screenshots/screen1.png",
+		"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/main/screenshots/screen2.png",
+		"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/main/screenshots/screen3.png",
+		"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/main/screenshots/screen4.png",
+		"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/main/screenshots/screen5.png",
+		"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/main/screenshots/screen6.png"
+		]
+	},
+	"hi-rez-menu":
+	{
+		"name" : "High-res Menu",
+		"author" : "Dru",
+		"contact" : "https://forum.vcmi.eu/c/international-board/content-creation/12",
+		"description" : "High resolution main menu pack created by Dru for VCMI",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Interface",
+		"version" : "1.1",
+		"changelog" :
+		{
+			"1.0" : ["Initial release"],
+			"1.1" : ["Fixes"]
+		},  
+		"download" : "https://github.com/vcmi-mods/hi-rez-menu/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+		"https://raw.githubusercontent.com/vcmi-mods/hi-rez-menu/main/screenshots/screen1.png"
+		]
+	},
+	"no-battle-intro":
+	{
+		"name" : "No Battle Music",
+		"description" : "Here are a few silent .wav files to remove the start up battle fx sound that freezes battle for around 3 seconds.",
+		"version" : "1.0",
+		"author" : "Nicolás Suárez",
+		"contact" : "forum.vcmi.eu",
+		"modType" : "Music",
+		"changelog" :
+			{
+			"1.00" : [ "Initial release" ]
+		},
+		"download": "https://github.com/vcmi-mods/no-battle-intro/archive/refs/heads/master.zip"
+	},
+	"greenhouse-town":
+	{
+		"name" : "Greenhouse",
+		"author" : "Mad Hatter Workshop",
+		"contact" : "https://www.youtube.com/@MadHatterDomain",
+		"description" : "Greenhouse - Town of Vegetables and Fruits.",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Town",
+		"version" : "0.1.5",
+		"changelog" :
+		{
+			"0.1.5" : [ "Fixes" ],
+			"0.1.0" : [ "Initial release" ]
+		},
+		"download" : "https://github.com/vcmi-mods/greenhouse-town/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/greenhouse-town/main/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/greenhouse-town/main/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/greenhouse-town/main/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/vcmi-mods/greenhouse-town/main/screenshots/screen4.png"
+		]
+	},
+	"sand-tower":
+	{
+		"name" : "Sand Tower",
+		"author" : "totkotoriy, J. M. Sower",
+		"contact" : "http://forum.vcmi.eu/viewtopic.php?p=11046&sid=c709e37f1a8d8b91d286928e90cf4a8a#11046",
+		"description" : "Mod changes Tower's internal look into more sandy",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Graphical town modifications",
+		"version" : "1.1",
+		"changelog" :
+		{
+			"1.1" : [ "Fixes" ],
+			"1.0" : [ "Initial release" ]
+		},
+		"download" : "https://github.com/vcmi-mods/sand-tower/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/sand-tower/main/screenshots/screen1.png"
+		]
+	},
+	"autumn-rampart":
+	{
+		"name" : "Autumn Rampart",
+		"author" : "Irhak alias Kreegan",
+		"contact" : "http://www.forum.acidcave.net/profile.php?UID=1646",
+		"description" : "Alternative, darker Rampart",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Graphical town modifications",
+		"version" : "0.92",
+		"changelog" :
+		{
+			"0.92"   : [ "Fixed problem with map editor" ],
+			"0.91"   : [ "Adds Fountain of Fortune def", "Small fixes" ],
+			"0.9"   : [ "Initial release" ]
+		},
+		"download" : "https://github.com/vcmi-mods/autumn-rampart/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/autumn-rampart/main/screenshots/screen1.png"
+		]
+	},
+	"another-rampart":
+	{
+		"name" : "Another Rampart",
+		"author" : "Unknown, kuririn, avatar",
+		"contact" : "unknown",
+		"description" : "Another Rampart mod for ERA II ported to VCMI. New internal Rampart look.",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Graphical town modifications",
+		"version" : "1.0",
+		"changelog" :
+		{
+			"1.1"   : [ "Renamed folders" ],
+			"1.0"   : [ "Initial release" ]
+		},
+		"download" : "https://github.com/vcmi-mods/another-rampart/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/another-rampart/main/screenshots/screen1.png"
+		]
+	},
+	"red-castle":
+	{
+		"name" : "Red Castle",
+		"author" : "Mitlandy, avatar",
+		"contact" : "unknown",
+		"description" : "Tired of blue colour in Castle? What's about some red?",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Graphical town modifications",
+		"version" : "1.0",
+		"changelog" :
+		{
+			"1.1"   : [ "Fixes" ],
+			"1.0"   : [ "Initial release" ]
+		},
+		"download" : "https://github.com/vcmi-mods/red-castle/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/red-castle/main/screenshots/screen1.png"
+		]
+	},
+	"lotrd-townscreens":
+	{
+		"name" : "LotRD townscreens",
+		"author" : "itsjustme",
+		"contact" : "https://www.youtube.com/watch?v=GTEYML9dXtQ",
+		"description" : "Ten townscreens ported from LotRD mod",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Graphical town modifications",
+		"version" : "1.0",
+		"changelog" :
+		{
+			"1.0"   : [ "Initial release" ]
+		},
+		"download" : "https://github.com/vcmi-mods/lotrd-townscreens/archive/refs/heads/main.zip"
+	},
+	"ghost-necropolis":
+	{
+		"name" : "Ghost Necropolis",
+		"author" : "avatar, Ubisoft",
+		"contact" : "unknown",
+		"description" : "Buildings in Necropolis are faded like a ghost",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Graphical town modifications",
+		"version" : "1.0",
+		"changelog" :
+		{
+			"1.0"   : [ "Initial release" ]
+		},
+		"download" : "https://github.com/vcmi-mods/ghost-necropolis/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/ghost-necropolis/main/screenshots/screen1.png"
+		]
+	},
+	"quartz":
+	{
+		"name" : "Quartz",
+		"author" : "feanor, Bes",
+		"contact" : "https://www.youtube.com/watch?v=so3g9CGkNAU",
+		"description" : "HoMM3 towns in the mirror.",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Graphical town modifications",
+		"version" : "1.0",
+		"changelog" :
+		{
+			"1.0"   : [ "Initial release" ]
+		},
+		"download" : "https://github.com/vcmi-mods/quartz/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/quartz/main/screenshots/screen1.png"
+		]
+	},
+	"snow-in-Tower":
+	{
+		"name" : "Snow in Tower",
+		"author" : "Andruids, whoever made the snow gif",
+		"contact" : "madaosoul@gmail.com",
+		"description" : "Additional animation that changes the weather in the Tower town screen.",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Graphical town modifications",
+		"version" : "0.5",
+		"changelog" :
+		{
+			"0.5"   : [ "Initial release" ]
+		},
+		"download" : "https://github.com/vcmi-mods/snow-in-Tower/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/snow-in-Tower/main/screenshots/screen1.png"
+		]
+	},
+	"snow-castle":
+	{
+		"name" : "Snow Castle",
+		"author" : "Planet Avril, Dreamaker, avatar",
+		"contact" : "http://heroescommunity.com/viewthread.php3?TID=39205",
+		"description" : "Graphical town modifications.",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Graphical town modifications",
+		"version" : "1.0",
+		"changelog" :
+		{
+			"1.0"   : [ "Initial release" ]
+		},
+		"download" : "https://github.com/vcmi-mods/snow-castle/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/snow-castle/main/screenshots/screen1.png"
+		]
+	},
+	"resourceful-ai":
+	{
+		"mod": "https://raw.githubusercontent.com/vcmi-mods/resourceful-ai/master/mod.json",
+		"download": "https://github.com/vcmi-mods/resourceful-ai/archive/refs/heads/master.zip"
+	},
+	"an-expansion":
+	{
+		"name" : "an-expansion",
+		"author" : "Vũ Đắc Hoàng Â",
+		"contact" : "https://vudachoangan.com",
+		"description" : "Rebalances skills, heroes, creatures, etc.",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Mechanics",
+		"version" : "2.5.0",
+		"changelog" :
+		{
+		},
+		"download" : "https://github.com/vdhan/an-expansion/archive/refs/heads/master.zip"
+	},
+	"refugee-town":
+	{
+		"name" : "Refugee Town",
+		"author" : "Yuya Noboru",
+		"contact" : "yuya.noboru@gmail.com",
+		"description" : "Refugee is a new town created by Yuya that takes its inspiration from WoG's Neutral Town and Heroes3's Refugee Camp. The common point of its creatures is their nonbelonging to the other factions. Thus, this castle sports concepts such as nomadism, motley armies and makeshift solutions. The town also takes elements from the Mesopotamian/Sumerian/Akkadian mythologies",
+		"licenseName" : "Creative Commons Attribution-ShareAlike",
+		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+		"modType" : "Town",
+		"version" : "0.5",
+		"compatibility" :
+		{
+			"min" : "1.0.0"
+		},
+		"changelog" :
+		{
+			"0.5": [	"Some tweaks", "Tower icons added"],
+			"0.4": [	"Under construction..."],
+			"0.2": [	"New Townscreen and buildings; Renamed buildings and edited ressources costs and unlocking tree; Edited various game icons; Remastered town's theme; Added 2 new spells; Replaced Keyvan/Shayan specialties; Changed LVL7/LVL3 stats and abilities; Fixed the two 'Hordes' buildings; Fixed every .JSON files syntax errors and optimized their codes."],
+			"0.1": [	"Initial release: Added new factions 'Refugee'; Creatures & Heroes" ]
+		},
+		"download" : "https://github.com/vcmi-mods/refugee-town/archive/refs/heads/main.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/refugee-town/main/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/refugee-town/main/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/refugee-town/main/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/vcmi-mods/refugee-town/main/screenshots/screen4.png",
+			"https://raw.githubusercontent.com/vcmi-mods/refugee-town/main/screenshots/screen5.png"
+		]
+	}
+}
