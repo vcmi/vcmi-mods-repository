@@ -1,8 +1,8 @@
 {
 	"vcmi-extras":
 	{
-		"mod": "https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/master/mod.json",
-		"download": "https://github.com/vcmi-mods/vcmi-extras/archive/refs/heads/master.zip"
+		"mod": "https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.2/mod.json",
+		"download": "https://github.com/vcmi-mods/vcmi-extras/archive/refs/heads/vcmi-1.2.zip"
 	},
 	"hota": {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.2/hota/mod.json",
