@@ -134,8 +134,8 @@
 	},
 	"campaign-heroes":
 	{
-		"mod": "https://raw.githubusercontent.com/vcmi-mods/campaign-heroes/master/mod.json",
-		"download" : "https://github.com/vcmi-mods/campaign-heroes/archive/refs/heads/master.zip"
+		"mod": "https://raw.githubusercontent.com/vcmi-mods/campaign-heroes/vcmi-1.2/mod.json",
+		"download" : "https://github.com/vcmi-mods/campaign-heroes/archive/refs/heads/vcmi-1.2.zip"
 	},
 	"axolotl-creatures-pack":
 	{
