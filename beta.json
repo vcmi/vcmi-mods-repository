@@ -70,6 +70,10 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/reworked-commanders/vcmi-1.2/reworked-commanders/mod.json",
 		"download": "https://github.com/vcmi-mods/reworked-commanders/archive/refs/heads/vcmi-1.2.zip"
 	},
+	"andruids-expansion": {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/andruids-expansion/vcmi-1.2/andruids-expansion/mod.json",
+		"download": "https://github.com/vcmi-mods/andruids-expansion/archive/refs/heads/vcmi-1.2.zip"
+	},
 	"tok": {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tok/vcmi-1.2/mod.json",
 		"download": "https://github.com/vcmi-mods/tok/archive/refs/heads/vcmi-1.2.zip"
