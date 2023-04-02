@@ -465,20 +465,8 @@
 	},
 	"retreat-town":
 	{
-		"name" : "Retreat town",
-		"author" : "XEricSin, Zeryss, acidchalk, avatar",
-		"contact" : "http://heroescommunity.com/viewthread.php3?TID=42498",
-		"description" : "Retreat town with chinese climax",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Town",
-		"version" : "0.5.1",
-		"changelog" :
-		{
-			"0.5.1" : [ "Special buildings support" ],
-			"0.5.0" : [ "Re-worked mod to match ERA original version" ]
-		},
-		"download" : "https://github.com/vcmi-mods/retreat-town/archive/refs/heads/main.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/retreat-town/vcmi-1.2/retreat-town/mod.json",
+		"download": "https://github.com/vcmi-mods/retreat-town/archive/refs/heads/vcmi-1.2.zip"
 		"screenshots":
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/retreat-town/main/screenshots/screen1.png",
