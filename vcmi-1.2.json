@@ -139,8 +139,8 @@
 	},
 	"axolotl-creatures-pack":
 	{
-		"mod": "https://raw.githubusercontent.com/vcmi-mods/axolotl-creatures-pack/main/mod.json",
-		"download" : "https://github.com/vcmi-mods/axolotl-creatures-pack/archive/refs/heads/main.zip"
+		"mod": "https://raw.githubusercontent.com/vcmi-mods/axolotl-creatures-pack/vcmi-1.2/mod.json",
+		"download" : "https://github.com/vcmi-mods/axolotl-creatures-pack/archive/refs/heads/vcmi-1.2.zip"
 	},
 	"tarnum":
 	{
