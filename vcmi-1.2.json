@@ -214,25 +214,8 @@
 	},
 	"combine-grail":
 	{
-		"name" : "Combine Grail",
-		"author" : "avatar, Trith, Hobbit",
-		"contact" : "NONE",
-		"description" : "Grail as combined artifact. Find 5 new artifacts to combine Grail of them instead of digging.",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Mechanic",
-		"version" : "1.2",
-		"changelog" :
-		{
-			"1.2"   : [ "Tweaks" ],
-			"1.1"   : [ "Graphical fixes" ],
-			"1.0"   : [ "Initial release" ]
-		},	
-		"compatibility":
-		{
-			"min" : "1.0.0"
-		},
-		"download" : "https://github.com/vcmi-mods/combine-grail/archive/refs/heads/main.zip",
+		"mod": "https://raw.githubusercontent.com/vcmi-mods/combine-grail/vcmi-1.2/combine-grail/mod.json",
+		"download" : "https://github.com/vcmi-mods/combine-grail/archive/refs/heads/vcmi-1.2.zip",
 		"screenshots":
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/combine-grail/main/screenshots/screen1.png"
