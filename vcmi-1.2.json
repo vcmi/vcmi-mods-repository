@@ -184,25 +184,9 @@
 	},
 	"grove":
 	{
-		"name" : "Grove town",
-		"author" : "New Grove Team & Trith, mod : Kuririn & Pointer, fixes: avatar, Alyx182008",
-		"contact" : "NONE",
-		"description" : "New town made by New Grove Team & Trith.",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Town",
-		"version" : "1.16",
-		"changelog" :
-		{
-			"1.16"   : [ "Tweaks" ],
-			"1.10"   : [ "Special buildings support" ],
-			"1.00"   : [ "Initial release"  ]
-		},
-		"compatibility":
-		{
-			"min" : "1.0.0"
-		},
-		"download" : "https://github.com/vcmi-mods/grove/archive/refs/heads/main.zip",
+
+		"mod": "https://raw.githubusercontent.com/vcmi-mods/grove/vcmi-1.2/Grove/mod.json",
+		"download" : "https://github.com/vcmi-mods/grove/archive/refs/heads/vcmi-1.2.zip",
 		"screenshots":
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/grove/main/screenshots/screen1.png",
