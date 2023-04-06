@@ -149,23 +149,8 @@
 	},
 	"magic-fader":
 	{
-		"name" : "Magic Fader",
-		"author" : "avatar. Graphic: HotA Team (rejected material).",
-		"contact" : "NONE",
-		"description" : "New secondary skill: Magic Fader. Partially blocks casting spells by enemy hero.",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Skills",
-		"version" : "1.02",
-		"changelog" :
-		{
-			"1.0.0"   : [ "Initial release"  ]
-		},
-		"compatibility":
-		{
-			"min" : "1.0.0"
-		},
-		"download" : "https://github.com/vcmi-mods/magic-fader/archive/refs/heads/main.zip"
+		"mod": "https://raw.githubusercontent.com/vcmi-mods/magic-fader/vcmi-1.2/mod.json",
+		"download" : "https://github.com/vcmi-mods/magic-fader/archive/refs/heads/vcmi-1.2.zip"
 	},
 	"grove":
 	{
