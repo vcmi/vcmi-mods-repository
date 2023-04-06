@@ -232,8 +232,6 @@
 	},
 	"haven-town":
 	{
-
-		},
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/haven-town/vcmi-1.2/haven-town/mod.json",
 		"download": "https://github.com/vcmi-mods/haven-town/archive/refs/heads/vcmi-1.2.zip"
 		"screenshots":
@@ -243,24 +241,8 @@
 	},
 	"ruins-town":
 	{
-		"name" : "Ruins town",
-		"author" : "Fiorin",
-		"contact" : "https://fior.in",
-		"description" : "Ruins town\nVersion 1.2.3 - 2020/11/27\n\nMod done with much affection, enjoy. I await your feedback.\n\n More info at http://heroescommunity.com/viewthread.php3?TID=44951",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Town",
-		"version" : "1.2.3",
-		"compatibility" :
-		{
-			"min" : "1.0.0"
-		},
-		"changelog" :
-		{
-			"1.2.3"   : [ "Lots od changes and fixes" ],
-			"0.95"   : [ "Initial release" ]
-		},
-		"download" : "https://github.com/vcmi-mods/ruins-town/archive/refs/heads/main.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.2/ruins-town/mod.json",
+		"download" : "https://github.com/vcmi-mods/ruins-town/archive/refs/heads/vcmi-1.2.zip",
 		"screenshots":
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/ruins-town/main/screenshots/screen1.png",
