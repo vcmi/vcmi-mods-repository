@@ -307,28 +307,8 @@
 	},
 	"preserve-town":
 	{
-		"name" : "Preserve town",
-		"author" : "FF Team, mod : Turbanellos",
-		"contact" : "https://forum.vcmi.eu/t/preserve-new-and-asylum-town/1061",
-		"description" : "New town made by Turbanellos, The Forgotten Fields, avatar, acidchalk",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Town",
-		"version" : "1.1.6",
-		"compatibility" :
-		{
-			"min" : "1.0.0"
-		},
-		"changelog" :
-		{
-			"1.1.6"   : [ "Partial special building support" ],
-			"1.1.5"   : [ "New abilities and animations" ],
-			"1.1.2"   : [ "Small bug fixes", "New puzzle by acidchalk" ],
-			"1.1.1"   : [  "Upgaded graphic", "Hero males and female sprites on the battlefields", "Bug fixes" ],
-			"1.1.0"   : [ "Bug fixes" ],
-			"1.0.0"   : [ "Initial release" ]
-		},
-		"download" : "https://github.com/vcmi-mods/preserve-town/archive/refs/heads/main.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/preserve-town/vcmi-1.2/preserve/mod.json",
+		"download" : "https://github.com/vcmi-mods/preserve-town/archive/refs/heads/vcmi-1.2.zip",
 		"screenshots":
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/preserve-town/main/screenshots/screen1.png",
