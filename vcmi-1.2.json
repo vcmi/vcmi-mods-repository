@@ -862,26 +862,8 @@
 	},
 	"refugee-town":
 	{
-		"name" : "Refugee Town",
-		"author" : "Yuya Noboru",
-		"contact" : "yuya.noboru@gmail.com",
-		"description" : "Refugee is a new town created by Yuya that takes its inspiration from WoG's Neutral Town and Heroes3's Refugee Camp. The common point of its creatures is their nonbelonging to the other factions. Thus, this castle sports concepts such as nomadism, motley armies and makeshift solutions. The town also takes elements from the Mesopotamian/Sumerian/Akkadian mythologies",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Town",
-		"version" : "0.5",
-		"compatibility" :
-		{
-			"min" : "1.0.0"
-		},
-		"changelog" :
-		{
-			"0.5": [	"Some tweaks", "Tower icons added"],
-			"0.4": [	"Under construction..."],
-			"0.2": [	"New Townscreen and buildings; Renamed buildings and edited ressources costs and unlocking tree; Edited various game icons; Remastered town's theme; Added 2 new spells; Replaced Keyvan/Shayan specialties; Changed LVL7/LVL3 stats and abilities; Fixed the two 'Hordes' buildings; Fixed every .JSON files syntax errors and optimized their codes."],
-			"0.1": [	"Initial release: Added new factions 'Refugee'; Creatures & Heroes" ]
-		},
-		"download" : "https://github.com/vcmi-mods/refugee-town/archive/refs/heads/main.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/refugee-town/vcmi-1.2/refugee-town/mod.json",
+		"download" : "https://github.com/vcmi-mods/refugee-town/archive/refs/heads/vcmi-1.2.zip",
 		"screenshots":
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/refugee-town/main/screenshots/screen1.png",
