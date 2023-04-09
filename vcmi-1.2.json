@@ -203,7 +203,7 @@
 	"haven-town":
 	{
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/haven-town/vcmi-1.2/haven-town/mod.json",
-		"download": "https://github.com/vcmi-mods/haven-town/archive/refs/heads/vcmi-1.2.zip"
+		"download": "https://github.com/vcmi-mods/haven-town/archive/refs/heads/vcmi-1.2.zip",
 		"screenshots":
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/haven-town/main/screenshots/screen1.png"
@@ -336,7 +336,7 @@
 	"retreat-town":
 	{
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/retreat-town/vcmi-1.2/retreat-town/mod.json",
-		"download": "https://github.com/vcmi-mods/retreat-town/archive/refs/heads/vcmi-1.2.zip"
+		"download": "https://github.com/vcmi-mods/retreat-town/archive/refs/heads/vcmi-1.2.zip",
 		"screenshots":
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/retreat-town/main/screenshots/screen1.png",
