@@ -872,7 +872,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-assets/vcmi-1.2/screenshots/screen02.png"
 		]
 	},
-	"ab-bad-ending-assets":
+	"ab-bad-ending-maps":
 	{
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-maps/vcmi-1.2/AB Bad Ending Maps/mod.json",
 		"download" : "https://github.com/vcmi-mods/ab-bad-ending-maps/archive/refs/heads/vcmi-1.2.zip",
