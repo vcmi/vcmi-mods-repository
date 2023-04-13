@@ -841,5 +841,45 @@
 			"https://raw.githubusercontent.com/vcmi-mods/refugee-town/main/screenshots/screen4.png",
 			"https://raw.githubusercontent.com/vcmi-mods/refugee-town/main/screenshots/screen5.png"
 		]
+	},
+	"asphalt-terrain":
+	{
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/asphalt-terrain/vcmi-1.2/asphalt-terrain/mod.json",
+		"download" : "https://github.com/vcmi-mods/asphalt-terrain/archive/refs/heads/vcmi-1.2.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/asphalt-terrain/vcmi-1.2/screenshots/screen01.png",
+			"https://raw.githubusercontent.com/vcmi-mods/asphalt-terrain/vcmi-1.2/screenshots/screen02.png"
+		]
+	},
+	"forge2k":
+	{
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/forge2k/vcmi-1.2/Forge2k/mod.json",
+		"download" : "https://github.com/vcmi-mods/forge2k/archive/refs/heads/vcmi-1.2.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/forge2k/vcmi-1.2/screenshots/screen01.png",
+			"https://raw.githubusercontent.com/vcmi-mods/forge2k/vcmi-1.2/screenshots/screen02.png"
+		]
+	},
+	"ab-bad-ending-assets":
+	{
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-assets/vcmi-1.2/AB Bad Ending Assets/mod.json",
+		"download" : "https://github.com/vcmi-mods/ab-bad-ending-assets/archive/refs/heads/vcmi-1.2.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-assets/vcmi-1.2/screenshots/screen01.png",
+			"https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-assets/vcmi-1.2/screenshots/screen02.png"
+		]
+	},
+	"ab-bad-ending-assets":
+	{
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-maps/vcmi-1.2/AB Bad Ending Maps/mod.json",
+		"download" : "https://github.com/vcmi-mods/ab-bad-ending-maps/archive/refs/heads/vcmi-1.2.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-maps/vcmi-1.2/screenshots/screen01.png",
+			"https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-maps/vcmi-1.2/screenshots/screen02.png"
+		]
 	}
 }
