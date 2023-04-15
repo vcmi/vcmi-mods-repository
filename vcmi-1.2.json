@@ -811,8 +811,8 @@
 	},
 	"resourceful-ai":
 	{
-		"mod": "https://raw.githubusercontent.com/vcmi-mods/resourceful-ai/master/mod.json",
-		"download": "https://github.com/vcmi-mods/resourceful-ai/archive/refs/heads/master.zip"
+		"mod": "https://raw.githubusercontent.com/vcmi-mods/resourceful-ai/vcmi-1.2/mod.json",
+		"download": "https://github.com/vcmi-mods/resourceful-ai/archive/refs/heads/vcmi-1.2.zip"
 	},
 	"an-expansion":
 	{
