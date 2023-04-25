@@ -852,6 +852,17 @@
 			"https://raw.githubusercontent.com/vcmi-mods/asphalt-terrain/vcmi-1.2/screenshots/screen02.png"
 		]
 	},
+	"stardust-terrain":
+	{
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/stardust-terrain/vcmi-1.2/stardust-terrain/mod.json",
+		"download" : "https://github.com/vcmi-mods/stardust-terrain/archive/refs/heads/vcmi-1.2.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/stardust-terrain/vcmi-1.2/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/stardust-terrain/vcmi-1.2/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/stardust-terrain/vcmi-1.2/screenshots/screen3.png"
+		]
+	},
 	"forge2k":
 	{
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/forge2k/vcmi-1.2/Forge2k/mod.json",
