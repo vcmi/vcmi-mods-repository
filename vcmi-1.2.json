@@ -346,20 +346,8 @@
 	},
 	"cetatea-town":
 	{
-		"name" : "Cetatea town",
-		"author" : "LizardWarrior, József Csanádi, Planet Avril, avatar, acidchalk",
-		"contact" : "http://heroescommunity.com/viewthread.php3?TID=39546",
-		"description" : "New town in Romanian Style",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Town",
-		"version" : "2.12",
-		"changelog" :
-		{
-			"2.12"   : [ "Special buildings support" ],
-			"2.11"   : [ "New hero specialty format", "New hero portraits" ]
-		},
-		"download" : "https://github.com/vcmi-mods/cetatea-town/archive/refs/heads/main.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/cetatea-town/vcmi-1.2/cetatea/mod.json",
+		"download" : "https://github.com/vcmi-mods/cetatea-town/archive/refs/heads/vcmi-1.2.zip",
 		"screenshots":
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/cetatea-town/main/screenshots/screen1.png",
