@@ -667,20 +667,8 @@
 	},
 	"red-castle":
 	{
-		"name" : "Red Castle",
-		"author" : "Mitlandy, avatar",
-		"contact" : "unknown",
-		"description" : "Tired of blue colour in Castle? What's about some red?",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Graphical town modifications",
-		"version" : "1.0",
-		"changelog" :
-		{
-			"1.1"   : [ "Fixes" ],
-			"1.0"   : [ "Initial release" ]
-		},
-		"download" : "https://github.com/vcmi-mods/red-castle/archive/refs/heads/main.zip",
+		"mod": "https://raw.githubusercontent.com/vcmi-mods/red-castle/vcmi-1.2/red-castle/mod.json",
+		"download" : "https://github.com/vcmi-mods/red-castle/archive/refs/heads/vcmi-1.2.zip",
 		"screenshots":
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/red-castle/main/screenshots/screen1.png"
