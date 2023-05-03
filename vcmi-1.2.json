@@ -764,19 +764,8 @@
 	},
 	"snow-castle":
 	{
-		"name" : "Snow Castle",
-		"author" : "Planet Avril, Dreamaker, avatar",
-		"contact" : "http://heroescommunity.com/viewthread.php3?TID=39205",
-		"description" : "Graphical town modifications.",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Graphical town modifications",
-		"version" : "1.0",
-		"changelog" :
-		{
-			"1.0"   : [ "Initial release" ]
-		},
-		"download" : "https://github.com/vcmi-mods/snow-castle/archive/refs/heads/main.zip",
+		"mod": "https://raw.githubusercontent.com/vcmi-mods/snow-castle/vcmi-1.2/snow-castle/mod.json",
+		"download" : "https://github.com/vcmi-mods/snow-castle/archive/refs/heads/vcmi-1.2.zip",
 		"screenshots":
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/snow-castle/main/screenshots/screen1.png"
