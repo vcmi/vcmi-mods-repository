@@ -181,24 +181,8 @@
 	},
 	"fairy-town":
 	{
-		"name" : "Fairy town",
-		"author" : "Ben Yan, New fairy Team, mod : Kuririn, zeryss, Draeganfire, avatar",
-		"contact" : "NONE",
-		"description" : "New town made by New fairy Team, updated by Turbanellos in 2022.",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Town",
-		"version" : "1.5",
-		"changelog" :
-		{
-			"1.5"   : [ "Totally reworked town" ],
-			"1.0"   : [ "Initial release" ]
-		},	
-		"compatibility":
-		{
-			"min" : "1.0.0"
-		},
-		"download" : "https://github.com/vcmi-mods/fairy-town/archive/refs/heads/main.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/fairy-town/vcmi-1.2/fairy-town/mod.json",
+		"download" : "https://github.com/vcmi-mods/fairy-town/archive/refs/heads/vcmi-1.2.zip",
 		"screenshots":
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/fairy-town/main/screenshots/screen1.png"
