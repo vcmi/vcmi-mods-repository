@@ -352,19 +352,8 @@
 	},
 	"undead-sphinxes":
 	{
-		"name" : "Undead Sphinxes",
-		"author" : "witchking, fiorin, Trith, avatar, Andruids, fred79",
-		"contact" : "http://forum.vcmi.eu",
-		"description" : "Two new neutral creatures: Ashen Sphinx and Entombed Sphinx.",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Creatures",
-		"version" : "1.00",
-		"changelog" :
-		{
-			"1.0" : ["Initial release"]
-		},	  
-		"download" : "https://github.com/vcmi-mods/undead-sphinxes/archive/refs/heads/main.zip",
+		"https://raw.githubusercontent.com/vcmi-mods/undead-sphinxes/vcmi-1.2/undeadSphinxes/mod.json"
+		"download" : "https://github.com/vcmi-mods/undead-sphinxes/archive/refs/heads/vcmi-1.2.zip",
 		"screenshots":
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/undead-sphinxes/main/screenshots/screen1.png"
