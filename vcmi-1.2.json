@@ -352,7 +352,7 @@
 	},
 	"undead-sphinxes":
 	{
-		"https://raw.githubusercontent.com/vcmi-mods/undead-sphinxes/vcmi-1.2/undeadSphinxes/mod.json"
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/undead-sphinxes/vcmi-1.2/undeadSphinxes/mod.json",
 		"download" : "https://github.com/vcmi-mods/undead-sphinxes/archive/refs/heads/vcmi-1.2.zip",
 		"screenshots":
 		[
