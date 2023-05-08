@@ -342,7 +342,7 @@
 	"kurek-creatures":
 	{
   
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/kurek-creatures/vcmi-1.2/kurekCreatures/mod.json",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/kurek-creatures/vcmi-1.2/kurek-creatures/mod.json",
 		"download" : "https://github.com/vcmi-mods/kurek-creatures/archive/refs/heads/vcmi-1.2.zip",
 		"screenshots":
 		[
