@@ -362,7 +362,7 @@
 	"andruids-spell-balance":
 	{
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/andruids-spell-balance/vcmi-1.2/andruids-spell-balance/mod.json",  
-		"download" : "https://github.com/vcmi-mods/andruids-spell-balance/archive/refs/heads/main.zip",
+		"download" : "https://github.com/vcmi-mods/andruids-spell-balance/archive/refs/heads/vcmi-1.2.zip",
 		"screenshots":
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/andruids-spell-balance/main/screenshots/screen1.png"
