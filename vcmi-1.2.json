@@ -361,18 +361,7 @@
 	},
 	"andruids-spell-balance":
 	{
-		"name" : "New Magic Balance",
-		"author" : "Andruids",
-		"contact" : "http://heroescommunity.com/viewthread.php3?TID=30659&PID=1466087#focus",
-		"description" : "Modifications of Heroes 3 spells system (see screen1.png)",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Spells",
-		"version" : "0.8",
-		"changelog" :
-		{
-			"0.8" : ["Initial release"]
-		},	  
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/andruids-spell-balance/vcmi-1.2/andruids-spell-balance/mod.json",  
 		"download" : "https://github.com/vcmi-mods/andruids-spell-balance/archive/refs/heads/main.zip",
 		"screenshots":
 		[
