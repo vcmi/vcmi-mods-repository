@@ -5,19 +5,19 @@
 		"download": "https://github.com/vcmi-mods/vcmi-extras/archive/refs/heads/vcmi-1.3.zip"
 	},
 	"hota": {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.2/hota/mod.json",
-		"download": "https://github.com/vcmi-mods/horn-of-the-abyss/archive/refs/heads/vcmi-1.2.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.3/hota/mod.json",
+		"download": "https://github.com/vcmi-mods/horn-of-the-abyss/archive/refs/heads/vcmi-1.3.zip",
 		"screenshots":
 		[
-			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.2/screenshots/01.png",
-			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.2/screenshots/02.png",
-			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.2/screenshots/03.png",
-			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.2/screenshots/04.png",
-			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.2/screenshots/05.png",
-			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.2/screenshots/06.png",
-			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.2/screenshots/07.png",
-			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.2/screenshots/08.png",
-			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.2/screenshots/09.png"
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.3/screenshots/01.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.3/screenshots/02.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.3/screenshots/03.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.3/screenshots/04.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.3/screenshots/05.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.3/screenshots/06.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.3/screenshots/07.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.3/screenshots/08.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.3/screenshots/09.png"
 		]
 	},
 	"wake-of-gods": {
@@ -181,24 +181,8 @@
 	},
 	"fairy-town":
 	{
-		"name" : "Fairy town",
-		"author" : "Ben Yan, New fairy Team, mod : Kuririn, zeryss, Draeganfire, avatar",
-		"contact" : "NONE",
-		"description" : "New town made by New fairy Team, updated by Turbanellos in 2022.",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Town",
-		"version" : "1.5",
-		"changelog" :
-		{
-			"1.5"   : [ "Totally reworked town" ],
-			"1.0"   : [ "Initial release" ]
-		},	
-		"compatibility":
-		{
-			"min" : "1.0.0"
-		},
-		"download" : "https://github.com/vcmi-mods/fairy-town/archive/refs/heads/main.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/fairy-town/vcmi-1.2/fairy-town/mod.json",
+		"download" : "https://github.com/vcmi-mods/fairy-town/archive/refs/heads/vcmi-1.2.zip",
 		"screenshots":
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/fairy-town/main/screenshots/screen1.png"
@@ -347,21 +331,9 @@
 		]
 	},
 	"lost-souls":
-	{
-		"name" : "Lost souls",
-		"author" : "speehgee",
-		"contact" : "http://forum.vcmi.eu/viewforum.php?f=15",
-		"description" : "Mod adds one new neutral creature - Lost Soul",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Creatures",
-		"version" : "0.1.1",
-		"changelog" :
-		{
-			"0.1" : ["Initial release"],
-			"0.1.1" : ["fixed advAmount value", "new calculated AI/Fight values"]
-		},	  
-		"download" : "https://github.com/vcmi-mods/lost-souls/archive/refs/heads/main.zip",
+	{  
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/lost-souls/vcmi-1.2/doomMod/mod.json",
+		"download" : "https://github.com/vcmi-mods/lost-souls/archive/refs/heads/vcmi-1.2.zip",
 		"screenshots":
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/lost-souls/main/screenshots/screen1.png"
@@ -369,19 +341,8 @@
 	},
 	"kurek-creatures":
 	{
-		"name" : "Kurek creatures",
-		"author" : "Kurek",
-		"contact" : "http://www.forum.acidcave.net/profile.php?UID=4121",
-		"description" : "Mod adds two new neutral creatures: Cherub and Marid",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Creatures",
-		"version" : "1.00",
-		"changelog" :
-		{
-			"1.00" : ["Initial release"]
-		},	  
-		"download" : "https://github.com/vcmi-mods/kurek-creatures/archive/refs/heads/main.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/kurek-creatures/vcmi-1.2/kurek-creatures/mod.json",
+		"download" : "https://github.com/vcmi-mods/kurek-creatures/archive/refs/heads/vcmi-1.2.zip",
 		"screenshots":
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/kurek-creatures/main/screenshots/screen1.png",
@@ -390,19 +351,8 @@
 	},
 	"undead-sphinxes":
 	{
-		"name" : "Undead Sphinxes",
-		"author" : "witchking, fiorin, Trith, avatar, Andruids, fred79",
-		"contact" : "http://forum.vcmi.eu",
-		"description" : "Two new neutral creatures: Ashen Sphinx and Entombed Sphinx.",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Creatures",
-		"version" : "1.00",
-		"changelog" :
-		{
-			"1.0" : ["Initial release"]
-		},	  
-		"download" : "https://github.com/vcmi-mods/undead-sphinxes/archive/refs/heads/main.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/undead-sphinxes/vcmi-1.2/undeadSphinxes/mod.json",
+		"download" : "https://github.com/vcmi-mods/undead-sphinxes/archive/refs/heads/vcmi-1.2.zip",
 		"screenshots":
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/undead-sphinxes/main/screenshots/screen1.png"
@@ -410,19 +360,8 @@
 	},
 	"andruids-spell-balance":
 	{
-		"name" : "New Magic Balance",
-		"author" : "Andruids",
-		"contact" : "http://heroescommunity.com/viewthread.php3?TID=30659&PID=1466087#focus",
-		"description" : "Modifications of Heroes 3 spells system (see screen1.png)",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Spells",
-		"version" : "0.8",
-		"changelog" :
-		{
-			"0.8" : ["Initial release"]
-		},	  
-		"download" : "https://github.com/vcmi-mods/andruids-spell-balance/archive/refs/heads/main.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/andruids-spell-balance/vcmi-1.2/andruids-spell-balance/mod.json",  
+		"download" : "https://github.com/vcmi-mods/andruids-spell-balance/archive/refs/heads/vcmi-1.2.zip",
 		"screenshots":
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/andruids-spell-balance/main/screenshots/screen1.png"
