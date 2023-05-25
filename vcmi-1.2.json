@@ -786,5 +786,17 @@
 			"https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-maps/vcmi-1.2/screenshots/screen01.png",
 			"https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-maps/vcmi-1.2/screenshots/screen02.png"
 		]
+	},
+	"towns-new-views":
+	{
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/towns-new-views/vcmi-1.2/towns-new-views/mod.json",
+		"download" : "https://github.com/vcmi-mods/towns-new-views/archive/refs/heads/vcmi-1.2.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/towns-new-views/vcmi-1.2/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/towns-new-views/vcmi-1.2/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/towns-new-views/vcmi-1.2/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/vcmi-mods/towns-new-views/vcmi-1.2/screenshots/screen4.png",
+		]
 	}
 }
