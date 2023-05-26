@@ -249,25 +249,8 @@
 	},
 	"tartarus-town":
 	{
-		"name" : "Tartarus town",
-		"author" : "FF Team, mod : Turbanellos",
-		"contact" : "https://forum.vcmi.eu/t/new-town-tartarus-ice-demons/5623",
-		"description" : "New town made by Turbanellos(Ben YAN), Tartarus is a new town for ice demons. Released in January 2022.",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Town",
-		"version" : "1.02",
-		"compatibility" :
-		{
-			"min" : "1.0.0"
-		},
-		"changelog" :
-		{
-			"1.02"   : [ "New lvl6 creatures graphic" ],
-			"1.01"   : [ "Fixes, added Arrow Towers icons" ],
-			"1.00"   : [ "Initial release" ]
-		},
-		"download" : "https://github.com/vcmi-mods/tartarus-town/archive/refs/heads/main.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tartarus-town/vcmi-1.2/tartarus-town/mod.json",
+		"download" : "https://github.com/vcmi-mods/tartarus-town/archive/refs/heads/vcmi-1.2.zip",
 		"screenshots":
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen1.png",
@@ -674,7 +657,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/quartz/main/screenshots/screen1.png"
 		]
 	},
-	"snow-in-Tower":
+	"snow-in-tower":
 	{
 		"name" : "Snow in Tower",
 		"author" : "Andruids, whoever made the snow gif",
