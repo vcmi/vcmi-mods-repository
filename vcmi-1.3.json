@@ -785,5 +785,10 @@
 			"https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-maps/vcmi-1.2/screenshots/screen01.png",
 			"https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-maps/vcmi-1.2/screenshots/screen02.png"
 		]
+	},
+	"warzyw-templates":
+	{
+		"mod" : "https://raw.githubusercontent.com/Warzyw647/warzyw-templates/main/warzyw-templates/mod.json",
+		"download" : "https://github.com/Warzyw647/warzyw-templates/archive/refs/heads/master.zip"
 	}
 }
