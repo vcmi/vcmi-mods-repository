@@ -91,6 +91,14 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/german-translation/vcmi-1.2/mod.json",
 		"download": "https://github.com/vcmi-mods/german-translation/archive/refs/heads/vcmi-1.2.zip"
 	},
+	"spanish-translation": {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/spanish-translation/vcmi-1.2/spanish-translation/mod.json",
+		"download": "https://github.com/vcmi-mods/spanish-translation/archive/refs/heads/vcmi-1.2.zip"
+	},
+	"korean-translation": {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/korean-translation/vcmi-1.2/korean-translation/mod.json",
+		"download": "https://github.com/vcmi-mods/korean-translation/archive/refs/heads/vcmi-1.2.zip"
+	},
 	"chinese-translation": {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/chinese-translation/vcmi-1.2/chinese-translation/mod.json",
 		"download": "https://github.com/vcmi-mods/chinese-translation/archive/refs/heads/vcmi-1.2.zip"
@@ -110,16 +118,6 @@
 	{
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/forge/vcmi-1.2/mod.json",
 		"download" : "https://github.com/vcmi-mods/forge/archive/refs/heads/vcmi-1.2.zip"
-	},
-	"Korean TrueType Fonts":
-	{
-		"mod": "https://raw.githubusercontent.com/vcmi-mods/vcmi-mod-korean-truetype-fonts/master/Korean%20TrueType%20Fonts/mod.json",
-		"download": "https://github.com/vcmi-mods/vcmi-mod-korean-truetype-fonts/archive/refs/heads/master.zip",
-		"screenshots":
-		[
-			"https://raw.githubusercontent.com/vcmi-mods/vcmi-mod-korean-truetype-fonts/master/sc1.png",
-			"https://raw.githubusercontent.com/vcmi-mods/vcmi-mod-korean-truetype-fonts/master/sc2.png"
-		]
 	},
 	"ai trace":
 	{
