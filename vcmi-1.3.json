@@ -107,6 +107,22 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/czech-translation/vcmi-1.3/czech-translation/mod.json",
 		"download": "https://github.com/vcmi-mods/czech-translation/archive/refs/heads/vcmi-1.3.zip"
 	},
+	"finnish-translation": {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/finnish-translation/vcmi-1.3/finnish-translation/mod.json",
+		"download": "https://github.com/vcmi-mods/finnish-translation/archive/refs/heads/vcmi-1.3.zip"
+	},
+	"portuguese-translation": {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/portuguese-translation/vcmi-1.3/portuguese-translation/mod.json",
+		"download": "https://github.com/vcmi-mods/portuguese-translation/archive/refs/heads/vcmi-1.3.zip"
+	},
+	"swedish-translation": {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/swedish-translation/vcmi-1.3/swedish-translation/mod.json",
+		"download": "https://github.com/vcmi-mods/swedish-translation/archive/refs/heads/vcmi-1.3.zip"
+	},
+	"turkish-translation": {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/turkish-translation/vcmi-1.3/turkish-translation/mod.json",
+		"download": "https://github.com/vcmi-mods/turkish-translation/archive/refs/heads/vcmi-1.3.zip"
+	},
 	"chinese-translation": {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/chinese-translation/vcmi-1.2/chinese-translation/mod.json",
 		"download": "https://github.com/vcmi-mods/chinese-translation/archive/refs/heads/vcmi-1.2.zip"
