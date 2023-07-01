@@ -123,6 +123,10 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/turkish-translation/vcmi-1.3/turkish-translation/mod.json",
 		"download": "https://github.com/vcmi-mods/turkish-translation/archive/refs/heads/vcmi-1.3.zip"
 	},
+	"hungarian-translation": {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/hungarian-translation/vcmi-1.3/hungarian-translation/mod.json",
+		"download": "https://github.com/vcmi-mods/hungarian-translation/archive/refs/heads/vcmi-1.3.zip"
+	},
 	"chinese-translation": {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/chinese-translation/vcmi-1.2/chinese-translation/mod.json",
 		"download": "https://github.com/vcmi-mods/chinese-translation/archive/refs/heads/vcmi-1.2.zip"
