@@ -249,22 +249,7 @@
 	},
 	"creatures-hidden-potential":
 	{
-		"name" : "Creatures Hidden Potential",
-		"author" : "Andruids",
-		"contact" : "madaosoul@gmail.com",
-		"description" : "Mod adding various bonuses for creatures, to make use of their unused animations, with as slight impact to game's balance as possible.",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Creatures",
-		"version" : "0.4",
-		"compatibility" :
-		{
-			"min" : "1.0.0"
-		},
-		"changelog" :
-		{
-			"0.4"   : [ "Initial release" ]
-		},
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/creatures-hidden-potential/main/creatures-hidden-potential/mod.json",
 		"download" : "https://github.com/vcmi-mods/creatures-hidden-potential/archive/refs/heads/main.zip",
 		"screenshots":
 		[
@@ -275,25 +260,8 @@
 	},
 	"tartarus-town":
 	{
-		"name" : "Tartarus town",
-		"author" : "FF Team, mod : Turbanellos",
-		"contact" : "https://forum.vcmi.eu/t/new-town-tartarus-ice-demons/5623",
-		"description" : "New town made by Turbanellos(Ben YAN), Tartarus is a new town for ice demons. Released in January 2022.",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Town",
-		"version" : "1.02",
-		"compatibility" :
-		{
-			"min" : "1.0.0"
-		},
-		"changelog" :
-		{
-			"1.02"   : [ "New lvl6 creatures graphic" ],
-			"1.01"   : [ "Fixes, added Arrow Towers icons" ],
-			"1.00"   : [ "Initial release" ]
-		},
-		"download" : "https://github.com/vcmi-mods/tartarus-town/archive/refs/heads/main.zip",
+	    "mod" : "https://raw.githubusercontent.com/vcmi-mods/tartarus-town/vcmi-1.2/tartarus-town/mod.json",
+		"download" : "https://github.com/vcmi-mods/tartarus-town/archive/refs/heads/vcmi-1.2.zip",
 		"screenshots":
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen1.png",
@@ -395,22 +363,8 @@
 	},
 	"new-old-spells-plus":
 	{
-		"name" : "New Old Spells+",
-		"author" : "Warmonger, avatar, Kuririn, Andruids",
-		"contact" : "https://forum.vcmi.eu/c/international-board/content-creation/12",
-		"description" : "9 spells from other Homm games",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Spells",
-		"version" : "0.9.5",
-		"changelog" :
-		{
-			"0.8" : ["Initial release"],
-			"0.9" : ["Added spell Fear (abandoned H3 spell)"],
-			"0.9.1" : ["Small improvements"],
-			"0.9.5" : ["Graphical lifting, some balancing improvements and adapting to the new spell format"]
-		},  
-		"download" : "https://github.com/vcmi-mods/new-old-spells-plus/archive/refs/heads/main.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-old-spells-plus/vcmi-1.2/newOldSpellsPlus/mod.json",
+		"download" : "https://github.com/vcmi-mods/new-old-spells-plus/archive/refs/heads/vcmi-1.2.zip",
 		"screenshots":
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/new-old-spells-plus/main/screenshots/screen1.png"
@@ -418,19 +372,7 @@
 	},
 	"portraits-packs":
 	{
-		"name" : "Portraits packs",
-		"author" : "Dtnmang, Nitroflower, Striker, Vallex",
-		"contact" : "https://forum.vcmi.eu/c/international-board/content-creation/12",
-		"description" : "Portaits packs for standard HoMM3 heroes ported from ERA2 mods by avatar",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Graphical",
-		"version" : "1.1",
-		"changelog" :
-		{
-			"1.0" : ["Initial release"],
-			"1.1"   : [ "Added StableDiffusion AI portraits pack" ]
-		},  
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/portraits-packs/main/Portaits%20packs/mod.json",
 		"download" : "https://github.com/vcmi-mods/portraits-packs/archive/refs/heads/main.zip",
 		"screenshots":
 		[
@@ -442,18 +384,7 @@
 	},
 	"heroes-iii-orchestra":
 	{
-		"name" : "Heroes III Orchestra",
-		"author" : "Heroes III Orchestra",
-		"contact" : "https://www.youtube.com/c/HeroesOrchestra",
-		"description" : "Orchestral tracks of Heroes III towns and combat, arranged by Heroes Orchestra",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Music",
-		"version" : "1.0",
-		"changelog" :
-		{
-			"1.0" : ["Initial release"]
-		},  
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/heroes-iii-orchestra/main/Heroes%20III%20Orchestra/mod.json",
 		"download" : "https://github.com/vcmi-mods/heroes-iii-orchestra/archive/refs/heads/main.zip",
 		"screenshots":
 		[
@@ -461,19 +392,7 @@
 	},
 	"mega-pack-rus":
 	{
-		"name" : "MegaPack Rus",
-		"author" : "ZoTaC, Dmitry - mygms.ru",
-		"contact" : "https://forum.df2.ru/index.php?showtopic=35881",
-		"description" : "Исправляет кривости графики русских локализаций SoD и Complete от Буки",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Translation",
-		"version" : "1.2",
-		"changelog" :
-		{
-			"1.0" : ["Initial release"],
-			"1.2"   : [ "Update" ]
-		},  
+	    	"mod" : "https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/main/MegaPack_Rus/mod.json",
 		"download" : "https://github.com/vcmi-mods/mega-pack-rus/archive/refs/heads/main.zip",
 		"screenshots":
 		[
@@ -488,18 +407,7 @@
 	},
 	"new-interface-mod":
 	{
-		"name" : "New-style Interface",
-		"author" : "FCst1 and NI team. Mod - Kuririn",
-		"contact" : "https://www.youtube.com/watch?v=BMz2CFtGuEw",
-		"description" : "Mod changes many of standard H3 interface graphics (not works for all resolutions).",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Interface",
-		"version" : "1.0",
-		"changelog" :
-		{
-			"1.0" : ["Initial release"]
-		},  
+        	"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/main/New%20Interface%20Mod/mod.json",
 		"download" : "https://github.com/vcmi-mods/new-interface-mod/archive/refs/heads/main.zip",
 		"screenshots":
 		[
@@ -513,19 +421,7 @@
 	},
 	"hi-rez-menu":
 	{
-		"name" : "High-res Menu",
-		"author" : "Dru",
-		"contact" : "https://forum.vcmi.eu/c/international-board/content-creation/12",
-		"description" : "High resolution main menu pack created by Dru for VCMI",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Interface",
-		"version" : "1.1",
-		"changelog" :
-		{
-			"1.0" : ["Initial release"],
-			"1.1" : ["Fixes"]
-		},  
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/hi-rez-menu/main/new-menu/mod.json",
 		"download" : "https://github.com/vcmi-mods/hi-rez-menu/archive/refs/heads/main.zip",
 		"screenshots":
 		[
@@ -534,33 +430,12 @@
 	},
 	"no-battle-intro":
 	{
-		"name" : "No Battle Music",
-		"description" : "Here are a few silent .wav files to remove the start up battle fx sound that freezes battle for around 3 seconds.",
-		"version" : "1.0",
-		"author" : "Nicolás Suárez",
-		"contact" : "forum.vcmi.eu",
-		"modType" : "Music",
-		"changelog" :
-			{
-			"1.00" : [ "Initial release" ]
-		},
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/no-battle-intro/master/mod.json",
 		"download": "https://github.com/vcmi-mods/no-battle-intro/archive/refs/heads/master.zip"
 	},
 	"greenhouse-town":
 	{
-		"name" : "Greenhouse",
-		"author" : "Mad Hatter Workshop",
-		"contact" : "https://www.youtube.com/@MadHatterDomain",
-		"description" : "Greenhouse - Town of Vegetables and Fruits.",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Town",
-		"version" : "0.1.5",
-		"changelog" :
-		{
-			"0.1.5" : [ "Fixes" ],
-			"0.1.0" : [ "Initial release" ]
-		},
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/greenhouse-town/main/Greenhouse/mod.json",
 		"download" : "https://github.com/vcmi-mods/greenhouse-town/archive/refs/heads/main.zip",
 		"screenshots":
 		[
@@ -572,19 +447,7 @@
 	},
 	"sand-tower":
 	{
-		"name" : "Sand Tower",
-		"author" : "totkotoriy, J. M. Sower",
-		"contact" : "http://forum.vcmi.eu/viewtopic.php?p=11046&sid=c709e37f1a8d8b91d286928e90cf4a8a#11046",
-		"description" : "Mod changes Tower's internal look into more sandy",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Graphical town modifications",
-		"version" : "1.1",
-		"changelog" :
-		{
-			"1.1" : [ "Fixes" ],
-			"1.0" : [ "Initial release" ]
-		},
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/sand-tower/main/sand-tower/mod.json",
 		"download" : "https://github.com/vcmi-mods/sand-tower/archive/refs/heads/main.zip",
 		"screenshots":
 		[
@@ -593,20 +456,7 @@
 	},
 	"autumn-rampart":
 	{
-		"name" : "Autumn Rampart",
-		"author" : "Irhak alias Kreegan",
-		"contact" : "http://www.forum.acidcave.net/profile.php?UID=1646",
-		"description" : "Alternative, darker Rampart",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Graphical town modifications",
-		"version" : "0.92",
-		"changelog" :
-		{
-			"0.92"   : [ "Fixed problem with map editor" ],
-			"0.91"   : [ "Adds Fountain of Fortune def", "Small fixes" ],
-			"0.9"   : [ "Initial release" ]
-		},
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/autumn-rampart/main/autumn-rampart/mod.json",
 		"download" : "https://github.com/vcmi-mods/autumn-rampart/archive/refs/heads/main.zip",
 		"screenshots":
 		[
@@ -615,19 +465,7 @@
 	},
 	"another-rampart":
 	{
-		"name" : "Another Rampart",
-		"author" : "Unknown, kuririn, avatar",
-		"contact" : "unknown",
-		"description" : "Another Rampart mod for ERA II ported to VCMI. New internal Rampart look.",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Graphical town modifications",
-		"version" : "1.0",
-		"changelog" :
-		{
-			"1.1"   : [ "Renamed folders" ],
-			"1.0"   : [ "Initial release" ]
-		},
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/another-rampart/main/another-rampart/mod.json",
 		"download" : "https://github.com/vcmi-mods/another-rampart/archive/refs/heads/main.zip",
 		"screenshots":
 		[
@@ -645,34 +483,12 @@
 	},
 	"lotrd-townscreens":
 	{
-		"name" : "LotRD townscreens",
-		"author" : "itsjustme",
-		"contact" : "https://www.youtube.com/watch?v=GTEYML9dXtQ",
-		"description" : "Ten townscreens ported from LotRD mod",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Graphical town modifications",
-		"version" : "1.0",
-		"changelog" :
-		{
-			"1.0"   : [ "Initial release" ]
-		},
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/lotrd-townscreens/main/lotrd-townscreens/mod.json",
 		"download" : "https://github.com/vcmi-mods/lotrd-townscreens/archive/refs/heads/main.zip"
 	},
 	"ghost-necropolis":
 	{
-		"name" : "Ghost Necropolis",
-		"author" : "avatar, Ubisoft",
-		"contact" : "unknown",
-		"description" : "Buildings in Necropolis are faded like a ghost",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Graphical town modifications",
-		"version" : "1.0",
-		"changelog" :
-		{
-			"1.0"   : [ "Initial release" ]
-		},
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ghost-necropolis/main/ghost-necropolis/mod.json",
 		"download" : "https://github.com/vcmi-mods/ghost-necropolis/archive/refs/heads/main.zip",
 		"screenshots":
 		[
@@ -681,18 +497,7 @@
 	},
 	"quartz":
 	{
-		"name" : "Quartz",
-		"author" : "feanor, Bes",
-		"contact" : "https://www.youtube.com/watch?v=so3g9CGkNAU",
-		"description" : "HoMM3 towns in the mirror.",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Graphical town modifications",
-		"version" : "1.0",
-		"changelog" :
-		{
-			"1.0"   : [ "Initial release" ]
-		},
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/quartz/main/quartz/mod.json",
 		"download" : "https://github.com/vcmi-mods/quartz/archive/refs/heads/main.zip",
 		"screenshots":
 		[
@@ -701,18 +506,7 @@
 	},
 	"snow-in-Tower":
 	{
-		"name" : "Snow in Tower",
-		"author" : "Andruids, whoever made the snow gif",
-		"contact" : "madaosoul@gmail.com",
-		"description" : "Additional animation that changes the weather in the Tower town screen.",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Graphical town modifications",
-		"version" : "0.5",
-		"changelog" :
-		{
-			"0.5"   : [ "Initial release" ]
-		},
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/snow-in-tower/main/snow-in-Tower/mod.json",
 		"download" : "https://github.com/vcmi-mods/snow-in-Tower/archive/refs/heads/main.zip",
 		"screenshots":
 		[
@@ -735,17 +529,7 @@
 	},
 	"an-expansion":
 	{
-		"name" : "an-expansion",
-		"author" : "Vũ Đắc Hoàng Â",
-		"contact" : "https://vudachoangan.com",
-		"description" : "Rebalances skills, heroes, creatures, etc.",
-		"licenseName" : "Creative Commons Attribution-ShareAlike",
-		"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-		"modType" : "Mechanics",
-		"version" : "2.5.0",
-		"changelog" :
-		{
-		},
+		"mod" : "https://raw.githubusercontent.com/vdhan/an-expansion/master/mod.json",
 		"download" : "https://github.com/vdhan/an-expansion/archive/refs/heads/master.zip"
 	},
 	"refugee-town":
