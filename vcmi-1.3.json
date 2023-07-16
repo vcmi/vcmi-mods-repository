@@ -439,8 +439,8 @@
 	},
 	"greenhouse-town":
 	{
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/greenhouse-town/main/Greenhouse/mod.json",
-		"download" : "https://github.com/vcmi-mods/greenhouse-town/archive/refs/heads/main.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/greenhouse-town/vcmi-1.3/Greenhouse/mod.json",
+		"download" : "https://github.com/vcmi-mods/greenhouse-town/archive/refs/heads/vcmi-1.3.zip",
 		"screenshots":
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/greenhouse-town/main/screenshots/screen1.png",
