@@ -131,6 +131,10 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/chinese-translation/vcmi-1.2/chinese-translation/mod.json",
 		"download": "https://github.com/vcmi-mods/chinese-translation/archive/refs/heads/vcmi-1.2.zip"
 	},
+	"french-translation": {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/french-translation/vcmi-1.2/french-translation/mod.json",
+		"download": "https://github.com/vcmi-mods/french-translation/archive/refs/heads/vcmi-1.2.zip"
+	},
 	"vcmi-mod-ce-ukr":
 	{
 		"mod": "https://raw.githubusercontent.com/vcmi-mods/vcmi-mod-ce-ukr/vcmi-1.2/ce-ukr/mod.json",
