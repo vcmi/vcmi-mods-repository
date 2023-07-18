@@ -148,8 +148,8 @@
 
 	"forge":
 	{
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/forge/vcmi-1.2/mod.json",
-		"download" : "https://github.com/vcmi-mods/forge/archive/refs/heads/vcmi-1.2.zip"
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/forge/vcmi-1.3/mod.json",
+		"download" : "https://github.com/vcmi-mods/forge/archive/refs/heads/vcmi-1.3.zip"
 	},
 	"ai trace":
 	{
