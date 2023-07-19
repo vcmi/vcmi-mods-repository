@@ -33,8 +33,8 @@
 		"download": "https://github.com/vcmi-mods/courtyard/archive/refs/heads/vcmi-1.3.zip"
 	},
 	"neutral-heroes": {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/neutral-heroes/vcmi-1.2/mod.json",
-		"download": "https://github.com/vcmi-mods/neutral-heroes/archive/refs/heads/vcmi-1.2.zip"
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/neutral-heroes/vcmi-1.3/mod.json",
+		"download": "https://github.com/vcmi-mods/neutral-heroes/archive/refs/heads/vcmi-1.3.zip"
 	},
 	"asylum-town": {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/asylum-town/vcmi-1.2/asylum-town/mod.json",
