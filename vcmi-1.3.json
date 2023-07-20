@@ -37,8 +37,8 @@
 		"download": "https://github.com/vcmi-mods/neutral-heroes/archive/refs/heads/vcmi-1.3.zip"
 	},
 	"asylum-town": {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/asylum-town/vcmi-1.2/asylum-town/mod.json",
-		"download": "https://github.com/vcmi-mods/asylum-town/archive/refs/heads/vcmi-1.2.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/asylum-town/vcmi-1.3/asylum-town/mod.json",
+		"download": "https://github.com/vcmi-mods/asylum-town/archive/refs/heads/vcmi-1.3.zip",
 		"screenshots":
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen1.png",
@@ -561,8 +561,8 @@
 	},
 	"stardust-terrain":
 	{
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/stardust-terrain/vcmi-1.2/stardust-terrain/mod.json",
-		"download" : "https://github.com/vcmi-mods/stardust-terrain/archive/refs/heads/vcmi-1.2.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/stardust-terrain/vcmi-1.3/stardust-terrain/mod.json",
+		"download" : "https://github.com/vcmi-mods/stardust-terrain/archive/refs/heads/vcmi-1.3.zip",
 		"screenshots":
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/stardust-terrain/vcmi-1.2/screenshots/screen1.png",
