@@ -189,8 +189,8 @@
 	"grove":
 	{
 
-		"mod": "https://raw.githubusercontent.com/vcmi-mods/grove/vcmi-1.2/Grove/mod.json",
-		"download" : "https://github.com/vcmi-mods/grove/archive/refs/heads/vcmi-1.2.zip",
+		"mod": "https://raw.githubusercontent.com/vcmi-mods/grove/vcmi-1.3/Grove/mod.json",
+		"download" : "https://github.com/vcmi-mods/grove/archive/refs/heads/vcmi-1.3.zip",
 		"screenshots":
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/grove/main/screenshots/screen1.png",
