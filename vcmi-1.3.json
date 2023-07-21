@@ -211,8 +211,8 @@
 	},
 	"fairy-town":
 	{
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/fairy-town/vcmi-1.2/fairy-town/mod.json",
-		"download" : "https://github.com/vcmi-mods/fairy-town/archive/refs/heads/vcmi-1.2.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/fairy-town/vcmi-1.3/fairy-town/mod.json",
+		"download" : "https://github.com/vcmi-mods/fairy-town/archive/refs/heads/vcmi-1.3.zip",
 		"screenshots":
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/fairy-town/main/screenshots/screen1.png"
