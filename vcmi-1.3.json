@@ -264,8 +264,8 @@
 	},
 	"tartarus-town":
 	{
-	    "mod" : "https://raw.githubusercontent.com/vcmi-mods/tartarus-town/vcmi-1.2/tartarus-town/mod.json",
-		"download" : "https://github.com/vcmi-mods/tartarus-town/archive/refs/heads/vcmi-1.2.zip",
+	    "mod" : "https://raw.githubusercontent.com/vcmi-mods/tartarus-town/vcmi-1.3/tartarus-town/mod.json",
+		"download" : "https://github.com/vcmi-mods/tartarus-town/archive/refs/heads/vcmi-1.3.zip",
 		"screenshots":
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen1.png",
@@ -278,8 +278,8 @@
 	},
 	"preserve-town":
 	{
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/preserve-town/vcmi-1.2/preserve/mod.json",
-		"download" : "https://github.com/vcmi-mods/preserve-town/archive/refs/heads/vcmi-1.2.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/preserve-town/vcmi-1.3/preserve/mod.json",
+		"download" : "https://github.com/vcmi-mods/preserve-town/archive/refs/heads/vcmi-1.3.zip",
 		"screenshots":
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/preserve-town/main/screenshots/screen1.png",
