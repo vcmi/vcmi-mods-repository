@@ -317,8 +317,8 @@
 	},
 	"cetatea-town":
 	{
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/cetatea-town/vcmi-1.2/cetatea/mod.json",
-		"download" : "https://github.com/vcmi-mods/cetatea-town/archive/refs/heads/vcmi-1.2.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/cetatea-town/vcmi-1.3/cetatea/mod.json",
+		"download" : "https://github.com/vcmi-mods/cetatea-town/archive/refs/heads/vcmi-1.3.zip",
 		"screenshots":
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/cetatea-town/main/screenshots/screen1.png",
