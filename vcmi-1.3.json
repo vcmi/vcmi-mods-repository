@@ -79,8 +79,8 @@
 		"download": "https://github.com/vcmi-mods/tok/archive/refs/heads/vcmi-1.2.zip"
 	},
 	"elemental-nodes": {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/elemental-nodes/vcmi-1.2/elemental-nodes/mod.json",
-		"download": "https://github.com/vcmi-mods/elemental-nodes/archive/refs/heads/vcmi-1.2.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/elemental-nodes/vcmi-1.3/elemental-nodes/mod.json",
+		"download": "https://github.com/vcmi-mods/elemental-nodes/archive/refs/heads/vcmi-1.3.zip",
 		"screenshots":
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/elemental-nodes/vcmi-1.2/screenshots/screen1.png",
