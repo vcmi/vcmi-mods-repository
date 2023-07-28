@@ -586,8 +586,8 @@
 	},
 	"ab-bad-ending-assets":
 	{
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-assets/vcmi-1.2/AB Bad Ending Assets/mod.json",
-		"download" : "https://github.com/vcmi-mods/ab-bad-ending-assets/archive/refs/heads/vcmi-1.2.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-assets/vcmi-1.3/AB Bad Ending Assets/mod.json",
+		"download" : "https://github.com/vcmi-mods/ab-bad-ending-assets/archive/refs/heads/vcmi-1.3.zip",
 		"screenshots":
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-assets/vcmi-1.2/screenshots/screen01.png",
@@ -596,8 +596,8 @@
 	},
 	"ab-bad-ending-maps":
 	{
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-maps/vcmi-1.2/AB Bad Ending Maps/mod.json",
-		"download" : "https://github.com/vcmi-mods/ab-bad-ending-maps/archive/refs/heads/vcmi-1.2.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-maps/vcmi-1.3/AB Bad Ending Maps/mod.json",
+		"download" : "https://github.com/vcmi-mods/ab-bad-ending-maps/archive/refs/heads/vcmi-1.3.zip",
 		"screenshots":
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-maps/vcmi-1.2/screenshots/screen01.png",
