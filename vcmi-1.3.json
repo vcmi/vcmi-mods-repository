@@ -651,5 +651,14 @@
 			"https://raw.githubusercontent.com/vcmi-mods/towns-new-views/vcmi-1.2/screenshots/screen3.png",
 			"https://raw.githubusercontent.com/vcmi-mods/towns-new-views/vcmi-1.2/screenshots/screen4.png"
 		]
+	},
+	"invisible-man":
+	{
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/invisible-man/vcmi-1.3/invisible-man/mod.json",
+		"download" : "https://github.com/vcmi-mods/invisible-man/archive/refs/heads/vcmi-1.3.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/invisible-man/vcmi-1.3/screenshots/screen01.png"
+		]
 	}
 }
