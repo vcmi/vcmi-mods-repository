@@ -664,5 +664,14 @@
 		[
 			"https://raw.githubusercontent.com/vcmi-mods/invisible-man/vcmi-1.3/screenshots/screen01.png"
 		]
+	},
+	"campaings-pack":
+	{
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/campaings-pack/vcmi-1.3/campaings-pack/mod.json",
+		"download" : "https://github.com/vcmi-mods/campaings-pack/archive/refs/heads/vcmi-1.3.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/campaings-pack/vcmi-1.3/screenshots/screen01.png"
+		]
 	}
 }
