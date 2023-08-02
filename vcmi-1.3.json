@@ -689,5 +689,16 @@
 	{
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/zefix/vcmi-1.2/ZEfix/mod.json",
 		"download" : "https://github.com/vcmi-mods/zefix/archive/refs/heads/vcmi-1.2.zip"
+	},
+	"test-map-spells-mod":
+	{
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/test-map-spells-mod/vcmi-1.3/test-map-spells-mod/mod.json",
+		"download" : "https://github.com/vcmi-mods/test-map-spells-mod/archive/refs/heads/vcmi-1.3.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/test-map-spells-mod/vcmi-1.3/screenshots/screen01.png",
+			"https://raw.githubusercontent.com/vcmi-mods/test-map-spells-mod/vcmi-1.3/screenshots/screen02.png",
+			"https://raw.githubusercontent.com/vcmi-mods/test-map-spells-mod/vcmi-1.3/screenshots/screen03.png"
+		]
 	}
 }
