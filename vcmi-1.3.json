@@ -712,5 +712,9 @@
 			"https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.3/screenshots/screen03.png",
 			"https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.3/screenshots/screen04.png"
 		]
+	},
+	"pah3-singleplayer-tournament": {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/pah3-singleplayer-tournament/vcmi-1.3/pah3-singleplayer-tournament/mod.json",
+		"download": "https://github.com/vcmi-mods/pah3-singleplayer-tournament/archive/refs/heads/vcmi-1.3.zip"
 	}
 }
