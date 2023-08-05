@@ -712,5 +712,15 @@
 			"https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.3/screenshots/screen03.png",
 			"https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.3/screenshots/screen04.png"
 		]
+	},
+	"mighty-heroes-iii": {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/mighty-heroes-iii/vcmi-1.3/mighty-heroes-iii/mod.json",
+		"download": "https://github.com/vcmi-mods/mighty-heroes-iii/archive/refs/heads/vcmi-1.3.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/mighty-heroes-iii/vcmi-1.3/screenshots/01.png",
+			"https://raw.githubusercontent.com/vcmi-mods/mighty-heroes-iii/vcmi-1.3/screenshots/02.png",
+			"https://raw.githubusercontent.com/vcmi-mods/mighty-heroes-iii/vcmi-1.3/screenshots/03.png"
+		]
 	}
 }
