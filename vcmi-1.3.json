@@ -674,6 +674,11 @@
 			"https://raw.githubusercontent.com/vcmi-mods/campaings-pack/vcmi-1.3/screenshots/screen01.png"
 		]
 	},
+	"dydzios-map-pack":
+	{
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/dydzios-map-pack/vcmi-1.3/dydzios-map-pack/mod.json",
+		"download" : "https://github.com/vcmi-mods/dydzios-map-pack/archive/refs/heads/vcmi-1.3.zip"
+	},
 	"h3-campaigns-remade":
 	{
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/h3-campaigns-remade/vcmi-1.3/h3-campaigns-remade/mod.json",
