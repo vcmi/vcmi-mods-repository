@@ -5,28 +5,28 @@
 		"download": "https://github.com/vcmi-mods/vcmi-extras/archive/refs/heads/vcmi-1.4.zip"
 	},
 	"hota": {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.3/hota/mod.json",
-		"download": "https://github.com/vcmi-mods/horn-of-the-abyss/archive/refs/heads/vcmi-1.3.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.4/hota/mod.json",
+		"download": "https://github.com/vcmi-mods/horn-of-the-abyss/archive/refs/heads/vcmi-1.4.zip",
 		"screenshots":
 		[
-			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.3/screenshots/01.png",
-			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.3/screenshots/02.png",
-			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.3/screenshots/03.png",
-			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.3/screenshots/04.png",
-			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.3/screenshots/05.png",
-			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.3/screenshots/06.png",
-			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.3/screenshots/07.png",
-			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.3/screenshots/08.png",
-			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.3/screenshots/09.png"
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.4/screenshots/01.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.4/screenshots/02.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.4/screenshots/03.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.4/screenshots/04.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.4/screenshots/05.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.4/screenshots/06.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.4/screenshots/07.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.4/screenshots/08.png",
+			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.4/screenshots/09.png"
 		]
 	},
 	"wake-of-gods": {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.3/mod.json",
-		"download": "https://github.com/vcmi-mods/wake-of-gods/archive/refs/heads/vcmi-1.3.zip"
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.4/mod.json",
+		"download": "https://github.com/vcmi-mods/wake-of-gods/archive/refs/heads/vcmi-1.4.zip"
 	},
 	"tides-of-war": {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tides-of-war/vcmi-1.3/mod.json",
-		"download": "https://github.com/vcmi-mods/tides-of-war/archive/refs/heads/vcmi-1.3.zip"
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tides-of-war/vcmi-1.4/mod.json",
+		"download": "https://github.com/vcmi-mods/tides-of-war/archive/refs/heads/vcmi-1.4.zip"
 	},
 	"courtyard": {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/courtyard/vcmi-1.3/Courtyard/mod.json",
