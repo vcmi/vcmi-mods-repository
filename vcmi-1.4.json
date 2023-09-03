@@ -723,13 +723,13 @@
 		"download": "https://github.com/vcmi-mods/pah3-singleplayer-tournament/archive/refs/heads/vcmi-1.3.zip"
 	},
 	"mighty-heroes-iii": {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/mighty-heroes-iii/vcmi-1.3/mighty-heroes-iii/mod.json",
-		"download": "https://github.com/vcmi-mods/mighty-heroes-iii/archive/refs/heads/vcmi-1.3.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/mighty-heroes-iii/vcmi-1.4/mighty-heroes-iii/mod.json",
+		"download": "https://github.com/vcmi-mods/mighty-heroes-iii/archive/refs/heads/vcmi-1.4.zip",
 		"screenshots":
 		[
-			"https://raw.githubusercontent.com/vcmi-mods/mighty-heroes-iii/vcmi-1.3/screenshots/01.png",
-			"https://raw.githubusercontent.com/vcmi-mods/mighty-heroes-iii/vcmi-1.3/screenshots/02.png",
-			"https://raw.githubusercontent.com/vcmi-mods/mighty-heroes-iii/vcmi-1.3/screenshots/03.png"
+			"https://raw.githubusercontent.com/vcmi-mods/mighty-heroes-iii/vcmi-1.4/screenshots/01.png",
+			"https://raw.githubusercontent.com/vcmi-mods/mighty-heroes-iii/vcmi-1.4/screenshots/02.png",
+			"https://raw.githubusercontent.com/vcmi-mods/mighty-heroes-iii/vcmi-1.4/screenshots/03.png"
 		]
 	},
 	"erathian-font": {
