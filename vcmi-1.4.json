@@ -56,6 +56,17 @@
 	},
 	"new-pavilion": {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.3/New Pavilion/mod.json",
+		"download": "https://github.com/vcmi-mods/new-pavilion/archive/refs/heads/vcmi-1.3.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.3/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.3/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.3/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.3/screenshots/screen4.png",
+			"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.3/screenshots/screen5.png",
+			"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.3/screenshots/screen6.png"
+		]
+	},		"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.3/New Pavilion/mod.json",
 		"download": "https://github.com/vcmi-mods/new-pavilion/archive/refs/heads/vcmi-1.3.zip"
 	},
 	"cathedral-town": {
