@@ -4,7 +4,7 @@ import os
 import sys
 import urllib.request
 
-ignore = [ "./github.json", "./vcmi-1.2.json" ]
+ignore = [ "./github.json", "./vcmi-1.2.json", "./vcmi-1.3.json" ]
 
 for filename in glob.glob(os.path.join('.', '*.json')):
     if filename not in ignore:
@@ -21,7 +21,7 @@ for filename in glob.glob(os.path.join('.', '*.json')):
                 sys.exit(os.EX_SOFTWARE)
             filesize = round(len(response.read()) / 1024 / 1024, 3)
             print(f"Size: {filesize}")
-            data["size"] = filesize
+            data["downloadSize"] = filesize
 
         resultcontent = json.dumps(modlist, indent='\t', separators=(',', ' : '))
 

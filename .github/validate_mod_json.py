@@ -4,7 +4,7 @@ import os
 import sys
 import urllib.request
 
-ignore = [ "./github.json", "./vcmi-1.2.json" ]
+ignore = [ "./github.json", "./vcmi-1.2.json", "./vcmi-1.3.json" ]
 
 error = False
 
