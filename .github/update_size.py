@@ -4,7 +4,7 @@ import os
 import sys
 import urllib.request
 
-ignore = [ "./github.json", "./vcmi-1.2.json", "./vcmi-1.3.json" ]
+from ignore_json import ignore
 
 for filename in glob.glob(os.path.join('.', '*.json')):
     if filename not in ignore:
@@ -12,7 +12,7 @@ for filename in glob.glob(os.path.join('.', '*.json')):
         filecontent = open(filename, "r").read()
         modlist = json.loads(filecontent)
         for mod, data in modlist.items():
-            url = data["download"]
+            url = data["download"].replace(" ", "%20")
             print(f"Download {mod}: {url}")
             try:
                 response = urllib.request.urlopen(url)

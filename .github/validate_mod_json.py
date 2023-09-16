@@ -4,7 +4,7 @@ import os
 import sys
 import urllib.request
 
-ignore = [ "./github.json", "./vcmi-1.2.json", "./vcmi-1.3.json" ]
+from ignore_json import ignore
 
 error = False
 
@@ -14,7 +14,7 @@ for filename in glob.glob(os.path.join('.', '*.json')):
         filecontent = open(filename, "r").read()
         modlist = json.loads(filecontent)
         for mod, data in modlist.items():
-            url = data["mod"]
+            url = data["mod"].replace(" ", "%20")
             print(f"Download {mod}: {url}")
             try:
                 response = urllib.request.urlopen(url)
@@ -28,7 +28,7 @@ for filename in glob.glob(os.path.join('.', '*.json')):
                 json.loads(filecontent)
             except Exception as err:
                 error = True
-                print("Error: " + err)
+                print("Error: " + str(err))
                 continue
 if error:
     sys.exit(os.EX_SOFTWARE)
