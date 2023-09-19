@@ -566,16 +566,6 @@
 		],
 		"downloadSize" : 9.103
 	},
-	"stardust-terrain" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/stardust-terrain/vcmi-1.3/stardust-terrain/mod.json",
-		"download" : "https://github.com/vcmi-mods/stardust-terrain/archive/refs/heads/vcmi-1.3.zip",
-		"screenshots" : [
-			"https://raw.githubusercontent.com/vcmi-mods/stardust-terrain/vcmi-1.2/screenshots/screen1.png",
-			"https://raw.githubusercontent.com/vcmi-mods/stardust-terrain/vcmi-1.2/screenshots/screen2.png",
-			"https://raw.githubusercontent.com/vcmi-mods/stardust-terrain/vcmi-1.2/screenshots/screen3.png"
-		],
-		"downloadSize" : 9.815
-	},
 	"newtown-terrains" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.3/newtown-terrains/mod.json",
 		"download" : "https://github.com/vcmi-mods/newtown-terrains/archive/refs/heads/vcmi-1.3.zip",
