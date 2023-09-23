@@ -537,7 +537,8 @@
 	},
 	"boost-ai" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/boost-ai/vcmi-1.4/mod.json",
-		"download" : "https://github.com/vcmi-mods/boost-ai/archive/refs/heads/vcmi-1.4.zip"
+		"download" : "https://github.com/vcmi-mods/boost-ai/archive/refs/heads/vcmi-1.4.zip",
+		"downloadSize" : 0.006
 	},
 	"an-expansion" : {
 		"mod" : "https://raw.githubusercontent.com/vdhan/an-expansion/master/mod.json",
@@ -554,7 +555,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/refugee-town/main/screenshots/screen4.png",
 			"https://raw.githubusercontent.com/vcmi-mods/refugee-town/main/screenshots/screen5.png"
 		],
-		"downloadSize" : 15.376
+		"downloadSize" : 15.718
 	},
 	"asphalt-terrain" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/asphalt-terrain/vcmi-1.3/asphalt-terrain/mod.json",
