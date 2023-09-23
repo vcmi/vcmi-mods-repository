@@ -535,10 +535,9 @@
 		],
 		"downloadSize" : 4.639
 	},
-	"resourceful-ai" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/resourceful-ai/vcmi-1.2/mod.json",
-		"download" : "https://github.com/vcmi-mods/resourceful-ai/archive/refs/heads/vcmi-1.2.zip",
-		"downloadSize" : 0.003
+	"boost-ai" : {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/boost-ai/vcmi-1.4/mod.json",
+		"download" : "https://github.com/vcmi-mods/boost-ai/archive/refs/heads/vcmi-1.4.zip"
 	},
 	"an-expansion" : {
 		"mod" : "https://raw.githubusercontent.com/vdhan/an-expansion/master/mod.json",
