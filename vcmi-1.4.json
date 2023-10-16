@@ -52,7 +52,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen6.png",
 			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen7.png"
 		],
-		"downloadSize" : 24.246
+		"downloadSize" : 25.868
 	},
 	"highlands-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/highlands-town/vcmi-1.3/mod.json",
@@ -569,7 +569,7 @@
 	"newtown-terrains" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.3/newtown-terrains/mod.json",
 		"download" : "https://github.com/vcmi-mods/newtown-terrains/archive/refs/heads/vcmi-1.3.zip",
-		"downloadSize" : 4.108
+		"downloadSize" : 6.986
 	},
 	"forge2k" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/forge2k/vcmi-1.3/Forge2k/mod.json",
