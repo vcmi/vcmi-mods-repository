@@ -23,7 +23,7 @@ for filename in glob.glob(os.path.join('.', '*.json')):
             print(f"Size: {filesize}")
             data["downloadSize"] = filesize
 
-        resultcontent = json.dumps(modlist, indent='\t', separators=(',', ' : '))
+        resultcontent = json.dumps(modlist, indent='\t', separators=(',', ' : ')) + "\n"
 
         if filecontent != resultcontent:
             open(filename, "w").write(resultcontent)
