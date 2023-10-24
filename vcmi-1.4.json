@@ -18,7 +18,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.4/screenshots/08.png",
 			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.4/screenshots/09.png"
 		],
-		"downloadSize" : 109.604
+		"downloadSize" : 109.605
 	},
 	"wake-of-gods" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.4/mod.json",
@@ -273,7 +273,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/ruins-town/main/screenshots/screen5.png",
 			"https://raw.githubusercontent.com/vcmi-mods/ruins-town/main/screenshots/screen6.png"
 		],
-		"downloadSize" : 18.847
+		"downloadSize" : 18.845
 	},
 	"h3-themes" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.2/h3-themes/mod.json",
