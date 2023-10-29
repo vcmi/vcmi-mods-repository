@@ -754,5 +754,18 @@
 	"erathian-font": {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/erathian-font/vcmi-1.3/erathian-font/mod.json",
 		"download": "https://github.com/vcmi-mods/erathian-font/archive/refs/heads/vcmi-1.3.zip"
+	},
+	"farriery-town":
+	{
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/farriery-town/vcmi-1.3/farriery-town/mod.json",
+		"download" : "https://github.com/vcmi-mods/farriery-town/archive/refs/heads/vcmi-1.3.zip",
+		"screenshots":
+		[
+			"https://raw.githubusercontent.com/vcmi-mods/farriery-town/vcmi-1.3/Screenshots/buildings.png",
+			"https://raw.githubusercontent.com/vcmi-mods/farriery-town/vcmi-1.3/Screenshots/Dragon Utopia.png",
+			"https://raw.githubusercontent.com/vcmi-mods/farriery-town/vcmi-1.3/Screenshots/Farriery-town-and-lineup.png",
+			"https://raw.githubusercontent.com/vcmi-mods/farriery-town/vcmi-1.3/Screenshots/lineup.png",
+			"https://raw.githubusercontent.com/vcmi-mods/farriery-town/vcmi-1.3/Screenshots/Spoiled Land.png"
+		]
 	}
 }
