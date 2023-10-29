@@ -555,7 +555,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/refugee-town/main/screenshots/screen4.png",
 			"https://raw.githubusercontent.com/vcmi-mods/refugee-town/main/screenshots/screen5.png"
 		],
-		"downloadSize" : 27.445
+		"downloadSize" : 27.861
 	},
 	"asphalt-terrain" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/asphalt-terrain/vcmi-1.3/asphalt-terrain/mod.json",
@@ -700,7 +700,7 @@
 	"pah3-singleplayer-tournament" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/pah3-singleplayer-tournament/vcmi-1.3/pah3-singleplayer-tournament/mod.json",
 		"download" : "https://github.com/vcmi-mods/pah3-singleplayer-tournament/archive/refs/heads/vcmi-1.3.zip",
-		"downloadSize" : 4.884
+		"downloadSize" : 7.146
 	},
 	"mighty-heroes-iii" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/mighty-heroes-iii/vcmi-1.4/mighty-heroes-iii/mod.json",
