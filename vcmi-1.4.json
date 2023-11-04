@@ -23,7 +23,7 @@
 	"wake-of-gods" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.4/mod.json",
 		"download" : "https://github.com/vcmi-mods/wake-of-gods/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 69.14
+		"downloadSize" : 69.281
 	},
 	"tides-of-war" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tides-of-war/vcmi-1.4/mod.json",
@@ -52,7 +52,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen6.png",
 			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen7.png"
 		],
-		"downloadSize" : 25.873
+		"downloadSize" : 25.969
 	},
 	"highlands-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/highlands-town/vcmi-1.3/mod.json",
@@ -329,7 +329,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/abyss-town/main/screenshots/screen4.png",
 			"https://raw.githubusercontent.com/vcmi-mods/abyss-town/main/screenshots/screen5.png"
 		],
-		"downloadSize" : 32.776
+		"downloadSize" : 32.777
 	},
 	"retreat-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/retreat-town/vcmi-1.2/retreat-town/mod.json",
@@ -555,7 +555,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/refugee-town/main/screenshots/screen4.png",
 			"https://raw.githubusercontent.com/vcmi-mods/refugee-town/main/screenshots/screen5.png"
 		],
-		"downloadSize" : 27.861
+		"downloadSize" : 27.99
 	},
 	"asphalt-terrain" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/asphalt-terrain/vcmi-1.3/asphalt-terrain/mod.json",
@@ -759,6 +759,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/crossroads-of-worlds/vcmi-1.4/screenshots/screen08.png",
 			"https://raw.githubusercontent.com/vcmi-mods/crossroads-of-worlds/vcmi-1.4/screenshots/screen09.png",
 			"https://raw.githubusercontent.com/vcmi-mods/crossroads-of-worlds/vcmi-1.4/screenshots/screen10.png"
-		]
+		],
+		"downloadSize" : 150.242
 	}
 }
