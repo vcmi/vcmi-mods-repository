@@ -236,7 +236,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/grove/main/screenshots/screen4.png",
 			"https://raw.githubusercontent.com/vcmi-mods/grove/main/screenshots/screen5.png"
 		],
-		"downloadSize" : 19.529
+		"downloadSize" : 19.528
 	},
 	"combine-grail" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/combine-grail/vcmi-1.2/combine-grail/mod.json",
@@ -273,7 +273,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/ruins-town/main/screenshots/screen5.png",
 			"https://raw.githubusercontent.com/vcmi-mods/ruins-town/main/screenshots/screen6.png"
 		],
-		"downloadSize" : 18.846
+		"downloadSize" : 18.85
 	},
 	"h3-themes" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.2/h3-themes/mod.json",
@@ -744,7 +744,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/farriery-town/vcmi-1.4/Screenshots/Spoiled Land.png",
 			"https://raw.githubusercontent.com/vcmi-mods/farriery-town/vcmi-1.4/Screenshots/screen06.png"
 		],
-		"downloadSize" : 34.639
+		"downloadSize" : 34.715
 	},
 	"crossroads-of-worlds" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/crossroads-of-worlds/vcmi-1.4/crossroads-of-worlds/mod.json",
