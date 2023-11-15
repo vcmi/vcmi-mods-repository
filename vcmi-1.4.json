@@ -80,7 +80,7 @@
 	"death-valley-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/death-valley-town/vcmi-1.3/death-valley-town/mod.json",
 		"download" : "https://github.com/vcmi-mods/death-valley-town/archive/refs/heads/vcmi-1.3.zip",
-		"downloadSize" : 23.411
+		"downloadSize" : 23.412
 	},
 	"reworked-commanders" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/reworked-commanders/vcmi-1.2/reworked-commanders/mod.json",
@@ -273,7 +273,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/ruins-town/main/screenshots/screen5.png",
 			"https://raw.githubusercontent.com/vcmi-mods/ruins-town/main/screenshots/screen6.png"
 		],
-		"downloadSize" : 18.85
+		"downloadSize" : 18.849
 	},
 	"h3-themes" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.2/h3-themes/mod.json",
