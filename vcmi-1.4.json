@@ -272,7 +272,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.4/screenshots/screen4.png",
 			"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.4/screenshots/screen5.png"
 		],
-		"downloadSize" : 11.974
+		"downloadSize" : 22.34
 	},
 	"h3-themes" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.2/h3-themes/mod.json",
@@ -705,7 +705,7 @@
 	"pah3-singleplayer-tournament" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/pah3-singleplayer-tournament/vcmi-1.3/pah3-singleplayer-tournament/mod.json",
 		"download" : "https://github.com/vcmi-mods/pah3-singleplayer-tournament/archive/refs/heads/vcmi-1.3.zip",
-		"downloadSize" : 10.304
+		"downloadSize" : 10.305
 	},
 	"mighty-heroes-iii" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/mighty-heroes-iii/vcmi-1.4/mighty-heroes-iii/mod.json",
