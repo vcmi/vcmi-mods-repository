@@ -258,7 +258,8 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/haven-town/vcmi-1.4/haven-town/mod.json",
 		"download" : "https://github.com/vcmi-mods/haven-town/archive/refs/heads/vcmi-1.4.zip",
 		"screenshots" : [
-			"https://raw.githubusercontent.com/vcmi-mods/haven-town/vcmi-1.4/screenshots/screen1.png"
+			"https://raw.githubusercontent.com/vcmi-mods/haven-town/vcmi-1.4/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/haven-town/vcmi-1.4/screenshots/screen2.png"
 		],
 		"downloadSize" : 9.5
 	},
