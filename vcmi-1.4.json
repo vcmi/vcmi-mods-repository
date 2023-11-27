@@ -260,7 +260,7 @@
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/haven-town/vcmi-1.4/screenshots/screen1.png"
 		],
-		"downloadSize" : 9.099
+		"downloadSize" : 9.5
 	},
 	"ruins-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.4/ruins-town/mod.json",
