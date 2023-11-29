@@ -236,7 +236,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/grove/main/screenshots/screen4.png",
 			"https://raw.githubusercontent.com/vcmi-mods/grove/main/screenshots/screen5.png"
 		],
-		"downloadSize" : 19.529
+		"downloadSize" : 19.492
 	},
 	"combine-grail" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/combine-grail/vcmi-1.2/combine-grail/mod.json",
