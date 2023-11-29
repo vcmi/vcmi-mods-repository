@@ -36,8 +36,8 @@
 		"downloadSize" : 24.615
 	},
 	"neutral-heroes" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/neutral-heroes/vcmi-1.3/mod.json",
-		"download" : "https://github.com/vcmi-mods/neutral-heroes/archive/refs/heads/vcmi-1.3.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/neutral-heroes/vcmi-1.4/mod.json",
+		"download" : "https://github.com/vcmi-mods/neutral-heroes/archive/refs/heads/vcmi-1.4.zip",
 		"downloadSize" : 2.593
 	},
 	"asylum-town" : {
