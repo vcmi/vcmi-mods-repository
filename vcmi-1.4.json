@@ -55,8 +55,8 @@
 		"downloadSize" : 25.969
 	},
 	"highlands-town" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/highlands-town/vcmi-1.3/mod.json",
-		"download" : "https://github.com/vcmi-mods/highlands-town/archive/refs/heads/vcmi-1.3.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/highlands-town/vcmi-1.4/mod.json",
+		"download" : "https://github.com/vcmi-mods/highlands-town/archive/refs/heads/vcmi-1.4.zip",
 		"downloadSize" : 19.003
 	},
 	"new-pavilion" : {
