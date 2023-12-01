@@ -222,8 +222,8 @@
 		"downloadSize" : 0.541
 	},
 	"magic-fader" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/magic-fader/vcmi-1.2/mod.json",
-		"download" : "https://github.com/vcmi-mods/magic-fader/archive/refs/heads/vcmi-1.2.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/magic-fader/vcmi-1.4/mod.json",
+		"download" : "https://github.com/vcmi-mods/magic-fader/archive/refs/heads/vcmi-1.4.zip",
 		"downloadSize" : 0.091
 	},
 	"grove" : {
