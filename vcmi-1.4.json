@@ -93,8 +93,8 @@
 		"downloadSize" : 6.706
 	},
 	"tok" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tok/vcmi-1.2/mod.json",
-		"download" : "https://github.com/vcmi-mods/tok/archive/refs/heads/vcmi-1.2.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tok/vcmi-1.4/mod.json",
+		"download" : "https://github.com/vcmi-mods/tok/archive/refs/heads/vcmi-1.4.zip",
 		"downloadSize" : 0.979
 	},
 	"elemental-nodes" : {
