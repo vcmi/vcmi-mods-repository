@@ -239,8 +239,8 @@
 		"downloadSize" : 19.492
 	},
 	"combine-grail" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/combine-grail/vcmi-1.2/combine-grail/mod.json",
-		"download" : "https://github.com/vcmi-mods/combine-grail/archive/refs/heads/vcmi-1.2.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/combine-grail/vcmi-1.4/combine-grail/mod.json",
+		"download" : "https://github.com/vcmi-mods/combine-grail/archive/refs/heads/vcmi-1.4.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/combine-grail/main/screenshots/screen1.png"
 		],
