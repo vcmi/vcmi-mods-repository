@@ -207,8 +207,8 @@
 		"downloadSize" : 4.062
 	},
 	"campaign-heroes" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/campaign-heroes/vcmi-1.2/mod.json",
-		"download" : "https://github.com/vcmi-mods/campaign-heroes/archive/refs/heads/vcmi-1.2.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/campaign-heroes/vcmi-1.4/mod.json",
+		"download" : "https://github.com/vcmi-mods/campaign-heroes/archive/refs/heads/vcmi-1.4.zip",
 		"downloadSize" : 0.093
 	},
 	"axolotl-creatures-pack" : {
