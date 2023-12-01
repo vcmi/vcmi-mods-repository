@@ -212,8 +212,8 @@
 		"downloadSize" : 0.093
 	},
 	"axolotl-creatures-pack" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/axolotl-creatures-pack/vcmi-1.3/mod.json",
-		"download" : "https://github.com/vcmi-mods/axolotl-creatures-pack/archive/refs/heads/vcmi-1.3.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/axolotl-creatures-pack/vcmi-1.4/mod.json",
+		"download" : "https://github.com/vcmi-mods/axolotl-creatures-pack/archive/refs/heads/vcmi-1.4.zip",
 		"downloadSize" : 63.659
 	},
 	"tarnum" : {
