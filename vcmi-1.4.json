@@ -362,9 +362,9 @@
 		"downloadSize" : 0.872
 	},
 	"carpet-whisperers" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/carpet-whisperers/vcmi-1.3/carpet-whisperers/mod.json",
-		"download" : "https://github.com/vcmi-mods/carpet-whisperers/archive/refs/heads/vcmi-1.3.zip",
-		"screenshots" : [
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/carpet-whisperers/vcmi-1.4/carpet-whisperers/mod.json",
+		"download" : "https://github.com/vcmi-mods/carpet-whisperers/archive/refs/heads/vcmi-1.4.zip",
+		"screenshots" : 4
 			"https://raw.githubusercontent.com/vcmi-mods/carpet-whisperers/vcmi-1.3/screenshots/screen01.png",
 			"https://raw.githubusercontent.com/vcmi-mods/carpet-whisperers/vcmi-1.3/screenshots/screen02.png"
 		],
