@@ -284,8 +284,8 @@
 		"downloadSize" : 27.721
 	},
 	"creatures-hidden-potential" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/creatures-hidden-potential/vcmi-1.3/creatures-hidden-potential/mod.json",
-		"download" : "https://github.com/vcmi-mods/creatures-hidden-potential/archive/refs/heads/vcmi-1.3.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/creatures-hidden-potential/vcmi-1.4/creatures-hidden-potential/mod.json",
+		"download" : "https://github.com/vcmi-mods/creatures-hidden-potential/archive/refs/heads/vcmi-1.4.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/creatures-hidden-potential/main/screenshots/screen1.png",
 			"https://raw.githubusercontent.com/vcmi-mods/creatures-hidden-potential/main/screenshots/screen2.png",
