@@ -354,8 +354,8 @@
 		"downloadSize" : 16.191
 	},
 	"lost-souls" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/lost-souls/vcmi-1.2/doomMod/mod.json",
-		"download" : "https://github.com/vcmi-mods/lost-souls/archive/refs/heads/vcmi-1.2.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/lost-souls/vcmi-1.4/doomMod/mod.json",
+		"download" : "https://github.com/vcmi-mods/lost-souls/archive/refs/heads/vcmi-1.4.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/lost-souls/main/screenshots/screen1.png"
 		],
