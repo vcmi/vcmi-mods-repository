@@ -307,8 +307,8 @@
 		"downloadSize" : 16.977
 	},
 	"preserve-town" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/preserve-town/vcmi-1.3/preserve/mod.json",
-		"download" : "https://github.com/vcmi-mods/preserve-town/archive/refs/heads/vcmi-1.3.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/preserve-town/vcmi-1.4/preserve/mod.json",
+		"download" : "https://github.com/vcmi-mods/preserve-town/archive/refs/heads/vcmi-1.4.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/preserve-town/main/screenshots/screen1.png",
 			"https://raw.githubusercontent.com/vcmi-mods/preserve-town/main/screenshots/screen2.png",
