@@ -421,16 +421,16 @@
 		"downloadSize" : 10.243
 	},
 	"russian-translation" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/vcmi-1.2/russian-translation/mod.json",
-		"download" : "https://github.com/vcmi-mods/mega-pack-rus/archive/refs/heads/vcmi-1.2.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/vcmi-1.4/russian-translation/mod.json",
+		"download" : "https://github.com/vcmi-mods/mega-pack-rus/archive/refs/heads/vcmi-1.4.zip",
 		"screenshots" : [
-			"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/vcmi-1.2/screenshots/sc-1.png",
-			"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/vcmi-1.2/screenshots/sc-2.png",
-			"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/vcmi-1.2/screenshots/sc-3.png",
-			"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/vcmi-1.2/screenshots/sc-4.png",
-			"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/vcmi-1.2/screenshots/sc-5.png",
-			"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/vcmi-1.2/screenshots/sc-6.png",
-			"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/vcmi-1.2/screenshots/sc-7.png"
+			"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/vcmi-1.4/screenshots/sc-1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/vcmi-1.4/screenshots/sc-2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/vcmi-1.4/screenshots/sc-3.png",
+			"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/vcmi-1.4/screenshots/sc-4.png",
+			"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/vcmi-1.4/screenshots/sc-5.png",
+			"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/vcmi-1.4/screenshots/sc-6.png",
+			"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/vcmi-1.4/screenshots/sc-7.png"
 		],
 		"downloadSize" : 37.48
 	},
