@@ -371,8 +371,8 @@
 		"downloadSize" : 3.434
 	},
 	"kurek-creatures" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/kurek-creatures/vcmi-1.2/kurek-creatures/mod.json",
-		"download" : "https://github.com/vcmi-mods/kurek-creatures/archive/refs/heads/vcmi-1.2.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/kurek-creatures/vcmi-1.4/kurek-creatures/mod.json",
+		"download" : "https://github.com/vcmi-mods/kurek-creatures/archive/refs/heads/vcmi-1.4.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/kurek-creatures/main/screenshots/screen1.png",
 			"https://raw.githubusercontent.com/vcmi-mods/kurek-creatures/main/screenshots/screen2.png"
@@ -380,16 +380,16 @@
 		"downloadSize" : 3.291
 	},
 	"undead-sphinxes" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/undead-sphinxes/vcmi-1.2/undeadSphinxes/mod.json",
-		"download" : "https://github.com/vcmi-mods/undead-sphinxes/archive/refs/heads/vcmi-1.2.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/undead-sphinxes/vcmi-1.4/undeadSphinxes/mod.json",
+		"download" : "https://github.com/vcmi-mods/undead-sphinxes/archive/refs/heads/vcmi-1.4.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/undead-sphinxes/main/screenshots/screen1.png"
 		],
 		"downloadSize" : 3.292
 	},
 	"andruids-spell-balance" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/andruids-spell-balance/vcmi-1.2/andruids-spell-balance/mod.json",
-		"download" : "https://github.com/vcmi-mods/andruids-spell-balance/archive/refs/heads/vcmi-1.2.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/andruids-spell-balance/vcmi-1.4/andruids-spell-balance/mod.json",
+		"download" : "https://github.com/vcmi-mods/andruids-spell-balance/archive/refs/heads/vcmi-1.4.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/andruids-spell-balance/main/screenshots/screen1.png"
 		],
