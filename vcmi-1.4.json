@@ -404,8 +404,8 @@
 		"downloadSize" : 2.1
 	},
 	"portraits-packs" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/portraits-packs/main/Portaits%20packs/mod.json",
-		"download" : "https://github.com/vcmi-mods/portraits-packs/archive/refs/heads/main.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/portraits-packs/vcmi-1.4/Portaits%20packs/mod.json",
+		"download" : "https://github.com/vcmi-mods/portraits-packs/archive/refs/heads/vcmi-1.4.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/portraits-packs/main/screenshots/screen1.png",
 			"https://raw.githubusercontent.com/vcmi-mods/portraits-packs/main/screenshots/screen2.png",
@@ -415,8 +415,8 @@
 		"downloadSize" : 12.101
 	},
 	"heroes-iii-orchestra" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/heroes-iii-orchestra/main/Heroes%20III%20Orchestra/mod.json",
-		"download" : "https://github.com/vcmi-mods/heroes-iii-orchestra/archive/refs/heads/main.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/heroes-iii-orchestra/vcmi-1.4/Heroes%20III%20Orchestra/mod.json",
+		"download" : "https://github.com/vcmi-mods/heroes-iii-orchestra/archive/refs/heads/vcmi-1.4.zip",
 		"screenshots" : [],
 		"downloadSize" : 10.243
 	},
@@ -435,8 +435,8 @@
 		"downloadSize" : 37.48
 	},
 	"new-interface-mod" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/main/New%20Interface%20Mod/mod.json",
-		"download" : "https://github.com/vcmi-mods/new-interface-mod/archive/refs/heads/main.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/vcmi-1.4/New%20Interface%20Mod/mod.json",
+		"download" : "https://github.com/vcmi-mods/new-interface-mod/archive/refs/heads/vcmi-1.4.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/main/screenshots/screen1.png",
 			"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/main/screenshots/screen2.png",
@@ -448,8 +448,8 @@
 		"downloadSize" : 18.897
 	},
 	"hi-rez-menu" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/hi-rez-menu/main/new-menu/mod.json",
-		"download" : "https://github.com/vcmi-mods/hi-rez-menu/archive/refs/heads/main.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/hi-rez-menu/vcmi-1.4/new-menu/mod.json",
+		"download" : "https://github.com/vcmi-mods/hi-rez-menu/archive/refs/heads/vcmi-1.4.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/hi-rez-menu/main/screenshots/screen1.png"
 		],
@@ -467,69 +467,69 @@
 		"downloadSize" : 14.198
 	},
 	"sand-tower" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/sand-tower/main/sand-tower/mod.json",
-		"download" : "https://github.com/vcmi-mods/sand-tower/archive/refs/heads/main.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/sand-tower/vcmi-1.4/sand-tower/mod.json",
+		"download" : "https://github.com/vcmi-mods/sand-tower/archive/refs/heads/vcmi-1.4.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/sand-tower/main/screenshots/screen1.png"
 		],
 		"downloadSize" : 3.669
 	},
 	"autumn-rampart" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/autumn-rampart/main/autumn-rampart/mod.json",
-		"download" : "https://github.com/vcmi-mods/autumn-rampart/archive/refs/heads/main.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/autumn-rampart/vcmi-1.4/autumn-rampart/mod.json",
+		"download" : "https://github.com/vcmi-mods/autumn-rampart/archive/refs/heads/vcmi-1.4.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/autumn-rampart/main/screenshots/screen1.png"
 		],
 		"downloadSize" : 6.0
 	},
 	"another-rampart" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/another-rampart/main/another-rampart/mod.json",
-		"download" : "https://github.com/vcmi-mods/another-rampart/archive/refs/heads/main.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/another-rampart/vcmi-1.4/another-rampart/mod.json",
+		"download" : "https://github.com/vcmi-mods/another-rampart/archive/refs/heads/vcmi-1.4.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/another-rampart/main/screenshots/screen1.png"
 		],
 		"downloadSize" : 4.185
 	},
 	"red-castle" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/red-castle/vcmi-1.2/red-castle/mod.json",
-		"download" : "https://github.com/vcmi-mods/red-castle/archive/refs/heads/vcmi-1.2.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/red-castle/vcmi-1.4/red-castle/mod.json",
+		"download" : "https://github.com/vcmi-mods/red-castle/archive/refs/heads/vcmi-1.4.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/red-castle/main/screenshots/screen1.png"
 		],
 		"downloadSize" : 3.201
 	},
 	"lotrd-townscreens" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/lotrd-townscreens/main/lotrd-townscreens/mod.json",
-		"download" : "https://github.com/vcmi-mods/lotrd-townscreens/archive/refs/heads/main.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/lotrd-townscreens/vcmi-1.4/lotrd-townscreens/mod.json",
+		"download" : "https://github.com/vcmi-mods/lotrd-townscreens/archive/refs/heads/vcmi-1.4.zip",
 		"downloadSize" : 13.247
 	},
 	"ghost-necropolis" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ghost-necropolis/main/ghost-necropolis/mod.json",
-		"download" : "https://github.com/vcmi-mods/ghost-necropolis/archive/refs/heads/main.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ghost-necropolis/vcmi-1.4/ghost-necropolis/mod.json",
+		"download" : "https://github.com/vcmi-mods/ghost-necropolis/archive/refs/heads/vcmi-1.4.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/ghost-necropolis/main/screenshots/screen1.png"
 		],
 		"downloadSize" : 20.311
 	},
 	"quartz" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/quartz/main/quartz/mod.json",
-		"download" : "https://github.com/vcmi-mods/quartz/archive/refs/heads/main.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/quartz/vcmi-1.4/quartz/mod.json",
+		"download" : "https://github.com/vcmi-mods/quartz/archive/refs/heads/vcmi-1.4.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/quartz/main/screenshots/screen1.png"
 		],
 		"downloadSize" : 16.794
 	},
 	"snow-in-Tower" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/snow-in-tower/main/snow-in-Tower/mod.json",
-		"download" : "https://github.com/vcmi-mods/snow-in-Tower/archive/refs/heads/main.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/snow-in-tower/vcmi-1.4/snow-in-Tower/mod.json",
+		"download" : "https://github.com/vcmi-mods/snow-in-Tower/archive/refs/heads/vcmi-1.4.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/snow-in-Tower/main/screenshots/screen1.png"
 		],
 		"downloadSize" : 9.997
 	},
 	"snow-castle" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/snow-castle/vcmi-1.2/snow-castle/mod.json",
-		"download" : "https://github.com/vcmi-mods/snow-castle/archive/refs/heads/vcmi-1.2.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/snow-castle/vcmi-1.4/snow-castle/mod.json",
+		"download" : "https://github.com/vcmi-mods/snow-castle/archive/refs/heads/vcmi-1.4.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/snow-castle/main/screenshots/screen1.png"
 		],
