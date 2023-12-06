@@ -546,8 +546,8 @@
 		"downloadSize" : 0.777
 	},
 	"refugee-town" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/refugee-town/vcmi-1.3/refugee-town/mod.json",
-		"download" : "https://github.com/vcmi-mods/refugee-town/archive/refs/heads/vcmi-1.3.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/refugee-town/vcmi-1.4/refugee-town/mod.json",
+		"download" : "https://github.com/vcmi-mods/refugee-town/archive/refs/heads/vcmi-1.4.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/refugee-town/main/screenshots/screen1.png",
 			"https://raw.githubusercontent.com/vcmi-mods/refugee-town/main/screenshots/screen2.png",
@@ -558,8 +558,8 @@
 		"downloadSize" : 27.99
 	},
 	"asphalt-terrain" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/asphalt-terrain/vcmi-1.3/asphalt-terrain/mod.json",
-		"download" : "https://github.com/vcmi-mods/asphalt-terrain/archive/refs/heads/vcmi-1.3.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/asphalt-terrain/vcmi-1.4/asphalt-terrain/mod.json",
+		"download" : "https://github.com/vcmi-mods/asphalt-terrain/archive/refs/heads/vcmi-1.4.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/asphalt-terrain/vcmi-1.2/screenshots/screen01.png",
 			"https://raw.githubusercontent.com/vcmi-mods/asphalt-terrain/vcmi-1.2/screenshots/screen02.png"
