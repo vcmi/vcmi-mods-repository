@@ -765,5 +765,14 @@
 			"https://raw.githubusercontent.com/vcmi-mods/crossroads-of-worlds/vcmi-1.4/screenshots/screen10.png"
 		],
 		"downloadSize" : 150.242
+	},
+	"ai-loading-screens" : {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ai-loading-screens/vcmi-1.4/ai-loading-screens/mod.json",
+		"download" : "https://github.com/vcmi-mods/ai-loading-screens/archive/refs/heads/vcmi-1.4.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/vcmi-mods/ai-loading-screens/vcmi-1.4/screenshots/screen01.png",
+			"https://raw.githubusercontent.com/vcmi-mods/ai-loading-screens/vcmi-1.4/screenshots/screen02.png",
+			"https://raw.githubusercontent.com/vcmi-mods/ai-loading-screens/vcmi-1.4/screenshots/screen03.png"
+		]
 	}
 }
