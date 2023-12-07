@@ -217,8 +217,11 @@
 		"downloadSize" : 63.66
 	},
 	"tarnum" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tarnum/vcmi-1.4/mod.json",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tarnum/vcmi-1.4/tarnum/mod.json",
 		"download" : "https://github.com/vcmi-mods/tarnum/archive/refs/heads/vcmi-1.4.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/vcmi-mods/tarnum/vcmi-1.4/screenshots/tarnumVizier.png"
+		],
 		"downloadSize" : 0.541
 	},
 	"magic-fader" : {
