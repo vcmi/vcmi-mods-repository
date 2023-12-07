@@ -18,7 +18,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.4/screenshots/08.png",
 			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.4/screenshots/09.png"
 		],
-		"downloadSize" : 109.611
+		"downloadSize" : 109.62
 	},
 	"wake-of-gods" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.4/mod.json",
@@ -95,7 +95,7 @@
 	"tok" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tok/vcmi-1.4/mod.json",
 		"download" : "https://github.com/vcmi-mods/tok/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 0.979
+		"downloadSize" : 1.69
 	},
 	"elemental-nodes" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/elemental-nodes/vcmi-1.4/elemental-nodes/mod.json",
@@ -222,7 +222,7 @@
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/tarnum/vcmi-1.4/screenshots/tarnumVizier.png"
 		],
-		"downloadSize" : 0.541
+		"downloadSize" : 1.586
 	},
 	"magic-fader" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/magic-fader/vcmi-1.4/mod.json",
@@ -663,12 +663,12 @@
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/campaings-pack/vcmi-1.3/screenshots/screen01.png"
 		],
-		"downloadSize" : 11.219
+		"downloadSize" : 11.223
 	},
 	"dydzios-map-pack" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/dydzios-map-pack/vcmi-1.4/dydzios-map-pack/mod.json",
 		"download" : "https://github.com/vcmi-mods/dydzios-map-pack/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 49.838
+		"downloadSize" : 49.395
 	},
 	"h3-campaigns-remade" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/h3-campaigns-remade/vcmi-1.4/h3-campaigns-remade/mod.json",
