@@ -608,8 +608,8 @@
 		"downloadSize" : 1.342
 	},
 	"warzyw-templates" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/warzyw-templates/vcmi-1.3/warzyw-templates/mod.json",
-		"download" : "https://github.com/vcmi-mods/warzyw-templates/archive/refs/heads/vcmi-1.3.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/warzyw-templates/vcmi-1.4/warzyw-templates/mod.json",
+		"download" : "https://github.com/vcmi-mods/warzyw-templates/archive/refs/heads/vcmi-1.4.zip",
 		"downloadSize" : 0.038
 	},
 	"wyrmsun-boats" : {
