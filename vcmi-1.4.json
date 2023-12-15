@@ -668,7 +668,7 @@
 	"dydzios-map-pack" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/dydzios-map-pack/vcmi-1.4/dydzios-map-pack/mod.json",
 		"download" : "https://github.com/vcmi-mods/dydzios-map-pack/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 49.395
+		"downloadSize" : 49.291
 	},
 	"h3-campaigns-remade" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/h3-campaigns-remade/vcmi-1.4/h3-campaigns-remade/mod.json",
@@ -764,7 +764,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/crossroads-of-worlds/vcmi-1.4/screenshots/screen09.png",
 			"https://raw.githubusercontent.com/vcmi-mods/crossroads-of-worlds/vcmi-1.4/screenshots/screen10.png"
 		],
-		"downloadSize" : 150.242
+		"downloadSize" : 150.243
 	},
 	"ai-loading-screens" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ai-loading-screens/vcmi-1.4/ai-loading-screens/mod.json",
