@@ -775,5 +775,18 @@
 			"https://raw.githubusercontent.com/vcmi-mods/ai-loading-screens/vcmi-1.4/screenshots/screen03.png"
 		],
 		"downloadSize" : 13.429
+	},
+	"h3Evo" : {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/H3Evo/main/mod.json",
+		"download" : "https://github.com/vcmi-mods/H3Evo/archive/refs/heads/main.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/vcmi-mods/H3Evo/main/Screenshots/Adventure Map.png",
+			"https://raw.githubusercontent.com/vcmi-mods/H3Evo/main/Screenshots/Instalation 1 - Needed WoG Submods.png",
+			"https://raw.githubusercontent.com/vcmi-mods/H3Evo/main/Screenshots/Instalation 2 - Needed ToW Submods.png",
+			"https://raw.githubusercontent.com/vcmi-mods/H3Evo/main/Screenshots/Instalation 3 - Needed Andruids Expansion Submods.png",
+			"https://raw.githubusercontent.com/vcmi-mods/H3Evo/main/Screenshots/ToW alternate creatures - Tower Build Screen.png",
+			"https://raw.githubusercontent.com/vcmi-mods/H3Evo/main/Screenshots/ToW alternate creatures - Tower Overview.png",
+			"https://raw.githubusercontent.com/vcmi-mods/H3Evo/main/Screenshots/ToW alternate creatures - Tower Recruting Screen.png"
+		]
 	}
 }
