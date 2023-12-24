@@ -1,0 +1,98 @@
+{
+	"horde-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/horde-town/vcmi-1.4/horde-town/mod.json",
+		"download" : "https://github.com/misiokles/horde-town/archive/refs/heads/vcmi-1.4.zip"
+	},
+	"ciberium-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/ciberium-town/vcmi-1.4/ciberium-town/mod.json",
+		"download" : "https://github.com/misiokles/ciberium-town/archive/refs/heads/vcmi-1.4.zip"
+	},
+	"foundry-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/foundry-town/vcmi-1.4/foundry-town/mod.json",
+		"download" : "https://github.com/misiokles/foundry-town/archive/refs/heads/vcmi-1.4.zip"
+	},
+	"dark-dwarf-at-arms" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/dark-dwarf-at-arms/vcmi-1.4/dark-dwarf-at-arms/mod.json",
+		"download" : "https://github.com/misiokles/dark-dwarf-at-arms/archive/refs/heads/vcmi-1.4.zip"
+	},
+	"small-era-mods" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/small-era-mods/vcmi-1.4/small-era-mods/mod.json",
+		"download" : "https://github.com/misiokles/small-era-mods/archive/refs/heads/vcmi-1.4.zip"
+	},
+	"HoMM3-alternative-towns-music" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/HoMM3-alternative-towns-music/vcmi-1.4/HoMM3-alternative-towns-music/mod.json",
+		"download" : "https://github.com/misiokles/HoMM3-alternative-towns-music/archive/refs/heads/vcmi-1.4.zip"
+	},
+	"heroes-chronicles" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/heroes-chronicles/vcmi-1.4/heroes-chronicles/mod.json",
+		"download" : "https://github.com/misiokles/heroes-chronicles/archive/refs/heads/vcmi-1.4.zip"
+	},
+	"mythology-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/ruins-town-alt/vcmi-1.4/ruins-town-alt/mod.json",
+		"download" : "https://github.com/misiokles/ruins-town-alt/archive/refs/heads/vcmi-1.4.zip"
+	},
+	"astral-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/astral-town/vcmi-1.4/astral-town/mod.json",
+		"download" : "https://github.com/misiokles/astral-town/archive/refs/heads/vcmi-1.4.zip"
+	},
+	"golemcraft" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/golemcraft/vcmi-1.4/golemcraft/mod.json",
+		"download" : "https://github.com/misiokles/golemcraft/archive/refs/heads/vcmi-1.4.zip"
+	},
+	"ballista-bank" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/ballista-bank/vcmi-1.4/ballista-bank/mod.json",
+		"download" : "https://github.com/misiokles/ballista-bank/archive/refs/heads/vcmi-1.4.zip"
+	},
+	"slothlux-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/slothlux-town/vcmi-1.4/slothlux-town/mod.json",
+		"download" : "https://github.com/misiokles/slothlux-town/archive/refs/heads/vcmi-1.4.zip"
+	},
+	"peachville-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/peachville-town/vcmi-1.4/peachville-town/mod.json",
+		"download" : "https://github.com/misiokles/peachville-town/archive/refs/heads/vcmi-1.4.zip"
+	},
+	"palace-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/palace-town/vcmi-1.4/palace-town/mod.json",
+		"download" : "https://github.com/misiokles/palace-town/archive/refs/heads/vcmi-1.4.zip"
+	},
+	"wicked-witch" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/wicked-witch/vcmi-1.4/wicked-witch/mod.json",
+		"download" : "https://github.com/misiokles/wicked-witch/archive/refs/heads/vcmi-1.4.zip"
+	},
+	"h4-arts-hero" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/h4-arts-hero/vcmi-1.4/h4-arts-hero/mod.json",
+		"download" : "https://github.com/misiokles/h4-arts-hero/archive/refs/heads/vcmi-1.4.zip"
+	},
+	"h2-artifacts" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/h2-artifacts/vcmi-1.4/h2-artifacts/mod.json",
+		"download" : "https://github.com/misiokles/h2-artifacts/archive/refs/heads/vcmi-1.4.zip"
+	},
+	"abaddon-column" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/abaddon-column/vcmi-1.4/abaddon-column/mod.json",
+		"download" : "https://github.com/misiokles/abaddon-column/archive/refs/heads/vcmi-1.4.zip"
+	},
+	"alpha-mod" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/alpha-mod/vcmi-1.4/alpha-mod/mod.json",
+		"download" : "https://github.com/misiokles/alpha-mod/archive/refs/heads/vcmi-1.4.zip"
+	},
+	"regna-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/regna-town/vcmi-1.4/regna-town/mod.json",
+		"download" : "https://github.com/misiokles/regna-town/archive/refs/heads/vcmi-1.4.zip"
+	},
+	"swarm-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/swarm-town/vcmi-1.4/swarm-town/mod.json",
+		"download" : "https://github.com/misiokles/swarm-town/archive/refs/heads/vcmi-1.4.zip"
+	},
+	"rampstorm" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/rampstorm/vcmi-1.4/rampstorm/mod.json",
+		"download" : "https://github.com/misiokles/rampstorm/archive/refs/heads/vcmi-1.4.zip"
+	},
+	"atlantis-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/atlantis-town/vcmi-1.4/atlantis-town/mod.json",
+		"download" : "https://github.com/misiokles/atlantis-town/archive/refs/heads/vcmi-1.4.zip"
+	},
+	"technocracy-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/technocracy-town/vcmi-1.4/technocracy-town/mod.json",
+		"download" : "https://github.com/misiokles/technocracy-town/archive/refs/heads/vcmi-1.4.zip"
+	}
+}
