@@ -789,5 +789,9 @@
 			"https://raw.githubusercontent.com/vcmi-mods/H3Evo/main/Screenshots/ToW alternate creatures - Tower Recruting Screen.png"
 		],
 		"downloadSize" : 7.604
+	},
+	"small-era-mods" : {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/small-era-mods/vcmi-1.4/small-era-mods/mod.json",
+		"download" : "https://github.com/vcmi-mods/small-era-mods/archive/refs/heads/vcmi-1.4.zip"
 	}
 }
