@@ -277,7 +277,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.4/screenshots/screen4.png",
 			"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.4/screenshots/screen5.png"
 		],
-		"downloadSize" : 22.225
+		"downloadSize" : 22.23
 	},
 	"h3-themes" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.4/h3-themes/mod.json",
@@ -579,7 +579,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.4/screenshots/screen12.png",
 			"https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.4/screenshots/screen13.png"
 		],
-		"downloadSize" : 24.365
+		"downloadSize" : 24.364
 	},
 	"forge2k" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/forge2k/vcmi-1.4/Forge2k/mod.json",
