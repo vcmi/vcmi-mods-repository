@@ -795,5 +795,14 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/small-era-mods/vcmi-1.4/small-era-mods/mod.json",
 		"download" : "https://github.com/vcmi-mods/small-era-mods/archive/refs/heads/vcmi-1.4.zip",
 		"downloadSize" : 15.073
+	},
+	"flugel-creature" : {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/flugel-creature/vcmi-1.4/flugel/mod.json",
+		"download" : "https://github.com/vcmi-mods/flugel-creature/archive/refs/heads/vcmi-1.4.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/vcmi-mods/flugel-creature/vcmi-1.4/screenshots/Screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/flugel-creature/vcmi-1.4/screenshots/Screen2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/flugel-creature/vcmi-1.4/screenshots/Screen3.png"
+		]
 	}
 }
