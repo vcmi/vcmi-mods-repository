@@ -542,7 +542,7 @@
 	"boost-ai" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/boost-ai/vcmi-1.4/mod.json",
 		"download" : "https://github.com/vcmi-mods/boost-ai/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 0.006
+		"downloadSize" : 0.008
 	},
 	"an-expansion" : {
 		"mod" : "https://raw.githubusercontent.com/vdhan/an-expansion/master/mod.json",
@@ -803,6 +803,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/flugel-creature/vcmi-1.4/screenshots/Screen1.png",
 			"https://raw.githubusercontent.com/vcmi-mods/flugel-creature/vcmi-1.4/screenshots/Screen2.png",
 			"https://raw.githubusercontent.com/vcmi-mods/flugel-creature/vcmi-1.4/screenshots/Screen3.png"
-		]
+		],
+		"downloadSize" : 49.437
 	}
 }
