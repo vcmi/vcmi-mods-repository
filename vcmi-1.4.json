@@ -808,6 +808,7 @@
 	},
 	"extreme-ai" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/extreme-ai/vcmi-1.4/extreme-ai/mod.json",
-		"download" : "https://github.com/vcmi-mods/extreme-ai/archive/refs/heads/vcmi-1.4.zip"
+		"download" : "https://github.com/vcmi-mods/extreme-ai/archive/refs/heads/vcmi-1.4.zip",
+		"downloadSize" : 0.002
 	}
 }
