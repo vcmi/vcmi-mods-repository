@@ -228,7 +228,7 @@
 	"magic-fader" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/magic-fader/vcmi-1.4/mod.json",
 		"download" : "https://github.com/vcmi-mods/magic-fader/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 0.091
+		"downloadSize" : 0.092
 	},
 	"grove" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/grove/vcmi-1.4/Grove/mod.json",
