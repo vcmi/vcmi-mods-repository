@@ -91,7 +91,7 @@
 	"andruids-expansion" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/andruids-expansion/vcmi-1.4/andruids-expansion/mod.json",
 		"download" : "https://github.com/vcmi-mods/andruids-expansion/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 6.706
+		"downloadSize" : 6.707
 	},
 	"tok" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tok/vcmi-1.4/mod.json",
@@ -308,7 +308,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen5.png",
 			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen6.png"
 		],
-		"downloadSize" : 16.357
+		"downloadSize" : 16.49
 	},
 	"preserve-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/preserve-town/vcmi-1.4/preserve/mod.json",
@@ -333,7 +333,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/abyss-town/main/screenshots/screen4.png",
 			"https://raw.githubusercontent.com/vcmi-mods/abyss-town/main/screenshots/screen5.png"
 		],
-		"downloadSize" : 32.784
+		"downloadSize" : 32.783
 	},
 	"retreat-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/retreat-town/vcmi-1.2/retreat-town/mod.json",
