@@ -160,7 +160,7 @@
 	"chinese-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/chinese-translation/vcmi-1.4/chinese-translation/mod.json",
 		"download" : "https://github.com/vcmi-mods/chinese-translation/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 20.242
+		"downloadSize" : 20.243
 	},
 	"french-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/french-translation/vcmi-1.4/french-translation/mod.json",
@@ -308,7 +308,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen5.png",
 			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen6.png"
 		],
-		"downloadSize" : 16.49
+		"downloadSize" : 16.493
 	},
 	"preserve-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/preserve-town/vcmi-1.4/preserve/mod.json",
