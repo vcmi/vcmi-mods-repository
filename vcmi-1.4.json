@@ -810,5 +810,13 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/extreme-ai/vcmi-1.4/extreme-ai/mod.json",
 		"download" : "https://github.com/vcmi-mods/extreme-ai/archive/refs/heads/vcmi-1.4.zip",
 		"downloadSize" : 0.002
+	},
+	"object-pack" : {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/object-pack/vcmi-1.4/object-pack/mod.json",
+		"download" : "https://github.com/vcmi-mods/object-pack/archive/refs/heads/vcmi-1.4.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/vcmi-mods/object-pack/vcmi-1.4/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/object-pack/vcmi-1.4/screenshots/screen2.png"
+		]
 	}
 }
