@@ -817,6 +817,7 @@
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/object-pack/vcmi-1.4/screenshots/screen1.png",
 			"https://raw.githubusercontent.com/vcmi-mods/object-pack/vcmi-1.4/screenshots/screen2.png"
-		]
+		],
+		"downloadSize" : 0.568
 	}
 }
