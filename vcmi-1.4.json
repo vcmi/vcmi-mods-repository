@@ -52,7 +52,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen6.png",
 			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen7.png"
 		],
-		"downloadSize" : 25.975
+		"downloadSize" : 26.542
 	},
 	"highlands-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/highlands-town/vcmi-1.4/mod.json",
@@ -308,7 +308,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen5.png",
 			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen6.png"
 		],
-		"downloadSize" : 16.493
+		"downloadSize" : 16.618
 	},
 	"preserve-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/preserve-town/vcmi-1.4/preserve/mod.json",
@@ -449,7 +449,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/main/screenshots/screen5.png",
 			"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/main/screenshots/screen6.png"
 		],
-		"downloadSize" : 26.573
+		"downloadSize" : 32.425
 	},
 	"hi-rez-menu" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/hi-rez-menu/vcmi-1.4/new-menu/mod.json",
@@ -694,7 +694,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/test-map-spells-mod/vcmi-1.3/screenshots/screen02.png",
 			"https://raw.githubusercontent.com/vcmi-mods/test-map-spells-mod/vcmi-1.3/screenshots/screen03.png"
 		],
-		"downloadSize" : 2.117
+		"downloadSize" : 2.119
 	},
 	"third-upgrades" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.4/third-upgrades/mod.json",
