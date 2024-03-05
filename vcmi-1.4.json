@@ -38,7 +38,7 @@
 	"neutral-heroes" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/neutral-heroes/vcmi-1.4/mod.json",
 		"download" : "https://github.com/vcmi-mods/neutral-heroes/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 2.593
+		"downloadSize" : 2.596
 	},
 	"asylum-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/asylum-town/vcmi-1.4/asylum-town/mod.json",
@@ -105,7 +105,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/elemental-nodes/vcmi-1.4/screenshots/screen1.png",
 			"https://raw.githubusercontent.com/vcmi-mods/elemental-nodes/vcmi-1.4/screenshots/screen2.png"
 		],
-		"downloadSize" : 1.404
+		"downloadSize" : 1.405
 	},
 	"german-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/german-translation/vcmi-1.4/mod.json",
@@ -308,7 +308,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen5.png",
 			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen6.png"
 		],
-		"downloadSize" : 16.491
+		"downloadSize" : 16.497
 	},
 	"preserve-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/preserve-town/vcmi-1.4/preserve/mod.json",
@@ -363,7 +363,7 @@
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/lost-souls/main/screenshots/screen1.png"
 		],
-		"downloadSize" : 0.872
+		"downloadSize" : 0.873
 	},
 	"carpet-whisperers" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/carpet-whisperers/vcmi-1.4/carpet-whisperers/mod.json",
@@ -389,7 +389,7 @@
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/undead-sphinxes/main/screenshots/screen1.png"
 		],
-		"downloadSize" : 3.292
+		"downloadSize" : 3.293
 	},
 	"andruids-spell-balance" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/andruids-spell-balance/vcmi-1.4/andruids-spell-balance/mod.json",
@@ -620,7 +620,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/wyrmsun-boats/vcmi-1.4/screenshots/screen1.png",
 			"https://raw.githubusercontent.com/vcmi-mods/wyrmsun-boats/vcmi-1.4/screenshots/screen2.png"
 		],
-		"downloadSize" : 1.793
+		"downloadSize" : 1.794
 	},
 	"ensrick-portraits" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ensrick-portraits/vcmi-1.4/ensrick-portraits/mod.json",
