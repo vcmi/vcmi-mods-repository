@@ -23,7 +23,7 @@
 	"wake-of-gods" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.4/mod.json",
 		"download" : "https://github.com/vcmi-mods/wake-of-gods/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 69.286
+		"downloadSize" : 68.817
 	},
 	"tides-of-war" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tides-of-war/vcmi-1.4/mod.json",
@@ -537,7 +537,7 @@
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/snow-castle/main/screenshots/screen1.png"
 		],
-		"downloadSize" : 4.639
+		"downloadSize" : 5.946
 	},
 	"boost-ai" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/boost-ai/vcmi-1.4/mod.json",
@@ -597,7 +597,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-assets/vcmi-1.4/screenshots/screen01.png",
 			"https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-assets/vcmi-1.4/screenshots/screen02.png"
 		],
-		"downloadSize" : 17.922
+		"downloadSize" : 17.923
 	},
 	"ab-bad-ending-maps" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-maps/vcmi-1.4/AB Bad Ending Maps/mod.json",
