@@ -18,12 +18,12 @@
 			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.4/screenshots/08.png",
 			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.4/screenshots/09.png"
 		],
-		"downloadSize" : 109.666
+		"downloadSize" : 109.664
 	},
 	"wake-of-gods" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.4/mod.json",
 		"download" : "https://github.com/vcmi-mods/wake-of-gods/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 69.286
+		"downloadSize" : 68.817
 	},
 	"tides-of-war" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tides-of-war/vcmi-1.4/mod.json",
@@ -57,7 +57,7 @@
 	"highlands-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/highlands-town/vcmi-1.4/mod.json",
 		"download" : "https://github.com/vcmi-mods/highlands-town/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 18.976
+		"downloadSize" : 13.209
 	},
 	"new-pavilion" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.4/New Pavilion/mod.json",
@@ -81,7 +81,7 @@
 	"death-valley-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/death-valley-town/vcmi-1.4/death-valley-town/mod.json",
 		"download" : "https://github.com/vcmi-mods/death-valley-town/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 23.567
+		"downloadSize" : 19.658
 	},
 	"reworked-commanders" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/reworked-commanders/vcmi-1.4/reworked-commanders/mod.json",
@@ -308,7 +308,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen5.png",
 			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen6.png"
 		],
-		"downloadSize" : 16.498
+		"downloadSize" : 16.5
 	},
 	"preserve-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/preserve-town/vcmi-1.4/preserve/mod.json",
@@ -389,7 +389,7 @@
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/undead-sphinxes/main/screenshots/screen1.png"
 		],
-		"downloadSize" : 3.293
+		"downloadSize" : 3.464
 	},
 	"andruids-spell-balance" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/andruids-spell-balance/vcmi-1.4/andruids-spell-balance/mod.json",
@@ -537,12 +537,12 @@
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/snow-castle/main/screenshots/screen1.png"
 		],
-		"downloadSize" : 4.639
+		"downloadSize" : 5.946
 	},
 	"boost-ai" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/boost-ai/vcmi-1.5/mod.json",
 		"download" : "https://github.com/vcmi-mods/boost-ai/archive/refs/heads/vcmi-1.5.zip",
-		"downloadSize" : 0.008
+		"downloadSize" : 0.013
 	},
 	"an-expansion" : {
 		"mod" : "https://raw.githubusercontent.com/vdhan/an-expansion/master/mod.json",
@@ -597,7 +597,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-assets/vcmi-1.4/screenshots/screen01.png",
 			"https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-assets/vcmi-1.4/screenshots/screen02.png"
 		],
-		"downloadSize" : 17.922
+		"downloadSize" : 17.923
 	},
 	"ab-bad-ending-maps" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-maps/vcmi-1.4/AB Bad Ending Maps/mod.json",
