@@ -6,7 +6,7 @@
 	},
 	"hota" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.4/hota/mod.json",
-		"download" : "https://github.com/vcmi-mods/horn-of-the-abyss/archive/refs/heads/vcmi-1.4.zip",
+		"download" : "https://github.com/vcmi-mods/horn-of-the-abyss/archive/refs/heads/vcmi-1.5.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.4/screenshots/01.png",
 			"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.4/screenshots/02.png",
@@ -61,7 +61,7 @@
 	},
 	"new-pavilion" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.4/New Pavilion/mod.json",
-		"download" : "https://github.com/vcmi-mods/new-pavilion/archive/refs/heads/vcmi-1.4.zip",
+		"download" : "https://github.com/vcmi-mods/new-pavilion/archive/refs/heads/vcmi-1.5.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.4/screenshots/screen1.png",
 			"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.4/screenshots/screen2.png",
