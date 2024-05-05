@@ -265,7 +265,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/haven-town/vcmi-1.4/screenshots/screen1.png",
 			"https://raw.githubusercontent.com/vcmi-mods/haven-town/vcmi-1.4/screenshots/screen2.png"
 		],
-		"downloadSize" : 10.188
+		"downloadSize" : 10.867
 	},
 	"ruins-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.4/ruins-town/mod.json",
@@ -308,7 +308,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen5.png",
 			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen6.png"
 		],
-		"downloadSize" : 16.5
+		"downloadSize" : 16.073
 	},
 	"preserve-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/preserve-town/vcmi-1.4/preserve/mod.json",
@@ -321,7 +321,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/preserve-town/main/screenshots/screen5.png",
 			"https://raw.githubusercontent.com/vcmi-mods/preserve-town/main/screenshots/screen6.png"
 		],
-		"downloadSize" : 28.539
+		"downloadSize" : 28.149
 	},
 	"abyss-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/abyss-town/vcmi-1.4/abyss-town/mod.json",
@@ -355,7 +355,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/cetatea-town/main/screenshots/screen4.png",
 			"https://raw.githubusercontent.com/vcmi-mods/cetatea-town/main/screenshots/screen5.png"
 		],
-		"downloadSize" : 16.199
+		"downloadSize" : 14.447
 	},
 	"lost-souls" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/lost-souls/vcmi-1.4/doomMod/mod.json",
