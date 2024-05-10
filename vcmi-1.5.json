@@ -819,5 +819,9 @@
 			"https://raw.githubusercontent.com/vcmi-mods/object-pack/vcmi-1.4/screenshots/screen2.png"
 		],
 		"downloadSize" : 0.57
+	},
+	"tavern-invite" : {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tavern-invite/vcmi-1.5/mod.json",
+		"download" : "https://github.com/vcmi-mods/tavern-invite/archive/refs/heads/vcmi-1.5.zip"
 	}
 }
