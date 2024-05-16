@@ -285,7 +285,7 @@
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/h3-themes/main/screenshots/screen1.png"
 		],
-		"downloadSize" : 27.721
+		"downloadSize" : 60.626
 	},
 	"creatures-hidden-potential" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/creatures-hidden-potential/vcmi-1.4/creatures-hidden-potential/mod.json",
@@ -416,7 +416,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/portraits-packs/main/screenshots/screen3.png",
 			"https://raw.githubusercontent.com/vcmi-mods/portraits-packs/main/screenshots/screen4.png"
 		],
-		"downloadSize" : 12.116
+		"downloadSize" : 17.58
 	},
 	"heroes-iii-orchestra" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/heroes-iii-orchestra/vcmi-1.4/Heroes%20III%20Orchestra/mod.json",
