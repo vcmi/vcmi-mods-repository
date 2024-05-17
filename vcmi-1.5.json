@@ -824,5 +824,9 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tavern-invite/vcmi-1.5/mod.json",
 		"download" : "https://github.com/vcmi-mods/tavern-invite/archive/refs/heads/vcmi-1.5.zip",
 		"downloadSize" : 0.001
+	},
+	"ultimate-balance" : {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ultimate-balance/vcmi-1.5/mod.json",
+		"download" : "https://github.com/vcmi-mods/ultimate-balance/archive/refs/heads/vcmi-1.5.zip"
 	}
 }
