@@ -606,7 +606,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-maps/vcmi-1.4/screenshots/screen01.png",
 			"https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-maps/vcmi-1.4/screenshots/screen02.png"
 		],
-		"downloadSize" : 1.342
+		"downloadSize" : 1.337
 	},
 	"warzyw-templates" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/warzyw-templates/vcmi-1.4/warzyw-templates/mod.json",
@@ -827,6 +827,7 @@
 	},
 	"ultimate-balance" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ultimate-balance/vcmi-1.5/mod.json",
-		"download" : "https://github.com/vcmi-mods/ultimate-balance/archive/refs/heads/vcmi-1.5.zip"
+		"download" : "https://github.com/vcmi-mods/ultimate-balance/archive/refs/heads/vcmi-1.5.zip",
+		"downloadSize" : 0.01
 	}
 }
