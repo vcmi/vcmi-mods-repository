@@ -277,7 +277,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.4/screenshots/screen4.png",
 			"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.4/screenshots/screen5.png"
 		],
-		"downloadSize" : 23.308
+		"downloadSize" : 23.322
 	},
 	"h3-themes" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.4/h3-themes/mod.json",
@@ -547,7 +547,7 @@
 	"an-expansion" : {
 		"mod" : "https://raw.githubusercontent.com/vdhan/an-expansion/master/mod.json",
 		"download" : "https://github.com/vdhan/an-expansion/archive/refs/heads/master.zip",
-		"downloadSize" : 0.779
+		"downloadSize" : 0.783
 	},
 	"refugee-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/refugee-town/vcmi-1.4/refugee-town/mod.json",
