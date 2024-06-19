@@ -42,7 +42,7 @@
 	"astral-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/astral-town/vcmi-1.4/astral-town/mod.json",
 		"download" : "https://github.com/misiokles/astral-town/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 10.286
+		"downloadSize" : 10.29
 	},
 	"golemcraft" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/golemcraft/vcmi-1.4/golemcraft/mod.json",
