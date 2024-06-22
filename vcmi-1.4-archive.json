@@ -30,8 +30,8 @@
 		"downloadSize" : 9.836
 	},
 	"heroes-chronicles" : {
-		"mod" : "https://raw.githubusercontent.com/misiokles/heroes-chronicles/vcmi-1.4/heroes-chronicles/mod.json",
-		"download" : "https://github.com/misiokles/heroes-chronicles/archive/refs/heads/vcmi-1.4.zip",
+		"mod" : "https://raw.githubusercontent.com/lishaoxia1985/heroesChronicles/master/mod.json",
+		"download" : "https://github.com/lishaoxia1985/heroesChronicles/archive/refs/heads/master.zip",
 		"downloadSize" : 177.977
 	},
 	"mythology-town" : {
