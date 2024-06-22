@@ -140,7 +140,7 @@
 	"portuguese-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/portuguese-translation/vcmi-1.4/portuguese-translation/mod.json",
 		"download" : "https://github.com/vcmi-mods/portuguese-translation/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 0.351
+		"downloadSize" : 10.025
 	},
 	"swedish-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/swedish-translation/vcmi-1.4/swedish-translation/mod.json",
@@ -160,7 +160,7 @@
 	"chinese-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/chinese-translation/vcmi-1.4/chinese-translation/mod.json",
 		"download" : "https://github.com/vcmi-mods/chinese-translation/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 20.243
+		"downloadSize" : 20.245
 	},
 	"french-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/french-translation/vcmi-1.4/french-translation/mod.json",
@@ -547,7 +547,7 @@
 	"an-expansion" : {
 		"mod" : "https://raw.githubusercontent.com/vdhan/an-expansion/master/mod.json",
 		"download" : "https://github.com/vdhan/an-expansion/archive/refs/heads/master.zip",
-		"downloadSize" : 6.523
+		"downloadSize" : 6.591
 	},
 	"refugee-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/refugee-town/vcmi-1.4/refugee-town/mod.json",
