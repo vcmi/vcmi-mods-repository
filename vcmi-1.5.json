@@ -547,7 +547,7 @@
 	"an-expansion" : {
 		"mod" : "https://raw.githubusercontent.com/vdhan/an-expansion/master/mod.json",
 		"download" : "https://github.com/vdhan/an-expansion/archive/refs/heads/master.zip",
-		"downloadSize" : 6.591
+		"downloadSize" : 6.592
 	},
 	"refugee-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/refugee-town/vcmi-1.4/refugee-town/mod.json",
@@ -833,6 +833,6 @@
 	"pvp-balance" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/pvp-balance/vcmi-1.5/mod.json",
 		"download" : "https://github.com/vcmi-mods/pvp-balance/archive/refs/heads/vcmi-1.5.zip",
-		"downloadSize" : 0.119
+		"downloadSize" : 1.207
 	}
 }

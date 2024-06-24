@@ -2,7 +2,7 @@
 	"horde-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/horde-town/vcmi-1.4/horde-town/mod.json",
 		"download" : "https://github.com/misiokles/horde-town/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 16.44
+		"downloadSize" : 16.444
 	},
 	"ciberium-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/ciberium-town/vcmi-1.4/ciberium-town/mod.json",
