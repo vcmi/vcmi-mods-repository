@@ -17,7 +17,7 @@ for filename in glob.glob(os.path.join('.', '*.json')):
             try:
                 response = urllib.request.urlopen(url)
             except:
-                print(f"Error: download failed!")
+                print("Error: download failed!")
                 sys.exit(os.EX_SOFTWARE)
             filesize = round(len(response.read()) / 1024 / 1024, 3)
             print(f"Size: {filesize}")
