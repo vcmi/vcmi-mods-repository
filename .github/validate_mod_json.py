@@ -20,7 +20,7 @@ for filename in glob.glob(os.path.join('.', '*.json')):
                 response = urllib.request.urlopen(url)
             except:
                 error = True
-                print(f"Error: download failed!")
+                print("Error: download failed!")
                 continue
             filecontent = response.read()
             
