@@ -118,5 +118,9 @@
 		"mod" : "https://raw.githubusercontent.com/misiokles/technocracy-town/vcmi-1.4/technocracy-town/mod.json",
 		"download" : "https://github.com/misiokles/technocracy-town/archive/refs/heads/vcmi-1.4.zip",
 		"downloadSize" : 9.328
+	},
+	"phoenix-as-a-dream" : {
+		"mod" : "https://raw.githubusercontent.com/kdmcser/phoenix-as-a-dream/1.0.0/mod.json",
+		"download" : "https://github.com/kdmcser/phoenix-as-a-dream/archive/refs/heads/master.zip"
 	}
 }
