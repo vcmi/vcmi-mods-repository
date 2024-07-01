@@ -345,6 +345,17 @@
 		],
 		"downloadSize" : 18.849
 	},
+	"factory_creatures" : {
+		"mod" : "https://github.com/Olegmods/Factory_creatures/blob/main/Factory_creatures/mod.json",
+		"download" : "https://github.com/Olegmods/Factory_creatures/archive/refs/heads/main.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/Olegmods/Factory_creatures/main/Screenshots/screen1.png",
+			"https://raw.githubusercontent.com/Olegmods/Factory_creatures/main/Screenshots/screen2.png",
+			"https://raw.githubusercontent.com/Olegmods/Factory_creatures/main/Screenshots/screen3.png",
+			"https://raw.githubusercontent.com/Olegmods/Factory_creatures/main/Screenshots/screen4.png"
+		],
+		"downloadSize" : 135.555
+	},
 	"cetatea-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/cetatea-town/vcmi-1.4/cetatea/mod.json",
 		"download" : "https://github.com/vcmi-mods/cetatea-town/archive/refs/heads/vcmi-1.4.zip",
