@@ -819,7 +819,7 @@
 	"phoenix-as-a-dream" : {
 		"mod" : "https://raw.githubusercontent.com/kdmcser/phoenix-as-a-dream/1.0.0/mod.json",
 		"download" : "https://github.com/kdmcser/phoenix-as-a-dream/archive/refs/heads/master.zip"
-	,
+	},
 	"extreme-ai" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/extreme-ai/vcmi-1.4/extreme-ai/mod.json",
 		"download" : "https://github.com/vcmi-mods/extreme-ai/archive/refs/heads/vcmi-1.4.zip",
