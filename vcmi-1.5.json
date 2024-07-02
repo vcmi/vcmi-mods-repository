@@ -42,7 +42,8 @@
 	},
 	"new-old-heroes" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-old-heroes/vcmi-1.5/new-old-heroes/mod.json",
-		"download" : "https://github.com/vcmi-mods/new-old-heroes/archive/refs/heads/vcmi-1.5.zip"
+		"download" : "https://github.com/vcmi-mods/new-old-heroes/archive/refs/heads/vcmi-1.5.zip",
+		"downloadSize" : 0.264
 	},
 	"asylum-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/asylum-town/vcmi-1.4/asylum-town/mod.json",
@@ -818,7 +819,8 @@
 	},
 	"phoenix-as-a-dream" : {
 		"mod" : "https://raw.githubusercontent.com/kdmcser/phoenix-as-a-dream/1.0.0/mod.json",
-		"download" : "https://github.com/kdmcser/phoenix-as-a-dream/archive/refs/heads/master.zip"
+		"download" : "https://github.com/kdmcser/phoenix-as-a-dream/archive/refs/heads/master.zip",
+		"downloadSize" : 2.413
 	},
 	"extreme-ai" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/extreme-ai/vcmi-1.4/extreme-ai/mod.json",
