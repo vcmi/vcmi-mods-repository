@@ -741,7 +741,7 @@
 	"kartenarchiv" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/kartenarchiv-mappack/vcmi-1.4/kartenarchiv/mod.json",
 		"download" : "https://github.com/vcmi-mods/kartenarchiv-mappack/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 43.43
+		"downloadSize" : 43.669
 	},
 	"vampires-only-gameplay-enhancements" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/vampires-only-gameplay-enhancements/vcmi-1.4/vampiresOnlyGameplayEnhancements/mod.json",
