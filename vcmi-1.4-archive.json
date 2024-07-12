@@ -112,7 +112,7 @@
 	"atlantis-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/atlantis-town/vcmi-1.4/atlantis-town/mod.json",
 		"download" : "https://github.com/misiokles/atlantis-town/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 11.268
+		"downloadSize" : 11.274
 	},
 	"technocracy-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/technocracy-town/vcmi-1.4/technocracy-town/mod.json",
