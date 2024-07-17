@@ -15,9 +15,14 @@ for filename in glob.glob(os.path.join('.', '*.json')):
 
         try:
             json.loads(filecontent)
+            print(f"✅ JSON valid")
         except Exception as err:
-            print("Error: " + str(err))
-            sys.exit(os.EX_SOFTWARE)
+            error = True
+            print(f"❌ JSON invalid:")
+            print(str(err))
 
-print("Everything is ok!")
-sys.exit(os.EX_OK)
+if error:
+    sys.exit(os.EX_SOFTWARE)
+else:
+    print("Everything is ok!")
+    sys.exit(os.EX_OK)

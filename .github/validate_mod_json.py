@@ -15,20 +15,23 @@ for filename in glob.glob(os.path.join('.', '*.json')):
         modlist = json.loads(filecontent)
         for mod, data in modlist.items():
             url = data["mod"].replace(" ", "%20")
-            print(f"Download {mod}: {url}")
+            print(f"{mod}: {url}")
             try:
                 response = urllib.request.urlopen(url)
+                print(f"✅ Download successful")
             except:
                 error = True
-                print("Error: download failed!")
+                print("❌ Download failed")
                 continue
             filecontent = response.read()
             
             try:
                 json.loads(filecontent)
+                print(f"✅ JSON valid")
             except Exception as err:
                 error = True
-                print("Error: " + str(err))
+                print(f"❌ JSON invalid:")
+                print(str(err))
                 continue
 if error:
     sys.exit(os.EX_SOFTWARE)
