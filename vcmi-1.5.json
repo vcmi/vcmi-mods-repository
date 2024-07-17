@@ -26,8 +26,8 @@
 		"downloadSize" : 68.817
 	},
 	"tides-of-war" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tides-of-war/vcmi-1.4/mod.json",
-		"download" : "https://github.com/vcmi-mods/tides-of-war/archive/refs/heads/vcmi-1.4.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tides-of-war/vcmi-1.5/mod.json",
+		"download" : "https://github.com/vcmi-mods/tides-of-war/archive/refs/heads/vcmi-1.5.zip",
 		"downloadSize" : 27.148
 	},
 	"courtyard" : {
