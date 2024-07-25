@@ -32,7 +32,7 @@
 	"heroes-chronicles" : {
 		"mod" : "https://raw.githubusercontent.com/lishaoxia1985/heroesChronicles/master/mod.json",
 		"download" : "https://github.com/lishaoxia1985/heroesChronicles/archive/refs/heads/master.zip",
-		"downloadSize" : 169.608
+		"downloadSize" : 169.765
 	},
 	"mythology-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/ruins-town-alt/vcmi-1.4/ruins-town-alt/mod.json",
