@@ -573,8 +573,8 @@
 		"downloadSize" : 32.293
 	},
 	"asphalt-terrain" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/asphalt-terrain/vcmi-1.4/asphalt-terrain/mod.json",
-		"download" : "https://github.com/vcmi-mods/asphalt-terrain/archive/refs/heads/vcmi-1.4.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/asphalt-terrain/vcmi-1.5/asphalt-terrain/mod.json",
+		"download" : "https://github.com/vcmi-mods/asphalt-terrain/archive/refs/heads/vcmi-1.5.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/asphalt-terrain/vcmi-1.2/screenshots/screen01.png",
 			"https://raw.githubusercontent.com/vcmi-mods/asphalt-terrain/vcmi-1.2/screenshots/screen02.png"
