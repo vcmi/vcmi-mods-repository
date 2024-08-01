@@ -261,7 +261,7 @@
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/fairy-town/main/screenshots/screen1.png"
 		],
-		"downloadSize" : 14.75
+		"downloadSize" : 14.789
 	},
 	"haven-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/haven-town/vcmi-1.4/haven-town/mod.json",
@@ -319,7 +319,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen5.png",
 			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen6.png"
 		],
-		"downloadSize" : 16.073
+		"downloadSize" : 16.082
 	},
 	"preserve-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/preserve-town/vcmi-1.4/preserve/mod.json",
