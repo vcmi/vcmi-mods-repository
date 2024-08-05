@@ -43,7 +43,7 @@
 	"new-old-heroes" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-old-heroes/vcmi-1.5/new-old-heroes/mod.json",
 		"download" : "https://github.com/vcmi-mods/new-old-heroes/archive/refs/heads/vcmi-1.5.zip",
-		"downloadSize" : 0.264
+		"downloadSize" : 0.313
 	},
 	"asylum-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/asylum-town/vcmi-1.4/asylum-town/mod.json",
@@ -296,7 +296,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/h3-themes/main/screenshots/ToW-menu.png",
 			"https://raw.githubusercontent.com/vcmi-mods/h3-themes/main/screenshots/WoG-menu.png"
 		],
-		"downloadSize" : 73.147
+		"downloadSize" : 77.894
 	},
 	"creatures-hidden-potential" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/creatures-hidden-potential/vcmi-1.4/creatures-hidden-potential/mod.json",
