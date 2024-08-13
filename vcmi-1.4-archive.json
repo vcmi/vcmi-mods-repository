@@ -121,6 +121,7 @@
 	},
 	"eldorado-town" : {
 		"mod" : "https://raw.githubusercontent.com/kdmcser/eldorado-town/vcmi-1.5/mod.json",
-		"download" : "https://github.com/kdmcser/eldorado-town/archive/refs/heads/vcmi-1.5.zip"
+		"download" : "https://github.com/kdmcser/eldorado-town/archive/refs/heads/vcmi-1.5.zip",
+		"downloadSize" : 19.259
 	}
 }
