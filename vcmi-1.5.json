@@ -288,13 +288,13 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.5/h3-themes/mod.json",
 		"download" : "https://github.com/vcmi-mods/h3-themes/archive/refs/heads/vcmi-1.5.zip",
 		"screenshots" : [
-			"https://raw.githubusercontent.com/vcmi-mods/h3-themes/main/screenshots/AB-menu.png",
-			"https://raw.githubusercontent.com/vcmi-mods/h3-themes/main/screenshots/HotA-16-menu.png",
-			"https://raw.githubusercontent.com/vcmi-mods/h3-themes/main/screenshots/HotA-17-menu.png",
-			"https://raw.githubusercontent.com/vcmi-mods/h3-themes/main/screenshots/RoE-menu.png",
-			"https://raw.githubusercontent.com/vcmi-mods/h3-themes/main/screenshots/SoD-menu.png",
-			"https://raw.githubusercontent.com/vcmi-mods/h3-themes/main/screenshots/ToW-menu.png",
-			"https://raw.githubusercontent.com/vcmi-mods/h3-themes/main/screenshots/WoG-menu.png"
+			"https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.5/screenshots/AB-menu.png",
+			"https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.5/screenshots/HotA-16-menu.png",
+			"https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.5/screenshots/HotA-17-menu.png",
+			"https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.5/screenshots/RoE-menu.png",
+			"https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.5/screenshots/SoD-menu.png",
+			"https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.5/screenshots/ToW-menu.png",
+			"https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.5/screenshots/WoG-menu.png"
 		],
 		"downloadSize" : 77.894
 	},
