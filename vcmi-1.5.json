@@ -31,13 +31,13 @@
 		"downloadSize" : 27.826
 	},
 	"courtyard" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/courtyard/vcmi-1.4/Courtyard/mod.json",
-		"download" : "https://github.com/vcmi-mods/courtyard/archive/refs/heads/vcmi-1.4.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/courtyard/vcmi-1.5/Courtyard/mod.json",
+		"download" : "https://github.com/vcmi-mods/courtyard/archive/refs/heads/vcmi-1.5.zip",
 		"downloadSize" : 24.615
 	},
 	"neutral-heroes" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/neutral-heroes/vcmi-1.4/mod.json",
-		"download" : "https://github.com/vcmi-mods/neutral-heroes/archive/refs/heads/vcmi-1.4.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/neutral-heroes/vcmi-1.5/mod.json",
+		"download" : "https://github.com/vcmi-mods/neutral-heroes/archive/refs/heads/vcmi-1.5.zip",
 		"downloadSize" : 2.596
 	},
 	"new-old-heroes" : {
@@ -46,8 +46,8 @@
 		"downloadSize" : 0.313
 	},
 	"asylum-town" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/asylum-town/vcmi-1.4/asylum-town/mod.json",
-		"download" : "https://github.com/vcmi-mods/asylum-town/archive/refs/heads/vcmi-1.4.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/asylum-town/vcmi-1.5/asylum-town/mod.json",
+		"download" : "https://github.com/vcmi-mods/asylum-town/archive/refs/heads/vcmi-1.5.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen1.png",
 			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen2.png",
@@ -60,8 +60,8 @@
 		"downloadSize" : 26.542
 	},
 	"highlands-town" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/highlands-town/vcmi-1.4/mod.json",
-		"download" : "https://github.com/vcmi-mods/highlands-town/archive/refs/heads/vcmi-1.4.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/highlands-town/vcmi-1.5/mod.json",
+		"download" : "https://github.com/vcmi-mods/highlands-town/archive/refs/heads/vcmi-1.5.zip",
 		"downloadSize" : 13.209
 	},
 	"new-pavilion" : {
@@ -79,36 +79,36 @@
 		"downloadSize" : 50.79
 	},
 	"cathedral-town" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.4/cathedral-town/mod.json",
-		"download" : "https://github.com/vcmi-mods/cathedral-town/archive/refs/heads/vcmi-1.4.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.5/cathedral-town/mod.json",
+		"download" : "https://github.com/vcmi-mods/cathedral-town/archive/refs/heads/vcmi-1.5.zip",
 		"downloadSize" : 10.738
 	},
 	"death-valley-town" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/death-valley-town/vcmi-1.4/death-valley-town/mod.json",
-		"download" : "https://github.com/vcmi-mods/death-valley-town/archive/refs/heads/vcmi-1.4.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/death-valley-town/vcmi-1.5/death-valley-town/mod.json",
+		"download" : "https://github.com/vcmi-mods/death-valley-town/archive/refs/heads/vcmi-1.5.zip",
 		"downloadSize" : 19.658
 	},
 	"reworked-commanders" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/reworked-commanders/vcmi-1.4/reworked-commanders/mod.json",
-		"download" : "https://github.com/vcmi-mods/reworked-commanders/archive/refs/heads/vcmi-1.4.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/reworked-commanders/vcmi-1.5/reworked-commanders/mod.json",
+		"download" : "https://github.com/vcmi-mods/reworked-commanders/archive/refs/heads/vcmi-1.5.zip",
 		"downloadSize" : 9.265
 	},
 	"andruids-expansion" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/andruids-expansion/vcmi-1.4/andruids-expansion/mod.json",
-		"download" : "https://github.com/vcmi-mods/andruids-expansion/archive/refs/heads/vcmi-1.4.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/andruids-expansion/vcmi-1.5/andruids-expansion/mod.json",
+		"download" : "https://github.com/vcmi-mods/andruids-expansion/archive/refs/heads/vcmi-1.5.zip",
 		"downloadSize" : 6.707
 	},
 	"tok" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tok/vcmi-1.4/mod.json",
-		"download" : "https://github.com/vcmi-mods/tok/archive/refs/heads/vcmi-1.4.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tok/vcmi-1.5/mod.json",
+		"download" : "https://github.com/vcmi-mods/tok/archive/refs/heads/vcmi-1.5.zip",
 		"downloadSize" : 3.522
 	},
 	"elemental-nodes" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/elemental-nodes/vcmi-1.4/elemental-nodes/mod.json",
-		"download" : "https://github.com/vcmi-mods/elemental-nodes/archive/refs/heads/vcmi-1.4.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/elemental-nodes/vcmi-1.5/elemental-nodes/mod.json",
+		"download" : "https://github.com/vcmi-mods/elemental-nodes/archive/refs/heads/vcmi-1.5.zip",
 		"screenshots" : [
-			"https://raw.githubusercontent.com/vcmi-mods/elemental-nodes/vcmi-1.4/screenshots/screen1.png",
-			"https://raw.githubusercontent.com/vcmi-mods/elemental-nodes/vcmi-1.4/screenshots/screen2.png"
+			"https://raw.githubusercontent.com/vcmi-mods/elemental-nodes/vcmi-1.5/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/elemental-nodes/vcmi-1.5/screenshots/screen2.png"
 		],
 		"downloadSize" : 1.405
 	},
@@ -218,26 +218,26 @@
 		"downloadSize" : 0.093
 	},
 	"axolotl-creatures-pack" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/axolotl-creatures-pack/vcmi-1.4/mod.json",
-		"download" : "https://github.com/vcmi-mods/axolotl-creatures-pack/archive/refs/heads/vcmi-1.4.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/axolotl-creatures-pack/vcmi-1.5/mod.json",
+		"download" : "https://github.com/vcmi-mods/axolotl-creatures-pack/archive/refs/heads/vcmi-1.5.zip",
 		"downloadSize" : 63.66
 	},
 	"tarnum" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tarnum/vcmi-1.4/tarnum/mod.json",
-		"download" : "https://github.com/vcmi-mods/tarnum/archive/refs/heads/vcmi-1.4.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tarnum/vcmi-1.5/tarnum/mod.json",
+		"download" : "https://github.com/vcmi-mods/tarnum/archive/refs/heads/vcmi-1.5.zip",
 		"screenshots" : [
-			"https://raw.githubusercontent.com/vcmi-mods/tarnum/vcmi-1.4/screenshots/tarnumVizier.png"
+			"https://raw.githubusercontent.com/vcmi-mods/tarnum/vcmi-1.5/screenshots/tarnumVizier.png"
 		],
 		"downloadSize" : 1.586
 	},
 	"magic-fader" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/magic-fader/vcmi-1.4/mod.json",
-		"download" : "https://github.com/vcmi-mods/magic-fader/archive/refs/heads/vcmi-1.4.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/magic-fader/vcmi-1.5/mod.json",
+		"download" : "https://github.com/vcmi-mods/magic-fader/archive/refs/heads/vcmi-1.5.zip",
 		"downloadSize" : 0.092
 	},
 	"grove" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/grove/vcmi-1.4/Grove/mod.json",
-		"download" : "https://github.com/vcmi-mods/grove/archive/refs/heads/vcmi-1.4.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/grove/vcmi-1.5/Grove/mod.json",
+		"download" : "https://github.com/vcmi-mods/grove/archive/refs/heads/vcmi-1.5.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/grove/main/screenshots/screen1.png",
 			"https://raw.githubusercontent.com/vcmi-mods/grove/main/screenshots/screen2.png",
@@ -248,45 +248,45 @@
 		"downloadSize" : 19.492
 	},
 	"combine-grail" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/combine-grail/vcmi-1.4/combine-grail/mod.json",
-		"download" : "https://github.com/vcmi-mods/combine-grail/archive/refs/heads/vcmi-1.4.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/combine-grail/vcmi-1.5/combine-grail/mod.json",
+		"download" : "https://github.com/vcmi-mods/combine-grail/archive/refs/heads/vcmi-1.5.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/combine-grail/main/screenshots/screen1.png"
 		],
 		"downloadSize" : 0.509
 	},
 	"fairy-town" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/fairy-town/vcmi-1.4/fairy-town/mod.json",
-		"download" : "https://github.com/vcmi-mods/fairy-town/archive/refs/heads/vcmi-1.4.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/fairy-town/vcmi-1.5/fairy-town/mod.json",
+		"download" : "https://github.com/vcmi-mods/fairy-town/archive/refs/heads/vcmi-1.5.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/fairy-town/main/screenshots/screen1.png"
 		],
 		"downloadSize" : 14.795
 	},
 	"haven-town" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/haven-town/vcmi-1.4/haven-town/mod.json",
-		"download" : "https://github.com/vcmi-mods/haven-town/archive/refs/heads/vcmi-1.4.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/haven-town/vcmi-1.5/haven-town/mod.json",
+		"download" : "https://github.com/vcmi-mods/haven-town/archive/refs/heads/vcmi-1.5.zip",
 		"screenshots" : [
-			"https://raw.githubusercontent.com/vcmi-mods/haven-town/vcmi-1.4/screenshots/screen1.png",
-			"https://raw.githubusercontent.com/vcmi-mods/haven-town/vcmi-1.4/screenshots/screen2.png"
+			"https://raw.githubusercontent.com/vcmi-mods/haven-town/vcmi-1.5/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/haven-town/vcmi-1.5/screenshots/screen2.png"
 		],
 		"downloadSize" : 10.867
 	},
 	"ruins-town" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.4/ruins-town/mod.json",
-		"download" : "https://github.com/vcmi-mods/ruins-town/archive/refs/heads/vcmi-1.4.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.5/ruins-town/mod.json",
+		"download" : "https://github.com/vcmi-mods/ruins-town/archive/refs/heads/vcmi-1.5.zip",
 		"screenshots" : [
-			"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.4/screenshots/screen1.png",
-			"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.4/screenshots/screen2.png",
-			"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.4/screenshots/screen3.png",
-			"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.4/screenshots/screen4.png",
-			"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.4/screenshots/screen5.png"
+			"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.5/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.5/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.5/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.5/screenshots/screen4.png",
+			"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.5/screenshots/screen5.png"
 		],
 		"downloadSize" : 23.377
 	},
 	"h3-themes" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.4/h3-themes/mod.json",
-		"download" : "https://github.com/vcmi-mods/h3-themes/archive/refs/heads/vcmi-1.4.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.5/h3-themes/mod.json",
+		"download" : "https://github.com/vcmi-mods/h3-themes/archive/refs/heads/vcmi-1.5.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/h3-themes/main/screenshots/AB-menu.png",
 			"https://raw.githubusercontent.com/vcmi-mods/h3-themes/main/screenshots/HotA-16-menu.png",
@@ -299,8 +299,8 @@
 		"downloadSize" : 77.894
 	},
 	"creatures-hidden-potential" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/creatures-hidden-potential/vcmi-1.4/creatures-hidden-potential/mod.json",
-		"download" : "https://github.com/vcmi-mods/creatures-hidden-potential/archive/refs/heads/vcmi-1.4.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/creatures-hidden-potential/vcmi-1.5/creatures-hidden-potential/mod.json",
+		"download" : "https://github.com/vcmi-mods/creatures-hidden-potential/archive/refs/heads/vcmi-1.5.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/creatures-hidden-potential/main/screenshots/screen1.png",
 			"https://raw.githubusercontent.com/vcmi-mods/creatures-hidden-potential/main/screenshots/screen2.png",
@@ -309,8 +309,8 @@
 		"downloadSize" : 3.515
 	},
 	"tartarus-town" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tartarus-town/vcmi-1.4/tartarus-town/mod.json",
-		"download" : "https://github.com/vcmi-mods/tartarus-town/archive/refs/heads/vcmi-1.4.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tartarus-town/vcmi-1.5/tartarus-town/mod.json",
+		"download" : "https://github.com/vcmi-mods/tartarus-town/archive/refs/heads/vcmi-1.5.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen1.png",
 			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen2.png",
@@ -322,8 +322,8 @@
 		"downloadSize" : 16.107
 	},
 	"preserve-town" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/preserve-town/vcmi-1.4/preserve/mod.json",
-		"download" : "https://github.com/vcmi-mods/preserve-town/archive/refs/heads/vcmi-1.4.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/preserve-town/vcmi-1.5/preserve/mod.json",
+		"download" : "https://github.com/vcmi-mods/preserve-town/archive/refs/heads/vcmi-1.5.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/preserve-town/main/screenshots/screen1.png",
 			"https://raw.githubusercontent.com/vcmi-mods/preserve-town/main/screenshots/screen2.png",
@@ -335,8 +335,8 @@
 		"downloadSize" : 28.149
 	},
 	"abyss-town" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/abyss-town/vcmi-1.4/abyss-town/mod.json",
-		"download" : "https://github.com/vcmi-mods/abyss-town/archive/refs/heads/vcmi-1.4.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/abyss-town/vcmi-1.5/abyss-town/mod.json",
+		"download" : "https://github.com/vcmi-mods/abyss-town/archive/refs/heads/vcmi-1.5.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/abyss-town/main/screenshots/screen1.png",
 			"https://raw.githubusercontent.com/vcmi-mods/abyss-town/main/screenshots/screen2.png",
@@ -347,8 +347,8 @@
 		"downloadSize" : 32.783
 	},
 	"retreat-town" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/retreat-town/vcmi-1.2/retreat-town/mod.json",
-		"download" : "https://github.com/vcmi-mods/retreat-town/archive/refs/heads/vcmi-1.3.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/retreat-town/vcmi-1.5/retreat-town/mod.json",
+		"download" : "https://github.com/vcmi-mods/retreat-town/archive/refs/heads/vcmi-1.5.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/retreat-town/main/screenshots/screen1.png",
 			"https://raw.githubusercontent.com/vcmi-mods/retreat-town/main/screenshots/screen2.png",
@@ -357,8 +357,8 @@
 		"downloadSize" : 18.849
 	},
 	"cetatea-town" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/cetatea-town/vcmi-1.4/cetatea/mod.json",
-		"download" : "https://github.com/vcmi-mods/cetatea-town/archive/refs/heads/vcmi-1.4.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/cetatea-town/vcmi-1.5/cetatea/mod.json",
+		"download" : "https://github.com/vcmi-mods/cetatea-town/archive/refs/heads/vcmi-1.5.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/cetatea-town/main/screenshots/screen1.png",
 			"https://raw.githubusercontent.com/vcmi-mods/cetatea-town/main/screenshots/screen2.png",
