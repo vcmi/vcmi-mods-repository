@@ -57,12 +57,12 @@
 			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen6.png",
 			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen7.png"
 		],
-		"downloadSize" : 26.542
+		"downloadSize" : 26.548
 	},
 	"highlands-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/highlands-town/vcmi-1.5/mod.json",
 		"download" : "https://github.com/vcmi-mods/highlands-town/archive/refs/heads/vcmi-1.5.zip",
-		"downloadSize" : 13.209
+		"downloadSize" : 13.211
 	},
 	"new-pavilion" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.5/New Pavilion/mod.json",
@@ -354,7 +354,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/retreat-town/main/screenshots/screen2.png",
 			"https://raw.githubusercontent.com/vcmi-mods/retreat-town/main/screenshots/screen3.png"
 		],
-		"downloadSize" : 18.849
+		"downloadSize" : 18.536
 	},
 	"cetatea-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/cetatea-town/vcmi-1.5/cetatea/mod.json",
