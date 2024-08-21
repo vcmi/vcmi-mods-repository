@@ -1,8 +1,14 @@
 {
 	"horde-town" : {
-		"mod" : "https://raw.githubusercontent.com/misiokles/horde-town/vcmi-1.4/horde-town/mod.json",
-		"download" : "https://github.com/misiokles/horde-town/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 16.444
+		"mod" : "https://raw.githubusercontent.com/misiokles/factory-unofficial/vcmi-1.5/factory_creatures/mod.json",
+		"download" : "https://github.com/misiokles/factory-unofficial/archive/refs/heads/vcmi-1.5.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/misiokles/factory-unofficial/vcmi-1.5/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/misiokles/factory-unofficial/vcmi-1.5/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/misiokles/factory-unofficial/vcmi-1.5/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/misiokles/factory-unofficial/vcmi-1.5/screenshots/screen4.png"
+		],
+		"downloadSize" : 39.209
 	},
 	"ciberium-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/ciberium-town/vcmi-1.4/ciberium-town/mod.json",
@@ -123,15 +129,5 @@
 		"mod" : "https://raw.githubusercontent.com/kdmcser/eldorado-town/vcmi-1.5/mod.json",
 		"download" : "https://github.com/kdmcser/eldorado-town/archive/refs/heads/vcmi-1.5.zip",
 		"downloadSize" : 19.259
-	},
-	"horde-town" : {
-		"mod" : "https://raw.githubusercontent.com/misiokles/factory-unofficial/vcmi-1.5/factory_creatures/mod.json",
-		"download" : "https://github.com/misiokles/factory-unofficial/archive/refs/heads/vcmi-1.5.zip",
-		"screenshots" : [
-			"https://raw.githubusercontent.com/misiokles/factory-unofficial/vcmi-1.5/screenshots/screen1.png",
-			"https://raw.githubusercontent.com/misiokles/factory-unofficial/vcmi-1.5/screenshots/screen2.png",
-			"https://raw.githubusercontent.com/misiokles/factory-unofficial/vcmi-1.5/screenshots/screen3.png",
-			"https://raw.githubusercontent.com/misiokles/factory-unofficial/vcmi-1.5/screenshots/screen4.png"
-		]
 	}
 }
