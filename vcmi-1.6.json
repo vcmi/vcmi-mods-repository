@@ -81,7 +81,7 @@
 	"cathedral-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.5/cathedral-town/mod.json",
 		"download" : "https://github.com/vcmi-mods/cathedral-town/archive/refs/heads/vcmi-1.5.zip",
-		"downloadSize" : 10.745
+		"downloadSize" : 11.136
 	},
 	"death-valley-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/death-valley-town/vcmi-1.5/death-valley-town/mod.json",
@@ -101,7 +101,7 @@
 	"tok" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tok/vcmi-1.5/mod.json",
 		"download" : "https://github.com/vcmi-mods/tok/archive/refs/heads/vcmi-1.5.zip",
-		"downloadSize" : 3.522
+		"downloadSize" : 3.524
 	},
 	"elemental-nodes" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/elemental-nodes/vcmi-1.5/elemental-nodes/mod.json",
