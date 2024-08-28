@@ -23,17 +23,17 @@
 	"wake-of-gods" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.5/mod.json",
 		"download" : "https://github.com/vcmi-mods/wake-of-gods/archive/refs/heads/vcmi-1.5.zip",
-		"downloadSize" : 75.824
+		"downloadSize" : 76.101
 	},
 	"tides-of-war" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tides-of-war/vcmi-1.5/mod.json",
 		"download" : "https://github.com/vcmi-mods/tides-of-war/archive/refs/heads/vcmi-1.5.zip",
-		"downloadSize" : 27.826
+		"downloadSize" : 27.835
 	},
 	"courtyard" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/courtyard/vcmi-1.5/Courtyard/mod.json",
 		"download" : "https://github.com/vcmi-mods/courtyard/archive/refs/heads/vcmi-1.5.zip",
-		"downloadSize" : 24.624
+		"downloadSize" : 24.625
 	},
 	"neutral-heroes" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/neutral-heroes/vcmi-1.5/mod.json",
@@ -62,7 +62,7 @@
 	"highlands-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/highlands-town/vcmi-1.5/mod.json",
 		"download" : "https://github.com/vcmi-mods/highlands-town/archive/refs/heads/vcmi-1.5.zip",
-		"downloadSize" : 13.569
+		"downloadSize" : 13.57
 	},
 	"new-pavilion" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.5/New Pavilion/mod.json",
@@ -215,7 +215,7 @@
 	"campaign-heroes" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/campaign-heroes/vcmi-1.4/mod.json",
 		"download" : "https://github.com/vcmi-mods/campaign-heroes/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 0.093
+		"downloadSize" : 0.096
 	},
 	"axolotl-creatures-pack" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/axolotl-creatures-pack/vcmi-1.5/mod.json",
@@ -261,7 +261,7 @@
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/fairy-town/main/screenshots/screen1.png"
 		],
-		"downloadSize" : 14.801
+		"downloadSize" : 14.808
 	},
 	"haven-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/haven-town/vcmi-1.5/haven-town/mod.json",
@@ -282,7 +282,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.5/screenshots/screen4.png",
 			"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.5/screenshots/screen5.png"
 		],
-		"downloadSize" : 23.377
+		"downloadSize" : 23.384
 	},
 	"h3-themes" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.5/h3-themes/mod.json",
@@ -319,7 +319,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen5.png",
 			"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen6.png"
 		],
-		"downloadSize" : 16.107
+		"downloadSize" : 16.115
 	},
 	"preserve-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/preserve-town/vcmi-1.5/preserve/mod.json",
@@ -400,7 +400,7 @@
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/undead-sphinxes/main/screenshots/screen1.png"
 		],
-		"downloadSize" : 3.464
+		"downloadSize" : 3.465
 	},
 	"andruids-spell-balance" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/andruids-spell-balance/vcmi-1.4/andruids-spell-balance/mod.json",
@@ -631,7 +631,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/wyrmsun-boats/vcmi-1.4/screenshots/screen1.png",
 			"https://raw.githubusercontent.com/vcmi-mods/wyrmsun-boats/vcmi-1.4/screenshots/screen2.png"
 		],
-		"downloadSize" : 1.794
+		"downloadSize" : 1.795
 	},
 	"ensrick-portraits" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ensrick-portraits/vcmi-1.4/ensrick-portraits/mod.json",
@@ -849,6 +849,6 @@
 	"pvp-balance" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/pvp-balance/vcmi-1.5/mod.json",
 		"download" : "https://github.com/vcmi-mods/pvp-balance/archive/refs/heads/vcmi-1.5.zip",
-		"downloadSize" : 1.24
+		"downloadSize" : 1.242
 	}
 }
