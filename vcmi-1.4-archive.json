@@ -129,5 +129,9 @@
 		"mod" : "https://raw.githubusercontent.com/kdmcser/eldorado-town/vcmi-1.5/mod.json",
 		"download" : "https://github.com/kdmcser/eldorado-town/archive/refs/heads/vcmi-1.5.zip",
 		"downloadSize" : 19.259
+	},
+	"haven-old" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/haven-old/vcmi-1.5/haven-old/mod.json",
+		"download" : "https://github.com/misiokles/haven-old/archive/refs/heads/vcmi-1.5.zip"
 	}
 }
