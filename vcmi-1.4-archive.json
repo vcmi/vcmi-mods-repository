@@ -146,6 +146,12 @@
 	"bastille-old" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/bastille-old/vcmi-1.5/bastille-old/mod.json",
 		"download" : "https://github.com/misiokles/bastille-old/archive/refs/heads/vcmi-1.5.zip",
-		"downloadSize" : 14.032
+		"downloadSize" : 14.032,
+		"screenshots" : [
+			"https://raw.githubusercontent.com/misiokles/bastille-old/vcmi-1.5/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/misiokles/bastille-old/vcmi-1.5/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/misiokles/bastille-old/vcmi-1.5/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/misiokles/bastille-old/vcmi-1.5/screenshots/screen4.png"
+		]
 	}
 }
