@@ -2,6 +2,12 @@
 	"horde-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/horde-town/vcmi-1.4/horde-town/mod.json",
 		"download" : "https://github.com/misiokles/horde-town/archive/refs/heads/vcmi-1.4.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/misiokles/horde-town/vcmi-1.4/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/misiokles/horde-town/vcmi-1.4/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/misiokles/horde-town/vcmi-1.4/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/misiokles/horde-town/vcmi-1.4/screenshots/screen4.png"
+		]
 		"downloadSize" : 20.167
 	},
 	"ciberium-town" : {
@@ -149,12 +155,12 @@
 	"bastille-old" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/bastille-old/vcmi-1.5/bastille-old/mod.json",
 		"download" : "https://github.com/misiokles/bastille-old/archive/refs/heads/vcmi-1.5.zip",
-		"downloadSize" : 17.588,
 		"screenshots" : [
 			"https://raw.githubusercontent.com/misiokles/bastille-old/vcmi-1.5/screenshots/screen1.png",
 			"https://raw.githubusercontent.com/misiokles/bastille-old/vcmi-1.5/screenshots/screen2.png",
 			"https://raw.githubusercontent.com/misiokles/bastille-old/vcmi-1.5/screenshots/screen3.png",
 			"https://raw.githubusercontent.com/misiokles/bastille-old/vcmi-1.5/screenshots/screen4.png"
-		]
+		],
+		"downloadSize" : 17.588
 	}
 }
