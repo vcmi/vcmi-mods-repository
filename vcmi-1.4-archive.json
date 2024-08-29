@@ -134,5 +134,9 @@
 		"mod" : "https://raw.githubusercontent.com/misiokles/haven-old/vcmi-1.5/haven-old/mod.json",
 		"download" : "https://github.com/misiokles/haven-old/archive/refs/heads/vcmi-1.5.zip",
 		"downloadSize" : 10.59
+	},
+	"bastille-old" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/bastille-old/vcmi-1.5/bastille-old/mod.json",
+		"download" : "https://github.com/misiokles/bastille-old/archive/refs/heads/vcmi-1.5.zip"
 	}
 }
