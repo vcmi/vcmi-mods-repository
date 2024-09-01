@@ -30,11 +30,6 @@
 		"download" : "https://github.com/misiokles/small-era-mods/archive/refs/heads/vcmi-1.4.zip",
 		"downloadSize" : 15.073
 	},
-	"heroes-chronicles" : {
-		"mod" : "https://raw.githubusercontent.com/lishaoxia1985/heroesChronicles/master/mod.json",
-		"download" : "https://github.com/lishaoxia1985/heroesChronicles/archive/refs/heads/master.zip",
-		"downloadSize" : 169.765
-	},
 	"HoMM3-alternative-towns-music" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/HoMM3-alternative-towns-music/vcmi-1.4/HoMM3-alternative-towns-music/mod.json",
 		"download" : "https://github.com/misiokles/HoMM3-alternative-towns-music/archive/refs/heads/vcmi-1.4.zip",
