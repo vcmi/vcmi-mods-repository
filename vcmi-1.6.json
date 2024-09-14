@@ -2,7 +2,7 @@
 	"vcmi-extras" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.4/mod.json",
 		"download" : "https://github.com/vcmi-mods/vcmi-extras/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 4.556
+		"downloadSize" : 4.564
 	},
 	"hota" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/hota/mod.json",
@@ -23,7 +23,7 @@
 	"wake-of-gods" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.5/mod.json",
 		"download" : "https://github.com/vcmi-mods/wake-of-gods/archive/refs/heads/vcmi-1.5.zip",
-		"downloadSize" : 76.101
+		"downloadSize" : 76.154
 	},
 	"tides-of-war" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tides-of-war/vcmi-1.5/mod.json",
@@ -101,7 +101,7 @@
 	"tok" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tok/vcmi-1.5/mod.json",
 		"download" : "https://github.com/vcmi-mods/tok/archive/refs/heads/vcmi-1.5.zip",
-		"downloadSize" : 3.524
+		"downloadSize" : 3.525
 	},
 	"elemental-nodes" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/elemental-nodes/vcmi-1.5/elemental-nodes/mod.json",
@@ -115,12 +115,12 @@
 	"german-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/german-translation/vcmi-1.6/mod.json",
 		"download" : "https://github.com/vcmi-mods/german-translation/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 159.313
+		"downloadSize" : 217.681
 	},
 	"spanish-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/spanish-translation/vcmi-1.4/spanish-translation/mod.json",
 		"download" : "https://github.com/vcmi-mods/spanish-translation/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 12.369
+		"downloadSize" : 12.39
 	},
 	"korean-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/korean-translation/vcmi-1.4/korean-translation/mod.json",
@@ -150,7 +150,7 @@
 	"swedish-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/swedish-translation/vcmi-1.4/swedish-translation/mod.json",
 		"download" : "https://github.com/vcmi-mods/swedish-translation/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 0.127
+		"downloadSize" : 0.294
 	},
 	"turkish-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/turkish-translation/vcmi-1.4/turkish-translation/mod.json",
@@ -296,7 +296,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.5/screenshots/ToW-menu.png",
 			"https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.5/screenshots/WoG-menu.png"
 		],
-		"downloadSize" : 77.894
+		"downloadSize" : 124.886
 	},
 	"creatures-hidden-potential" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/creatures-hidden-potential/vcmi-1.5/creatures-hidden-potential/mod.json",
@@ -354,7 +354,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/retreat-town/main/screenshots/screen2.png",
 			"https://raw.githubusercontent.com/vcmi-mods/retreat-town/main/screenshots/screen3.png"
 		],
-		"downloadSize" : 18.542
+		"downloadSize" : 18.636
 	},
 	"cetatea-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/cetatea-town/vcmi-1.5/cetatea/mod.json",
@@ -590,7 +590,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.4/screenshots/screen12.png",
 			"https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.4/screenshots/screen13.png"
 		],
-		"downloadSize" : 22.418
+		"downloadSize" : 32.274
 	},
 	"forge2k" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/forge2k/vcmi-1.5/Forge2k/mod.json",
@@ -622,7 +622,7 @@
 	"warzyw-templates" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/warzyw-templates/vcmi-1.4/warzyw-templates/mod.json",
 		"download" : "https://github.com/vcmi-mods/warzyw-templates/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 0.069
+		"downloadSize" : 0.074
 	},
 	"wyrmsun-boats" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/wyrmsun-boats/vcmi-1.4/wyrmsun-boats/mod.json",
@@ -776,7 +776,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/crossroads-of-worlds/vcmi-1.4/screenshots/screen09.png",
 			"https://raw.githubusercontent.com/vcmi-mods/crossroads-of-worlds/vcmi-1.4/screenshots/screen10.png"
 		],
-		"downloadSize" : 150.27
+		"downloadSize" : 150.007
 	},
 	"ai-loading-screens" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ai-loading-screens/vcmi-1.4/ai-loading-screens/mod.json",
