@@ -850,5 +850,9 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/pvp-balance/vcmi-1.5/mod.json",
 		"download" : "https://github.com/vcmi-mods/pvp-balance/archive/refs/heads/vcmi-1.5.zip",
 		"downloadSize" : 1.243
+	},
+	"graphics-balance-music" : {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/graphics-balance-music/vcmi-1.5/graphics-balance-music/mod.json",
+		"download" : "https://github.com/vcmi-mods/graphics-balance-music/archive/refs/heads/vcmi-1.5.zip"
 	}
 }
