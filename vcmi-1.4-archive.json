@@ -189,5 +189,17 @@
 			"https://raw.githubusercontent.com/misiokles/covenant-town/vcmi-1.5/screenshots/screen4.png"
 		],
 		"downloadSize" : 23.401
+	},
+	"ruins092-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/ruins-092/vcmi-1.5/ruins-092/mod.json",
+		"download" : "https://github.com/misiokles/ruins-092/archive/refs/heads/vcmi-1.5.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/misiokles/ruins-092/vcmi-1.5/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/misiokles/ruins-092/vcmi-1.5/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/misiokles/ruins-092/vcmi-1.5/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/misiokles/ruins-092/vcmi-1.5/screenshots/screen4.png",
+			"https://raw.githubusercontent.com/misiokles/ruins-092/vcmi-1.5/screenshots/screen5.png",
+		],
+		"downloadSize" : 23.401
 	}
 }
