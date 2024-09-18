@@ -195,7 +195,7 @@
 	"forge" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/forge/vcmi-1.4/mod.json",
 		"download" : "https://github.com/vcmi-mods/forge/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 15.05
+		"downloadSize" : 15.056
 	},
 	"ai trace" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/adventure-ai-trace/upstream/mod.json",
@@ -354,7 +354,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/retreat-town/main/screenshots/screen2.png",
 			"https://raw.githubusercontent.com/vcmi-mods/retreat-town/main/screenshots/screen3.png"
 		],
-		"downloadSize" : 19.359
+		"downloadSize" : 19.434
 	},
 	"cetatea-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/cetatea-town/vcmi-1.5/cetatea/mod.json",
