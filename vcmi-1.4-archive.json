@@ -201,5 +201,14 @@
 			"https://raw.githubusercontent.com/misiokles/ruins-092/vcmi-1.5/screenshots/screen5.png"
 		],
 		"downloadSize" : 14.789
+	},
+	"glacier-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/glacier-town/vcmi-1.5/glacier-town/mod.json",
+		"download" : "https://github.com/misiokles/glacier-town/archive/refs/heads/vcmi-1.5.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/misiokles/glacier-town/vcmi-1.5/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/misiokles/glacier-town/vcmi-1.5/screenshots/screen2.png"
+		],
+		"downloadSize" : 14.789
 	}
 }
