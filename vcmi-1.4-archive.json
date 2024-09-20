@@ -221,5 +221,16 @@
 			"https://raw.githubusercontent.com/misiokles/limes-town/vcmi-1.5/screenshots/screen4.png"
 		],
 		"downloadSize" : 22.388
+	},
+	"christmas-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/christmas-town/vcmi-1.5/christmas-town/mod.json",
+		"download" : "https://github.com/misiokles/christmas-town/archive/refs/heads/vcmi-1.5.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/misiokles/christmas-town/vcmi-1.5/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/misiokles/christmas-town/vcmi-1.5/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/misiokles/christmas-town/vcmi-1.5/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/misiokles/christmas-town/vcmi-1.5/screenshots/screen4.png"
+		],
+		"downloadSize" : 22.388
 	}
 }
