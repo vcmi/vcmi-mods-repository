@@ -165,7 +165,7 @@
 	"chinese-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/chinese-translation/vcmi-1.4/chinese-translation/mod.json",
 		"download" : "https://github.com/vcmi-mods/chinese-translation/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 16.97
+		"downloadSize" : 16.969
 	},
 	"french-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/french-translation/vcmi-1.4/french-translation/mod.json",
@@ -447,7 +447,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/vcmi-1.4/screenshots/sc-6.png",
 			"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/vcmi-1.4/screenshots/sc-7.png"
 		],
-		"downloadSize" : 37.48
+		"downloadSize" : 73.819
 	},
 	"new-interface-mod" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/vcmi-1.4/New%20Interface%20Mod/mod.json",
@@ -460,7 +460,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/main/screenshots/screen5.png",
 			"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/main/screenshots/screen6.png"
 		],
-		"downloadSize" : 41.628
+		"downloadSize" : 43.352
 	},
 	"hi-rez-menu" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/hi-rez-menu/vcmi-1.4/new-menu/mod.json",
