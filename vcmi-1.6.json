@@ -120,7 +120,7 @@
 	"spanish-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/spanish-translation/vcmi-1.6/spanish-translation/mod.json",
 		"download" : "https://github.com/vcmi-mods/spanish-translation/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 12.39
+		"downloadSize" : 48.922
 	},
 	"korean-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/korean-translation/vcmi-1.4/korean-translation/mod.json",
@@ -130,7 +130,7 @@
 	"italian-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/italian-translation/vcmi-1.6/italian-translation/mod.json",
 		"download" : "https://github.com/vcmi-mods/italian-translation/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 12.166
+		"downloadSize" : 49.688
 	},
 	"czech-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/czech-translation/vcmi-1.4/czech-translation/mod.json",
@@ -170,7 +170,7 @@
 	"french-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/french-translation/vcmi-1.6/french-translation/mod.json",
 		"download" : "https://github.com/vcmi-mods/french-translation/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 14.962
+		"downloadSize" : 52.591
 	},
 	"vietnamese-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/vietnamese-translation/vcmi-1.4/vietnamese-translation/mod.json",
@@ -447,7 +447,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/vcmi-1.6/screenshots/sc-6.png",
 			"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/vcmi-1.6/screenshots/sc-7.png"
 		],
-		"downloadSize" : 37.48
+		"downloadSize" : 73.819
 	},
 	"new-interface-mod" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/vcmi-1.4/New%20Interface%20Mod/mod.json",
@@ -590,7 +590,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.4/screenshots/screen12.png",
 			"https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.4/screenshots/screen13.png"
 		],
-		"downloadSize" : 32.274
+		"downloadSize" : 32.277
 	},
 	"forge2k" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/forge2k/vcmi-1.5/Forge2k/mod.json",
