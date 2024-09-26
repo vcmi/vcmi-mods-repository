@@ -887,5 +887,18 @@
 			"https://raw.githubusercontent.com/vcmi-mods/witchking-artifacts/vcmi-1.5/screenshots/screen13.png"
 		],
 		"downloadSize" : 8.743
+	},
+	"moon-artifacts" : {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/moon-artifacts/vcmi-1.5/moon-artifacts/mod.json",
+		"download" : "https://github.com/vcmi-mods/moon-artifacts/archive/refs/heads/vcmi-1.5.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/vcmi-mods/moon-artifacts/vcmi-1.5/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/moon-artifacts/vcmi-1.5/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/moon-artifacts/vcmi-1.5/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/vcmi-mods/moon-artifacts/vcmi-1.5/screenshots/screen4.png",
+			"https://raw.githubusercontent.com/vcmi-mods/moon-artifacts/vcmi-1.5/screenshots/screen5.png",
+			"https://raw.githubusercontent.com/vcmi-mods/moon-artifacts/vcmi-1.5/screenshots/screen6.png"
+		],
+		"downloadSize" : 8.743
 	}
 }
