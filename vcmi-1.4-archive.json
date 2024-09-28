@@ -232,5 +232,15 @@
 			"https://raw.githubusercontent.com/misiokles/christmas-town/vcmi-1.5/screenshots/screen4.png"
 		],
 		"downloadSize" : 16.138
+	},
+	"warlock-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/warlock-town/vcmi-1.5/warlock-town/mod.json",
+		"download" : "https://github.com/misiokles/warlock-town/archive/refs/heads/vcmi-1.5.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/misiokles/warlock-town/vcmi-1.5/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/misiokles/warlock-town/vcmi-1.5/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/misiokles/warlock-town/vcmi-1.5/screenshots/screen3.png"
+		],
+		"downloadSize" : 16.138
 	}
 }
