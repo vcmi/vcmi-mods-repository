@@ -386,8 +386,8 @@
 		"downloadSize" : 3.435
 	},
 	"kurek-creatures" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/kurek-creatures/vcmi-1.4/kurek-creatures/mod.json",
-		"download" : "https://github.com/vcmi-mods/kurek-creatures/archive/refs/heads/vcmi-1.4.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/kurek-creatures/vcmi-1.5/kurek-creatures/mod.json",
+		"download" : "https://github.com/vcmi-mods/kurek-creatures/archive/refs/heads/vcmi-1.5.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/kurek-creatures/main/screenshots/screen1.png",
 			"https://raw.githubusercontent.com/vcmi-mods/kurek-creatures/main/screenshots/screen2.png"
