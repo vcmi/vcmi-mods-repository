@@ -582,13 +582,15 @@
 		"downloadSize" : 9.106
 	},
 	"newtown-terrains" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.4/newtown-terrains/mod.json",
-		"download" : "https://github.com/vcmi-mods/newtown-terrains/archive/refs/heads/vcmi-1.4.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.5/newtown-terrains/mod.json",
+		"download" : "https://github.com/vcmi-mods/newtown-terrains/archive/refs/heads/vcmi-1.5.zip",
 		"screenshots" : [
-			"https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.4/screenshots/screen10.png",
-			"https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.4/screenshots/screen11.png",
-			"https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.4/screenshots/screen12.png",
-			"https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.4/screenshots/screen13.png"
+			"https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.5/screenshots/screen10.png",
+			"https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.5/screenshots/screen11.png",
+			"https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.5/screenshots/screen12.png",
+			"https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.5/screenshots/screen13.png",
+			"https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.5/screenshots/screen14.png",
+			"https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.5/screenshots/screen15.png"
 		],
 		"downloadSize" : 32.277
 	},
