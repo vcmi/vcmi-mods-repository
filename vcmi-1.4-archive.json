@@ -242,5 +242,10 @@
 			"https://raw.githubusercontent.com/misiokles/warlock-town/vcmi-1.5/screenshots/screen3.png"
 		],
 		"downloadSize" : 14.424
+	},
+	"mythology-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/mythology-town/vcmi-1.4/mythology-town/mod.json",
+		"download" : "https://github.com/misiokles/mythology-town/archive/refs/heads/vcmi-1.4.zip",
+		"downloadSize" : 18.394
 	}
 }
