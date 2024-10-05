@@ -247,5 +247,15 @@
 		"mod" : "https://raw.githubusercontent.com/misiokles/mythology-town/vcmi-1.4/mythology-town/mod.json",
 		"download" : "https://github.com/misiokles/mythology-town/archive/refs/heads/vcmi-1.4.zip",
 		"downloadSize" : 10.816
+	},
+	"abode-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/abode-town/vcmi-1.5/abode-town/mod.json",
+		"download" : "https://github.com/misiokles/abode-town/archive/refs/heads/vcmi-1.5.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/misiokles/abode-town/vcmi-1.5/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/misiokles/abode-town/vcmi-1.5/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/misiokles/abode-town/vcmi-1.5/screenshots/screen3.png"
+		],
+		"downloadSize" : 14.424
 	}
 }
