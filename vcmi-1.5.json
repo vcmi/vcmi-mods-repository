@@ -392,7 +392,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/kurek-creatures/main/screenshots/screen1.png",
 			"https://raw.githubusercontent.com/vcmi-mods/kurek-creatures/main/screenshots/screen2.png"
 		],
-		"downloadSize" : 24.573
+		"downloadSize" : 24.625
 	},
 	"undead-sphinxes" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/undead-sphinxes/vcmi-1.4/undeadSphinxes/mod.json",
