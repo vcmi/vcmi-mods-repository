@@ -710,13 +710,13 @@
 		"downloadSize" : 2.119
 	},
 	"third-upgrades" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.4/third-upgrades/mod.json",
-		"download" : "https://github.com/vcmi-mods/third-upgrades/archive/refs/heads/vcmi-1.4.zip",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.5/third-upgrades/mod.json",
+		"download" : "https://github.com/vcmi-mods/third-upgrades/archive/refs/heads/vcmi-1.5.zip",
 		"screenshots" : [
-			"https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.4/screenshots/screen01.png",
-			"https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.4/screenshots/screen02.png",
-			"https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.4/screenshots/screen03.png",
-			"https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.4/screenshots/screen04.png"
+			"https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.5/screenshots/screen01.png",
+			"https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.5/screenshots/screen02.png",
+			"https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.5/screenshots/screen03.png",
+			"https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.5/screenshots/screen04.png"
 		],
 		"downloadSize" : 22.345
 	},
