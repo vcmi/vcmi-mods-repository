@@ -115,12 +115,12 @@
 	"german-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/german-translation/vcmi-1.6/mod.json",
 		"download" : "https://github.com/vcmi-mods/german-translation/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 217.681
+		"downloadSize" : 89.769
 	},
 	"spanish-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/spanish-translation/vcmi-1.6/spanish-translation/mod.json",
 		"download" : "https://github.com/vcmi-mods/spanish-translation/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 48.922
+		"downloadSize" : 13.874
 	},
 	"korean-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/korean-translation/vcmi-1.4/korean-translation/mod.json",
@@ -130,7 +130,7 @@
 	"italian-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/italian-translation/vcmi-1.6/italian-translation/mod.json",
 		"download" : "https://github.com/vcmi-mods/italian-translation/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 49.688
+		"downloadSize" : 14.616
 	},
 	"czech-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/czech-translation/vcmi-1.4/czech-translation/mod.json",
@@ -170,7 +170,7 @@
 	"french-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/french-translation/vcmi-1.6/french-translation/mod.json",
 		"download" : "https://github.com/vcmi-mods/french-translation/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 55.072
+		"downloadSize" : 20.006
 	},
 	"vietnamese-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/vietnamese-translation/vcmi-1.4/vietnamese-translation/mod.json",
@@ -447,7 +447,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/vcmi-1.6/screenshots/sc-6.png",
 			"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/vcmi-1.6/screenshots/sc-7.png"
 		],
-		"downloadSize" : 73.819
+		"downloadSize" : 38.767
 	},
 	"new-interface-mod" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/vcmi-1.4/New%20Interface%20Mod/mod.json",
