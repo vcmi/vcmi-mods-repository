@@ -624,7 +624,7 @@
 	"warzyw-templates" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/warzyw-templates/vcmi-1.4/warzyw-templates/mod.json",
 		"download" : "https://github.com/vcmi-mods/warzyw-templates/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 0.535
+		"downloadSize" : 0.541
 	},
 	"wyrmsun-boats" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/wyrmsun-boats/vcmi-1.4/wyrmsun-boats/mod.json",
@@ -912,7 +912,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/factory-creatures/vcmi-1.5/screenshots/screen3.png",
 			"https://raw.githubusercontent.com/vcmi-mods/factory-creatures/vcmi-1.5/screenshots/screen4.png"
 		],
-		"downloadSize" : 61.478
+		"downloadSize" : 61.495
 	},
 	"luk3Z-templates-pack" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/luk3Z-templates-pack/vcmi-1.5/luk3Z-templates-pack/mod.json",
