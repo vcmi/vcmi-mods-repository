@@ -145,7 +145,7 @@
 	"portuguese-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/portuguese-translation/vcmi-1.4/portuguese-translation/mod.json",
 		"download" : "https://github.com/vcmi-mods/portuguese-translation/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 10.025
+		"downloadSize" : 10.024
 	},
 	"swedish-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/swedish-translation/vcmi-1.4/swedish-translation/mod.json",
@@ -228,7 +228,7 @@
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/tarnum/vcmi-1.5/screenshots/tarnumVizier.png"
 		],
-		"downloadSize" : 1.586
+		"downloadSize" : 1.588
 	},
 	"magic-fader" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/magic-fader/vcmi-1.5/mod.json",
@@ -392,7 +392,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/kurek-creatures/main/screenshots/screen1.png",
 			"https://raw.githubusercontent.com/vcmi-mods/kurek-creatures/main/screenshots/screen2.png"
 		],
-		"downloadSize" : 24.625
+		"downloadSize" : 24.626
 	},
 	"undead-sphinxes" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/undead-sphinxes/vcmi-1.4/undeadSphinxes/mod.json",
@@ -624,7 +624,7 @@
 	"warzyw-templates" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/warzyw-templates/vcmi-1.4/warzyw-templates/mod.json",
 		"download" : "https://github.com/vcmi-mods/warzyw-templates/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 0.541
+		"downloadSize" : 0.542
 	},
 	"wyrmsun-boats" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/wyrmsun-boats/vcmi-1.4/wyrmsun-boats/mod.json",
@@ -802,7 +802,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/H3Evo/main/Screenshots/ToW alternate creatures - Tower Overview.png",
 			"https://raw.githubusercontent.com/vcmi-mods/H3Evo/main/Screenshots/ToW alternate creatures - Tower Recruting Screen.png"
 		],
-		"downloadSize" : 7.604
+		"downloadSize" : 7.608
 	},
 	"small-era-mods" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/small-era-mods/vcmi-1.4/small-era-mods/mod.json",
