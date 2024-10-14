@@ -561,7 +561,7 @@
 		"downloadSize" : 6.732
 	},
 	"refugee-town" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/refugee-town/vcmi-1.6refugee-town/mod.json",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/refugee-town/vcmi-1.6/refugee-town/mod.json",
 		"download" : "https://github.com/vcmi-mods/refugee-town/archive/refs/heads/vcmi-1.6.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/refugee-town/main/screenshots/screen1.png",
@@ -593,7 +593,7 @@
 		"downloadSize" : 48.967
 	},
 	"forge2k" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/forge2k/vcmi-1.6/forge2k/mod.json",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/forge2k/vcmi-1.6/Forge2k/mod.json",
 		"download" : "https://github.com/vcmi-mods/forge2k/archive/refs/heads/vcmi-1.6.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/forge2k/vcmi-1.5/screenshots/screen01.png",
