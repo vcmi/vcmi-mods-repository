@@ -20,11 +20,6 @@
 		"download" : "https://github.com/misiokles/foundry-town/archive/refs/heads/vcmi-1.4.zip",
 		"downloadSize" : 18.394
 	},
-	"dark-dwarf-at-arms" : {
-		"mod" : "https://raw.githubusercontent.com/misiokles/dark-dwarf-at-arms/vcmi-1.4/dark-dwarf-at-arms/mod.json",
-		"download" : "https://github.com/misiokles/dark-dwarf-at-arms/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 0.577
-	},
 	"small-era-mods" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/small-era-mods/vcmi-1.4/small-era-mods/mod.json",
 		"download" : "https://github.com/misiokles/small-era-mods/archive/refs/heads/vcmi-1.4.zip",
@@ -69,11 +64,6 @@
 		"mod" : "https://raw.githubusercontent.com/misiokles/palace-town/vcmi-1.4/palace-town/mod.json",
 		"download" : "https://github.com/misiokles/palace-town/archive/refs/heads/vcmi-1.4.zip",
 		"downloadSize" : 14.683
-	},
-	"wicked-witch" : {
-		"mod" : "https://raw.githubusercontent.com/misiokles/wicked-witch/vcmi-1.4/wicked-witch/mod.json",
-		"download" : "https://github.com/misiokles/wicked-witch/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 0.866
 	},
 	"h4-arts-hero" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/h4-arts-hero/vcmi-1.4/h4-arts-hero/mod.json",
