@@ -2,7 +2,7 @@
 	"vcmi-extras" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.6/mod.json",
 		"download" : "https://github.com/vcmi-mods/vcmi-extras/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 4.587
+		"downloadSize" : 4.588
 	},
 	"hota" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/hota/mod.json",
@@ -434,7 +434,7 @@
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/hi-rez-menu/main/screenshots/screen1.png"
 		],
-		"downloadSize" : 8.119
+		"downloadSize" : 8.12
 	},
 	"greenhouse-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/greenhouse-town/vcmi-1.6/Greenhouse/mod.json",
@@ -519,7 +519,7 @@
 	"boost-ai" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/boost-ai/vcmi-1.6/mod.json",
 		"download" : "https://github.com/vcmi-mods/boost-ai/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 0.013
+		"downloadSize" : 0.015
 	},
 	"an-expansion" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/an-expansion/vcmi-1.6/mod.json",
@@ -861,20 +861,6 @@
 		"downloadSize" : 61.496
 	},
 	"luk3Z-templates-pack" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/luk3Z-templates-pack/vcmi-1.6/luk3Z-templates-pack/mod.json",
-		"download" : "https://github.com/vcmi-mods/luk3Z-templates-pack/archive/refs/heads/vcmi-1.6.zip",
-		"screenshots" : [
-			"https://raw.githubusercontent.com/vcmi-mods/luk3Z-templates-pack/vcmi-1.5/screenshots/screen1.png",
-			"https://raw.githubusercontent.com/vcmi-mods/luk3Z-templates-pack/vcmi-1.5/screenshots/screen2.png",
-			"https://raw.githubusercontent.com/vcmi-mods/luk3Z-templates-pack/vcmi-1.5/screenshots/screen3.png",
-			"https://raw.githubusercontent.com/vcmi-mods/luk3Z-templates-pack/vcmi-1.5/screenshots/screen4.png",
-			"https://raw.githubusercontent.com/vcmi-mods/luk3Z-templates-pack/vcmi-1.5/screenshots/screen5.png",
-			"https://raw.githubusercontent.com/vcmi-mods/luk3Z-templates-pack/vcmi-1.5/screenshots/screen6.png",
-			"https://raw.githubusercontent.com/vcmi-mods/luk3Z-templates-pack/vcmi-1.5/screenshots/screen7.png"
-		],
-		"downloadSize" : 13.013
-	},
-	"luk3Z-templates-pack" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-monsters-pack/vcmi-1.6/new-monsters-pack/mod.json",
 		"download" : "https://github.com/vcmi-mods/new-monsters-pack/archive/refs/heads/vcmi-1.6.zip",
 		"screenshots" : [
@@ -889,6 +875,6 @@
 			"https://raw.githubusercontent.com/vcmi-mods/new-monsters-pack/vcmi-1.6/screenshots/screen09.png",
 			"https://raw.githubusercontent.com/vcmi-mods/new-monsters-pack/vcmi-1.6/screenshots/screen10.png"
 		],
-		"downloadSize" : 13.013
+		"downloadSize" : 99.973
 	}
 }
