@@ -43,7 +43,7 @@
 	"new-old-heroes" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-old-heroes/vcmi-1.6/new-old-heroes/mod.json",
 		"download" : "https://github.com/vcmi-mods/new-old-heroes/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 0.409,
+		"downloadSize" : 3.335,
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/new-old-heroes/vcmi-1.6/screenshots/StandaloneSoth.png",
 			"https://raw.githubusercontent.com/vcmi-mods/new-old-heroes/vcmi-1.6/screenshots/StandaloneNicolas.png",
@@ -144,7 +144,7 @@
 	"czech-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/czech-translation/vcmi-1.6/czech-translation/mod.json",
 		"download" : "https://github.com/vcmi-mods/czech-translation/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 6.847
+		"downloadSize" : 6.848
 	},
 	"finnish-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/finnish-translation/vcmi-1.6/finnish-translation/mod.json",
@@ -179,7 +179,7 @@
 	"french-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/french-translation/vcmi-1.6/french-translation/mod.json",
 		"download" : "https://github.com/vcmi-mods/french-translation/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 23.155
+		"downloadSize" : 26.173
 	},
 	"vietnamese-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/vietnamese-translation/vcmi-1.6/vietnamese-translation/mod.json",
@@ -772,7 +772,7 @@
 	"small-era-mods" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/small-era-mods/vcmi-1.6/small-era-mods/mod.json",
 		"download" : "https://github.com/vcmi-mods/small-era-mods/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 15.073
+		"downloadSize" : 15.074
 	},
 	"phoenix-as-a-dream" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/phoenix-as-a-dream/vcmi-1.6/mod.json",
