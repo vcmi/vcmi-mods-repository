@@ -225,7 +225,8 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tarnum/vcmi-1.6/tarnum/mod.json",
 		"download" : "https://github.com/vcmi-mods/tarnum/archive/refs/heads/vcmi-1.6.zip",
 		"screenshots" : [
-			"https://raw.githubusercontent.com/vcmi-mods/tarnum/vcmi-1.5/screenshots/tarnumVizier.png"
+			"https://raw.githubusercontent.com/vcmi-mods/tarnum/vcmi-1.6/screenshots/tarnumVizier.png",
+			"https://raw.githubusercontent.com/vcmi-mods/tarnum/vcmi-1.6/screenshots/tarnumMercenary.png"
 		],
 		"downloadSize" : 1.588
 	},
