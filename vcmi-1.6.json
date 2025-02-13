@@ -998,5 +998,9 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/cheat-mod/vcmi-1.6/cheat-mod/mod.json",
 		"download" : "https://github.com/vcmi-mods/cheat-mod/archive/refs/heads/vcmi-1.6.zip",
 		"downloadSize" : 0.004
+	},
+	"equal-stats" : {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/equal-stats/vcmi-1.6/equal-stats/mod.json",
+		"download" : "https://github.com/vcmi-mods/equal-stats/archive/refs/heads/vcmi-1.6.zip"
 	}
 }
