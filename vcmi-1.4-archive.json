@@ -8,7 +8,7 @@
 			"https://raw.githubusercontent.com/misiokles/horde-town/vcmi-1.4/screenshots/screen3.png",
 			"https://raw.githubusercontent.com/misiokles/horde-town/vcmi-1.4/screenshots/screen4.png"
 		],
-		"downloadSize" : 20.167
+		"downloadSize" : 20.168
 	},
 	"ciberium-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/ciberium-town/vcmi-1.4/ciberium-town/mod.json",
@@ -38,7 +38,7 @@
 	"astral-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/astral-town/vcmi-1.4/astral-town/mod.json",
 		"download" : "https://github.com/misiokles/astral-town/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 10.29
+		"downloadSize" : 10.293
 	},
 	"golemcraft" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/golemcraft/vcmi-1.4/golemcraft/mod.json",
@@ -83,7 +83,7 @@
 	"swarm-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/swarm-town/vcmi-1.4/swarm-town/mod.json",
 		"download" : "https://github.com/misiokles/swarm-town/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 16.009
+		"downloadSize" : 16.025
 	},
 	"rampstorm" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/rampstorm/vcmi-1.4/rampstorm/mod.json",
@@ -93,7 +93,7 @@
 	"atlantis-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/atlantis-town/vcmi-1.4/atlantis-town/mod.json",
 		"download" : "https://github.com/misiokles/atlantis-town/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 11.274
+		"downloadSize" : 11.282
 	},
 	"technocracy-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/technocracy-town/vcmi-1.4/technocracy-town/mod.json",
