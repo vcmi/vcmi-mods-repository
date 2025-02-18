@@ -92,7 +92,7 @@
 		"downloadSize" : 26.66
 	},
 	"highlands-town" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/highlands-town/vcmi-1.6/mod.json",
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/highlands-town/vcmi-1.6/highlands-town/mod.json",
 		"download" : "https://github.com/vcmi-mods/highlands-town/archive/refs/heads/vcmi-1.6.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/highlands-town/vcmi-1.6/screenshots/screen1.png",
