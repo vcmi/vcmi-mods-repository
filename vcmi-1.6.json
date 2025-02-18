@@ -99,7 +99,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/highlands-town/vcmi-1.6/screenshots/screen2.png",
 			"https://raw.githubusercontent.com/vcmi-mods/highlands-town/vcmi-1.6/screenshots/screen3.png"
 		],
-		"downloadSize" : 15.553
+		"downloadSize" : 15.552
 	},
 	"new-pavilion" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.6/New Pavilion/mod.json",
@@ -1007,6 +1007,7 @@
 	},
 	"chinese-maps-collection" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/chinese-maps-collection/main/chinese-maps-collection/mod.json",
-		"download" : "https://github.com/vcmi-mods/chinese-maps-collection/archive/refs/heads/main.zip"
+		"download" : "https://github.com/vcmi-mods/chinese-maps-collection/archive/refs/heads/main.zip",
+		"downloadSize" : 104.996
 	}
 }
