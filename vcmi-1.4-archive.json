@@ -259,5 +259,14 @@
 			"https://raw.githubusercontent.com/misiokles/crossroads-of-worlds/vcmi-1.6/screenshots/screen10.png"
 		],
 		"downloadSize" : 151.247
+	},
+	"blazers-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/blazers-town/main/blazers-town/mod.json",
+		"download" : "https://github.com/misiokles/blazers-town/archive/refs/heads/main.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/misiokles/blazers-town/main/screenshots/screen01.png",
+			"https://raw.githubusercontent.com/misiokles/blazers-town/main/screenshots/screen02.png",
+			"https://raw.githubusercontent.com/misiokles/blazers-town/main/screenshots/screen03.png"
+		]
 	}
 }
