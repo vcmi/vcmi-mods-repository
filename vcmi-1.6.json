@@ -1009,5 +1009,10 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/chinese-maps-collection/main/chinese-maps-collection/mod.json",
 		"download" : "https://github.com/vcmi-mods/chinese-maps-collection/archive/refs/heads/main.zip",
 		"downloadSize" : 104.996
+	},
+	"pvp-balance" : {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/pvp-balance/vcmi-1.6/mod.json",
+		"download" : "https://github.com/vcmi-mods/pvp-balance/archive/refs/heads/vcmi-1.6.zip",
+		"downloadSize" : 1.243
 	}
 }
