@@ -93,12 +93,12 @@
 	"atlantis-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/atlantis-town/vcmi-1.4/atlantis-town/mod.json",
 		"download" : "https://github.com/misiokles/atlantis-town/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 11.282
+		"downloadSize" : 11.283
 	},
 	"technocracy-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/technocracy-town/vcmi-1.4/technocracy-town/mod.json",
 		"download" : "https://github.com/misiokles/technocracy-town/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 9.328
+		"downloadSize" : 17.801
 	},
 	"eldorado-town" : {
 		"mod" : "https://raw.githubusercontent.com/kdmcser/eldorado-town/vcmi-1.5/mod.json",
@@ -258,7 +258,7 @@
 			"https://raw.githubusercontent.com/misiokles/crossroads-of-worlds/vcmi-1.6/screenshots/screen09.png",
 			"https://raw.githubusercontent.com/misiokles/crossroads-of-worlds/vcmi-1.6/screenshots/screen10.png"
 		],
-		"downloadSize" : 151.247
+		"downloadSize" : 151.374
 	},
 	"blazers-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/blazers-town/main/blazers-town/mod.json",
@@ -267,6 +267,7 @@
 			"https://raw.githubusercontent.com/misiokles/blazers-town/main/screenshots/screen01.png",
 			"https://raw.githubusercontent.com/misiokles/blazers-town/main/screenshots/screen02.png",
 			"https://raw.githubusercontent.com/misiokles/blazers-town/main/screenshots/screen03.png"
-		]
+		],
+		"downloadSize" : 18.683
 	}
 }

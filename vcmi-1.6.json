@@ -2,7 +2,7 @@
 	"vcmi-extras" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.6/mod.json",
 		"download" : "https://github.com/vcmi-mods/vcmi-extras/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 2.175
+		"downloadSize" : 2.734
 	},
 	"hota" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/hota/mod.json",
@@ -59,7 +59,7 @@
 	"new-old-heroes" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-old-heroes/vcmi-1.6/new-old-heroes/mod.json",
 		"download" : "https://github.com/vcmi-mods/new-old-heroes/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 6.304,
+		"downloadSize" : 6.309,
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/new-old-heroes/vcmi-1.6/screenshots/StandaloneSoth.png",
 			"https://raw.githubusercontent.com/vcmi-mods/new-old-heroes/vcmi-1.6/screenshots/StandaloneNicolas.png",
@@ -89,7 +89,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen6.png",
 			"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen7.png"
 		],
-		"downloadSize" : 26.66
+		"downloadSize" : 26.68
 	},
 	"highlands-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/highlands-town/vcmi-1.6/highlands-town/mod.json",
@@ -99,7 +99,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/highlands-town/vcmi-1.6/screenshots/screen2.png",
 			"https://raw.githubusercontent.com/vcmi-mods/highlands-town/vcmi-1.6/screenshots/screen3.png"
 		],
-		"downloadSize" : 15.552
+		"downloadSize" : 15.553
 	},
 	"new-pavilion" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.6/New Pavilion/mod.json",
@@ -188,7 +188,7 @@
 	"portuguese-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/portuguese-translation/vcmi-1.6/portuguese-translation/mod.json",
 		"download" : "https://github.com/vcmi-mods/portuguese-translation/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 10.024
+		"downloadSize" : 10.279
 	},
 	"swedish-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/swedish-translation/vcmi-1.6/swedish-translation/mod.json",
@@ -277,7 +277,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/tarnum/vcmi-1.6/screenshots/asylum01.png",
 			"https://raw.githubusercontent.com/vcmi-mods/tarnum/vcmi-1.6/screenshots/tarnumPathfinder.png"
 		],
-		"downloadSize" : 5.603
+		"downloadSize" : 5.605
 	},
 	"grove" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/grove/vcmi-1.6/Grove/mod.json",
@@ -305,7 +305,7 @@
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/fairy-town/main/screenshots/screen1.png"
 		],
-		"downloadSize" : 21.595
+		"downloadSize" : 21.605
 	},
 	"haven-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/haven-town/vcmi-1.6/haven-town/mod.json",
@@ -392,7 +392,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/abyss-town/main/screenshots/screen4.png",
 			"https://raw.githubusercontent.com/vcmi-mods/abyss-town/main/screenshots/screen5.png"
 		],
-		"downloadSize" : 32.814
+		"downloadSize" : 32.855
 	},
 	"retreat-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/retreat-town/vcmi-1.6/retreat-town/mod.json",
@@ -552,7 +552,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.4/screenshots/screen12.png",
 			"https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.4/screenshots/screen13.png"
 		],
-		"downloadSize" : 51.157
+		"downloadSize" : 51.159
 	},
 	"forge2k" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/forge2k/vcmi-1.6/Forge2k/mod.json",
@@ -663,7 +663,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.4/screenshots/screen03.png",
 			"https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.4/screenshots/screen04.png"
 		],
-		"downloadSize" : 35.604
+		"downloadSize" : 35.592
 	},
 	"mighty-heroes-iii" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/mighty-heroes-iii/vcmi-1.6/mighty-heroes-iii/mod.json",
@@ -881,7 +881,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/chronicles-enhanced/vcmi-1.6/screenshots/screen02.png",
 			"https://raw.githubusercontent.com/vcmi-mods/chronicles-enhanced/vcmi-1.6/screenshots/screen03.png"
 		],
-		"downloadSize" : 5.77
+		"downloadSize" : 5.765
 	},
 	"overall-ai-bonus" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/overall-ai-bonus/vcmi-1.6/overall-ai-bonus/mod.json",
@@ -971,7 +971,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/kremlin-town/vcmi-1.6/screenshots/screen4.png",
 			"https://raw.githubusercontent.com/vcmi-mods/kremlin-town/vcmi-1.6/screenshots/screen5.png"
 		],
-		"downloadSize" : 46.627
+		"downloadSize" : 46.636
 	},
 	"ai-disable-speedups" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ai-disable-speedups/vcmi-1.6/mod.json",
@@ -1013,6 +1013,6 @@
 	"pvp-balance" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/pvp-balance/vcmi-1.6/mod.json",
 		"download" : "https://github.com/vcmi-mods/pvp-balance/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 1.243
+		"downloadSize" : 8.99
 	}
 }
