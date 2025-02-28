@@ -23,7 +23,7 @@ for filename in glob.glob(os.path.join('.', '*.json')):
             print(f"❌ Error reading JSON file {filename}: {err}")
             continue
 
-        for mod, data in modlist.items():
+        for mod, data in modlist.items() if 'availableMods' not in modlist else modlist["availableMods"].items():
             url = data["mod"].replace(" ", "%20")
             print(f"{mod}: {url}")
 
