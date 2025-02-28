@@ -13,7 +13,7 @@
 	"ciberium-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/ciberium-town/vcmi-1.4/ciberium-town/mod.json",
 		"download" : "https://github.com/misiokles/ciberium-town/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 22.834
+		"downloadSize" : 21.751
 	},
 	"foundry-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/foundry-town/vcmi-1.4/foundry-town/mod.json",
@@ -236,12 +236,12 @@
 			"https://raw.githubusercontent.com/misiokles/abode-town/vcmi-1.5/screenshots/screen2.png",
 			"https://raw.githubusercontent.com/misiokles/abode-town/vcmi-1.5/screenshots/screen3.png"
 		],
-		"downloadSize" : 21.218
+		"downloadSize" : 21.358
 	},
 	"pah3-singleplayer-tournament" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/pah3-singleplayer-tournament/vcmi-1.6/pah3-singleplayer-tournament/mod.json",
 		"download" : "https://github.com/vcmi-mods/pah3-singleplayer-tournament/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 10.305
+		"downloadSize" : 0.008
 	},
 	"crossroads-of-worlds" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/crossroads-of-worlds/vcmi-1.6/crossroads-of-worlds/mod.json",
