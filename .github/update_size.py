@@ -11,7 +11,7 @@ for filename in glob.glob(os.path.join('.', '*.json')):
         print(f"Opening: {filename}")
         filecontent = open(filename, "r").read()
         modlist = json.loads(filecontent)
-        for mod, data in modlist.items():
+        for mod, data in modlist.items() if 'availableMods' not in modlist else modlist["availableMods"].items():
             url = data["download"].replace(" ", "%20")
             print(f"Download {mod}: {url}")
             try:
