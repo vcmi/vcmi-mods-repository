@@ -241,7 +241,7 @@
 	"pah3-singleplayer-tournament" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/pah3-singleplayer-tournament/vcmi-1.6/pah3-singleplayer-tournament/mod.json",
 		"download" : "https://github.com/vcmi-mods/pah3-singleplayer-tournament/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 0.008
+		"downloadSize" : 0.271
 	},
 	"crossroads-of-worlds" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/crossroads-of-worlds/vcmi-1.6/crossroads-of-worlds/mod.json",

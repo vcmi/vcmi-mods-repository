@@ -2,7 +2,7 @@
 	"vcmi-extras" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.6/mod.json",
 		"download" : "https://github.com/vcmi-mods/vcmi-extras/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 2.734
+		"downloadSize" : 2.738
 	},
 	"hota" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/hota/mod.json",
@@ -153,7 +153,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/andruids-expansion/vcmi-1.6/screenshots/screen12.png",
 			"https://raw.githubusercontent.com/vcmi-mods/andruids-expansion/vcmi-1.6/screenshots/screen13.png"
 		],
-		"downloadSize" : 7.769
+		"downloadSize" : 7.77
 	},
 	"german-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/german-translation/vcmi-1.6/mod.json",
@@ -163,7 +163,7 @@
 	"spanish-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/spanish-translation/vcmi-1.6/spanish-translation/mod.json",
 		"download" : "https://github.com/vcmi-mods/spanish-translation/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 18.001
+		"downloadSize" : 19.306
 	},
 	"korean-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/korean-translation/vcmi-1.6/korean-translation/mod.json",
@@ -256,7 +256,7 @@
 	"mac demo support" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/mac-demo-support/master/mod.json",
 		"download" : "https://github.com/vcmi-mods/mac-demo-support/archive/refs/heads/master.zip",
-		"downloadSize" : 0.011
+		"downloadSize" : 4.234
 	},
 	"ai testing maps" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ai-testing-maps/master/mod.json",
@@ -553,7 +553,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.4/screenshots/screen12.png",
 			"https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.4/screenshots/screen13.png"
 		],
-		"downloadSize" : 51.153
+		"downloadSize" : 51.815
 	},
 	"forge2k" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/forge2k/vcmi-1.6/Forge2k/mod.json",
@@ -1023,7 +1023,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/pah3-singleplayer-tournament/vcmi-1.6/screenshots/screen1.png",
 			"https://raw.githubusercontent.com/vcmi-mods/pah3-singleplayer-tournament/vcmi-1.6/screenshots/screen2.png",
 			"https://raw.githubusercontent.com/vcmi-mods/pah3-singleplayer-tournament/vcmi-1.6/screenshots/screen3.png"
-		],		
-		"downloadSize" : 0.008
+		],
+		"downloadSize" : 0.271
 	}
 }
