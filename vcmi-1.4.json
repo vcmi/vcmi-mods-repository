@@ -197,10 +197,10 @@
 		"download" : "https://github.com/vcmi-mods/adventure-ai-trace/archive/refs/heads/upstream.zip",
 		"downloadSize" : 0.001
 	},
-	"mac demo support" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/mac-demo-support/master/mod.json",
-		"download" : "https://github.com/vcmi-mods/mac-demo-support/archive/refs/heads/master.zip",
-		"downloadSize" : 0.011
+	"demo support" : {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/demo-support/master/mod.json",
+		"download" : "https://github.com/vcmi-mods/demo-support/archive/refs/heads/master.zip",
+		"downloadSize" : 4.234
 	},
 	"ai testing maps" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ai-testing-maps/master/mod.json",

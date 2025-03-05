@@ -124,10 +124,9 @@
 		"mod": "https://raw.githubusercontent.com/vcmi-mods/adventure-ai-trace/upstream/mod.json",
 		"download" : "https://github.com/vcmi-mods/adventure-ai-trace/archive/refs/heads/upstream.zip"
 	},
-	"mac demo support":
-	{
-		"mod": "https://raw.githubusercontent.com/vcmi-mods/mac-demo-support/master/mod.json",
-		"download" : "https://github.com/vcmi-mods/mac-demo-support/archive/refs/heads/master.zip"
+	"demo support" : {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/demo-support/master/mod.json",
+		"download" : "https://github.com/vcmi-mods/demo-support/archive/refs/heads/master.zip"
 	},
 	"ai testing maps":
 	{
