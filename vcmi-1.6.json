@@ -163,7 +163,7 @@
 	"spanish-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/spanish-translation/vcmi-1.6/spanish-translation/mod.json",
 		"download" : "https://github.com/vcmi-mods/spanish-translation/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 19.306
+		"downloadSize" : 21.706
 	},
 	"korean-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/korean-translation/vcmi-1.6/korean-translation/mod.json",
@@ -256,7 +256,7 @@
 	"demo support" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/demo-support/master/mod.json",
 		"download" : "https://github.com/vcmi-mods/demo-support/archive/refs/heads/master.zip",
-		"downloadSize" : 4.234
+		"downloadSize" : 4.233
 	},
 	"ai testing maps" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ai-testing-maps/master/mod.json",
@@ -1014,7 +1014,7 @@
 	"pvp-balance" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/pvp-balance/vcmi-1.6/mod.json",
 		"download" : "https://github.com/vcmi-mods/pvp-balance/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 8.999
+		"downloadSize" : 9.037
 	},
 	"pah3-singleplayer-tournament" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/pah3-singleplayer-tournament/vcmi-1.6/pah3-singleplayer-tournament/mod.json",
