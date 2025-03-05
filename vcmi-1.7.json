@@ -1021,6 +1021,18 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/pah3-singleplayer-tournament/vcmi-1.6/pah3-singleplayer-tournament/mod.json",
 			"download" : "https://github.com/vcmi-mods/pah3-singleplayer-tournament/archive/refs/heads/vcmi-1.6.zip",
 			"downloadSize" : 0.271
+		},
+		"norwegian-translation" : {
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/norwegian-translation/vcmi-1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/norwegian-translation/archive/refs/heads/vcmi-1.7.zip"
+		},
+		"greek-translation" : {
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/greek-translation/vcmi-1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/greek-translation/archive/refs/heads/vcmi-1.7.zip"
+		},
+		"japanese-translation" : {
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/japanese-translation/vcmi-1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/japanese-translation/archive/refs/heads/vcmi-1.7.zip"
 		}
 	}
 }
