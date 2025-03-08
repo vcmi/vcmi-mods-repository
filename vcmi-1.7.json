@@ -1036,6 +1036,14 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/japanese-translation/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/japanese-translation/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 9.466
+		},
+		"bulgarian-translation" : {
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/bulgarian-translation/vcmi-1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/bulgarian-translation/archive/refs/heads/vcmi-1.7.zip"
+		},
+		"romanian-translation" : {
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/romanian-translation/vcmi-1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/romanian-translation/archive/refs/heads/vcmi-1.7.zip"
 		}
 	}
 }
