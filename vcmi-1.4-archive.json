@@ -17,8 +17,8 @@
 			"https://raw.githubusercontent.com/misiokles/ciberium-town/vcmi-1.4/screenshots/screen1.png",
 			"https://raw.githubusercontent.com/misiokles/ciberium-town/vcmi-1.4/screenshots/screen2.png",
 			"https://raw.githubusercontent.com/misiokles/ciberium-town/vcmi-1.4/screenshots/screen3.png"
-		],		
-		"downloadSize" : 21.751
+		],
+		"downloadSize" : 24.778
 	},
 	"foundry-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/foundry-town/vcmi-1.4/foundry-town/mod.json",
@@ -103,7 +103,7 @@
 	"technocracy-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/technocracy-town/vcmi-1.4/technocracy-town/mod.json",
 		"download" : "https://github.com/misiokles/technocracy-town/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 17.801
+		"downloadSize" : 17.799
 	},
 	"eldorado-town" : {
 		"mod" : "https://raw.githubusercontent.com/kdmcser/eldorado-town/vcmi-1.5/mod.json",
@@ -194,7 +194,7 @@
 			"https://raw.githubusercontent.com/misiokles/glacier-town/vcmi-1.5/screenshots/screen1.png",
 			"https://raw.githubusercontent.com/misiokles/glacier-town/vcmi-1.5/screenshots/screen2.png"
 		],
-		"downloadSize" : 13.982
+		"downloadSize" : 13.565
 	},
 	"limes-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/limes-town/vcmi-1.5/limes-town/mod.json",
@@ -284,6 +284,6 @@
 			"https://raw.githubusercontent.com/misiokles/wild-valley-town/main/screenshots/screen03.png",
 			"https://raw.githubusercontent.com/misiokles/wild-valley-town/main/screenshots/screen04.png"
 		],
-		"downloadSize" : 18.683
-	}	
+		"downloadSize" : 16.575
+	}
 }
