@@ -1046,6 +1046,10 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/romanian-translation/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/romanian-translation/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 0.002
+		},
+		"belarusian-translation" : {
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/belarusian-translation/vcmi-1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/belarusian-translation/archive/refs/heads/vcmi-1.7.zip"
 		}
 	}
 }
