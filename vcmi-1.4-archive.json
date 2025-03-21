@@ -13,6 +13,11 @@
 	"ciberium-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/ciberium-town/vcmi-1.4/ciberium-town/mod.json",
 		"download" : "https://github.com/misiokles/ciberium-town/archive/refs/heads/vcmi-1.4.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/misiokles/ciberium-town/vcmi-1.4/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/misiokles/ciberium-town/vcmi-1.4/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/misiokles/ciberium-town/vcmi-1.4/screenshots/screen3.png"
+		],		
 		"downloadSize" : 21.751
 	},
 	"foundry-town" : {
@@ -269,5 +274,16 @@
 			"https://raw.githubusercontent.com/misiokles/blazers-town/main/screenshots/screen03.png"
 		],
 		"downloadSize" : 18.683
-	}
+	},
+	"wild-valley-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/wild-valley-town/main/wild-valley-town/mod.json",
+		"download" : "https://github.com/misiokles/wild-valley-town/archive/refs/heads/main.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/misiokles/wild-valley-town/main/screenshots/screen01.png",
+			"https://raw.githubusercontent.com/misiokles/wild-valley-town/main/screenshots/screen02.png",
+			"https://raw.githubusercontent.com/misiokles/wild-valley-town/main/screenshots/screen03.png",
+			"https://raw.githubusercontent.com/misiokles/wild-valley-town/main/screenshots/screen04.png"
+		],
+		"downloadSize" : 18.683
+	}	
 }
