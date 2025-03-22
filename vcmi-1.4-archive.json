@@ -285,5 +285,26 @@
 			"https://raw.githubusercontent.com/misiokles/wild-valley-town/main/screenshots/screen04.png"
 		],
 		"downloadSize" : 16.575
+	},
+	"evergreen-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/evergreen-town/main/evergreen-town/mod.json",
+		"download" : "https://github.com/misiokles/evergreen-town/archive/refs/heads/main.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/misiokles/evergreen-town/main/screenshots/screen01.png",
+			"https://raw.githubusercontent.com/misiokles/evergreen-town/main/screenshots/screen02.png",
+			"https://raw.githubusercontent.com/misiokles/evergreen-town/main/screenshots/screen03.png",
+			"https://raw.githubusercontent.com/misiokles/evergreen-town/main/screenshots/screen04.png"
+		]
+	},
+	"h2-towns" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/h2-towns/main/h2-towns/mod.json",
+		"download" : "https://github.com/misiokles/h2-towns/archive/refs/heads/main.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/misiokles/h2-towns/main/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/misiokles/h2-towns/main/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/misiokles/h2-towns/main/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/misiokles/h2-towns/main/screenshots/screen4.png",
+			"https://raw.githubusercontent.com/misiokles/h2-towns/main/screenshots/screen5.png"
+		]
 	}
 }
