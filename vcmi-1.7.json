@@ -114,7 +114,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.4/screenshots/screen6.png",
 				"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.4/screenshots/screen7.png"
 			],
-			"downloadSize" : 65.093
+			"downloadSize" : 65.12
 		},
 		"cathedral-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.6/cathedral-town/mod.json",
@@ -164,7 +164,7 @@
 		"spanish-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/spanish-translation/vcmi-1.6/spanish-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/spanish-translation/archive/refs/heads/vcmi-1.6.zip",
-			"downloadSize" : 48.959
+			"downloadSize" : 52.558
 		},
 		"korean-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/korean-translation/vcmi-1.6/korean-translation/mod.json",
@@ -883,7 +883,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/chronicles-enhanced/vcmi-1.6/screenshots/screen02.png",
 				"https://raw.githubusercontent.com/vcmi-mods/chronicles-enhanced/vcmi-1.6/screenshots/screen03.png"
 			],
-			"downloadSize" : 5.753
+			"downloadSize" : 5.745
 		},
 		"overall-ai-bonus" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/overall-ai-bonus/vcmi-1.6/overall-ai-bonus/mod.json",
@@ -1015,7 +1015,7 @@
 		"pvp-balance" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/pvp-balance/vcmi-1.6/mod.json",
 			"download" : "https://github.com/vcmi-mods/pvp-balance/archive/refs/heads/vcmi-1.6.zip",
-			"downloadSize" : 9.569
+			"downloadSize" : 13.5
 		},
 		"pah3-singleplayer-tournament" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/pah3-singleplayer-tournament/vcmi-1.6/pah3-singleplayer-tournament/mod.json",
@@ -1057,7 +1057,8 @@
 			"download" : "https://github.com/vcmi-mods/market-of-time/archive/refs/heads/main.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/market-of-time/main/screenshots/screen1.png"
-			]
+			],
+			"downloadSize" : 1.318
 		}
 	}
 }
