@@ -164,7 +164,7 @@
 		"spanish-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/spanish-translation/vcmi-1.6/spanish-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/spanish-translation/archive/refs/heads/vcmi-1.6.zip",
-			"downloadSize" : 52.558
+			"downloadSize" : 65.648
 		},
 		"korean-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/korean-translation/vcmi-1.6/korean-translation/mod.json",
@@ -973,7 +973,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/kremlin-town/vcmi-1.6/screenshots/screen4.png",
 				"https://raw.githubusercontent.com/vcmi-mods/kremlin-town/vcmi-1.6/screenshots/screen5.png"
 			],
-			"downloadSize" : 46.636
+			"downloadSize" : 45.198
 		},
 		"ai-disable-speedups" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/ai-disable-speedups/vcmi-1.6/mod.json",
