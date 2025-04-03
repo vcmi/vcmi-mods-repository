@@ -237,8 +237,8 @@
 			"downloadSize" : 109.992
 		},
 		"forge" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/forge/vcmi-1.6/forge/mod.json",
-			"download" : "https://github.com/vcmi-mods/forge/archive/refs/heads/vcmi-1.6.zip",
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/forge/vcmi-1.7/forge/mod.json",
+			"download" : "https://github.com/vcmi-mods/forge/archive/refs/heads/vcmi-1.7.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/forge/vcmi-1.6/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/forge/vcmi-1.6/screenshots/screen2.png",
