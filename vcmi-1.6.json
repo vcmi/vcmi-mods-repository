@@ -765,7 +765,7 @@
 	"graphics-balance-music" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/graphics-balance-music/vcmi-1.6/graphics-balance-music/mod.json",
 		"download" : "https://github.com/vcmi-mods/graphics-balance-music/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 78.105
+		"downloadSize" : 119.299
 	},
 	"new-summon-spells" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-summon-spells/vcmi-1.6/new-summon-spells/mod.json",
@@ -931,7 +931,7 @@
 	"new-sfx-sounds" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-sfx-sounds/main/mod.json",
 		"download" : "https://github.com/vcmi-mods/new-sfx-sounds/archive/refs/heads/main.zip",
-		"downloadSize" : 56.256
+		"downloadSize" : 58.939
 	},
 	"alternate-townscreens" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/alternate-townscreens/vcmi-1.6/alternate-townscreens/mod.json",
@@ -1024,6 +1024,6 @@
 			"https://raw.githubusercontent.com/vcmi-mods/pah3-singleplayer-tournament/vcmi-1.6/screenshots/screen2.png",
 			"https://raw.githubusercontent.com/vcmi-mods/pah3-singleplayer-tournament/vcmi-1.6/screenshots/screen3.png"
 		],
-		"downloadSize" : 0.398
+		"downloadSize" : 0.537
 	}
 }
