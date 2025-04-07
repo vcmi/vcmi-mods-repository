@@ -263,7 +263,7 @@
 			"https://raw.githubusercontent.com/misiokles/crossroads-of-worlds/vcmi-1.6/screenshots/screen09.png",
 			"https://raw.githubusercontent.com/misiokles/crossroads-of-worlds/vcmi-1.6/screenshots/screen10.png"
 		],
-		"downloadSize" : 151.374
+		"downloadSize" : 151.446
 	},
 	"blazers-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/blazers-town/main/blazers-town/mod.json",
@@ -314,6 +314,7 @@
 		"download" : "https://github.com/misiokles/haven-vovan/archive/refs/heads/main.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/misiokles/haven-vovan/main/screenshots/screen1.png"
-		]
+		],
+		"downloadSize" : 12.862
 	}
 }
