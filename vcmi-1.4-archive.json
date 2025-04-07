@@ -308,5 +308,12 @@
 			"https://raw.githubusercontent.com/misiokles/h2-towns/main/screenshots/screen5.png"
 		],
 		"downloadSize" : 63.742
+	},
+	"haven-vovan" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/haven-vovan/main/haven-vovan/mod.json",
+		"download" : "https://github.com/misiokles/haven-vovan/archive/refs/heads/main.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/misiokles/haven-vovan/main/screenshots/screen1.png"
+		]
 	}
 }
