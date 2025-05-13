@@ -68,7 +68,7 @@
 	"h4-arts-hero" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/h4-arts-hero/vcmi-1.4/h4-arts-hero/mod.json",
 		"download" : "https://github.com/misiokles/h4-arts-hero/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 0.206
+		"downloadSize" : 0.216
 	},
 	"h2-artifacts" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/h2-artifacts/vcmi-1.4/h2-artifacts/mod.json",
@@ -246,7 +246,7 @@
 	"pah3-singleplayer-tournament" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/pah3-singleplayer-tournament/vcmi-1.6/pah3-singleplayer-tournament/mod.json",
 		"download" : "https://github.com/vcmi-mods/pah3-singleplayer-tournament/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 0.537
+		"downloadSize" : 1.075
 	},
 	"crossroads-of-worlds" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/crossroads-of-worlds/vcmi-1.6/crossroads-of-worlds/mod.json",
@@ -284,7 +284,7 @@
 			"https://raw.githubusercontent.com/misiokles/wild-valley-town/main/screenshots/screen03.png",
 			"https://raw.githubusercontent.com/misiokles/wild-valley-town/main/screenshots/screen04.png"
 		],
-		"downloadSize" : 16.575
+		"downloadSize" : 16.573
 	},
 	"evergreen-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/evergreen-town/main/evergreen-town/mod.json",
