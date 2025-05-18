@@ -83,7 +83,7 @@
 	"regna-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/regna-town/vcmi-1.4/regna-town/mod.json",
 		"download" : "https://github.com/misiokles/regna-town/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 7.54
+		"downloadSize" : 12.344
 	},
 	"swarm-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/swarm-town/vcmi-1.4/swarm-town/mod.json",
@@ -173,7 +173,7 @@
 			"https://raw.githubusercontent.com/misiokles/covenant-town/vcmi-1.5/screenshots/screen3.png",
 			"https://raw.githubusercontent.com/misiokles/covenant-town/vcmi-1.5/screenshots/screen4.png"
 		],
-		"downloadSize" : 23.401
+		"downloadSize" : 37.546
 	},
 	"ruins092-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/ruins-092/vcmi-1.5/ruins-092/mod.json",
@@ -315,6 +315,6 @@
 		"screenshots" : [
 			"https://raw.githubusercontent.com/misiokles/haven-vovan/main/screenshots/screen1.png"
 		],
-		"downloadSize" : 12.862
+		"downloadSize" : 12.872
 	}
 }
