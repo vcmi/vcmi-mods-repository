@@ -554,7 +554,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.4/screenshots/screen12.png",
 				"https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.4/screenshots/screen13.png"
 			],
-			"downloadSize" : 51.815
+			"downloadSize" : 51.854
 		},
 		"forge2k" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/forge2k/vcmi-1.6/Forge2k/mod.json",
@@ -822,7 +822,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/factory-creatures/vcmi-1.5/screenshots/screen3.png",
 				"https://raw.githubusercontent.com/vcmi-mods/factory-creatures/vcmi-1.5/screenshots/screen4.png"
 			],
-			"downloadSize" : 39.463
+			"downloadSize" : 39.471
 		},
 		"luk3Z-templates-pack" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/luk3Z-templates-pack/vcmi-1.6/luk3Z-templates-pack/mod.json",
@@ -863,7 +863,7 @@
 		"modder-tools-pack" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/modder-tools-pack/main/modder-tools-pack/mod.json",
 			"download" : "https://github.com/vcmi-mods/modder-tools-pack/archive/refs/heads/main.zip",
-			"downloadSize" : 70.098
+			"downloadSize" : 83.8
 		},
 		"heroes-o-pedia" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/heroes-o-pedia/vcmi-1.6/heroes-o-pedia/mod.json",
@@ -1058,7 +1058,7 @@
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/market-of-time/main/screenshots/screen1.png"
 			],
-			"downloadSize" : 1.318
+			"downloadSize" : 1.308
 		}
 	}
 }
