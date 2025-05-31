@@ -659,10 +659,12 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.6/third-upgrades/mod.json",
 		"download" : "https://github.com/vcmi-mods/third-upgrades/archive/refs/heads/vcmi-1.6.zip",
 		"screenshots" : [
-			"https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.4/screenshots/screen01.png",
-			"https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.4/screenshots/screen02.png",
-			"https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.4/screenshots/screen03.png",
-			"https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.4/screenshots/screen04.png"
+			"https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.6/screenshots/screen01.png",
+			"https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.6/screenshots/screen02.png",
+			"https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.6/screenshots/screen03.png",
+			"https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.6/screenshots/screen04.png",
+			"https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.6/screenshots/screen05.png",
+			"https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.6/screenshots/screen06.png"
 		],
 		"downloadSize" : 35.592
 	},
