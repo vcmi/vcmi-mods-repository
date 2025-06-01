@@ -1061,6 +1061,15 @@
 				"https://raw.githubusercontent.com/vcmi-mods/market-of-time/main/screenshots/screen1.png"
 			],
 			"downloadSize" : 1.308
+		},
+		"hd-remastered" : {
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/hd-remastered/main/hd-remastered/mod.json",
+			"download" : "https://github.com/vcmi-mods/hd-remastered/archive/refs/heads/main.zip",
+			"screenshots" : [
+				"https://raw.githubusercontent.com/vcmi-mods/hd-remastered/main/screenshots/OH3.png",
+				"https://raw.githubusercontent.com/vcmi-mods/hd-remastered/main/screenshots/HDRemastered.png"
+			],
+			"downloadSize" : 148.01
 		}
 	}
 }
