@@ -137,8 +137,8 @@
 			"downloadSize" : 9.266
 		},
 		"andruids-expansion" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/andruids-expansion/vcmi-1.6/andruids-expansion/mod.json",
-			"download" : "https://github.com/vcmi-mods/andruids-expansion/archive/refs/heads/vcmi-1.6.zip",
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/andruids-expansion/vcmi-1.7/andruids-expansion/mod.json",
+			"download" : "https://github.com/vcmi-mods/andruids-expansion/archive/refs/heads/vcmi-1.7.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/andruids-expansion/vcmi-1.6/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/andruids-expansion/vcmi-1.6/screenshots/screen2.png",
