@@ -132,8 +132,8 @@
 			"downloadSize" : 20.12
 		},
 		"reworked-commanders" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/reworked-commanders/vcmi-1.6/reworked-commanders/mod.json",
-			"download" : "https://github.com/vcmi-mods/reworked-commanders/archive/refs/heads/vcmi-1.6.zip",
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/reworked-commanders/vcmi-1.7/reworked-commanders/mod.json",
+			"download" : "https://github.com/vcmi-mods/reworked-commanders/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 9.266
 		},
 		"andruids-expansion" : {
