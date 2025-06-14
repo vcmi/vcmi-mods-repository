@@ -27,7 +27,7 @@
 		"wake-of-gods" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/wake-of-gods/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 72.624
+			"downloadSize" : 74.106
 		},
 		"tides-of-war" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/tides-of-war/vcmi-1.7/mod.json",
@@ -299,7 +299,7 @@
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/combine-grail/main/screenshots/screen1.png"
 			],
-			"downloadSize" : 0.505
+			"downloadSize" : 0.506
 		},
 		"fairy-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/fairy-town/vcmi-1.6/fairy-town/mod.json",
@@ -813,7 +813,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/moon-artifacts/vcmi-1.5/screenshots/screen5.png",
 				"https://raw.githubusercontent.com/vcmi-mods/moon-artifacts/vcmi-1.5/screenshots/screen6.png"
 			],
-			"downloadSize" : 2.391
+			"downloadSize" : 2.392
 		},
 		"factory-creatures" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/factory-creatures/vcmi-1.6/factory-creatures/mod.json",
@@ -909,7 +909,7 @@
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/fused-artifacts/main/screenshots/screen01.png"
 			],
-			"downloadSize" : 0.924
+			"downloadSize" : 0.928
 		},
 		"immortal-cultivation-heroes" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/immortal-cultivation-heroes/vcmi-1.6/lmods/mod.json",
