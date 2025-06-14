@@ -294,8 +294,8 @@
 			"downloadSize" : 19.627
 		},
 		"combine-grail" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/combine-grail/vcmi-1.6/combine-grail/mod.json",
-			"download" : "https://github.com/vcmi-mods/combine-grail/archive/refs/heads/vcmi-1.6.zip",
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/combine-grail/vcmi-1.7/combine-grail/mod.json",
+			"download" : "https://github.com/vcmi-mods/combine-grail/archive/refs/heads/vcmi-1.7.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/combine-grail/main/screenshots/screen1.png"
 			],
@@ -803,8 +803,8 @@
 			"downloadSize" : 8.755
 		},
 		"moon-artifacts" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/moon-artifacts/vcmi-1.6/moon-artifacts/mod.json",
-			"download" : "https://github.com/vcmi-mods/moon-artifacts/archive/refs/heads/vcmi-1.6.zip",
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/moon-artifacts/vcmi-1.7/moon-artifacts/mod.json",
+			"download" : "https://github.com/vcmi-mods/moon-artifacts/archive/refs/heads/vcmi-1.7.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/moon-artifacts/vcmi-1.5/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/moon-artifacts/vcmi-1.5/screenshots/screen2.png",
