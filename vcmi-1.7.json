@@ -800,7 +800,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/witchking-artifacts/vcmi-1.5/screenshots/screen12.png",
 				"https://raw.githubusercontent.com/vcmi-mods/witchking-artifacts/vcmi-1.5/screenshots/screen13.png"
 			],
-			"downloadSize" : 8.755
+			"downloadSize" : 8.754
 		},
 		"moon-artifacts" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/moon-artifacts/vcmi-1.7/moon-artifacts/mod.json",
