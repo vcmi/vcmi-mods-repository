@@ -783,8 +783,8 @@
 			"downloadSize" : 4.212
 		},
 		"witchking-artifacts" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/witchking-artifacts/vcmi-1.6/witchking-artifacts/mod.json",
-			"download" : "https://github.com/vcmi-mods/witchking-artifacts/archive/refs/heads/vcmi-1.6.zip",
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/witchking-artifacts/vcmi-1.7/witchking-artifacts/mod.json",
+			"download" : "https://github.com/vcmi-mods/witchking-artifacts/archive/refs/heads/vcmi-1.7.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/witchking-artifacts/vcmi-1.5/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/witchking-artifacts/vcmi-1.5/screenshots/screen2.png",
