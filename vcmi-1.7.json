@@ -103,8 +103,8 @@
 			"downloadSize" : 15.553
 		},
 		"new-pavilion" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.6/New Pavilion/mod.json",
-			"download" : "https://github.com/vcmi-mods/new-pavilion/archive/refs/heads/vcmi-1.6.zip",
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.7/New Pavilion/mod.json",
+			"download" : "https://github.com/vcmi-mods/new-pavilion/archive/refs/heads/vcmi-1.7.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.4/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.4/screenshots/screen2.png",
