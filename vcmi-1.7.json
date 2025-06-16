@@ -557,8 +557,8 @@
 			"downloadSize" : 51.854
 		},
 		"forge2k" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/forge2k/vcmi-1.6/Forge2k/mod.json",
-			"download" : "https://github.com/vcmi-mods/forge2k/archive/refs/heads/vcmi-1.6.zip",
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/forge2k/vcmi-1.7/Forge2k/mod.json",
+			"download" : "https://github.com/vcmi-mods/forge2k/archive/refs/heads/vcmi-1.7.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/forge2k/vcmi-1.5/screenshots/screen01.png",
 				"https://raw.githubusercontent.com/vcmi-mods/forge2k/vcmi-1.5/screenshots/screen02.png"
