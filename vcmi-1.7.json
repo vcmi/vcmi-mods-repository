@@ -583,11 +583,6 @@
 			],
 			"downloadSize" : 1.342
 		},
-		"warzyw-templates" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/warzyw-templates/vcmi-1.6/warzyw-templates/mod.json",
-			"download" : "https://github.com/vcmi-mods/warzyw-templates/archive/refs/heads/vcmi-1.6.zip",
-			"downloadSize" : 0.127
-		},
 		"ensrick-portraits" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/ensrick-portraits/vcmi-1.6/ensrick-portraits/mod.json",
 			"download" : "https://github.com/vcmi-mods/ensrick-portraits/archive/refs/heads/vcmi-1.6.zip",
