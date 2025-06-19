@@ -996,7 +996,7 @@
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/custom-templates/vcmi-1.6/screenshots/screen1.png"
 		],
-		"downloadSize" : 0.858
+		"downloadSize" : 9.183
 	},
 	"cheat-mod" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/cheat-mod/vcmi-1.6/cheat-mod/mod.json",
