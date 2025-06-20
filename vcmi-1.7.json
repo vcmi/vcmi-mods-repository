@@ -194,7 +194,7 @@
 		"swedish-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/swedish-translation/vcmi-1.6/swedish-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/swedish-translation/archive/refs/heads/vcmi-1.6.zip",
-			"downloadSize" : 6.654
+			"downloadSize" : 6.652
 		},
 		"turkish-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/turkish-translation/vcmi-1.6/turkish-translation/mod.json",
@@ -1074,7 +1074,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/more-secondary/main/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/more-secondary/main/screenshots/screen2.png"
 			],
-			"downloadSize" : 1.2
+			"downloadSize" : 1.224
 		}
 	}
 }
