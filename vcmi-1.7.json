@@ -1065,6 +1065,16 @@
 				"https://raw.githubusercontent.com/vcmi-mods/hd-remastered/main/screenshots/HDRemastered.png"
 			],
 			"downloadSize" : 148.435
+		},
+		"more-secondary" : {
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/more-secondary/main/more-secondary/mod.json",
+			"download" : "https://github.com/vcmi-mods/more-secondary/archive/refs/heads/main.zip",
+			"screenshots" : [
+				"https://raw.githubusercontent.com/vcmi-mods/more-secondary/main/screenshots/screen3.png",
+				"https://raw.githubusercontent.com/vcmi-mods/more-secondary/main/screenshots/screen1.png",
+				"https://raw.githubusercontent.com/vcmi-mods/more-secondary/main/screenshots/screen2.png"
+			],
+			"downloadSize" : 1.2
 		}
 	}
 }
