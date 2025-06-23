@@ -68,7 +68,7 @@
 	"h4-arts-hero" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/h4-arts-hero/vcmi-1.7/h4-arts-hero/mod.json",
 		"download" : "https://github.com/misiokles/h4-arts-hero/archive/refs/heads/vcmi-1.7.zip",
-		"downloadSize" : 0.216
+		"downloadSize" : 0.226
 	},
 	"h2-artifacts" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/h2-artifacts/vcmi-1.4/h2-artifacts/mod.json",
