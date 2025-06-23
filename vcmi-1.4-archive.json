@@ -66,8 +66,8 @@
 		"downloadSize" : 14.683
 	},
 	"h4-arts-hero" : {
-		"mod" : "https://raw.githubusercontent.com/misiokles/h4-arts-hero/vcmi-1.4/h4-arts-hero/mod.json",
-		"download" : "https://github.com/misiokles/h4-arts-hero/archive/refs/heads/vcmi-1.4.zip",
+		"mod" : "https://raw.githubusercontent.com/misiokles/h4-arts-hero/vcmi-1.7/h4-arts-hero/mod.json",
+		"download" : "https://github.com/misiokles/h4-arts-hero/archive/refs/heads/vcmi-1.7.zip",
 		"downloadSize" : 0.216
 	},
 	"h2-artifacts" : {
