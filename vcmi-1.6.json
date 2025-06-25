@@ -178,7 +178,7 @@
 	"czech-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/czech-translation/vcmi-1.6/czech-translation/mod.json",
 		"download" : "https://github.com/vcmi-mods/czech-translation/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 9.732
+		"downloadSize" : 9.733
 	},
 	"finnish-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/finnish-translation/vcmi-1.6/finnish-translation/mod.json",
