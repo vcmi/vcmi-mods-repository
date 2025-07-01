@@ -427,8 +427,8 @@
 			"downloadSize" : 0.811
 		},
 		"new-old-spells-plus" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-old-spells-plus/vcmi-1.6/newOldSpellsPlus/mod.json",
-			"download" : "https://github.com/vcmi-mods/new-old-spells-plus/archive/refs/heads/vcmi-1.6.zip",
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-old-spells-plus/vcmi-1.7/newOldSpellsPlus/mod.json",
+			"download" : "https://github.com/vcmi-mods/new-old-spells-plus/archive/refs/heads/vcmi-1.7.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/new-old-spells-plus/main/screenshots/screen1.png"
 			],
