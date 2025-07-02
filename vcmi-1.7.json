@@ -766,14 +766,14 @@
 			"downloadSize" : 119.299
 		},
 		"new-summon-spells" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-summon-spells/vcmi-1.6/new-summon-spells/mod.json",
-			"download" : "https://github.com/vcmi-mods/new-summon-spells/archive/refs/heads/vcmi-1.6.zip",
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-summon-spells/vcmi-1.7/new-summon-spells/mod.json",
+			"download" : "https://github.com/vcmi-mods/new-summon-spells/archive/refs/heads/vcmi-1.7.zip",
 			"screenshots" : [
-				"https://raw.githubusercontent.com/vcmi-mods/new-summon-spells/vcmi-1.5/screenshots/screen1.png",
-				"https://raw.githubusercontent.com/vcmi-mods/new-summon-spells/vcmi-1.5/screenshots/screen2.png",
-				"https://raw.githubusercontent.com/vcmi-mods/new-summon-spells/vcmi-1.5/screenshots/screen3.png",
-				"https://raw.githubusercontent.com/vcmi-mods/new-summon-spells/vcmi-1.5/screenshots/screen4.png",
-				"https://raw.githubusercontent.com/vcmi-mods/new-summon-spells/vcmi-1.5/screenshots/screen5.png"
+				"https://raw.githubusercontent.com/vcmi-mods/new-summon-spells/vcmi-1.7/screenshots/screen1.png",
+				"https://raw.githubusercontent.com/vcmi-mods/new-summon-spells/vcmi-1.7/screenshots/screen2.png",
+				"https://raw.githubusercontent.com/vcmi-mods/new-summon-spells/vcmi-1.7/screenshots/screen3.png",
+				"https://raw.githubusercontent.com/vcmi-mods/new-summon-spells/vcmi-1.7/screenshots/screen4.png",
+				"https://raw.githubusercontent.com/vcmi-mods/new-summon-spells/vcmi-1.7/screenshots/screen5.png"
 			],
 			"downloadSize" : 4.214
 		},
