@@ -653,7 +653,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/adventure-spells-pack/vcmi-1.6/screenshots/screen04.png",
 			"https://raw.githubusercontent.com/vcmi-mods/adventure-spells-pack/vcmi-1.6/screenshots/screen05.png"
 		],
-		"downloadSize" : 3.244
+		"downloadSize" : 3.246
 	},
 	"third-upgrades" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.6/third-upgrades/mod.json",
@@ -779,7 +779,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/new-summon-spells/vcmi-1.5/screenshots/screen4.png",
 			"https://raw.githubusercontent.com/vcmi-mods/new-summon-spells/vcmi-1.5/screenshots/screen5.png"
 		],
-		"downloadSize" : 4.212
+		"downloadSize" : 4.214
 	},
 	"witchking-artifacts" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/witchking-artifacts/vcmi-1.6/witchking-artifacts/mod.json",
