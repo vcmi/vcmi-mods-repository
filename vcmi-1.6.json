@@ -653,7 +653,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/adventure-spells-pack/vcmi-1.6/screenshots/screen04.png",
 			"https://raw.githubusercontent.com/vcmi-mods/adventure-spells-pack/vcmi-1.6/screenshots/screen05.png"
 		],
-		"downloadSize" : 3.246
+		"downloadSize" : 3.244
 	},
 	"third-upgrades" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.6/third-upgrades/mod.json",
