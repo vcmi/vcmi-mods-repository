@@ -279,7 +279,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/tarnum/vcmi-1.6/screenshots/tarnumPathfinder.png",
 				"https://raw.githubusercontent.com/vcmi-mods/tarnum/vcmi-1.6/screenshots/tarnumCyborg2k.png"
 			],
-			"downloadSize" : 5.745
+			"downloadSize" : 5.74
 		},
 		"grove" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/grove/vcmi-1.6/Grove/mod.json",
