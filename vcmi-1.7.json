@@ -282,8 +282,8 @@
 			"downloadSize" : 5.74
 		},
 		"grove" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/grove/vcmi-1.6/Grove/mod.json",
-			"download" : "https://github.com/vcmi-mods/grove/archive/refs/heads/vcmi-1.6.zip",
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/grove/vcmi-1.7/Grove/mod.json",
+			"download" : "https://github.com/vcmi-mods/grove/archive/refs/heads/vcmi-1.7.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/grove/main/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/grove/main/screenshots/screen2.png",
@@ -359,8 +359,8 @@
 			"downloadSize" : 3.518
 		},
 		"tartarus-town" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/tartarus-town/vcmi-1.6/tartarus-town/mod.json",
-			"download" : "https://github.com/vcmi-mods/tartarus-town/archive/refs/heads/vcmi-1.6.zip",
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/tartarus-town/vcmi-1.7/tartarus-town/mod.json",
+			"download" : "https://github.com/vcmi-mods/tartarus-town/archive/refs/heads/vcmi-1.7.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen2.png",
