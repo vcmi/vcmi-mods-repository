@@ -291,7 +291,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/grove/main/screenshots/screen4.png",
 				"https://raw.githubusercontent.com/vcmi-mods/grove/main/screenshots/screen5.png"
 			],
-			"downloadSize" : 19.627
+			"downloadSize" : 19.636
 		},
 		"combine-grail" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/combine-grail/vcmi-1.7/combine-grail/mod.json",
@@ -369,7 +369,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen5.png",
 				"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen6.png"
 			],
-			"downloadSize" : 16.13
+			"downloadSize" : 16.139
 		},
 		"preserve-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/preserve-town/vcmi-1.6/preserve/mod.json",
