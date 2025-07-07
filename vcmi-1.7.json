@@ -124,7 +124,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.6/screenshots/screen2.png",
 				"https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.6/screenshots/screen3.png"
 			],
-			"downloadSize" : 13.14
+			"downloadSize" : 13.142
 		},
 		"death-valley-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/death-valley-town/vcmi-1.6/death-valley-town/mod.json",
@@ -356,7 +356,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/creatures-hidden-potential/main/screenshots/screen2.png",
 				"https://raw.githubusercontent.com/vcmi-mods/creatures-hidden-potential/main/screenshots/screen3.png"
 			],
-			"downloadSize" : 3.518
+			"downloadSize" : 3.519
 		},
 		"tartarus-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/tartarus-town/vcmi-1.7/tartarus-town/mod.json",
@@ -506,7 +506,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/greenhouse-town/main/screenshots/screen3.png",
 				"https://raw.githubusercontent.com/vcmi-mods/greenhouse-town/main/screenshots/screen4.png"
 			],
-			"downloadSize" : 14.232
+			"downloadSize" : 14.233
 		},
 		"lotrd-townscreens" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/lotrd-townscreens/vcmi-1.6/lotrd-townscreens/mod.json",
