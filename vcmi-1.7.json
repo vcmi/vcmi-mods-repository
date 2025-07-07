@@ -35,8 +35,8 @@
 			"downloadSize" : 29.264
 		},
 		"courtyard" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/courtyard/vcmi-1.6/Courtyard/mod.json",
-			"download" : "https://github.com/vcmi-mods/courtyard/archive/refs/heads/vcmi-1.6.zip",
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/courtyard/vcmi-1.7/Courtyard/mod.json",
+			"download" : "https://github.com/vcmi-mods/courtyard/archive/refs/heads/vcmi-1.7.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/courtyard/vcmi-1.6/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/courtyard/vcmi-1.6/screenshots/screen2.png",
