@@ -79,8 +79,8 @@
 			]
 		},
 		"asylum-town" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/asylum-town/vcmi-1.6/asylum-town/mod.json",
-			"download" : "https://github.com/vcmi-mods/asylum-town/archive/refs/heads/vcmi-1.6.zip",
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/asylum-town/vcmi-1.7/asylum-town/mod.json",
+			"download" : "https://github.com/vcmi-mods/asylum-town/archive/refs/heads/vcmi-1.7.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen2.png",
