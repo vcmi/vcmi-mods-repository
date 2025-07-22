@@ -978,11 +978,10 @@
 			"downloadSize" : 0.002
 		},
 		"new-skills-pack" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-skills-pack/main/new-skills-pack/mod.json",
-			"download" : "https://github.com/vcmi-mods/new-skills-pack/archive/refs/heads/main.zip",
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-skills-pack/vcmi-1.7/new-skills-pack/mod.json",
+			"download" : "https://github.com/vcmi-mods/new-skills-pack/archive/refs/heads/vcmi-1.7.zip",
 			"screenshots" : [
-				"https://raw.githubusercontent.com/vcmi-mods/new-skills-pack/main/ScreenShots/Basic Skills.bmp",
-				"https://raw.githubusercontent.com/vcmi-mods/new-skills-pack/main/ScreenShots/Heroes.bmp"
+				"https://raw.githubusercontent.com/vcmi-mods/new-skills-pack/vcmi-1.7/ScreenShots/screen1.png"
 			],
 			"downloadSize" : 3.297
 		},
