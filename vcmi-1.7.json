@@ -981,7 +981,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-skills-pack/vcmi-1.7/new-skills-pack/mod.json",
 			"download" : "https://github.com/vcmi-mods/new-skills-pack/archive/refs/heads/vcmi-1.7.zip",
 			"screenshots" : [
-				"https://raw.githubusercontent.com/vcmi-mods/new-skills-pack/vcmi-1.7/ScreenShots/screen1.png"
+				"https://raw.githubusercontent.com/vcmi-mods/new-skills-pack/vcmi-1.7/screenshots/screen1.png"
 			],
 			"downloadSize" : 3.297
 		},
