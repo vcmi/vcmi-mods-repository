@@ -55,12 +55,12 @@
 		"neutral-heroes" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/neutral-heroes/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/neutral-heroes/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 2.613
+			"downloadSize" : 2.615
 		},
 		"new-old-heroes" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-old-heroes/vcmi-1.7/new-old-heroes/mod.json",
 			"download" : "https://github.com/vcmi-mods/new-old-heroes/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 6.309,
+			"downloadSize" : 6.31,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/new-old-heroes/vcmi-1.6/screenshots/StandaloneSoth.png",
 				"https://raw.githubusercontent.com/vcmi-mods/new-old-heroes/vcmi-1.6/screenshots/StandaloneNicolas.png",
@@ -90,7 +90,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen6.png",
 				"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen7.png"
 			],
-			"downloadSize" : 26.68
+			"downloadSize" : 26.679
 		},
 		"highlands-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/highlands-town/vcmi-1.7/highlands-town/mod.json",
