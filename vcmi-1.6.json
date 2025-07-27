@@ -59,7 +59,7 @@
 	"new-old-heroes" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-old-heroes/vcmi-1.6/new-old-heroes/mod.json",
 		"download" : "https://github.com/vcmi-mods/new-old-heroes/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 6.308,
+		"downloadSize" : 6.309,
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/new-old-heroes/vcmi-1.6/screenshots/StandaloneSoth.png",
 			"https://raw.githubusercontent.com/vcmi-mods/new-old-heroes/vcmi-1.6/screenshots/StandaloneNicolas.png",
