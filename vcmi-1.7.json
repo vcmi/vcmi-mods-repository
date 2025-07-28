@@ -124,7 +124,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.6/screenshots/screen2.png",
 				"https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.6/screenshots/screen3.png"
 			],
-			"downloadSize" : 13.142
+			"downloadSize" : 13.147
 		},
 		"death-valley-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/death-valley-town/vcmi-1.7/death-valley-town/mod.json",
@@ -234,7 +234,7 @@
 		"h3-for-vcmi-englisation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/h3-for-vcmi-englisation/vcmi-1.6/H3forVCMIenglisation/mod.json",
 			"download" : "https://github.com/vcmi-mods/h3-for-vcmi-englisation/archive/refs/heads/vcmi-1.6.zip",
-			"downloadSize" : 108.752
+			"downloadSize" : 32.327
 		},
 		"forge" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/forge/vcmi-1.7/forge/mod.json",
@@ -563,7 +563,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/forge2k/vcmi-1.5/screenshots/screen01.png",
 				"https://raw.githubusercontent.com/vcmi-mods/forge2k/vcmi-1.5/screenshots/screen02.png"
 			],
-			"downloadSize" : 21.846
+			"downloadSize" : 21.88
 		},
 		"ab-bad-ending-assets" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-assets/vcmi-1.7/AB Bad Ending Assets/mod.json",
