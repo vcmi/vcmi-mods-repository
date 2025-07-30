@@ -1049,10 +1049,10 @@
 			"downloadSize" : 6.227
 		},
 		"market-of-time" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/market-of-time/main/marketOfTime/mod.json",
-			"download" : "https://github.com/vcmi-mods/market-of-time/archive/refs/heads/main.zip",
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/market-of-time/vcmi-1.7/marketOfTime/mod.json",
+			"download" : "https://github.com/vcmi-mods/market-of-time/archive/refs/heads/vcmi-1.7.zip",
 			"screenshots" : [
-				"https://raw.githubusercontent.com/vcmi-mods/market-of-time/main/screenshots/screen1.png"
+				"https://raw.githubusercontent.com/vcmi-mods/market-of-time/vcmi-1.7/screenshots/screen1.png"
 			],
 			"downloadSize" : 1.324
 		},
