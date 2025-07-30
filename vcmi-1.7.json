@@ -58,9 +58,9 @@
 			"downloadSize" : 2.615
 		},
 		"new-old-heroes" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-old-heroes/vcmi-1.6/new-old-heroes/mod.json",
-			"download" : "https://github.com/vcmi-mods/new-old-heroes/archive/refs/heads/vcmi-1.6.zip",
-			"downloadSize" : 6.309,
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-old-heroes/vcmi-1.7/new-old-heroes/mod.json",
+			"download" : "https://github.com/vcmi-mods/new-old-heroes/archive/refs/heads/vcmi-1.7.zip",
+			"downloadSize" : 6.31,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/new-old-heroes/vcmi-1.6/screenshots/StandaloneSoth.png",
 				"https://raw.githubusercontent.com/vcmi-mods/new-old-heroes/vcmi-1.6/screenshots/StandaloneNicolas.png",
@@ -952,13 +952,13 @@
 			"downloadSize" : 0.1
 		},
 		"ark-town" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/ark-town/vcmi-1.6/ark-town/mod.json",
-			"download" : "https://github.com/vcmi-mods/ark-town/archive/refs/heads/vcmi-1.6.zip",
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/ark-town/vcmi-1.7/ark-town/mod.json",
+			"download" : "https://github.com/vcmi-mods/ark-town/archive/refs/heads/vcmi-1.7.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/ark-town/vcmi-1.6/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/ark-town/vcmi-1.6/screenshots/screen2.png"
 			],
-			"downloadSize" : 16.493
+			"downloadSize" : 16.507
 		},
 		"kremlin-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/kremlin-town/vcmi-1.6/kremlin-town/mod.json",
@@ -994,9 +994,9 @@
 			"downloadSize" : 9.183
 		},
 		"cheat-mod" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/cheat-mod/vcmi-1.6/cheat-mod/mod.json",
-			"download" : "https://github.com/vcmi-mods/cheat-mod/archive/refs/heads/vcmi-1.6.zip",
-			"downloadSize" : 0.005
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/cheat-mod/vcmi-1.7/cheat-mod/mod.json",
+			"download" : "https://github.com/vcmi-mods/cheat-mod/archive/refs/heads/vcmi-1.7.zip",
+			"downloadSize" : 0.01
 		},
 		"equal-stats" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/equal-stats/vcmi-1.6/equal-stats/mod.json",
