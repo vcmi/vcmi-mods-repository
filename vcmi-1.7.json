@@ -267,7 +267,7 @@
 		"campaign-heroes" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/campaign-heroes/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/campaign-heroes/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 0.122
+			"downloadSize" : 0.203
 		},
 		"tarnum" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/tarnum/vcmi-1.7/tarnum/mod.json",
