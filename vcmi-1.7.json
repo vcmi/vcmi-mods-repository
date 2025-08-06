@@ -22,7 +22,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/screenshots/wiki2.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/screenshots/wiki3.png"
 			],
-			"downloadSize" : 227.519
+			"downloadSize" : 227.517
 		},
 		"wake-of-gods" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/mod.json",
@@ -267,7 +267,7 @@
 		"campaign-heroes" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/campaign-heroes/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/campaign-heroes/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 0.203
+			"downloadSize" : 0.206
 		},
 		"tarnum" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/tarnum/vcmi-1.7/tarnum/mod.json",
@@ -291,7 +291,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/grove/main/screenshots/screen4.png",
 				"https://raw.githubusercontent.com/vcmi-mods/grove/main/screenshots/screen5.png"
 			],
-			"downloadSize" : 19.636
+			"downloadSize" : 19.635
 		},
 		"combine-grail" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/combine-grail/vcmi-1.7/combine-grail/mod.json",
