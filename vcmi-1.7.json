@@ -302,8 +302,8 @@
 			"downloadSize" : 0.506
 		},
 		"fairy-town" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/fairy-town/vcmi-1.6/fairy-town/mod.json",
-			"download" : "https://github.com/vcmi-mods/fairy-town/archive/refs/heads/vcmi-1.6.zip",
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/fairy-town/vcmi-1.7/fairy-town/mod.json",
+			"download" : "https://github.com/vcmi-mods/fairy-town/archive/refs/heads/vcmi-1.7.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/fairy-town/main/screenshots/screen1.png"
 			],
