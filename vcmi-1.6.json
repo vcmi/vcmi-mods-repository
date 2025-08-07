@@ -31,7 +31,7 @@
 	"tides-of-war" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tides-of-war/vcmi-1.6/mod.json",
 		"download" : "https://github.com/vcmi-mods/tides-of-war/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 29.246
+		"downloadSize" : 29.255
 	},
 	"courtyard" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/courtyard/vcmi-1.6/Courtyard/mod.json",
