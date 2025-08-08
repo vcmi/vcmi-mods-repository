@@ -480,8 +480,8 @@
 			"downloadSize" : 35.767
 		},
 		"medusa-mod" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/medusa-mod/refs/heads/main/Medusa%20Mod/mod.json",
-			"download" : "https://github.com/vcmi-mods/medusa-mod/archive/refs/heads/main.zip",
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/medusa-mod/refs/heads/vcmi-1.7/Medusa%20Mod/mod.json",
+			"download" : "https://github.com/vcmi-mods/medusa-mod/archive/refs/heads/vcmi-1.7.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/medusa-mod/refs/heads/main/Screenshots/Screenshot_20250105_010237.png",
 				"https://raw.githubusercontent.com/vcmi-mods/medusa-mod/refs/heads/main/Screenshots/Screenshot_20250105_010319.png",
