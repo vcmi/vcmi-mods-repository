@@ -907,8 +907,8 @@
 			"downloadSize" : 0.928
 		},
 		"immortal-cultivation-heroes" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/immortal-cultivation-heroes/vcmi-1.6/lmods/mod.json",
-			"download" : "https://github.com/vcmi-mods/immortal-cultivation-heroes/archive/refs/heads/vcmi-1.6.zip",
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/immortal-cultivation-heroes/vcmi-1.7/lmods/mod.json",
+			"download" : "https://github.com/vcmi-mods/immortal-cultivation-heroes/archive/refs/heads/vcmi-1.7.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/immortal-cultivation-heroes/vcmi-1.6/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/immortal-cultivation-heroes/vcmi-1.6/screenshots/screen2.png",
