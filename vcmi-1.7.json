@@ -695,8 +695,8 @@
 			"downloadSize" : 3.204
 		},
 		"farriery-town" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/farriery-town/vcmi-1.6/farriery-town/mod.json",
-			"download" : "https://github.com/vcmi-mods/farriery-town/archive/refs/heads/vcmi-1.6.zip",
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/farriery-town/vcmi-1.7/farriery-town/mod.json",
+			"download" : "https://github.com/vcmi-mods/farriery-town/archive/refs/heads/vcmi-1.7.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/farriery-town/vcmi-1.6/Screenshots/buildings.png",
 				"https://raw.githubusercontent.com/vcmi-mods/farriery-town/vcmi-1.6/Screenshots/Dragon Utopia.png",
