@@ -521,7 +521,7 @@
 		"an-expansion" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/an-expansion/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/an-expansion/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 6.779
+			"downloadSize" : 6.799
 		},
 		"refugee-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/refugee-town/vcmi-1.7/refugee-town/mod.json",
