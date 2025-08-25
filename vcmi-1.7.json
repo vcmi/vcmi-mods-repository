@@ -247,7 +247,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/forge/vcmi-1.6/screenshots/screen5.png",
 				"https://raw.githubusercontent.com/vcmi-mods/forge/vcmi-1.6/screenshots/screen6.png"
 			],
-			"downloadSize" : 31.305
+			"downloadSize" : 31.288
 		},
 		"ai trace" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/adventure-ai-trace/upstream/mod.json",
@@ -346,7 +346,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.5/screenshots/ToW-menu.png",
 				"https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.5/screenshots/WoG-menu.png"
 			],
-			"downloadSize" : 439.046
+			"downloadSize" : 438.85
 		},
 		"creatures-hidden-potential" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/creatures-hidden-potential/vcmi-1.7/creatures-hidden-potential/mod.json",
