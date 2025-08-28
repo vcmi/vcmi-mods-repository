@@ -752,7 +752,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/object-pack/vcmi-1.6/screenshots/screen06.png",
 			"https://raw.githubusercontent.com/vcmi-mods/object-pack/vcmi-1.6/screenshots/screen07.png"
 		],
-		"downloadSize" : 6.406
+		"downloadSize" : 6.407
 	},
 	"tavern-invite" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tavern-invite/vcmi-1.6/mod.json",
