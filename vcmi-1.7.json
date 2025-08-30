@@ -761,8 +761,8 @@
 			"downloadSize" : 0.01
 		},
 		"graphics-balance-music" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/graphics-balance-music/vcmi-1.6/graphics-balance-music/mod.json",
-			"download" : "https://github.com/vcmi-mods/graphics-balance-music/archive/refs/heads/vcmi-1.6.zip",
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/graphics-balance-music/vcmi-1.7/graphics-balance-music/mod.json",
+			"download" : "https://github.com/vcmi-mods/graphics-balance-music/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 119.299
 		},
 		"new-summon-spells" : {
