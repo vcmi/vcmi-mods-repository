@@ -899,8 +899,8 @@
 			"downloadSize" : 34.905
 		},
 		"fused-artifacts" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/fused-artifacts/main/fused-artifacts/mod.json",
-			"download" : "https://github.com/vcmi-mods/fused-artifacts/archive/refs/heads/main.zip",
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/fused-artifacts/vcmi-1.7/fused-artifacts/mod.json",
+			"download" : "https://github.com/vcmi-mods/fused-artifacts/archive/refs/heads/vcmi-1.7.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/fused-artifacts/main/screenshots/screen01.png"
 			],
