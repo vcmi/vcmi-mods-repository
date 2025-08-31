@@ -811,8 +811,8 @@
 			"downloadSize" : 2.392
 		},
 		"factory-creatures" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/factory-creatures/vcmi-1.6/factory-creatures/mod.json",
-			"download" : "https://github.com/vcmi-mods/factory-creatures/archive/refs/heads/vcmi-1.6.zip",
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/factory-creatures/vcmi-1.7/factory-creatures/mod.json",
+			"download" : "https://github.com/vcmi-mods/factory-creatures/archive/refs/heads/vcmi-1.7.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/factory-creatures/vcmi-1.5/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/factory-creatures/vcmi-1.5/screenshots/screen2.png",
