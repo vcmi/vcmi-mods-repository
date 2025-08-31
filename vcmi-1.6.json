@@ -1032,5 +1032,14 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/diverse-battlefields/vcmi-1.7/diverse-battlefields/mod.json",
 		"download" : "https://github.com/vcmi-mods/diverse-battlefields/archive/refs/heads/vcmi-1.7.zip",
 		"downloadSize" : 269.963
-	}
+	},
+	"hd-remastered" : {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/hd-remastered/main/hd-remastered/mod.json",
+		"download" : "https://github.com/vcmi-mods/hd-remastered/archive/refs/heads/main.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/vcmi-mods/hd-remastered/main/screenshots/OH3.png",
+			"https://raw.githubusercontent.com/vcmi-mods/hd-remastered/main/screenshots/HDRemastered.png"
+		],
+		"downloadSize" : 148.435
+	}	
 }
