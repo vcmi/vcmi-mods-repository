@@ -174,7 +174,7 @@
 		"italian-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/italian-translation/vcmi-1.6/italian-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/italian-translation/archive/refs/heads/vcmi-1.6.zip",
-			"downloadSize" : 28.164
+			"downloadSize" : 28.166
 		},
 		"czech-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/czech-translation/vcmi-1.6/czech-translation/mod.json",
@@ -194,7 +194,7 @@
 		"swedish-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/swedish-translation/vcmi-1.6/swedish-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/swedish-translation/archive/refs/heads/vcmi-1.6.zip",
-			"downloadSize" : 6.709
+			"downloadSize" : 7.724
 		},
 		"turkish-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/turkish-translation/vcmi-1.6/turkish-translation/mod.json",
