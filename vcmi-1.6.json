@@ -188,7 +188,7 @@
 	"portuguese-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/portuguese-translation/vcmi-1.6/portuguese-translation/mod.json",
 		"download" : "https://github.com/vcmi-mods/portuguese-translation/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 10.279
+		"downloadSize" : 11.613
 	},
 	"swedish-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/swedish-translation/vcmi-1.6/swedish-translation/mod.json",
