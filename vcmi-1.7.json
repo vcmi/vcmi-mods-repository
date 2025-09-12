@@ -217,8 +217,8 @@
 			"downloadSize" : 51.113
 		},
 		"vietnamese-translation" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/vietnamese-translation/vcmi-1.6/vietnamese-translation/mod.json",
-			"download" : "https://github.com/vcmi-mods/vietnamese-translation/archive/refs/heads/vcmi-1.6.zip",
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/vietnamese-translation/vcmi-1.7/vietnamese-translation/mod.json",
+			"download" : "https://github.com/vcmi-mods/vietnamese-translation/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 6.051
 		},
 		"polish-translation" : {
