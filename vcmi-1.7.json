@@ -50,7 +50,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/courtyard/vcmi-1.6/screenshots/lore_part1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/courtyard/vcmi-1.6/screenshots/lore_part2.png"
 			],
-			"downloadSize" : 32.891
+			"downloadSize" : 32.966
 		},
 		"neutral-heroes" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/neutral-heroes/vcmi-1.7/mod.json",
@@ -90,7 +90,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen6.png",
 				"https://raw.githubusercontent.com/vcmi-mods/asylum-town/main/screenshots/screen7.png"
 			],
-			"downloadSize" : 26.679
+			"downloadSize" : 26.722
 		},
 		"highlands-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/highlands-town/vcmi-1.7/highlands-town/mod.json",
@@ -291,7 +291,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/grove/main/screenshots/screen4.png",
 				"https://raw.githubusercontent.com/vcmi-mods/grove/main/screenshots/screen5.png"
 			],
-			"downloadSize" : 19.635
+			"downloadSize" : 19.68
 		},
 		"combine-grail" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/combine-grail/vcmi-1.7/combine-grail/mod.json",
@@ -394,7 +394,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/abyss-town/main/screenshots/screen4.png",
 				"https://raw.githubusercontent.com/vcmi-mods/abyss-town/main/screenshots/screen5.png"
 			],
-			"downloadSize" : 33.041
+			"downloadSize" : 33.111
 		},
 		"retreat-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/retreat-town/vcmi-1.7/retreat-town/mod.json",
