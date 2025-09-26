@@ -193,7 +193,7 @@
 	"swedish-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/swedish-translation/vcmi-1.6/swedish-translation/mod.json",
 		"download" : "https://github.com/vcmi-mods/swedish-translation/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 8.813
+		"downloadSize" : 8.912
 	},
 	"turkish-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/turkish-translation/vcmi-1.6/turkish-translation/mod.json",
@@ -594,7 +594,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/ensrick-portraits/main/screenshots/screen01.png",
 			"https://raw.githubusercontent.com/vcmi-mods/ensrick-portraits/main/screenshots/screen02.png"
 		],
-		"downloadSize" : 12.269
+		"downloadSize" : 39.19
 	},
 	"morns-battlefields" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/morns-battlefields/vcmi-1.6/morns-battlefields/mod.json",
