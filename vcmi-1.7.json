@@ -624,7 +624,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/ensrick-portraits/vcmi-1.6/screenshots/Verdish.png",
 				"https://raw.githubusercontent.com/vcmi-mods/ensrick-portraits/vcmi-1.6/screenshots/Yog.png"
 			],
-			"downloadSize" : 39.19
+			"downloadSize" : 81.956
 		},
 		"morns-battlefields" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/morns-battlefields/vcmi-1.6/morns-battlefields/mod.json",
@@ -1075,7 +1075,7 @@
 		"romanian-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/romanian-translation/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/romanian-translation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 2.363
+			"downloadSize" : 2.497
 		},
 		"belarusian-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/belarusian-translation/vcmi-1.7/mod.json",
