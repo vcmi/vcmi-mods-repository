@@ -3,7 +3,7 @@
 		"vcmi-extras" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/vcmi-extras/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 7.79
+			"downloadSize" : 7.334
 		},
 		"hota" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/hota/mod.json",
@@ -27,7 +27,7 @@
 		"wake-of-gods" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/wake-of-gods/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 85.115
+			"downloadSize" : 85.373
 		},
 		"tides-of-war" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/tides-of-war/vcmi-1.7/mod.json",
@@ -199,7 +199,7 @@
 		"turkish-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/turkish-translation/vcmi-1.6/turkish-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/turkish-translation/archive/refs/heads/vcmi-1.6.zip",
-			"downloadSize" : 2.115
+			"downloadSize" : 2.322
 		},
 		"hungarian-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/hungarian-translation/vcmi-1.6/hungarian-translation/mod.json",
@@ -554,7 +554,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.4/screenshots/screen12.png",
 				"https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.4/screenshots/screen13.png"
 			],
-			"downloadSize" : 51.854
+			"downloadSize" : 51.856
 		},
 		"forge2k" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/forge2k/vcmi-1.7/Forge2k/mod.json",
