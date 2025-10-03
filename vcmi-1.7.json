@@ -22,7 +22,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/screenshots/wiki2.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/screenshots/wiki3.png"
 			],
-			"downloadSize" : 242.448
+			"downloadSize" : 243.511
 		},
 		"wake-of-gods" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/mod.json",
@@ -100,7 +100,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/highlands-town/vcmi-1.6/screenshots/screen2.png",
 				"https://raw.githubusercontent.com/vcmi-mods/highlands-town/vcmi-1.6/screenshots/screen3.png"
 			],
-			"downloadSize" : 15.628
+			"downloadSize" : 15.449
 		},
 		"new-pavilion" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.7/New Pavilion/mod.json",
@@ -247,7 +247,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/forge/vcmi-1.6/screenshots/screen5.png",
 				"https://raw.githubusercontent.com/vcmi-mods/forge/vcmi-1.6/screenshots/screen6.png"
 			],
-			"downloadSize" : 31.376
+			"downloadSize" : 31.37
 		},
 		"ai trace" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/adventure-ai-trace/upstream/mod.json",
@@ -317,7 +317,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/haven-town/vcmi-1.6/screenshots/screen2.png",
 				"https://raw.githubusercontent.com/vcmi-mods/haven-town/vcmi-1.6/screenshots/screen3.png"
 			],
-			"downloadSize" : 14.3
+			"downloadSize" : 14.299
 		},
 		"ruins-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.7/ruins-town/mod.json",
