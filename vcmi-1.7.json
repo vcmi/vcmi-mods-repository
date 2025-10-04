@@ -100,7 +100,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/highlands-town/vcmi-1.6/screenshots/screen2.png",
 				"https://raw.githubusercontent.com/vcmi-mods/highlands-town/vcmi-1.6/screenshots/screen3.png"
 			],
-			"downloadSize" : 15.449
+			"downloadSize" : 15.311
 		},
 		"new-pavilion" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.7/New Pavilion/mod.json",
@@ -194,7 +194,7 @@
 		"swedish-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/swedish-translation/vcmi-1.6/swedish-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/swedish-translation/archive/refs/heads/vcmi-1.6.zip",
-			"downloadSize" : 8.912
+			"downloadSize" : 8.942
 		},
 		"turkish-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/turkish-translation/vcmi-1.6/turkish-translation/mod.json",
@@ -247,7 +247,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/forge/vcmi-1.6/screenshots/screen5.png",
 				"https://raw.githubusercontent.com/vcmi-mods/forge/vcmi-1.6/screenshots/screen6.png"
 			],
-			"downloadSize" : 31.37
+			"downloadSize" : 31.39
 		},
 		"ai trace" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/adventure-ai-trace/upstream/mod.json",
@@ -394,7 +394,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/abyss-town/main/screenshots/screen4.png",
 				"https://raw.githubusercontent.com/vcmi-mods/abyss-town/main/screenshots/screen5.png"
 			],
-			"downloadSize" : 32.763
+			"downloadSize" : 32.782
 		},
 		"retreat-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/retreat-town/vcmi-1.7/retreat-town/mod.json",
