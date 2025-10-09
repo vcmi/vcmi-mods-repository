@@ -184,7 +184,7 @@
 		"finnish-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/finnish-translation/vcmi-1.6/finnish-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/finnish-translation/archive/refs/heads/vcmi-1.6.zip",
-			"downloadSize" : 3.686
+			"downloadSize" : 3.804
 		},
 		"portuguese-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/portuguese-translation/vcmi-1.6/portuguese-translation/mod.json",
@@ -938,7 +938,7 @@
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/fused-artifacts/main/screenshots/screen01.png"
 			],
-			"downloadSize" : 0.927
+			"downloadSize" : 0.933
 		},
 		"immortal-cultivation-heroes" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/immortal-cultivation-heroes/vcmi-1.7/lmods/mod.json",
