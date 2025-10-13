@@ -254,7 +254,7 @@
 			"download" : "https://github.com/vcmi-mods/adventure-ai-trace/archive/refs/heads/upstream.zip",
 			"downloadSize" : 0.001
 		},
-		"demo support" : {
+		"demo-support" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/demo-support/master/mod.json",
 			"download" : "https://github.com/vcmi-mods/demo-support/archive/refs/heads/master.zip",
 			"downloadSize" : 4.233
