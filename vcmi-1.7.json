@@ -3,7 +3,7 @@
 		"vcmi-extras" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/vcmi-extras/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 7.338
+			"downloadSize" : 7.339
 		},
 		"hota" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/hota/mod.json",
@@ -174,7 +174,7 @@
 		"italian-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/italian-translation/vcmi-1.6/italian-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/italian-translation/archive/refs/heads/vcmi-1.6.zip",
-			"downloadSize" : 29.477
+			"downloadSize" : 29.514
 		},
 		"czech-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/czech-translation/vcmi-1.6/czech-translation/mod.json",
@@ -199,7 +199,7 @@
 		"turkish-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/turkish-translation/vcmi-1.6/turkish-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/turkish-translation/archive/refs/heads/vcmi-1.6.zip",
-			"downloadSize" : 2.322
+			"downloadSize" : 2.417
 		},
 		"hungarian-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/hungarian-translation/vcmi-1.6/hungarian-translation/mod.json",
@@ -267,7 +267,7 @@
 		"campaign-heroes" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/campaign-heroes/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/campaign-heroes/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 0.206
+			"downloadSize" : 0.131
 		},
 		"tarnum" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/tarnum/vcmi-1.7/tarnum/mod.json",
@@ -369,7 +369,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen5.png",
 				"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/main/screenshots/screen6.png"
 			],
-			"downloadSize" : 16.139
+			"downloadSize" : 16.177
 		},
 		"preserve-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/preserve-town/vcmi-1.7/preserve/mod.json",
@@ -443,7 +443,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/portraits-packs/main/screenshots/screen3.png",
 				"https://raw.githubusercontent.com/vcmi-mods/portraits-packs/main/screenshots/screen4.png"
 			],
-			"downloadSize" : 18.6
+			"downloadSize" : 26.287
 		},
 		"heroes-iii-orchestra" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/heroes-iii-orchestra/vcmi-1.6/Heroes%20III%20Orchestra/mod.json",
