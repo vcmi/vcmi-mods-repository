@@ -35,11 +35,6 @@
 		"download" : "https://github.com/misiokles/HoMM3-alternative-towns-music/archive/refs/heads/vcmi-1.4.zip",
 		"downloadSize" : 9.836
 	},
-	"ruins-town-alt" : {
-		"mod" : "https://raw.githubusercontent.com/misiokles/ruins-town-alt/vcmi-1.4/ruins-town-alt/mod.json",
-		"download" : "https://github.com/misiokles/ruins-town-alt/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 18.857
-	},
 	"astral-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/astral-town/vcmi-1.4/astral-town/mod.json",
 		"download" : "https://github.com/misiokles/astral-town/archive/refs/heads/vcmi-1.4.zip",
