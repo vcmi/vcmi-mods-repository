@@ -1055,7 +1055,7 @@
 		"norwegian-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/norwegian-translation/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/norwegian-translation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 2.304
+			"downloadSize" : 3.208
 		},
 		"greek-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/greek-translation/vcmi-1.7/mod.json",
