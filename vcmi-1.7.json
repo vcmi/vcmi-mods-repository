@@ -184,7 +184,7 @@
 		"finnish-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/finnish-translation/vcmi-1.6/finnish-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/finnish-translation/archive/refs/heads/vcmi-1.6.zip",
-			"downloadSize" : 3.804
+			"downloadSize" : 3.828
 		},
 		"portuguese-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/portuguese-translation/vcmi-1.6/portuguese-translation/mod.json",
@@ -739,7 +739,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/farriery-town/vcmi-1.6/Screenshots/Spoiled Land.png",
 				"https://raw.githubusercontent.com/vcmi-mods/farriery-town/vcmi-1.6/screenshots/screen06.png"
 			],
-			"downloadSize" : 34.742
+			"downloadSize" : 34.233
 		},
 		"h3Evo" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/H3Evo/vcmi-1.6/mod.json",
