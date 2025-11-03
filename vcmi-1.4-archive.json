@@ -314,6 +314,7 @@
 	},
 	"old-court-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/old-court-town/main/old-court-town/mod.json",
-		"download" : "https://github.com/misiokles/old-court-town/archive/refs/heads/main.zip"
-	}	
+		"download" : "https://github.com/misiokles/old-court-town/archive/refs/heads/main.zip",
+		"downloadSize" : 12.721
+	}
 }
