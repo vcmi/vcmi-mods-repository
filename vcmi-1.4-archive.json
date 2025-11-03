@@ -311,5 +311,9 @@
 			"https://raw.githubusercontent.com/misiokles/haven-vovan/main/screenshots/screen1.png"
 		],
 		"downloadSize" : 12.872
-	}
+	},
+	"old-court-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/old-court-town/main/old-court-town/mod.json",
+		"download" : "https://github.com/misiokles/old-court-town/archive/refs/heads/main.zip"
+	}	
 }
