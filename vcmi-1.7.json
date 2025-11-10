@@ -575,8 +575,8 @@
 			"downloadSize" : 16.516
 		},
 		"ab-bad-ending-maps" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-maps/vcmi-1.6/AB Bad Ending Maps/mod.json",
-			"download" : "https://github.com/vcmi-mods/ab-bad-ending-maps/archive/refs/heads/vcmi-1.6.zip",
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-maps/vcmi-1.7/AB Bad Ending Maps/mod.json",
+			"download" : "https://github.com/vcmi-mods/ab-bad-ending-maps/archive/refs/heads/vcmi-1.7.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-maps/vcmi-1.4/screenshots/screen01.png",
 				"https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-maps/vcmi-1.4/screenshots/screen02.png"
