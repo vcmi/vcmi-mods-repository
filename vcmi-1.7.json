@@ -184,7 +184,7 @@
 		"finnish-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/finnish-translation/vcmi-1.6/finnish-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/finnish-translation/archive/refs/heads/vcmi-1.6.zip",
-			"downloadSize" : 3.828
+			"downloadSize" : 4.394
 		},
 		"portuguese-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/portuguese-translation/vcmi-1.6/portuguese-translation/mod.json",
@@ -1060,7 +1060,7 @@
 		"greek-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/greek-translation/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/greek-translation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 3.667
+			"downloadSize" : 4.571
 		},
 		"japanese-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/japanese-translation/vcmi-1.7/mod.json",
@@ -1080,7 +1080,7 @@
 		"belarusian-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/belarusian-translation/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/belarusian-translation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 7.226
+			"downloadSize" : 7.766
 		},
 		"market-of-time" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/market-of-time/vcmi-1.7/marketOfTime/mod.json",

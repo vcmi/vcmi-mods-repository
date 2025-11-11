@@ -183,7 +183,7 @@
 	"finnish-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/finnish-translation/vcmi-1.6/finnish-translation/mod.json",
 		"download" : "https://github.com/vcmi-mods/finnish-translation/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 3.828
+		"downloadSize" : 4.394
 	},
 	"portuguese-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/portuguese-translation/vcmi-1.6/portuguese-translation/mod.json",
