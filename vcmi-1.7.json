@@ -22,7 +22,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/screenshots/wiki2.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/screenshots/wiki3.png"
 			],
-			"downloadSize" : 243.511
+			"downloadSize" : 243.547
 		},
 		"wake-of-gods" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/mod.json",
@@ -199,7 +199,7 @@
 		"turkish-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/turkish-translation/vcmi-1.6/turkish-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/turkish-translation/archive/refs/heads/vcmi-1.6.zip",
-			"downloadSize" : 3.182
+			"downloadSize" : 4.022
 		},
 		"hungarian-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/hungarian-translation/vcmi-1.6/hungarian-translation/mod.json",
@@ -739,7 +739,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/farriery-town/vcmi-1.6/Screenshots/Spoiled Land.png",
 				"https://raw.githubusercontent.com/vcmi-mods/farriery-town/vcmi-1.6/screenshots/screen06.png"
 			],
-			"downloadSize" : 34.233
+			"downloadSize" : 34.277
 		},
 		"h3Evo" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/H3Evo/vcmi-1.6/mod.json",
@@ -1075,7 +1075,7 @@
 		"romanian-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/romanian-translation/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/romanian-translation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 3.465
+			"downloadSize" : 4.242
 		},
 		"belarusian-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/belarusian-translation/vcmi-1.7/mod.json",
