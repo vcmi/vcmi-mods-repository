@@ -203,7 +203,7 @@
 	"hungarian-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/hungarian-translation/vcmi-1.6/hungarian-translation/mod.json",
 		"download" : "https://github.com/vcmi-mods/hungarian-translation/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 17.349
+		"downloadSize" : 17.622
 	},
 	"chinese-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/chinese-translation/vcmi-1.6/chinese-translation/mod.json",
