@@ -218,7 +218,7 @@
 	"vietnamese-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/vietnamese-translation/vcmi-1.6/vietnamese-translation/mod.json",
 		"download" : "https://github.com/vcmi-mods/vietnamese-translation/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 6.05
+		"downloadSize" : 6.737
 	},
 	"polish-translation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/polish-translation/vcmi-1.6/polish-translation/mod.json",
