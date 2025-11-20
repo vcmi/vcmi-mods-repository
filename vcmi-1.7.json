@@ -22,7 +22,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/screenshots/wiki2.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/screenshots/wiki3.png"
 			],
-			"downloadSize" : 243.547
+			"downloadSize" : 243.455
 		},
 		"wake-of-gods" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/mod.json",
@@ -894,7 +894,7 @@
 		"modder-tools-pack" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/modder-tools-pack/main/modder-tools-pack/mod.json",
 			"download" : "https://github.com/vcmi-mods/modder-tools-pack/archive/refs/heads/main.zip",
-			"downloadSize" : 84.278
+			"downloadSize" : 84.286
 		},
 		"heroes-o-pedia" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/heroes-o-pedia/vcmi-1.6/heroes-o-pedia/mod.json",
