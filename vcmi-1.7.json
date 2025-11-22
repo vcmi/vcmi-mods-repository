@@ -214,7 +214,7 @@
 		"french-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/french-translation/vcmi-1.6/french-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/french-translation/archive/refs/heads/vcmi-1.6.zip",
-			"downloadSize" : 51.113
+			"downloadSize" : 51.114
 		},
 		"vietnamese-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/vietnamese-translation/vcmi-1.7/vietnamese-translation/mod.json",
