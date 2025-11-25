@@ -27,7 +27,7 @@
 		"wake-of-gods" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/wake-of-gods/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 86.339
+			"downloadSize" : 86.34
 		},
 		"tides-of-war" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/tides-of-war/vcmi-1.7/mod.json",
@@ -1116,7 +1116,8 @@
 		},
 		"vcmi-MMAI-mod" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/vcmi-MMAI-mod/vcmi-1.7/vcmi-MMAI-mod/mod.json",
-			"download" : "https://github.com/vcmi-mods/vcmi-MMAI-mod/archive/refs/heads/vcmi-1.7.zip"
-		}		
+			"download" : "https://github.com/vcmi-mods/vcmi-MMAI-mod/archive/refs/heads/vcmi-1.7.zip",
+			"downloadSize" : 0.004
+		}
 	}
 }
