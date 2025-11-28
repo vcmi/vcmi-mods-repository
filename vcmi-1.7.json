@@ -1114,10 +1114,13 @@
 			"download" : "https://github.com/vcmi-mods/diverse-battlefields/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 269.963
 		},
-		"vcmi-MMAI-mod" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/vcmi-MMAI-mod/vcmi-1.7/vcmi-MMAI-mod/mod.json",
-			"download" : "https://github.com/vcmi-mods/vcmi-MMAI-mod/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 0.004
+		"mmai" : {
+			"mod" : "https://github.com/vcmi-mods/mmai/releases/download/vcmi-1.7-latest/mod.json",
+			"download" : "https://github.com/vcmi-mods/mmai/releases/download/vcmi-1.7-latest/mod.zip",
+			"screenshots" : [
+				"https://github.com/vcmi-mods/mmai/releases/download/vcmi-1.7-latest/screenshot-01.png"
+			],
+			"downloadSize" : 37.854
 		}
 	}
 }
