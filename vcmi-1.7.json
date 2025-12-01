@@ -157,8 +157,8 @@
 			"downloadSize" : 7.797
 		},
 		"german-translation" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/german-translation/vcmi-1.6/mod.json",
-			"download" : "https://github.com/vcmi-mods/german-translation/archive/refs/heads/vcmi-1.6.zip",
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/german-translation/vcmi-1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/german-translation/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 107.37
 		},
 		"spanish-translation" : {
