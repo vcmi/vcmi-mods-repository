@@ -316,5 +316,21 @@
 		"mod" : "https://raw.githubusercontent.com/misiokles/old-court-town/main/old-court-town/mod.json",
 		"download" : "https://github.com/misiokles/old-court-town/archive/refs/heads/main.zip",
 		"downloadSize" : 12.721
-	}
+	},
+	"moonspire-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/moonspire-town/vcmi-1.7/moonspire-town/mod.json",
+		"download" : "https://github.com/misiokles/moonspire-town/archive/refs/heads/vcmi-1.7.zip"
+	},
+	"yanHuang" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/yanHuang/vcmi-1.7/yanHuang-town/mod.json",
+		"download" : "https://github.com/misiokles/yanHuang/archive/refs/heads/vcmi-1.7.zip"
+	},
+	"yanHuang" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/naga-town/vcmi-1.7/naga-town/mod.json",
+		"download" : "https://github.com/misiokles/naga-town/archive/refs/heads/vcmi-1.7.zip"
+	},
+	"land-of-light" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/land-of-light/vcmi-1.7/land-of-light/mod.json",
+		"download" : "https://github.com/misiokles/land-of-light/archive/refs/heads/vcmi-1.7.zip"
+	}		
 }
