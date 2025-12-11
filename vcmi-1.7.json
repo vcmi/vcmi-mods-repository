@@ -1115,10 +1115,10 @@
 			"downloadSize" : 269.963
 		},
 		"mmai" : {
-			"mod" : "https://github.com/vcmi-mods/mmai/releases/download/vcmi-1.7-latest/mod.json",
-			"download" : "https://github.com/vcmi-mods/mmai/releases/download/vcmi-1.7-latest/mod.zip",
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/mmai/vcmi-1.7/mmai/mod.json",
+			"download" : "https://github.com/vcmi-mods/mmai/archive/refs/heads/vcmi-1.7.zip",
 			"screenshots" : [
-				"https://github.com/vcmi-mods/mmai/releases/download/vcmi-1.7-latest/screenshot-01.png"
+				"https://raw.githubusercontent.com/vcmi-mods/mmai/vcmi-1.7/screenshots/screenshot-01.png"
 			],
 			"downloadSize" : 37.854
 		}
