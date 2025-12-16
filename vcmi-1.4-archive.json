@@ -334,10 +334,12 @@
 	},
 	"shuHan-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/shuHan-town/vcmi-1.7/shuHan-town/mod.json",
-		"download" : "https://github.com/misiokles/shuHan-town/archive/refs/heads/vcmi-1.7.zip"
+		"download" : "https://github.com/misiokles/shuHan-town/archive/refs/heads/vcmi-1.7.zip",
+		"downloadSize" : 11.396
 	},
 	"feydom-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/feydom-town/vcmi-1.7/feydom-town/mod.json",
-		"download" : "https://github.com/misiokles/feydom-town/archive/refs/heads/vcmi-1.7.zip"
-	}	
+		"download" : "https://github.com/misiokles/feydom-town/archive/refs/heads/vcmi-1.7.zip",
+		"downloadSize" : 9.63
+	}
 }
