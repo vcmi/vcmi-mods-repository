@@ -331,5 +331,13 @@
 		"mod" : "https://raw.githubusercontent.com/misiokles/land-of-light/vcmi-1.7/land-of-light/mod.json",
 		"download" : "https://github.com/misiokles/land-of-light/archive/refs/heads/vcmi-1.7.zip",
 		"downloadSize" : 51.853
-	}
+	},
+	"shuHan-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/shuHan-town/vcmi-1.7/shuHan-town/mod.json",
+		"download" : "https://github.com/misiokles/shuHan-town/archive/refs/heads/vcmi-1.7.zip"
+	},
+	"feydom-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/feydom-town/vcmi-1.7/feydom-town/mod.json",
+		"download" : "https://github.com/misiokles/feydom-town/archive/refs/heads/vcmi-1.7.zip"
+	}	
 }
