@@ -320,7 +320,7 @@
 	"moonspire-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/moonspire-town/vcmi-1.7/moonspire-town/mod.json",
 		"download" : "https://github.com/misiokles/moonspire-town/archive/refs/heads/vcmi-1.7.zip",
-		"downloadSize" : 11.772
+		"downloadSize" : 13.901
 	},
 	"yanHuang" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/naga-town/vcmi-1.7/naga-town/mod.json",
