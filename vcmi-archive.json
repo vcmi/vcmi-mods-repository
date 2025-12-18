@@ -1,0 +1,350 @@
+{
+	"horde-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/horde-town/vcmi-1.4/horde-town/mod.json",
+		"download" : "https://github.com/misiokles/horde-town/archive/refs/heads/vcmi-1.4.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/misiokles/horde-town/vcmi-1.4/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/misiokles/horde-town/vcmi-1.4/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/misiokles/horde-town/vcmi-1.4/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/misiokles/horde-town/vcmi-1.4/screenshots/screen4.png"
+		],
+		"downloadSize" : 20.17
+	},
+	"ciberium-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/ciberium-town/vcmi-1.4/ciberium-town/mod.json",
+		"download" : "https://github.com/misiokles/ciberium-town/archive/refs/heads/vcmi-1.4.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/misiokles/ciberium-town/vcmi-1.4/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/misiokles/ciberium-town/vcmi-1.4/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/misiokles/ciberium-town/vcmi-1.4/screenshots/screen3.png"
+		],
+		"downloadSize" : 24.778
+	},
+	"foundry-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/foundry-town/vcmi-1.4/foundry-town/mod.json",
+		"download" : "https://github.com/misiokles/foundry-town/archive/refs/heads/vcmi-1.4.zip",
+		"downloadSize" : 18.394
+	},
+	"small-era-mods" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/small-era-mods/vcmi-1.4/small-era-mods/mod.json",
+		"download" : "https://github.com/misiokles/small-era-mods/archive/refs/heads/vcmi-1.4.zip",
+		"downloadSize" : 15.073
+	},
+	"HoMM3-alternative-towns-music" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/HoMM3-alternative-towns-music/vcmi-1.4/HoMM3-alternative-towns-music/mod.json",
+		"download" : "https://github.com/misiokles/HoMM3-alternative-towns-music/archive/refs/heads/vcmi-1.4.zip",
+		"downloadSize" : 9.836
+	},
+	"astral-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/astral-town/vcmi-1.4/astral-town/mod.json",
+		"download" : "https://github.com/misiokles/astral-town/archive/refs/heads/vcmi-1.4.zip",
+		"downloadSize" : 10.293
+	},
+	"golemcraft" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/golemcraft/vcmi-1.4/golemcraft/mod.json",
+		"download" : "https://github.com/misiokles/golemcraft/archive/refs/heads/vcmi-1.4.zip",
+		"downloadSize" : 0.075
+	},
+	"slothlux-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/slothlux-town/vcmi-1.4/slothlux-town/mod.json",
+		"download" : "https://github.com/misiokles/slothlux-town/archive/refs/heads/vcmi-1.4.zip",
+		"downloadSize" : 8.811
+	},
+	"peachville-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/peachville-town/vcmi-1.4/peachville-town/mod.json",
+		"download" : "https://github.com/misiokles/peachville-town/archive/refs/heads/vcmi-1.4.zip",
+		"downloadSize" : 8.069
+	},
+	"palace-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/palace-town/vcmi-1.4/palace-town/mod.json",
+		"download" : "https://github.com/misiokles/palace-town/archive/refs/heads/vcmi-1.4.zip",
+		"downloadSize" : 14.683
+	},
+	"h4-arts-hero" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/h4-arts-hero/vcmi-1.7/h4-arts-hero/mod.json",
+		"download" : "https://github.com/misiokles/h4-arts-hero/archive/refs/heads/vcmi-1.7.zip",
+		"downloadSize" : 0.226
+	},
+	"h2-artifacts" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/h2-artifacts/vcmi-1.4/h2-artifacts/mod.json",
+		"download" : "https://github.com/misiokles/h2-artifacts/archive/refs/heads/vcmi-1.4.zip",
+		"downloadSize" : 0.173
+	},
+	"alpha-mod" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/alpha-mod/vcmi-1.4/alpha-mod/mod.json",
+		"download" : "https://github.com/misiokles/alpha-mod/archive/refs/heads/vcmi-1.4.zip",
+		"downloadSize" : 6.885
+	},
+	"regna-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/regna-town/vcmi-1.4/regna-town/mod.json",
+		"download" : "https://github.com/misiokles/regna-town/archive/refs/heads/vcmi-1.4.zip",
+		"downloadSize" : 12.344
+	},
+	"swarm-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/swarm-town/vcmi-1.4/swarm-town/mod.json",
+		"download" : "https://github.com/misiokles/swarm-town/archive/refs/heads/vcmi-1.4.zip",
+		"downloadSize" : 22.894
+	},
+	"rampstorm" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/rampstorm/vcmi-1.4/rampstorm/mod.json",
+		"download" : "https://github.com/misiokles/rampstorm/archive/refs/heads/vcmi-1.4.zip",
+		"downloadSize" : 8.255
+	},
+	"atlantis-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/atlantis-town/vcmi-1.4/atlantis-town/mod.json",
+		"download" : "https://github.com/misiokles/atlantis-town/archive/refs/heads/vcmi-1.4.zip",
+		"downloadSize" : 11.283
+	},
+	"technocracy-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/technocracy-town/vcmi-1.4/technocracy-town/mod.json",
+		"download" : "https://github.com/misiokles/technocracy-town/archive/refs/heads/vcmi-1.4.zip",
+		"downloadSize" : 17.799
+	},
+	"eldorado-town" : {
+		"mod" : "https://raw.githubusercontent.com/kdmcser/eldorado-town/vcmi-1.5/mod.json",
+		"download" : "https://github.com/kdmcser/eldorado-town/archive/refs/heads/vcmi-1.5.zip",
+		"downloadSize" : 19.259
+	},
+	"haven-old" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/haven-old/vcmi-1.5/haven-old/mod.json",
+		"download" : "https://github.com/misiokles/haven-old/archive/refs/heads/vcmi-1.5.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/misiokles/haven-old/vcmi-1.5/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/misiokles/haven-old/vcmi-1.5/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/misiokles/haven-old/vcmi-1.5/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/misiokles/haven-old/vcmi-1.5/screenshots/screen4.png"
+		],
+		"downloadSize" : 13.341
+	},
+	"bastille-old" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/bastille-old/vcmi-1.5/bastille-old/mod.json",
+		"download" : "https://github.com/misiokles/bastille-old/archive/refs/heads/vcmi-1.5.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/misiokles/bastille-old/vcmi-1.5/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/misiokles/bastille-old/vcmi-1.5/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/misiokles/bastille-old/vcmi-1.5/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/misiokles/bastille-old/vcmi-1.5/screenshots/screen4.png"
+		],
+		"downloadSize" : 17.588
+	},
+	"fiorin-heroes" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/fiorin-heroes/vcmi-1.5/fiorin-heroes/mod.json",
+		"download" : "https://github.com/misiokles/fiorin-heroes/archive/refs/heads/vcmi-1.5.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/misiokles/fiorin-heroes/vcmi-1.5/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/misiokles/fiorin-heroes/vcmi-1.5/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/misiokles/fiorin-heroes/vcmi-1.5/screenshots/screen3.png"
+		],
+		"downloadSize" : 2.525
+	},
+	"plane-of-earth-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/plane-of-earth-town/vcmi-1.5/plane-of-earth-town/mod.json",
+		"download" : "https://github.com/misiokles/plane-of-earth-town/archive/refs/heads/vcmi-1.5.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/misiokles/plane-of-earth-town/vcmi-1.5/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/misiokles/plane-of-earth-town/vcmi-1.5/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/misiokles/plane-of-earth-town/vcmi-1.5/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/misiokles/plane-of-earth-town/vcmi-1.5/screenshots/screen4.png"
+		],
+		"downloadSize" : 14.417
+	},
+	"might-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/might-town/vcmi-1.5/might-town/mod.json",
+		"download" : "https://github.com/misiokles/might-town/archive/refs/heads/vcmi-1.5.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/misiokles/might-town/vcmi-1.5/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/misiokles/might-town/vcmi-1.5/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/misiokles/might-town/vcmi-1.5/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/misiokles/might-town/vcmi-1.5/screenshots/screen4.png"
+		],
+		"downloadSize" : 16.616
+	},
+	"covenant-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/covenant-town/vcmi-1.5/covenant-town/mod.json",
+		"download" : "https://github.com/misiokles/covenant-town/archive/refs/heads/vcmi-1.5.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/misiokles/covenant-town/vcmi-1.5/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/misiokles/covenant-town/vcmi-1.5/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/misiokles/covenant-town/vcmi-1.5/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/misiokles/covenant-town/vcmi-1.5/screenshots/screen4.png"
+		],
+		"downloadSize" : 37.546
+	},
+	"ruins092-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/ruins-092/vcmi-1.5/ruins-092/mod.json",
+		"download" : "https://github.com/misiokles/ruins-092/archive/refs/heads/vcmi-1.5.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/misiokles/ruins-092/vcmi-1.5/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/misiokles/ruins-092/vcmi-1.5/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/misiokles/ruins-092/vcmi-1.5/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/misiokles/ruins-092/vcmi-1.5/screenshots/screen4.png",
+			"https://raw.githubusercontent.com/misiokles/ruins-092/vcmi-1.5/screenshots/screen5.png"
+		],
+		"downloadSize" : 14.789
+	},
+	"glacier-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/glacier-town/vcmi-1.5/glacier-town/mod.json",
+		"download" : "https://github.com/misiokles/glacier-town/archive/refs/heads/vcmi-1.5.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/misiokles/glacier-town/vcmi-1.5/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/misiokles/glacier-town/vcmi-1.5/screenshots/screen2.png"
+		],
+		"downloadSize" : 13.565
+	},
+	"limes-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/limes-town/vcmi-1.5/limes-town/mod.json",
+		"download" : "https://github.com/misiokles/limes-town/archive/refs/heads/vcmi-1.5.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/misiokles/limes-town/vcmi-1.5/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/misiokles/limes-town/vcmi-1.5/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/misiokles/limes-town/vcmi-1.5/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/misiokles/limes-town/vcmi-1.5/screenshots/screen4.png"
+		],
+		"downloadSize" : 22.388
+	},
+	"christmas-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/christmas-town/vcmi-1.5/christmas-town/mod.json",
+		"download" : "https://github.com/misiokles/christmas-town/archive/refs/heads/vcmi-1.5.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/misiokles/christmas-town/vcmi-1.5/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/misiokles/christmas-town/vcmi-1.5/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/misiokles/christmas-town/vcmi-1.5/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/misiokles/christmas-town/vcmi-1.5/screenshots/screen4.png"
+		],
+		"downloadSize" : 16.138
+	},
+	"warlock-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/warlock-town/vcmi-1.5/warlock-town/mod.json",
+		"download" : "https://github.com/misiokles/warlock-town/archive/refs/heads/vcmi-1.5.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/misiokles/warlock-town/vcmi-1.5/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/misiokles/warlock-town/vcmi-1.5/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/misiokles/warlock-town/vcmi-1.5/screenshots/screen3.png"
+		],
+		"downloadSize" : 14.243
+	},
+	"mythology-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/mythology-town/vcmi-1.4/mythology-town/mod.json",
+		"download" : "https://github.com/misiokles/mythology-town/archive/refs/heads/vcmi-1.4.zip",
+		"downloadSize" : 10.816
+	},
+	"abode-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/abode-town/vcmi-1.5/abode-town/mod.json",
+		"download" : "https://github.com/misiokles/abode-town/archive/refs/heads/vcmi-1.5.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/misiokles/abode-town/vcmi-1.5/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/misiokles/abode-town/vcmi-1.5/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/misiokles/abode-town/vcmi-1.5/screenshots/screen3.png"
+		],
+		"downloadSize" : 21.358
+	},
+	"pah3-singleplayer-tournament" : {
+		"mod" : "https://raw.githubusercontent.com/vcmi-mods/pah3-singleplayer-tournament/vcmi-1.6/pah3-singleplayer-tournament/mod.json",
+		"download" : "https://github.com/vcmi-mods/pah3-singleplayer-tournament/archive/refs/heads/vcmi-1.6.zip",
+		"downloadSize" : 2.313
+	},
+	"crossroads-of-worlds" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/crossroads-of-worlds/vcmi-1.6/crossroads-of-worlds/mod.json",
+		"download" : "https://github.com/misiokles/crossroads-of-worlds/archive/refs/heads/vcmi-1.6.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/misiokles/crossroads-of-worlds/vcmi-1.6/screenshots/screen01.png",
+			"https://raw.githubusercontent.com/misiokles/crossroads-of-worlds/vcmi-1.6/screenshots/screen02.png",
+			"https://raw.githubusercontent.com/misiokles/crossroads-of-worlds/vcmi-1.6/screenshots/screen03.png",
+			"https://raw.githubusercontent.com/misiokles/crossroads-of-worlds/vcmi-1.6/screenshots/screen04.png",
+			"https://raw.githubusercontent.com/misiokles/crossroads-of-worlds/vcmi-1.6/screenshots/screen05.png",
+			"https://raw.githubusercontent.com/misiokles/crossroads-of-worlds/vcmi-1.6/screenshots/screen06.png",
+			"https://raw.githubusercontent.com/misiokles/crossroads-of-worlds/vcmi-1.6/screenshots/screen07.png",
+			"https://raw.githubusercontent.com/misiokles/crossroads-of-worlds/vcmi-1.6/screenshots/screen08.png",
+			"https://raw.githubusercontent.com/misiokles/crossroads-of-worlds/vcmi-1.6/screenshots/screen09.png",
+			"https://raw.githubusercontent.com/misiokles/crossroads-of-worlds/vcmi-1.6/screenshots/screen10.png"
+		],
+		"downloadSize" : 151.446
+	},
+	"blazers-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/blazers-town/main/blazers-town/mod.json",
+		"download" : "https://github.com/misiokles/blazers-town/archive/refs/heads/main.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/misiokles/blazers-town/main/screenshots/screen01.png",
+			"https://raw.githubusercontent.com/misiokles/blazers-town/main/screenshots/screen02.png",
+			"https://raw.githubusercontent.com/misiokles/blazers-town/main/screenshots/screen03.png"
+		],
+		"downloadSize" : 18.683
+	},
+	"wild-valley-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/wild-valley-town/main/wild-valley-town/mod.json",
+		"download" : "https://github.com/misiokles/wild-valley-town/archive/refs/heads/main.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/misiokles/wild-valley-town/main/screenshots/screen01.png",
+			"https://raw.githubusercontent.com/misiokles/wild-valley-town/main/screenshots/screen02.png",
+			"https://raw.githubusercontent.com/misiokles/wild-valley-town/main/screenshots/screen03.png",
+			"https://raw.githubusercontent.com/misiokles/wild-valley-town/main/screenshots/screen04.png"
+		],
+		"downloadSize" : 16.63
+	},
+	"evergreen-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/evergreen-town/main/evergreen-town/mod.json",
+		"download" : "https://github.com/misiokles/evergreen-town/archive/refs/heads/main.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/misiokles/evergreen-town/main/screenshots/screen01.png",
+			"https://raw.githubusercontent.com/misiokles/evergreen-town/main/screenshots/screen02.png",
+			"https://raw.githubusercontent.com/misiokles/evergreen-town/main/screenshots/screen03.png",
+			"https://raw.githubusercontent.com/misiokles/evergreen-town/main/screenshots/screen04.png"
+		],
+		"downloadSize" : 15.318
+	},
+	"h2-towns" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/h2-towns/main/h2-towns/mod.json",
+		"download" : "https://github.com/misiokles/h2-towns/archive/refs/heads/main.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/misiokles/h2-towns/main/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/misiokles/h2-towns/main/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/misiokles/h2-towns/main/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/misiokles/h2-towns/main/screenshots/screen4.png",
+			"https://raw.githubusercontent.com/misiokles/h2-towns/main/screenshots/screen5.png"
+		],
+		"downloadSize" : 63.742
+	},
+	"haven-vovan" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/haven-vovan/main/haven-vovan/mod.json",
+		"download" : "https://github.com/misiokles/haven-vovan/archive/refs/heads/main.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/misiokles/haven-vovan/main/screenshots/screen1.png"
+		],
+		"downloadSize" : 12.872
+	},
+	"old-court-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/old-court-town/main/old-court-town/mod.json",
+		"download" : "https://github.com/misiokles/old-court-town/archive/refs/heads/main.zip",
+		"downloadSize" : 12.721
+	},
+	"moonspire-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/moonspire-town/vcmi-1.7/moonspire-town/mod.json",
+		"download" : "https://github.com/misiokles/moonspire-town/archive/refs/heads/vcmi-1.7.zip",
+		"downloadSize" : 13.901
+	},
+	"naga-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/naga-town/vcmi-1.7/naga-town/mod.json",
+		"download" : "https://github.com/misiokles/naga-town/archive/refs/heads/vcmi-1.7.zip",
+		"downloadSize" : 33.763
+	},
+	"yanHuang" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/yanHuang/vcmi-1.7/yanHuang-town/mod.json",
+		"download" : "https://github.com/misiokles/yanHuang/archive/refs/heads/vcmi-1.7.zip",
+		"downloadSize" : 17.396
+	},
+	"land-of-light" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/land-of-light/vcmi-1.7/land-of-light/mod.json",
+		"download" : "https://github.com/misiokles/land-of-light/archive/refs/heads/vcmi-1.7.zip",
+		"downloadSize" : 51.853
+	},
+	"shuHan-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/shuHan-town/vcmi-1.7/shuHan-town/mod.json",
+		"download" : "https://github.com/misiokles/shuHan-town/archive/refs/heads/vcmi-1.7.zip",
+		"downloadSize" : 11.396
+	},
+	"feydom-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/feydom-town/vcmi-1.7/feydom-town/mod.json",
+		"download" : "https://github.com/misiokles/feydom-town/archive/refs/heads/vcmi-1.7.zip",
+		"downloadSize" : 9.63
+	}
+}
