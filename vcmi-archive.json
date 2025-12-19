@@ -317,34 +317,14 @@
 		"download" : "https://github.com/misiokles/old-court-town/archive/refs/heads/main.zip",
 		"downloadSize" : 12.721
 	},
-	"moonspire-town" : {
-		"mod" : "https://raw.githubusercontent.com/misiokles/moonspire-town/vcmi-1.7/moonspire-town/mod.json",
-		"download" : "https://github.com/misiokles/moonspire-town/archive/refs/heads/vcmi-1.7.zip",
-		"downloadSize" : 13.901
-	},
 	"naga-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/naga-town/vcmi-1.7/naga-town/mod.json",
 		"download" : "https://github.com/misiokles/naga-town/archive/refs/heads/vcmi-1.7.zip",
 		"downloadSize" : 33.763
 	},
-	"yanHuang" : {
-		"mod" : "https://raw.githubusercontent.com/misiokles/yanHuang/vcmi-1.7/yanHuang-town/mod.json",
-		"download" : "https://github.com/misiokles/yanHuang/archive/refs/heads/vcmi-1.7.zip",
-		"downloadSize" : 17.396
-	},
 	"land-of-light" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/land-of-light/vcmi-1.7/land-of-light/mod.json",
 		"download" : "https://github.com/misiokles/land-of-light/archive/refs/heads/vcmi-1.7.zip",
 		"downloadSize" : 51.853
-	},
-	"shuHan-town" : {
-		"mod" : "https://raw.githubusercontent.com/misiokles/shuHan-town/vcmi-1.7/shuHan-town/mod.json",
-		"download" : "https://github.com/misiokles/shuHan-town/archive/refs/heads/vcmi-1.7.zip",
-		"downloadSize" : 11.396
-	},
-	"feydom-town" : {
-		"mod" : "https://raw.githubusercontent.com/misiokles/feydom-town/vcmi-1.7/feydom-town/mod.json",
-		"download" : "https://github.com/misiokles/feydom-town/archive/refs/heads/vcmi-1.7.zip",
-		"downloadSize" : 9.63
 	}
 }
