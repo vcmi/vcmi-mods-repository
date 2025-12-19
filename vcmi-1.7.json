@@ -332,7 +332,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.6/screenshots/wiki2.png",
 				"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.6/screenshots/wiki3.png"
 			],
-			"downloadSize" : 28.934
+			"downloadSize" : 29.077
 		},
 		"h3-themes" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.6/h3-themes/mod.json",
@@ -404,7 +404,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/retreat-town/vcmi-1.6/screenshots/screen2.png",
 				"https://raw.githubusercontent.com/vcmi-mods/retreat-town/vcmi-1.6/screenshots/screen3.png"
 			],
-			"downloadSize" : 18.351
+			"downloadSize" : 18.484
 		},
 		"cetatea-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/cetatea-town/vcmi-1.7/cetatea/mod.json",
