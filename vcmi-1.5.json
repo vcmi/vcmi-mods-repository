@@ -32,7 +32,7 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tides-of-war/vcmi-1.5/mod.json",
 		"download" : "https://github.com/vcmi-mods/tides-of-war/archive/refs/heads/vcmi-1.5.zip",
 		"downloadSize" : 27.835,
-		"githubStars" : 5
+		"githubStars" : 6
 	},
 	"courtyard" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/courtyard/vcmi-1.5/Courtyard/mod.json",
@@ -86,7 +86,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.4/screenshots/screen7.png"
 		],
 		"downloadSize" : 50.799,
-		"githubStars" : 1
+		"githubStars" : 2
 	},
 	"cathedral-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.5/cathedral-town/mod.json",
@@ -628,7 +628,7 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/boost-ai/vcmi-1.5/mod.json",
 		"download" : "https://github.com/vcmi-mods/boost-ai/archive/refs/heads/vcmi-1.5.zip",
 		"downloadSize" : 0.013,
-		"githubStars" : 0
+		"githubStars" : 1
 	},
 	"an-expansion" : {
 		"mod" : "https://raw.githubusercontent.com/vdhan/an-expansion/master/mod.json",
@@ -701,7 +701,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-maps/vcmi-1.4/screenshots/screen02.png"
 		],
 		"downloadSize" : 1.337,
-		"githubStars" : 0
+		"githubStars" : 2
 	},
 	"warzyw-templates" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/warzyw-templates/vcmi-1.4/warzyw-templates/mod.json",
@@ -766,7 +766,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/campaings-pack/vcmi-1.3/screenshots/screen01.png"
 		],
 		"downloadSize" : 11.223,
-		"githubStars" : 0
+		"githubStars" : 1
 	},
 	"dydzios-map-pack" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/dydzios-map-pack/vcmi-1.4/dydzios-map-pack/mod.json",
@@ -789,7 +789,7 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/zefix/vcmi-1.4/ZEfix/mod.json",
 		"download" : "https://github.com/vcmi-mods/zefix/archive/refs/heads/vcmi-1.4.zip",
 		"downloadSize" : 0.002,
-		"githubStars" : 0
+		"githubStars" : 1
 	},
 	"test-map-spells-mod" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/test-map-spells-mod/vcmi-1.4/test-map-spells-mod/mod.json",
@@ -818,7 +818,7 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/pah3-singleplayer-tournament/vcmi-1.3/pah3-singleplayer-tournament/mod.json",
 		"download" : "https://github.com/vcmi-mods/pah3-singleplayer-tournament/archive/refs/heads/vcmi-1.3.zip",
 		"downloadSize" : 10.305,
-		"githubStars" : 0
+		"githubStars" : 1
 	},
 	"mighty-heroes-iii" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/mighty-heroes-iii/vcmi-1.4/mighty-heroes-iii/mod.json",
@@ -841,7 +841,7 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/kartenarchiv-mappack/vcmi-1.4/kartenarchiv/mod.json",
 		"download" : "https://github.com/vcmi-mods/kartenarchiv-mappack/archive/refs/heads/vcmi-1.4.zip",
 		"downloadSize" : 43.669,
-		"githubStars" : 0
+		"githubStars" : 1
 	},
 	"vampires-only-gameplay-enhancements" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/vampires-only-gameplay-enhancements/vcmi-1.4/vampiresOnlyGameplayEnhancements/mod.json",
@@ -872,7 +872,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/ai-loading-screens/vcmi-1.4/screenshots/screen03.png"
 		],
 		"downloadSize" : 13.429,
-		"githubStars" : 0
+		"githubStars" : 1
 	},
 	"h3Evo" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/H3Evo/main/mod.json",
@@ -916,7 +916,7 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/extreme-ai/vcmi-1.4/extreme-ai/mod.json",
 		"download" : "https://github.com/vcmi-mods/extreme-ai/archive/refs/heads/vcmi-1.4.zip",
 		"downloadSize" : 0.002,
-		"githubStars" : 0
+		"githubStars" : 1
 	},
 	"object-pack" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/object-pack/vcmi-1.4/object-pack/mod.json",
@@ -944,7 +944,7 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/pvp-balance/vcmi-1.5/mod.json",
 		"download" : "https://github.com/vcmi-mods/pvp-balance/archive/refs/heads/vcmi-1.5.zip",
 		"downloadSize" : 1.243,
-		"githubStars" : 0
+		"githubStars" : 1
 	},
 	"graphics-balance-music" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/graphics-balance-music/vcmi-1.5/graphics-balance-music/mod.json",

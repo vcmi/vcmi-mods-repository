@@ -35,7 +35,7 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/tides-of-war/vcmi-1.6/mod.json",
 		"download" : "https://github.com/vcmi-mods/tides-of-war/archive/refs/heads/vcmi-1.6.zip",
 		"downloadSize" : 29.255,
-		"githubStars" : 5
+		"githubStars" : 6
 	},
 	"courtyard" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/courtyard/vcmi-1.6/Courtyard/mod.json",
@@ -123,7 +123,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.4/screenshots/screen7.png"
 		],
 		"downloadSize" : 65.122,
-		"githubStars" : 1
+		"githubStars" : 2
 	},
 	"cathedral-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.6/cathedral-town/mod.json",
@@ -574,7 +574,7 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/boost-ai/vcmi-1.6/mod.json",
 		"download" : "https://github.com/vcmi-mods/boost-ai/archive/refs/heads/vcmi-1.6.zip",
 		"downloadSize" : 0.008,
-		"githubStars" : 0
+		"githubStars" : 1
 	},
 	"an-expansion" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/an-expansion/vcmi-1.6/mod.json",
@@ -646,7 +646,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-maps/vcmi-1.4/screenshots/screen02.png"
 		],
 		"downloadSize" : 1.342,
-		"githubStars" : 0
+		"githubStars" : 2
 	},
 	"warzyw-templates" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/warzyw-templates/vcmi-1.6/warzyw-templates/mod.json",
@@ -726,7 +726,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/campaings-pack/vcmi-1.3/screenshots/screen01.png"
 		],
 		"downloadSize" : 11.223,
-		"githubStars" : 0
+		"githubStars" : 1
 	},
 	"dydzios-map-pack" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/dydzios-map-pack/vcmi-1.6/dydzios-map-pack/mod.json",
@@ -749,7 +749,7 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/zefix/vcmi-1.6/ZEfix/mod.json",
 		"download" : "https://github.com/vcmi-mods/zefix/archive/refs/heads/vcmi-1.6.zip",
 		"downloadSize" : 0.002,
-		"githubStars" : 0
+		"githubStars" : 1
 	},
 	"adventure-spells-pack" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/adventure-spells-pack/vcmi-1.6/adventure-spells-pack/mod.json",
@@ -804,7 +804,7 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/kartenarchiv-mappack/vcmi-1.6/kartenarchiv/mod.json",
 		"download" : "https://github.com/vcmi-mods/kartenarchiv-mappack/archive/refs/heads/vcmi-1.6.zip",
 		"downloadSize" : 71.573,
-		"githubStars" : 0
+		"githubStars" : 1
 	},
 	"vampires-only-gameplay-enhancements" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/vampires-only-gameplay-enhancements/vcmi-1.6/vampiresOnlyGameplayEnhancements/mod.json",
@@ -857,7 +857,7 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/extreme-ai/vcmi-1.6/extreme-ai/mod.json",
 		"download" : "https://github.com/vcmi-mods/extreme-ai/archive/refs/heads/vcmi-1.6.zip",
 		"downloadSize" : 0.003,
-		"githubStars" : 0
+		"githubStars" : 1
 	},
 	"object-pack" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/object-pack/vcmi-1.6/object-pack/mod.json",
@@ -995,7 +995,7 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/modder-tools-pack/main/modder-tools-pack/mod.json",
 		"download" : "https://github.com/vcmi-mods/modder-tools-pack/archive/refs/heads/main.zip",
 		"downloadSize" : 84.286,
-		"githubStars" : 0
+		"githubStars" : 1
 	},
 	"heroes-o-pedia" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/heroes-o-pedia/vcmi-1.6/heroes-o-pedia/mod.json",
@@ -1006,7 +1006,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/heroes-o-pedia/vcmi-1.6/screenshots/screen03.png"
 		],
 		"downloadSize" : 3.525,
-		"githubStars" : 1
+		"githubStars" : 2
 	},
 	"chronicles-enhanced" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/chronicles-enhanced/vcmi-1.6/chronicles-enhanced/mod.json",
@@ -1017,7 +1017,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/chronicles-enhanced/vcmi-1.6/screenshots/screen03.png"
 		],
 		"downloadSize" : 6.083,
-		"githubStars" : 0
+		"githubStars" : 1
 	},
 	"overall-ai-bonus" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/overall-ai-bonus/vcmi-1.6/overall-ai-bonus/mod.json",
@@ -1168,7 +1168,7 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/pvp-balance/vcmi-1.6/mod.json",
 		"download" : "https://github.com/vcmi-mods/pvp-balance/archive/refs/heads/vcmi-1.6.zip",
 		"downloadSize" : 14.451,
-		"githubStars" : 0
+		"githubStars" : 1
 	},
 	"pah3-singleplayer-tournament" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/pah3-singleplayer-tournament/vcmi-1.6/pah3-singleplayer-tournament/mod.json",
@@ -1179,7 +1179,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/pah3-singleplayer-tournament/vcmi-1.6/screenshots/screen3.png"
 		],
 		"downloadSize" : 2.313,
-		"githubStars" : 0
+		"githubStars" : 1
 	},
 	"diverse-battlefields" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/diverse-battlefields/vcmi-1.7/diverse-battlefields/mod.json",
