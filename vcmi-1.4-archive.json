@@ -291,7 +291,8 @@
 			"https://raw.githubusercontent.com/misiokles/crossroads-of-worlds/vcmi-1.6/screenshots/screen09.png",
 			"https://raw.githubusercontent.com/misiokles/crossroads-of-worlds/vcmi-1.6/screenshots/screen10.png"
 		],
-		"downloadSize" : 151.446
+		"downloadSize" : 151.446,
+		"githubStars" : 0
 	},
 	"blazers-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/blazers-town/main/blazers-town/mod.json",
@@ -301,7 +302,8 @@
 			"https://raw.githubusercontent.com/misiokles/blazers-town/main/screenshots/screen02.png",
 			"https://raw.githubusercontent.com/misiokles/blazers-town/main/screenshots/screen03.png"
 		],
-		"downloadSize" : 18.683
+		"downloadSize" : 18.683,
+		"githubStars" : 0
 	},
 	"wild-valley-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/wild-valley-town/main/wild-valley-town/mod.json",
@@ -312,7 +314,8 @@
 			"https://raw.githubusercontent.com/misiokles/wild-valley-town/main/screenshots/screen03.png",
 			"https://raw.githubusercontent.com/misiokles/wild-valley-town/main/screenshots/screen04.png"
 		],
-		"downloadSize" : 16.63
+		"downloadSize" : 16.63,
+		"githubStars" : 0
 	},
 	"evergreen-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/evergreen-town/main/evergreen-town/mod.json",
@@ -323,7 +326,8 @@
 			"https://raw.githubusercontent.com/misiokles/evergreen-town/main/screenshots/screen03.png",
 			"https://raw.githubusercontent.com/misiokles/evergreen-town/main/screenshots/screen04.png"
 		],
-		"downloadSize" : 15.318
+		"downloadSize" : 15.318,
+		"githubStars" : 0
 	},
 	"h2-towns" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/h2-towns/main/h2-towns/mod.json",
@@ -335,7 +339,8 @@
 			"https://raw.githubusercontent.com/misiokles/h2-towns/main/screenshots/screen4.png",
 			"https://raw.githubusercontent.com/misiokles/h2-towns/main/screenshots/screen5.png"
 		],
-		"downloadSize" : 63.742
+		"downloadSize" : 63.742,
+		"githubStars" : 0
 	},
 	"haven-vovan" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/haven-vovan/main/haven-vovan/mod.json",
@@ -343,21 +348,25 @@
 		"screenshots" : [
 			"https://raw.githubusercontent.com/misiokles/haven-vovan/main/screenshots/screen1.png"
 		],
-		"downloadSize" : 12.872
+		"downloadSize" : 12.872,
+		"githubStars" : 0
 	},
 	"old-court-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/old-court-town/main/old-court-town/mod.json",
 		"download" : "https://github.com/misiokles/old-court-town/archive/refs/heads/main.zip",
-		"downloadSize" : 12.721
+		"downloadSize" : 12.721,
+		"githubStars" : 0
 	},
 	"naga-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/naga-town/vcmi-1.7/naga-town/mod.json",
 		"download" : "https://github.com/misiokles/naga-town/archive/refs/heads/vcmi-1.7.zip",
-		"downloadSize" : 33.763
+		"downloadSize" : 33.763,
+		"githubStars" : 0
 	},
 	"land-of-light" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/land-of-light/vcmi-1.7/land-of-light/mod.json",
 		"download" : "https://github.com/misiokles/land-of-light/archive/refs/heads/vcmi-1.7.zip",
-		"downloadSize" : 51.853
+		"downloadSize" : 51.853,
+		"githubStars" : 0
 	}
 }
