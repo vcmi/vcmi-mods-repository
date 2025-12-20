@@ -8,6 +8,7 @@ import re
 from ignore_json import ignore
 
 GITHUB_API = "https://api.github.com/repos/{owner}/{repo}"
+GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 
 def extract_github_repo(url):
     match = re.search(r"github\.com/([^/]+)/([^/]+)", url)
@@ -38,14 +39,14 @@ for filename in glob.glob(os.path.join('.', '*.json')):
             api_url = GITHUB_API.format(owner=owner, repo=repo)
             print(f"Fetching stars for {mod}: {owner}/{repo}")
 
+            headers = {"User-Agent": "github-stars-script"}
+            if GITHUB_TOKEN:
+                headers["Authorization"] = f"Bearer {GITHUB_TOKEN}"
+
             try:
-                request = urllib.request.Request(
-                    api_url,
-                    headers={"User-Agent": "github-stars-script"}
-                )
+                request = urllib.request.Request(api_url, headers=headers)
                 response = urllib.request.urlopen(request, timeout=10)
                 repo_data = json.loads(response.read().decode("utf-8"))
-
                 stars = repo_data.get("stargazers_count")
                 if stars is not None:
                     data["githubStars"] = stars
