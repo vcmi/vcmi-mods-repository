@@ -43,7 +43,7 @@ jobs:
       - name: Validate mod json
         run: python3 .github/validate_mod_json.py
 
-  update_size:
+  update_size_stars:
     if: ${{ (github.event_name == 'push' && github.ref == 'refs/heads/develop') || github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' }}
     runs-on: ubuntu-latest
     defaults:
@@ -58,6 +58,11 @@ jobs:
 
       - name: Update size
         run: python3 .github/update_size.py
+
+      - name: Update stars
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/update_stars.py
 
       - name: Determine branch and switch
         id: branch_info
