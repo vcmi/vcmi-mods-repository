@@ -962,17 +962,20 @@
 	"hq-music" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/hq-music/main/mod.json",
 		"download" : "https://github.com/vcmi-mods/hq-music/archive/refs/heads/main.zip",
-		"downloadSize" : 227.359
+		"downloadSize" : 227.359,
+		"githubStars" : 0
 	},
 	"new-sfx-sounds" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-sfx-sounds/main/mod.json",
 		"download" : "https://github.com/vcmi-mods/new-sfx-sounds/archive/refs/heads/main.zip",
-		"downloadSize" : 61.911
+		"downloadSize" : 61.911,
+		"githubStars" : 0
 	},
 	"alternate-townscreens" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/alternate-townscreens/vcmi-1.6/alternate-townscreens/mod.json",
 		"download" : "https://github.com/vcmi-mods/alternate-townscreens/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 60.407
+		"downloadSize" : 60.407,
+		"githubStars" : 0
 	},
 	"a-song-of-ice-and-fire" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/a-song-of-ice-and-fire/main/a-song-of-ice-and-fire/mod.json",
@@ -982,12 +985,14 @@
 			"https://raw.githubusercontent.com/vcmi-mods/a-song-of-ice-and-fire/main/screenshots/screen2.png",
 			"https://raw.githubusercontent.com/vcmi-mods/a-song-of-ice-and-fire/main/screenshots/screen3.png"
 		],
-		"downloadSize" : 10.694
+		"downloadSize" : 10.694,
+		"githubStars" : 0
 	},
 	"movement-arrows" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/movement-arrows/main/mod.json",
 		"download" : "https://github.com/vcmi-mods/movement-arrows/archive/refs/heads/main.zip",
-		"downloadSize" : 0.1
+		"downloadSize" : 0.1,
+		"githubStars" : 0
 	},
 	"ark-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ark-town/vcmi-1.6/ark-town/mod.json",
@@ -996,7 +1001,8 @@
 			"https://raw.githubusercontent.com/vcmi-mods/ark-town/vcmi-1.6/screenshots/screen1.png",
 			"https://raw.githubusercontent.com/vcmi-mods/ark-town/vcmi-1.6/screenshots/screen2.png"
 		],
-		"downloadSize" : 16.493
+		"downloadSize" : 16.493,
+		"githubStars" : 1
 	},
 	"kremlin-town" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/kremlin-town/vcmi-1.6/kremlin-town/mod.json",
@@ -1008,12 +1014,14 @@
 			"https://raw.githubusercontent.com/vcmi-mods/kremlin-town/vcmi-1.6/screenshots/screen4.png",
 			"https://raw.githubusercontent.com/vcmi-mods/kremlin-town/vcmi-1.6/screenshots/screen6.png"
 		],
-		"downloadSize" : 45.198
+		"downloadSize" : 45.198,
+		"githubStars" : 1
 	},
 	"ai-disable-speedups" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/ai-disable-speedups/vcmi-1.6/mod.json",
 		"download" : "https://github.com/vcmi-mods/ai-disable-speedups/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 0.002
+		"downloadSize" : 0.002,
+		"githubStars" : 0
 	},
 	"new-skills-pack" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-skills-pack/main/new-skills-pack/mod.json",
@@ -1022,7 +1030,8 @@
 			"https://raw.githubusercontent.com/vcmi-mods/new-skills-pack/main/ScreenShots/Basic Skills.bmp",
 			"https://raw.githubusercontent.com/vcmi-mods/new-skills-pack/main/ScreenShots/Heroes.bmp"
 		],
-		"downloadSize" : 3.297
+		"downloadSize" : 3.297,
+		"githubStars" : 0
 	},
 	"custom-templates" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/custom-templates/vcmi-1.6/custom-templates/mod.json",
@@ -1030,27 +1039,32 @@
 		"screenshots" : [
 			"https://raw.githubusercontent.com/vcmi-mods/custom-templates/vcmi-1.6/screenshots/screen1.png"
 		],
-		"downloadSize" : 9.183
+		"downloadSize" : 9.183,
+		"githubStars" : 0
 	},
 	"cheat-mod" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/cheat-mod/vcmi-1.6/cheat-mod/mod.json",
 		"download" : "https://github.com/vcmi-mods/cheat-mod/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 0.005
+		"downloadSize" : 0.005,
+		"githubStars" : 0
 	},
 	"equal-stats" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/equal-stats/vcmi-1.6/equal-stats/mod.json",
 		"download" : "https://github.com/vcmi-mods/equal-stats/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 0.012
+		"downloadSize" : 0.012,
+		"githubStars" : 0
 	},
 	"chinese-maps-collection" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/chinese-maps-collection/main/chinese-maps-collection/mod.json",
 		"download" : "https://github.com/vcmi-mods/chinese-maps-collection/archive/refs/heads/main.zip",
-		"downloadSize" : 104.996
+		"downloadSize" : 104.996,
+		"githubStars" : 0
 	},
 	"pvp-balance" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/pvp-balance/vcmi-1.6/mod.json",
 		"download" : "https://github.com/vcmi-mods/pvp-balance/archive/refs/heads/vcmi-1.6.zip",
-		"downloadSize" : 14.451
+		"downloadSize" : 14.451,
+		"githubStars" : 0
 	},
 	"pah3-singleplayer-tournament" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/pah3-singleplayer-tournament/vcmi-1.6/pah3-singleplayer-tournament/mod.json",
@@ -1060,12 +1074,14 @@
 			"https://raw.githubusercontent.com/vcmi-mods/pah3-singleplayer-tournament/vcmi-1.6/screenshots/screen2.png",
 			"https://raw.githubusercontent.com/vcmi-mods/pah3-singleplayer-tournament/vcmi-1.6/screenshots/screen3.png"
 		],
-		"downloadSize" : 2.313
+		"downloadSize" : 2.313,
+		"githubStars" : 0
 	},
 	"diverse-battlefields" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/diverse-battlefields/vcmi-1.7/diverse-battlefields/mod.json",
 		"download" : "https://github.com/vcmi-mods/diverse-battlefields/archive/refs/heads/vcmi-1.7.zip",
-		"downloadSize" : 269.963
+		"downloadSize" : 269.963,
+		"githubStars" : 0
 	},
 	"hd-remastered" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/hd-remastered/main/hd-remastered/mod.json",
@@ -1074,6 +1090,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/hd-remastered/main/screenshots/OH3.png",
 			"https://raw.githubusercontent.com/vcmi-mods/hd-remastered/main/screenshots/HDRemastered.png"
 		],
-		"downloadSize" : 148.435
+		"downloadSize" : 148.435,
+		"githubStars" : 0
 	}
 }
