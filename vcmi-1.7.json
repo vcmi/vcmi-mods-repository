@@ -22,7 +22,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/screenshots/wiki2.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/screenshots/wiki3.png"
 			],
-			"downloadSize" : 244.037
+			"downloadSize" : 244.036
 		},
 		"wake-of-gods" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/mod.json",
@@ -884,7 +884,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/new-monsters-pack/vcmi-1.6/screenshots/screen09.png",
 				"https://raw.githubusercontent.com/vcmi-mods/new-monsters-pack/vcmi-1.6/screenshots/screen10.png"
 			],
-			"downloadSize" : 213.663
+			"downloadSize" : 214.602
 		},
 		"czech-map-pack" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/czech-map-pack/vcmi-1.6/czech-map-pack/mod.json",
