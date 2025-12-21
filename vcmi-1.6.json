@@ -257,7 +257,7 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/vcmi-mod-ce-ukr/vcmi-1.6/ce-ukr/mod.json",
 		"download" : "https://github.com/vcmi-mods/vcmi-mod-ce-ukr/archive/refs/heads/vcmi-1.6.zip",
 		"downloadSize" : 11.031,
-		"githubStars" : 2
+		"githubStars" : 3
 	},
 	"h3-for-vcmi-englisation" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/h3-for-vcmi-englisation/vcmi-1.6/H3forVCMIenglisation/mod.json",
@@ -277,7 +277,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/forge/vcmi-1.6/screenshots/screen6.png"
 		],
 		"downloadSize" : 20.144,
-		"githubStars" : 2
+		"githubStars" : 3
 	},
 	"ai trace" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/adventure-ai-trace/upstream/mod.json",
@@ -1006,7 +1006,7 @@
 			"https://raw.githubusercontent.com/vcmi-mods/heroes-o-pedia/vcmi-1.6/screenshots/screen03.png"
 		],
 		"downloadSize" : 3.525,
-		"githubStars" : 2
+		"githubStars" : 3
 	},
 	"chronicles-enhanced" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/chronicles-enhanced/vcmi-1.6/chronicles-enhanced/mod.json",
@@ -1168,7 +1168,7 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/pvp-balance/vcmi-1.6/mod.json",
 		"download" : "https://github.com/vcmi-mods/pvp-balance/archive/refs/heads/vcmi-1.6.zip",
 		"downloadSize" : 14.451,
-		"githubStars" : 1
+		"githubStars" : 2
 	},
 	"pah3-singleplayer-tournament" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/pah3-singleplayer-tournament/vcmi-1.6/pah3-singleplayer-tournament/mod.json",
