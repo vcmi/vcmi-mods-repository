@@ -23,7 +23,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/screenshots/wiki2.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/screenshots/wiki3.png"
 			],
-			"downloadSize" : 244.036,
+			"downloadSize" : 244.038,
 			"githubStars" : 43
 		},
 		"wake-of-gods" : {
@@ -35,7 +35,7 @@
 		"tides-of-war" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/tides-of-war/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/tides-of-war/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 28.459,
+			"downloadSize" : 28.46,
 			"githubStars" : 6
 		},
 		"courtyard" : {
@@ -55,7 +55,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/courtyard/vcmi-1.6/screenshots/lore_part2.png"
 			],
 			"downloadSize" : 32.966,
-			"githubStars" : 2
+			"githubStars" : 3
 		},
 		"neutral-heroes" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/neutral-heroes/vcmi-1.7/mod.json",
@@ -124,7 +124,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.4/screenshots/screen7.png"
 			],
 			"downloadSize" : 62.089,
-			"githubStars" : 3
+			"githubStars" : 4
 		},
 		"cathedral-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.7/cathedral-town/mod.json",
@@ -135,7 +135,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.6/screenshots/screen3.png"
 			],
 			"downloadSize" : 13.186,
-			"githubStars" : 2
+			"githubStars" : 3
 		},
 		"death-valley-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/death-valley-town/vcmi-1.7/death-valley-town/mod.json",
@@ -373,7 +373,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.6/screenshots/wiki3.png"
 			],
 			"downloadSize" : 29.077,
-			"githubStars" : 2
+			"githubStars" : 3
 		},
 		"h3-themes" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.6/h3-themes/mod.json",
