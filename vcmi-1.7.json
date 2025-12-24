@@ -4,7 +4,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/vcmi-extras/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 7.354,
-			"githubStars" : 13
+			"githubStars" : 14
 		},
 		"hota" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/hota/mod.json",
@@ -23,7 +23,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/screenshots/wiki2.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/screenshots/wiki3.png"
 			],
-			"downloadSize" : 244.031,
+			"downloadSize" : 244.036,
 			"githubStars" : 44
 		},
 		"wake-of-gods" : {
@@ -123,7 +123,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.4/screenshots/screen6.png",
 				"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.4/screenshots/screen7.png"
 			],
-			"downloadSize" : 62.089,
+			"downloadSize" : 62.091,
 			"githubStars" : 4
 		},
 		"cathedral-town" : {
@@ -209,7 +209,7 @@
 		"portuguese-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/portuguese-translation/vcmi-1.7/portuguese-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/portuguese-translation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 11.613,
+			"downloadSize" : 11.576,
 			"githubStars" : 1
 		},
 		"swedish-translation" : {
@@ -387,7 +387,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.5/screenshots/ToW-menu.png",
 				"https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.5/screenshots/WoG-menu.png"
 			],
-			"downloadSize" : 438.85,
+			"downloadSize" : 439.242,
 			"githubStars" : 0
 		},
 		"creatures-hidden-potential" : {
@@ -1011,7 +1011,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/chronicles-enhanced/vcmi-1.6/screenshots/screen02.png",
 				"https://raw.githubusercontent.com/vcmi-mods/chronicles-enhanced/vcmi-1.6/screenshots/screen03.png"
 			],
-			"downloadSize" : 16.897,
+			"downloadSize" : 7.361,
 			"githubStars" : 1
 		},
 		"overall-ai-bonus" : {
