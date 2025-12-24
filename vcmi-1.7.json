@@ -1152,12 +1152,6 @@
 			"downloadSize" : 104.996,
 			"githubStars" : 0
 		},
-		"pvp-balance" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/pvp-balance/vcmi-1.7/mod.json",
-			"download" : "https://github.com/vcmi-mods/pvp-balance/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 14.451,
-			"githubStars" : 4
-		},
 		"pah3-singleplayer-tournament" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/pah3-singleplayer-tournament/vcmi-1.7/pah3-singleplayer-tournament/mod.json",
 			"download" : "https://github.com/vcmi-mods/pah3-singleplayer-tournament/archive/refs/heads/vcmi-1.7.zip",
