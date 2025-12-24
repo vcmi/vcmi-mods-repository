@@ -1116,12 +1116,6 @@
 			"downloadSize" : 34.338,
 			"githubStars" : 1
 		},
-		"ai-disable-speedups" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/ai-disable-speedups/vcmi-1.7/mod.json",
-			"download" : "https://github.com/vcmi-mods/ai-disable-speedups/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 0.002,
-			"githubStars" : 0
-		},
 		"new-skills-pack" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-skills-pack/vcmi-1.7/new-skills-pack/mod.json",
 			"download" : "https://github.com/vcmi-mods/new-skills-pack/archive/refs/heads/vcmi-1.7.zip",
