@@ -542,7 +542,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/medusa-mod/refs/heads/main/Screenshots/Screenshot_20250105_010533.png"
 			],
 			"downloadSize" : 20.027,
-			"githubStars" : 0
+			"githubStars" : 1
 		},
 		"hi-rez-menu" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/hi-rez-menu/vcmi-1.7/new-menu/mod.json",
@@ -691,7 +691,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/ensrick-portraits/vcmi-1.6/screenshots/Yog.png"
 			],
 			"downloadSize" : 81.956,
-			"githubStars" : 0
+			"githubStars" : 1
 		},
 		"morns-battlefields" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/morns-battlefields/vcmi-1.7/morns-battlefields/mod.json",
