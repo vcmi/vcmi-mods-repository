@@ -4,7 +4,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/vcmi-extras/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 7.354,
-			"githubStars" : 14
+			"githubStars" : 15
 		},
 		"hota" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/hota/mod.json",
@@ -24,7 +24,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/screenshots/wiki3.png"
 			],
 			"downloadSize" : 244.111,
-			"githubStars" : 44
+			"githubStars" : 46
 		},
 		"wake-of-gods" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/mod.json",
@@ -36,7 +36,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/tides-of-war/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/tides-of-war/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 28.46,
-			"githubStars" : 7
+			"githubStars" : 9
 		},
 		"courtyard" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/courtyard/vcmi-1.7/Courtyard/mod.json",
@@ -109,7 +109,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/highlands-town/vcmi-1.6/screenshots/screen3.png"
 			],
 			"downloadSize" : 15.311,
-			"githubStars" : 1
+			"githubStars" : 2
 		},
 		"new-pavilion" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.7/New Pavilion/mod.json",
@@ -124,7 +124,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.4/screenshots/screen7.png"
 			],
 			"downloadSize" : 62.091,
-			"githubStars" : 4
+			"githubStars" : 5
 		},
 		"cathedral-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.7/cathedral-town/mod.json",
@@ -135,7 +135,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.6/screenshots/screen3.png"
 			],
 			"downloadSize" : 13.186,
-			"githubStars" : 3
+			"githubStars" : 4
 		},
 		"death-valley-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/death-valley-town/vcmi-1.7/death-valley-town/mod.json",
@@ -168,7 +168,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/andruids-expansion/vcmi-1.6/screenshots/screen13.png"
 			],
 			"downloadSize" : 7.797,
-			"githubStars" : 0
+			"githubStars" : 1
 		},
 		"german-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/german-translation/vcmi-1.7/mod.json",
@@ -252,7 +252,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/polish-translation/vcmi-1.7/polish-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/polish-translation/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 182.005,
-			"githubStars" : 1
+			"githubStars" : 2
 		},
 		"vcmi-mod-ce-ukr" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/vcmi-mod-ce-ukr/vcmi-1.7/ce-ukr/mod.json",
@@ -357,7 +357,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/haven-town/vcmi-1.6/screenshots/screen3.png"
 			],
 			"downloadSize" : 14.299,
-			"githubStars" : 0
+			"githubStars" : 1
 		},
 		"ruins-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.7/ruins-town/mod.json",
@@ -373,7 +373,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.6/screenshots/wiki3.png"
 			],
 			"downloadSize" : 29.077,
-			"githubStars" : 3
+			"githubStars" : 4
 		},
 		"h3-themes" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.7/h3-themes/mod.json",
@@ -427,7 +427,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/preserve-town/main/screenshots/screen6.png"
 			],
 			"downloadSize" : 21.538,
-			"githubStars" : 1
+			"githubStars" : 2
 		},
 		"abyss-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/abyss-town/vcmi-1.7/abyss-town/mod.json",
@@ -617,7 +617,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.4/screenshots/screen13.png"
 			],
 			"downloadSize" : 51.856,
-			"githubStars" : 2
+			"githubStars" : 3
 		},
 		"forge2k" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/forge2k/vcmi-1.7/Forge2k/mod.json",
@@ -627,7 +627,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/forge2k/vcmi-1.5/screenshots/screen02.png"
 			],
 			"downloadSize" : 21.928,
-			"githubStars" : 2
+			"githubStars" : 3
 		},
 		"ab-bad-ending-assets" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-assets/vcmi-1.7/AB Bad Ending Assets/mod.json",
@@ -637,7 +637,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-assets/vcmi-1.4/screenshots/screen02.png"
 			],
 			"downloadSize" : 16.516,
-			"githubStars" : 0
+			"githubStars" : 1
 		},
 		"ab-bad-ending-maps" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-maps/vcmi-1.7/AB Bad Ending Maps/mod.json",
@@ -738,13 +738,13 @@
 				"https://raw.githubusercontent.com/vcmi-mods/h3-campaigns-remade/vcmi-1.3/screenshots/screen03.png"
 			],
 			"downloadSize" : 5.915,
-			"githubStars" : 0
+			"githubStars" : 1
 		},
 		"zefix" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/zefix/vcmi-1.7/ZEfix/mod.json",
 			"download" : "https://github.com/vcmi-mods/zefix/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 0.002,
-			"githubStars" : 1
+			"githubStars" : 2
 		},
 		"adventure-spells-pack" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/adventure-spells-pack/vcmi-1.7/adventure-spells-pack/mod.json",
@@ -1030,7 +1030,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/vivid-battlefields/vcmi-1.6/screenshots/screen04.png"
 			],
 			"downloadSize" : 34.905,
-			"githubStars" : 1
+			"githubStars" : 2
 		},
 		"fused-artifacts" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/fused-artifacts/vcmi-1.7/fused-artifacts/mod.json",
@@ -1062,7 +1062,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/hq-music/main/mod.json",
 			"download" : "https://github.com/vcmi-mods/hq-music/archive/refs/heads/main.zip",
 			"downloadSize" : 227.359,
-			"githubStars" : 0
+			"githubStars" : 1
 		},
 		"new-sfx-sounds" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-sfx-sounds/main/mod.json",
