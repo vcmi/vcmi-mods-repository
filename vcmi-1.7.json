@@ -24,19 +24,19 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/screenshots/wiki3.png"
 			],
 			"downloadSize" : 244.429,
-			"githubStars" : 47
+			"githubStars" : 48
 		},
 		"wake-of-gods" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/wake-of-gods/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 89.081,
-			"githubStars" : 21
+			"githubStars" : 22
 		},
 		"tides-of-war" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/tides-of-war/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/tides-of-war/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 28.46,
-			"githubStars" : 9
+			"downloadSize" : 28.462,
+			"githubStars" : 10
 		},
 		"courtyard" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/courtyard/vcmi-1.7/Courtyard/mod.json",
@@ -55,7 +55,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/courtyard/vcmi-1.6/screenshots/lore_part2.png"
 			],
 			"downloadSize" : 32.966,
-			"githubStars" : 3
+			"githubStars" : 4
 		},
 		"neutral-heroes" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/neutral-heroes/vcmi-1.7/mod.json",
@@ -124,7 +124,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.4/screenshots/screen7.png"
 			],
 			"downloadSize" : 62.091,
-			"githubStars" : 6
+			"githubStars" : 7
 		},
 		"cathedral-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.7/cathedral-town/mod.json",
@@ -168,7 +168,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/andruids-expansion/vcmi-1.6/screenshots/screen13.png"
 			],
 			"downloadSize" : 7.797,
-			"githubStars" : 2
+			"githubStars" : 3
 		},
 		"german-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/german-translation/vcmi-1.7/mod.json",
@@ -945,7 +945,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/factory-creatures/vcmi-1.5/screenshots/screen4.png"
 			],
 			"downloadSize" : 39.471,
-			"githubStars" : 0
+			"githubStars" : 1
 		},
 		"luk3Z-templates-pack" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/luk3Z-templates-pack/vcmi-1.7/luk3Z-templates-pack/mod.json",
@@ -977,7 +977,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/new-monsters-pack/vcmi-1.6/screenshots/screen09.png",
 				"https://raw.githubusercontent.com/vcmi-mods/new-monsters-pack/vcmi-1.6/screenshots/screen10.png"
 			],
-			"downloadSize" : 214.602,
+			"downloadSize" : 215.188,
 			"githubStars" : 1
 		},
 		"czech-map-pack" : {
