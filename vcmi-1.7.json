@@ -4,7 +4,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/vcmi-extras/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 7.354,
-			"githubStars" : 17
+			"githubStars" : 18
 		},
 		"hota" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/hota/mod.json",
@@ -23,8 +23,8 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/screenshots/wiki2.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/screenshots/wiki3.png"
 			],
-			"downloadSize" : 244.429,
-			"githubStars" : 48
+			"downloadSize" : 244.879,
+			"githubStars" : 50
 		},
 		"wake-of-gods" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/mod.json",
@@ -124,7 +124,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.4/screenshots/screen7.png"
 			],
 			"downloadSize" : 62.091,
-			"githubStars" : 7
+			"githubStars" : 8
 		},
 		"cathedral-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.7/cathedral-town/mod.json",
@@ -346,7 +346,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/fairy-town/main/screenshots/screen1.png"
 			],
 			"downloadSize" : 21.83,
-			"githubStars" : 0
+			"githubStars" : 1
 		},
 		"haven-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/haven-town/vcmi-1.7/haven-town/mod.json",
@@ -440,7 +440,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/abyss-town/main/screenshots/screen5.png"
 			],
 			"downloadSize" : 33.005,
-			"githubStars" : 3
+			"githubStars" : 4
 		},
 		"retreat-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/retreat-town/vcmi-1.7/retreat-town/mod.json",
@@ -617,7 +617,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.4/screenshots/screen13.png"
 			],
 			"downloadSize" : 51.856,
-			"githubStars" : 4
+			"githubStars" : 5
 		},
 		"forge2k" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/forge2k/vcmi-1.7/Forge2k/mod.json",
