@@ -24,7 +24,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/screenshots/wiki3.png"
 			],
 			"downloadSize" : 244.885,
-			"githubStars" : 50
+			"githubStars" : 51
 		},
 		"wake-of-gods" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/mod.json",
@@ -161,7 +161,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/andruids-expansion/vcmi-1.6/screenshots/screen12.png",
 				"https://raw.githubusercontent.com/vcmi-mods/andruids-expansion/vcmi-1.6/screenshots/screen13.png"
 			],
-			"downloadSize" : 7.797,
+			"downloadSize" : 7.462,
 			"githubStars" : 4
 		},
 		"german-translation" : {
@@ -445,7 +445,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/retreat-town/vcmi-1.6/screenshots/screen3.png"
 			],
 			"downloadSize" : 18.484,
-			"githubStars" : 0
+			"githubStars" : 1
 		},
 		"cetatea-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/cetatea-town/vcmi-1.7/cetatea/mod.json",
@@ -510,7 +510,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/vcmi-1.6/screenshots/sc-7.png"
 			],
 			"downloadSize" : 57.642,
-			"githubStars" : 0
+			"githubStars" : 1
 		},
 		"new-interface-mod" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/vcmi-1.7/New%20Interface%20Mod/mod.json",
