@@ -24,7 +24,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/screenshots/wiki3.png"
 			],
 			"downloadSize" : 244.885,
-			"githubStars" : 51
+			"githubStars" : 52
 		},
 		"wake-of-gods" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/mod.json",
@@ -367,7 +367,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.6/screenshots/wiki3.png"
 			],
 			"downloadSize" : 29.077,
-			"githubStars" : 4
+			"githubStars" : 5
 		},
 		"h3-themes" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.7/h3-themes/mod.json",
@@ -631,7 +631,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-assets/vcmi-1.4/screenshots/screen02.png"
 			],
 			"downloadSize" : 16.516,
-			"githubStars" : 2
+			"githubStars" : 3
 		},
 		"ab-bad-ending-maps" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-maps/vcmi-1.7/AB Bad Ending Maps/mod.json",
@@ -641,7 +641,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-maps/vcmi-1.4/screenshots/screen02.png"
 			],
 			"downloadSize" : 1.344,
-			"githubStars" : 4
+			"githubStars" : 5
 		},
 		"ensrick-portraits" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/ensrick-portraits/vcmi-1.7/ensrick-portraits/mod.json",
