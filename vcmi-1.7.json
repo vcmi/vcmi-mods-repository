@@ -24,12 +24,12 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/screenshots/wiki3.png"
 			],
 			"downloadSize" : 246.048,
-			"githubStars" : 55
+			"githubStars" : 56
 		},
 		"wake-of-gods" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/wake-of-gods/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 89.07,
+			"downloadSize" : 89.953,
 			"githubStars" : 24
 		},
 		"tides-of-war" : {
@@ -750,7 +750,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/adventure-spells-pack/vcmi-1.7/screenshots/screen04.png",
 				"https://raw.githubusercontent.com/vcmi-mods/adventure-spells-pack/vcmi-1.7/screenshots/screen05.png"
 			],
-			"downloadSize" : 3.246,
+			"downloadSize" : 3.25,
 			"githubStars" : 1
 		},
 		"third-upgrades" : {
@@ -1125,7 +1125,7 @@
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/custom-templates/vcmi-1.6/screenshots/screen1.png"
 			],
-			"downloadSize" : 9.183,
+			"downloadSize" : 9.188,
 			"githubStars" : 1
 		},
 		"cheat-mod" : {
@@ -1155,7 +1155,7 @@
 		"norwegian-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/norwegian-translation/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/norwegian-translation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 3.931,
+			"downloadSize" : 3.966,
 			"githubStars" : 0
 		},
 		"greek-translation" : {
