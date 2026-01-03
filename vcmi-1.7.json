@@ -29,7 +29,7 @@
 		"wake-of-gods" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/wake-of-gods/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 89.081,
+			"downloadSize" : 89.07,
 			"githubStars" : 24
 		},
 		"tides-of-war" : {
@@ -123,8 +123,8 @@
 				"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.4/screenshots/screen6.png",
 				"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.4/screenshots/screen7.png"
 			],
-			"downloadSize" : 62.091,
-			"githubStars" : 10
+			"downloadSize" : 62.365,
+			"githubStars" : 11
 		},
 		"cathedral-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.7/cathedral-town/mod.json",
@@ -215,7 +215,7 @@
 		"turkish-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/turkish-translation/vcmi-1.7/turkish-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/turkish-translation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 27.337,
+			"downloadSize" : 29.24,
 			"githubStars" : 0
 		},
 		"hungarian-translation" : {
@@ -840,7 +840,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/phoenix-as-a-dream/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/phoenix-as-a-dream/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 7.803,
-			"githubStars" : 2
+			"githubStars" : 3
 		},
 		"extreme-ai" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/extreme-ai/vcmi-1.7/extreme-ai/mod.json",
@@ -891,7 +891,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/new-summon-spells/vcmi-1.7/screenshots/screen4.png",
 				"https://raw.githubusercontent.com/vcmi-mods/new-summon-spells/vcmi-1.7/screenshots/screen5.png"
 			],
-			"downloadSize" : 4.214,
+			"downloadSize" : 4.218,
 			"githubStars" : 2
 		},
 		"witchking-artifacts" : {
@@ -1085,7 +1085,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/movement-arrows/main/mod.json",
 			"download" : "https://github.com/vcmi-mods/movement-arrows/archive/refs/heads/main.zip",
 			"downloadSize" : 0.1,
-			"githubStars" : 1
+			"githubStars" : 2
 		},
 		"ark-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/ark-town/vcmi-1.7/ark-town/mod.json",
