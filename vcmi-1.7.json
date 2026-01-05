@@ -23,7 +23,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/screenshots/wiki2.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/screenshots/wiki3.png"
 			],
-			"downloadSize" : 246.048,
+			"downloadSize" : 246.05,
 			"githubStars" : 57
 		},
 		"wake-of-gods" : {
@@ -228,7 +228,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/chinese-translation/vcmi-1.7/chinese-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/chinese-translation/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 16.968,
-			"githubStars" : 2
+			"githubStars" : 3
 		},
 		"french-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/french-translation/vcmi-1.7/french-translation/mod.json",
@@ -589,7 +589,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/refugee-town/vcmi-1.6/screenshots/screen7.png"
 			],
 			"downloadSize" : 34.501,
-			"githubStars" : 1
+			"githubStars" : 2
 		},
 		"asphalt-terrain" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/asphalt-terrain/vcmi-1.7/asphalt-terrain/mod.json",
@@ -1050,7 +1050,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/heroes3-extended-soundtrack/main/mod.json",
 			"download" : "https://github.com/vcmi-mods/heroes3-extended-soundtrack/archive/refs/heads/main.zip",
 			"downloadSize" : 248.28,
-			"githubStars" : 1
+			"githubStars" : 2
 		},
 		"hq-music" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/hq-music/main/mod.json",
@@ -1125,7 +1125,7 @@
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/custom-templates/vcmi-1.6/screenshots/screen1.png"
 			],
-			"downloadSize" : 9.188,
+			"downloadSize" : 9.194,
 			"githubStars" : 1
 		},
 		"cheat-mod" : {
@@ -1231,7 +1231,7 @@
 				"https://github.com/vcmi-mods/mmai/releases/download/vcmi-1.7-latest/screenshot-01.png"
 			],
 			"downloadSize" : 75.716,
-			"githubStars" : 4
+			"githubStars" : 5
 		}
 	}
 }

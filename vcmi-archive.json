@@ -380,6 +380,8 @@
 		"download" : "https://github.com/misiokles/nevermore-town/archive/refs/heads/vcmi-1.7.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/misiokles/nevermore-town/vcmi-1.7/screenshots/screen01.png"
-		]
+		],
+		"downloadSize" : 25.761,
+		"githubStars" : 0
 	}
 }
