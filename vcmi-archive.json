@@ -374,5 +374,12 @@
 		"download" : "https://github.com/vcmi-mods/reworked-commanders/archive/refs/heads/vcmi-1.7.zip",
 		"downloadSize" : 9.266,
 		"githubStars" : 0
+	},
+	"nevermore-town" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/nevermore-town/vcmi-1.7/nevermore-town/mod.json",
+		"download" : "https://github.com/misiokles/nevermore-town/archive/refs/heads/vcmi-1.7.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/misiokles/nevermore-town/vcmi-1.7/screenshots/screen01.png"
+		]
 	}
 }
