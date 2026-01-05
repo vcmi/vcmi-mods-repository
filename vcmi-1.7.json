@@ -24,7 +24,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/screenshots/wiki3.png"
 			],
 			"downloadSize" : 246.048,
-			"githubStars" : 56
+			"githubStars" : 57
 		},
 		"wake-of-gods" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/mod.json",
@@ -215,7 +215,7 @@
 		"turkish-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/turkish-translation/vcmi-1.7/turkish-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/turkish-translation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 29.24,
+			"downloadSize" : 30.036,
 			"githubStars" : 0
 		},
 		"hungarian-translation" : {
@@ -1107,7 +1107,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/kremlin-town/vcmi-1.6/screenshots/screen4.png",
 				"https://raw.githubusercontent.com/vcmi-mods/kremlin-town/vcmi-1.6/screenshots/screen5.png"
 			],
-			"downloadSize" : 34.338,
+			"downloadSize" : 34.337,
 			"githubStars" : 1
 		},
 		"new-skills-pack" : {
