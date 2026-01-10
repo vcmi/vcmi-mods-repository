@@ -115,7 +115,7 @@
 	"technocracy-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/technocracy-town/vcmi-1.4/technocracy-town/mod.json",
 		"download" : "https://github.com/misiokles/technocracy-town/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 17.799,
+		"downloadSize" : 17.798,
 		"githubStars" : 0
 	},
 	"eldorado-town" : {
