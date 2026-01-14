@@ -29,7 +29,7 @@
 		"wake-of-gods" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/wake-of-gods/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 89.952,
+			"downloadSize" : 89.945,
 			"githubStars" : 24
 		},
 		"tides-of-war" : {
@@ -215,7 +215,7 @@
 		"turkish-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/turkish-translation/vcmi-1.7/turkish-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/turkish-translation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 30.04,
+			"downloadSize" : 30.029,
 			"githubStars" : 0
 		},
 		"hungarian-translation" : {
@@ -1101,7 +1101,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/kremlin-town/vcmi-1.6/screenshots/screen4.png",
 				"https://raw.githubusercontent.com/vcmi-mods/kremlin-town/vcmi-1.6/screenshots/screen5.png"
 			],
-			"downloadSize" : 34.337,
+			"downloadSize" : 34.345,
 			"githubStars" : 1
 		},
 		"new-skills-pack" : {
