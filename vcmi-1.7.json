@@ -29,7 +29,7 @@
 		"wake-of-gods" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/wake-of-gods/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 89.945,
+			"downloadSize" : 89.946,
 			"githubStars" : 24
 		},
 		"tides-of-war" : {
@@ -340,7 +340,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/fairy-town/main/screenshots/screen1.png"
 			],
 			"downloadSize" : 21.83,
-			"githubStars" : 2
+			"githubStars" : 3
 		},
 		"haven-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/haven-town/vcmi-1.7/haven-town/mod.json",
@@ -1180,7 +1180,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/belarusian-translation/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/belarusian-translation/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 7.728,
-			"githubStars" : 0
+			"githubStars" : 1
 		},
 		"market-of-time" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/market-of-time/vcmi-1.7/marketOfTime/mod.json",
