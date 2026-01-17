@@ -389,5 +389,12 @@
 		"download" : "https://github.com/vcmi-mods/an-expansion/archive/refs/heads/vcmi-1.7.zip",
 		"downloadSize" : 6.799,
 		"githubStars" : 3
+	},
+	"the-great-expansion" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/the-great-expansion/main/the-great-expansion/mod.json",
+		"download" : "https://github.com/misiokles/the-great-expansion/archive/refs/heads/main.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/misiokles/the-great-expansion/main/screenshots/screen01.png"
+		]
 	}
 }
