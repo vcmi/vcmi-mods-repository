@@ -24,13 +24,13 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/screenshots/wiki3.png"
 			],
 			"downloadSize" : 246.06,
-			"githubStars" : 60
+			"githubStars" : 61
 		},
 		"wake-of-gods" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/wake-of-gods/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 89.946,
-			"githubStars" : 25
+			"githubStars" : 26
 		},
 		"tides-of-war" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/tides-of-war/vcmi-1.7/mod.json",
@@ -977,7 +977,7 @@
 		"modder-tools-pack" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/modder-tools-pack/main/modder-tools-pack/mod.json",
 			"download" : "https://github.com/vcmi-mods/modder-tools-pack/archive/refs/heads/main.zip",
-			"downloadSize" : 84.305,
+			"downloadSize" : 84.333,
 			"githubStars" : 4
 		},
 		"heroes-o-pedia" : {
@@ -1120,7 +1120,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/custom-templates/vcmi-1.6/screenshots/screen1.png"
 			],
 			"downloadSize" : 9.204,
-			"githubStars" : 1
+			"githubStars" : 2
 		},
 		"cheat-mod" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/cheat-mod/vcmi-1.7/cheat-mod/mod.json",
@@ -1225,7 +1225,7 @@
 				"https://github.com/vcmi-mods/mmai/releases/download/vcmi-1.7-latest/screenshot-01.png"
 			],
 			"downloadSize" : 37.829,
-			"githubStars" : 5
+			"githubStars" : 6
 		}
 	}
 }

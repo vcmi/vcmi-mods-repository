@@ -395,6 +395,8 @@
 		"download" : "https://github.com/misiokles/the-great-expansion/archive/refs/heads/main.zip",
 		"screenshots" : [
 			"https://raw.githubusercontent.com/misiokles/the-great-expansion/main/screenshots/screen01.png"
-		]
+		],
+		"downloadSize" : 6.022,
+		"githubStars" : 0
 	}
 }
