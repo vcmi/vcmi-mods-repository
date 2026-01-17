@@ -4,7 +4,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/vcmi-extras/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 7.354,
-			"githubStars" : 20
+			"githubStars" : 21
 		},
 		"hota" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/hota/mod.json",
@@ -24,19 +24,19 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/screenshots/wiki3.png"
 			],
 			"downloadSize" : 246.06,
-			"githubStars" : 59
+			"githubStars" : 60
 		},
 		"wake-of-gods" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/wake-of-gods/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 89.946,
-			"githubStars" : 24
+			"githubStars" : 25
 		},
 		"tides-of-war" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/tides-of-war/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/tides-of-war/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 28.462,
-			"githubStars" : 14
+			"githubStars" : 15
 		},
 		"courtyard" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/courtyard/vcmi-1.7/Courtyard/mod.json",
@@ -1119,7 +1119,7 @@
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/custom-templates/vcmi-1.6/screenshots/screen1.png"
 			],
-			"downloadSize" : 9.194,
+			"downloadSize" : 9.204,
 			"githubStars" : 1
 		},
 		"cheat-mod" : {
