@@ -1219,8 +1219,8 @@
 			"githubStars" : 3
 		},
 		"mmai" : {
-			"mod" : "https://github.com/vcmi-mods/mmai/releases/download/vcmi-1.7-latest/mod.json",
-			"download" : "https://github.com/vcmi-mods/mmai/releases/download/vcmi-1.7-latest/mod.zip",
+			"mod" : "https://github.com/vcmi-mods/mmai/releases/download/vcmi-1.8-latest/mod.json",
+			"download" : "https://github.com/vcmi-mods/mmai/releases/download/vcmi-1.8-latest/mod.zip",
 			"screenshots" : [
 				"https://github.com/vcmi-mods/mmai/releases/download/vcmi-1.7-latest/screenshot-01.png"
 			],
