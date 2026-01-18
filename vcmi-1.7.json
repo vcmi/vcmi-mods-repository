@@ -185,6 +185,9 @@
 		"italian-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/italian-translation/vcmi-1.7/italian-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/italian-translation/archive/refs/heads/vcmi-1.7.zip",
+            "screenshots" : [
+                    "https://raw.githubusercontent.com/vcmi-mods/italian-translation/refs/heads/vcmi-1.7/screenshots/screen1.png"
+            ],
 			"downloadSize" : 31.203,
 			"githubStars" : 0
 		},
@@ -197,6 +200,9 @@
 		"finnish-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/finnish-translation/vcmi-1.7/finnish-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/finnish-translation/archive/refs/heads/vcmi-1.7.zip",
+            "screenshots" : [
+                    "https://raw.githubusercontent.com/vcmi-mods/finnish-translation/refs/heads/vcmi-1.7/screenshots/screen1.png"
+            ],
 			"downloadSize" : 4.427,
 			"githubStars" : 0
 		},
@@ -209,12 +215,18 @@
 		"swedish-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/swedish-translation/vcmi-1.7/swedish-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/swedish-translation/archive/refs/heads/vcmi-1.7.zip",
+            "screenshots" : [
+                    "https://raw.githubusercontent.com/vcmi-mods/swedish-translation/refs/heads/vcmi-1.7/screenshots/screen1.png"
+            ],
 			"downloadSize" : 18.041,
 			"githubStars" : 0
 		},
 		"turkish-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/turkish-translation/vcmi-1.7/turkish-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/turkish-translation/archive/refs/heads/vcmi-1.7.zip",
+            "screenshots" : [
+                    "https://raw.githubusercontent.com/vcmi-mods/turkish-translation/refs/heads/vcmi-1.7/screenshots/screen1.png"
+            ],
 			"downloadSize" : 30.029,
 			"githubStars" : 0
 		},
@@ -1149,12 +1161,18 @@
 		"norwegian-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/norwegian-translation/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/norwegian-translation/archive/refs/heads/vcmi-1.7.zip",
+            "screenshots" : [
+                    "https://raw.githubusercontent.com/vcmi-mods/norwegian-translation/refs/heads/vcmi-1.7/screenshots/screen1.png"
+            ],
 			"downloadSize" : 3.966,
 			"githubStars" : 0
 		},
 		"greek-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/greek-translation/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/greek-translation/archive/refs/heads/vcmi-1.7.zip",
+            "screenshots" : [
+                    "https://raw.githubusercontent.com/vcmi-mods/greek-translation/refs/heads/vcmi-1.7/screenshots/screen1.png"
+            ],
 			"downloadSize" : 5.347,
 			"githubStars" : 0
 		},
@@ -1167,12 +1185,20 @@
 		"bulgarian-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/bulgarian-translation/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/bulgarian-translation/archive/refs/heads/vcmi-1.7.zip",
+            "screenshots" : [
+                    "https://raw.githubusercontent.com/vcmi-mods/bulgarian-translation/refs/heads/vcmi-1.7/screenshots/screen1.png"
+            ],
 			"downloadSize" : 4.889,
 			"githubStars" : 0
 		},
 		"romanian-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/romanian-translation/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/romanian-translation/archive/refs/heads/vcmi-1.7.zip",
+            "screenshots" : [
+                    "https://raw.githubusercontent.com/vcmi-mods/romanian-translation/refs/heads/vcmi-1.7/screenshots/screen1.png",
+                    "https://raw.githubusercontent.com/vcmi-mods/romanian-translation/refs/heads/vcmi-1.7/screenshots/screen2.png",
+                    "https://raw.githubusercontent.com/vcmi-mods/romanian-translation/refs/heads/vcmi-1.7/screenshots/screen3.png"
+            ],
 			"downloadSize" : 6.262,
 			"githubStars" : 1
 		},
