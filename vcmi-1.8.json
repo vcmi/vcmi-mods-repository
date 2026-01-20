@@ -227,7 +227,7 @@
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/turkish-translation/refs/heads/vcmi-1.7/screenshots/screen1.png"
 			],
-			"downloadSize" : 30.262,
+			"downloadSize" : 30.277,
 			"githubStars" : 0
 		},
 		"hungarian-translation" : {
@@ -1055,7 +1055,7 @@
 		"heroes3-extended-soundtrack" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/heroes3-extended-soundtrack/main/mod.json",
 			"download" : "https://github.com/vcmi-mods/heroes3-extended-soundtrack/archive/refs/heads/main.zip",
-			"downloadSize" : 248.28,
+			"downloadSize" : 249.239,
 			"githubStars" : 3
 		},
 		"hq-music" : {
