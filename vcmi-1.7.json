@@ -990,7 +990,7 @@
 		"modder-tools-pack" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/modder-tools-pack/main/modder-tools-pack/mod.json",
 			"download" : "https://github.com/vcmi-mods/modder-tools-pack/archive/refs/heads/main.zip",
-			"downloadSize" : 84.333,
+			"downloadSize" : 84.335,
 			"githubStars" : 4
 		},
 		"heroes-o-pedia" : {
