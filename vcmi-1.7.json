@@ -3,7 +3,7 @@
 		"vcmi-extras" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/vcmi-extras/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 7.357,
+			"downloadSize" : 7.359,
 			"githubStars" : 22
 		},
 		"hota" : {
@@ -30,13 +30,13 @@
 		"wake-of-gods" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/wake-of-gods/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 89.946,
+			"downloadSize" : 89.962,
 			"githubStars" : 26
 		},
 		"tides-of-war" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/tides-of-war/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/tides-of-war/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 28.462,
+			"downloadSize" : 28.469,
 			"githubStars" : 16
 		},
 		"courtyard" : {
@@ -1001,7 +1001,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/heroes-o-pedia/vcmi-1.6/screenshots/screen02.png",
 				"https://raw.githubusercontent.com/vcmi-mods/heroes-o-pedia/vcmi-1.6/screenshots/screen03.png"
 			],
-			"downloadSize" : 3.525,
+			"downloadSize" : 3.549,
 			"githubStars" : 6
 		},
 		"chronicles-enhanced" : {
