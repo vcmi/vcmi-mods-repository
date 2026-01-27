@@ -30,7 +30,7 @@
 		"wake-of-gods" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/wake-of-gods/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 89.962,
+			"downloadSize" : 89.961,
 			"githubStars" : 26
 		},
 		"tides-of-war" : {
@@ -692,7 +692,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/ensrick-portraits/vcmi-1.6/screenshots/Yog.png"
 			],
 			"downloadSize" : 81.956,
-			"githubStars" : 4
+			"githubStars" : 5
 		},
 		"morns-battlefields" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/morns-battlefields/vcmi-1.7/morns-battlefields/mod.json",
@@ -1138,7 +1138,7 @@
 		"cheat-mod" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/cheat-mod/vcmi-1.7/cheat-mod/mod.json",
 			"download" : "https://github.com/vcmi-mods/cheat-mod/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 0.01,
+			"downloadSize" : 0.012,
 			"githubStars" : 3
 		},
 		"equal-stats" : {
