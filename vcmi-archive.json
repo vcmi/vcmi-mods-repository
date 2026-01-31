@@ -398,5 +398,14 @@
 		],
 		"downloadSize" : 6.585,
 		"githubStars" : 0
-	}
+	},
+	"evergreen-town-pl" : {
+		"mod" : "https://raw.githubusercontent.com/misiokles/evergreen-town-pl/main/evergreen-town-pl/mod.json",
+		"download" : "https://github.com/misiokles/evergreen-town-pl/archive/refs/heads/main.zip",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/misiokles/evergreen-town-pl/main/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/misiokles/evergreen-town-pl/main/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/misiokles/evergreen-town-pl/main/screenshots/screen3.png"
+		]
+	}	
 }
