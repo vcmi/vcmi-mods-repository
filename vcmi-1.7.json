@@ -1278,6 +1278,21 @@
 			],
 			"downloadSize" : 113.543,
 			"githubStars" : 6
-		}
+		},
+		"tears-of-ashan" : {
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/main/tears-of-ashan/mod.json",
+			"download" : "https://github.com/vcmi-mods/tears-of-ashan/archive/refs/heads/main.zip",
+			"screenshots" : [
+				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/main/screenshots/biara.png",
+				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/main/screenshots/castle.png",
+				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/main/screenshots/castleNecropolisCombat.png",
+				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/main/screenshots/conflux.png",
+				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/main/screenshots/darkMagic.png",
+				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/main/screenshots/fortress.png",
+				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/main/screenshots/gating.png",
+				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/main/screenshots/haggashBattle.png",
+				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/main/screenshots/lightMagic.png"
+			]
+		}	
 	}
 }
