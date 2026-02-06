@@ -390,15 +390,6 @@
 		"downloadSize" : 6.799,
 		"githubStars" : 3
 	},
-	"the-great-expansion" : {
-		"mod" : "https://raw.githubusercontent.com/misiokles/the-great-expansion/main/the-great-expansion/mod.json",
-		"download" : "https://github.com/misiokles/the-great-expansion/archive/refs/heads/main.zip",
-		"screenshots" : [
-			"https://raw.githubusercontent.com/misiokles/the-great-expansion/main/screenshots/screen01.png"
-		],
-		"downloadSize" : 6.585,
-		"githubStars" : 0
-	},
 	"evergreen-town-pl" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/evergreen-town-pl/main/evergreen-town-pl/mod.json",
 		"download" : "https://github.com/misiokles/evergreen-town-pl/archive/refs/heads/main.zip",

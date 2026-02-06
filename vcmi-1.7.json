@@ -1293,6 +1293,15 @@
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/main/screenshots/haggashBattle.png",
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/main/screenshots/lightMagic.png"
 			]
-		}	
+		},
+		"the-great-expansion" : {
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/the-great-expansion/vcmi-1.7/the-great-expansion/mod.json",
+			"download" : "https://github.com/vcmi-mods/the-great-expansion/archive/refs/heads/vcmi-1.7.zip",
+			"screenshots" : [
+			"https://raw.githubusercontent.com/vcmi-mods/the-great-expansion/vcmi-1.7/screenshots/screen01.png"
+			],
+			"downloadSize" : 6.585,
+			"githubStars" : 0
+		}		
 	}
 }
