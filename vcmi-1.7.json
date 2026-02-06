@@ -1302,6 +1302,15 @@
 			],
 			"downloadSize" : 6.585,
 			"githubStars" : 0
+		},
+		"forest-fort" : {
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/forest-fort/vcmi-1.7/forest-fort/mod.json",
+			"download" : "https://github.com/vcmi-mods/forest-fort/archive/refs/heads/vcmi-1.7.zip",
+			"screenshots" : [
+				"https://raw.githubusercontent.com/vcmi-mods/forest-fort/vcmi-1.7/screenshots/screen01.png",
+				"https://raw.githubusercontent.com/vcmi-mods/forest-fort/vcmi-1.7/screenshots/screen02.png",
+				"https://raw.githubusercontent.com/vcmi-mods/forest-fort/vcmi-1.7/screenshots/screen03.png"
+			]
 		}		
 	}
 }
