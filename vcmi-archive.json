@@ -116,7 +116,12 @@
 		"mod" : "https://raw.githubusercontent.com/misiokles/technocracy-town/vcmi-1.4/technocracy-town/mod.json",
 		"download" : "https://github.com/misiokles/technocracy-town/archive/refs/heads/vcmi-1.4.zip",
 		"downloadSize" : 17.798,
-		"githubStars" : 0
+		"githubStars" : 0,
+		"screenshots" : [
+			"https://raw.githubusercontent.com/misiokles/technocracy-town/vcmi-1.4/screenshots/screen01.png",
+			"https://raw.githubusercontent.com/misiokles/technocracy-town/vcmi-1.4/screenshots/screen02.png",
+			"https://raw.githubusercontent.com/misiokles/technocracy-town/vcmi-1.4/screenshots/screen03.png"
+		]
 	},
 	"eldorado-town" : {
 		"mod" : "https://raw.githubusercontent.com/kdmcser/eldorado-town/vcmi-1.5/mod.json",
@@ -274,7 +279,12 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/pah3-singleplayer-tournament/vcmi-1.6/pah3-singleplayer-tournament/mod.json",
 		"download" : "https://github.com/vcmi-mods/pah3-singleplayer-tournament/archive/refs/heads/vcmi-1.6.zip",
 		"downloadSize" : 2.313,
-		"githubStars" : 1
+		"githubStars" : 1,
+		"screenshots" : [
+			"https://raw.githubusercontent.com/vcmi-mods/pah3-singleplayer-tournament/vcmi-1.6/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/pah3-singleplayer-tournament/vcmi-1.6/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/pah3-singleplayer-tournament/vcmi-1.6/screenshots/screen3.png"
+		]
 	},
 	"crossroads-of-worlds" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/crossroads-of-worlds/vcmi-1.6/crossroads-of-worlds/mod.json",
@@ -367,13 +377,38 @@
 		"mod" : "https://raw.githubusercontent.com/misiokles/land-of-light/vcmi-1.7/land-of-light/mod.json",
 		"download" : "https://github.com/misiokles/land-of-light/archive/refs/heads/vcmi-1.7.zip",
 		"downloadSize" : 51.853,
-		"githubStars" : 0
+		"githubStars" : 0,
+		"screenshots" : [
+			"https://raw.githubusercontent.com/misiokles/land-of-light/vcmi-1.7/screenshots/01.png",
+			"https://raw.githubusercontent.com/misiokles/land-of-light/vcmi-1.7/screenshots/02.png",
+			"https://raw.githubusercontent.com/misiokles/land-of-light/vcmi-1.7/screenshots/03.png",
+			"https://raw.githubusercontent.com/misiokles/land-of-light/vcmi-1.7/screenshots/05.png",
+			"https://raw.githubusercontent.com/misiokles/land-of-light/vcmi-1.7/screenshots/06.png",
+			"https://raw.githubusercontent.com/misiokles/land-of-light/vcmi-1.7/screenshots/07.png",
+			"https://raw.githubusercontent.com/misiokles/land-of-light/vcmi-1.7/screenshots/08.png",
+			"https://raw.githubusercontent.com/misiokles/land-of-light/vcmi-1.7/screenshots/09.png",
+			"https://raw.githubusercontent.com/misiokles/land-of-light/vcmi-1.7/screenshots/10.png",
+			"https://raw.githubusercontent.com/misiokles/land-of-light/vcmi-1.7/screenshots/11.png",
+			"https://raw.githubusercontent.com/misiokles/land-of-light/vcmi-1.7/screenshots/12.png",
+			"https://raw.githubusercontent.com/misiokles/land-of-light/vcmi-1.7/screenshots/13.png",
+			"https://raw.githubusercontent.com/misiokles/land-of-light/vcmi-1.7/screenshots/14.png",
+			"https://raw.githubusercontent.com/misiokles/land-of-light/vcmi-1.7/screenshots/15.png",
+			"https://raw.githubusercontent.com/misiokles/land-of-light/vcmi-1.7/screenshots/16.png",
+			"https://raw.githubusercontent.com/misiokles/land-of-light/vcmi-1.7/screenshots/17.png",
+			"https://raw.githubusercontent.com/misiokles/land-of-light/vcmi-1.7/screenshots/18.png",
+			"https://raw.githubusercontent.com/misiokles/land-of-light/vcmi-1.7/screenshots/19.png"
+		]
 	},
 	"reworked-commanders" : {
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/reworked-commanders/vcmi-1.7/reworked-commanders/mod.json",
 		"download" : "https://github.com/vcmi-mods/reworked-commanders/archive/refs/heads/vcmi-1.7.zip",
 		"downloadSize" : 9.266,
-		"githubStars" : 0
+		"githubStars" : 0,
+		"screenshots" : [
+			"https://raw.githubusercontent.com/vcmi-mods/reworked-commanders/vcmi-1.7/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/vcmi-mods/reworked-commanders/vcmi-1.7/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/vcmi-mods/reworked-commanders/vcmi-1.7/screenshots/screen3.png"
+		]
 	},
 	"nevermore-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/nevermore-town/vcmi-1.7/nevermore-town/mod.json",
