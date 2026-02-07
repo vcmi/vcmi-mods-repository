@@ -97,7 +97,7 @@
 	"swarm-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/swarm-town/vcmi-1.4/swarm-town/mod.json",
 		"download" : "https://github.com/misiokles/swarm-town/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 218.843,
+		"downloadSize" : 219.817,
 		"githubStars" : 0
 	},
 	"rampstorm" : {
@@ -389,5 +389,5 @@
 		"download" : "https://github.com/vcmi-mods/an-expansion/archive/refs/heads/vcmi-1.7.zip",
 		"downloadSize" : 6.799,
 		"githubStars" : 3
-	}	
+	}
 }

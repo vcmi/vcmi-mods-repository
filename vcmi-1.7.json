@@ -4,7 +4,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/vcmi-extras/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 7.359,
-			"githubStars" : 22
+			"githubStars" : 23
 		},
 		"hota" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/hota/mod.json",
@@ -24,7 +24,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.6/screenshots/wiki3.png"
 			],
 			"downloadSize" : 246.063,
-			"githubStars" : 62,
+			"githubStars" : 65,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/hota/description.md"
 		},
 		"wake-of-gods" : {
@@ -37,7 +37,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/tides-of-war/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/tides-of-war/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 28.469,
-			"githubStars" : 16
+			"githubStars" : 17
 		},
 		"courtyard" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/courtyard/vcmi-1.7/Courtyard/mod.json",
@@ -125,7 +125,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.4/screenshots/screen7.png"
 			],
 			"downloadSize" : 62.365,
-			"githubStars" : 13
+			"githubStars" : 15
 		},
 		"cathedral-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.7/cathedral-town/mod.json",
@@ -141,7 +141,7 @@
 		"death-valley-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/death-valley-town/vcmi-1.7/death-valley-town/mod.json",
 			"download" : "https://github.com/vcmi-mods/death-valley-town/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 19.872,
+			"downloadSize" : 25.103,
 			"githubStars" : 3
 		},
 		"andruids-expansion" : {
@@ -163,7 +163,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/andruids-expansion/vcmi-1.6/screenshots/screen13.png"
 			],
 			"downloadSize" : 7.462,
-			"githubStars" : 5
+			"githubStars" : 6
 		},
 		"german-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/german-translation/vcmi-1.7/mod.json",
@@ -259,7 +259,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/polish-translation/vcmi-1.7/polish-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/polish-translation/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 182.005,
-			"githubStars" : 2
+			"githubStars" : 3
 		},
 		"serbian-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/serbian-translation/vcmi-1.7/mod.json",
@@ -268,7 +268,9 @@
 				"https://raw.githubusercontent.com/vcmi-mods/serbian-translation/vcmi-1.7/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/serbian-translation/vcmi-1.7/screenshots/screen2.png",
 				"https://raw.githubusercontent.com/vcmi-mods/serbian-translation/vcmi-1.7/screenshots/screen3.png"
-			]
+			],
+			"downloadSize" : 5.657,
+			"githubStars" : 1
 		},
 		"filipino-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/filipino-translation/vcmi-1.7/mod.json",
@@ -276,7 +278,9 @@
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/filipino-translation/vcmi-1.7/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/filipino-translation/vcmi-1.7/screenshots/screen2.png"
-			]
+			],
+			"downloadSize" : 4.292,
+			"githubStars" : 1
 		},
 		"dutch-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/dutch-translation/vcmi-1.7/mod.json",
@@ -284,12 +288,14 @@
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/dutch-translation/vcmi-1.7/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/dutch-translation/vcmi-1.7/screenshots/screen2.png"
-			]
+			],
+			"downloadSize" : 4.28,
+			"githubStars" : 1
 		},
 		"vcmi-mod-ce-ukr" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/vcmi-mod-ce-ukr/vcmi-1.7/ce-ukr/mod.json",
 			"download" : "https://github.com/vcmi-mods/vcmi-mod-ce-ukr/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 11.308,
+			"downloadSize" : 13.283,
 			"githubStars" : 3
 		},
 		"h3-for-vcmi-englisation" : {
@@ -514,7 +520,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/new-old-spells-plus/main/screenshots/screen1.png"
 			],
 			"downloadSize" : 2.098,
-			"githubStars" : 3
+			"githubStars" : 4
 		},
 		"portraits-packs" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/portraits-packs/vcmi-1.7/Portaits%20packs/mod.json",
@@ -620,7 +626,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/refugee-town/vcmi-1.6/screenshots/screen5.png",
 				"https://raw.githubusercontent.com/vcmi-mods/refugee-town/vcmi-1.6/screenshots/screen7.png"
 			],
-			"downloadSize" : 34.501,
+			"downloadSize" : 34.502,
 			"githubStars" : 4
 		},
 		"asphalt-terrain" : {
@@ -783,7 +789,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/adventure-spells-pack/vcmi-1.7/screenshots/screen05.png"
 			],
 			"downloadSize" : 5.809,
-			"githubStars" : 1
+			"githubStars" : 2
 		},
 		"third-upgrades" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.7/third-upgrades/mod.json",
@@ -865,8 +871,8 @@
 		"small-era-mods" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/small-era-mods/vcmi-1.7/small-era-mods/mod.json",
 			"download" : "https://github.com/vcmi-mods/small-era-mods/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 16.098,
-			"githubStars" : 1
+			"downloadSize" : 16.095,
+			"githubStars" : 2
 		},
 		"phoenix-as-a-dream" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/phoenix-as-a-dream/vcmi-1.7/mod.json",
@@ -924,7 +930,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/new-summon-spells/vcmi-1.7/screenshots/screen5.png"
 			],
 			"downloadSize" : 4.218,
-			"githubStars" : 2
+			"githubStars" : 3
 		},
 		"witchking-artifacts" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/witchking-artifacts/vcmi-1.7/witchking-artifacts/mod.json",
@@ -945,7 +951,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/witchking-artifacts/vcmi-1.5/screenshots/screen13.png"
 			],
 			"downloadSize" : 8.773,
-			"githubStars" : 4
+			"githubStars" : 5
 		},
 		"moon-artifacts" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/moon-artifacts/vcmi-1.7/moon-artifacts/mod.json",
@@ -1015,8 +1021,8 @@
 		"modder-tools-pack" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/modder-tools-pack/main/modder-tools-pack/mod.json",
 			"download" : "https://github.com/vcmi-mods/modder-tools-pack/archive/refs/heads/main.zip",
-			"downloadSize" : 84.335,
-			"githubStars" : 4
+			"downloadSize" : 84.406,
+			"githubStars" : 5
 		},
 		"heroes-o-pedia" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/heroes-o-pedia/vcmi-1.7/heroes-o-pedia/mod.json",
@@ -1038,7 +1044,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/chronicles-enhanced/vcmi-1.6/screenshots/screen03.png"
 			],
 			"downloadSize" : 7.361,
-			"githubStars" : 1
+			"githubStars" : 2
 		},
 		"overall-ai-bonus" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/overall-ai-bonus/vcmi-1.7/overall-ai-bonus/mod.json",
@@ -1139,7 +1145,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/kremlin-town/vcmi-1.6/screenshots/screen4.png",
 				"https://raw.githubusercontent.com/vcmi-mods/kremlin-town/vcmi-1.6/screenshots/screen5.png"
 			],
-			"downloadSize" : 34.345,
+			"downloadSize" : 34.346,
 			"githubStars" : 1
 		},
 		"new-skills-pack" : {
@@ -1157,7 +1163,7 @@
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/custom-templates/vcmi-1.6/screenshots/screen1.png"
 			],
-			"downloadSize" : 9.204,
+			"downloadSize" : 9.213,
 			"githubStars" : 2
 		},
 		"cheat-mod" : {
@@ -1225,7 +1231,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/romanian-translation/refs/heads/vcmi-1.7/screenshots/screen2.png",
 				"https://raw.githubusercontent.com/vcmi-mods/romanian-translation/refs/heads/vcmi-1.7/screenshots/screen3.png"
 			],
-			"downloadSize" : 6.262,
+			"downloadSize" : 6.264,
 			"githubStars" : 1
 		},
 		"belarusian-translation" : {
@@ -1292,15 +1298,17 @@
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/main/screenshots/gating.png",
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/main/screenshots/haggashBattle.png",
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/main/screenshots/lightMagic.png"
-			]
+			],
+			"downloadSize" : 106.71,
+			"githubStars" : 3
 		},
 		"the-great-expansion" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/the-great-expansion/vcmi-1.7/the-great-expansion/mod.json",
 			"download" : "https://github.com/vcmi-mods/the-great-expansion/archive/refs/heads/vcmi-1.7.zip",
 			"screenshots" : [
-			"https://raw.githubusercontent.com/vcmi-mods/the-great-expansion/vcmi-1.7/screenshots/screen01.png"
+				"https://raw.githubusercontent.com/vcmi-mods/the-great-expansion/vcmi-1.7/screenshots/screen01.png"
 			],
-			"downloadSize" : 6.585,
+			"downloadSize" : 6.615,
 			"githubStars" : 0
 		},
 		"forest-fort" : {
@@ -1310,7 +1318,9 @@
 				"https://raw.githubusercontent.com/vcmi-mods/forest-fort/vcmi-1.7/screenshots/screen01.png",
 				"https://raw.githubusercontent.com/vcmi-mods/forest-fort/vcmi-1.7/screenshots/screen02.png",
 				"https://raw.githubusercontent.com/vcmi-mods/forest-fort/vcmi-1.7/screenshots/screen03.png"
-			]
-		}		
+			],
+			"downloadSize" : 14.746,
+			"githubStars" : 0
+		}
 	}
 }
