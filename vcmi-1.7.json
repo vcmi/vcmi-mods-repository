@@ -307,7 +307,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/dutch-translation/vcmi-1.7/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/dutch-translation/vcmi-1.7/screenshots/screen2.png"
 			],
-			"downloadSize" : 4.28,
+			"downloadSize" : 4.301,
 			"githubStars" : 1
 		},
 		"vcmi-mod-ce-ukr" : {
@@ -916,13 +916,7 @@
 			"githubStars" : 2,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/small-era-mods/vcmi-1.7/Screenshots/darkened.png",
-				"https://raw.githubusercontent.com/vcmi-mods/small-era-mods/vcmi-1.7/Screenshots/unmount%26bubblarrows.png",
-				"https://raw.githubusercontent.com/vcmi-mods/small-era-mods/vcmi-1.7/Screenshots/grid1.png",
-				"https://raw.githubusercontent.com/vcmi-mods/small-era-mods/vcmi-1.7/Screenshots/grid1b.png",
-				"https://raw.githubusercontent.com/vcmi-mods/small-era-mods/vcmi-1.7/Screenshots/grid2.png",
-				"https://raw.githubusercontent.com/vcmi-mods/small-era-mods/vcmi-1.7/Screenshots/grid3.png",
-				"https://raw.githubusercontent.com/vcmi-mods/small-era-mods/vcmi-1.7/Screenshots/grid4.png",
-				"https://raw.githubusercontent.com/vcmi-mods/small-era-mods/vcmi-1.7/Screenshots/grid5.png"
+				"https://raw.githubusercontent.com/vcmi-mods/small-era-mods/vcmi-1.7/Screenshots/unmount%26bubblarrows.png"
 			]
 		},
 		"phoenix-as-a-dream" : {
