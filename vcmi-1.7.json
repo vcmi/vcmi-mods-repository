@@ -128,7 +128,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.7/screenshots/screen7.png"
 			],
 			"downloadSize" : 62.365,
-			"githubStars" : 15
+			"githubStars" : 16
 		},
 		"cathedral-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.7/cathedral-town/mod.json",
@@ -297,7 +297,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/filipino-translation/vcmi-1.7/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/filipino-translation/vcmi-1.7/screenshots/screen2.png"
 			],
-			"downloadSize" : 4.292,
+			"downloadSize" : 4.338,
 			"githubStars" : 1
 		},
 		"dutch-translation" : {
@@ -313,7 +313,7 @@
 		"vcmi-mod-ce-ukr" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/vcmi-mod-ce-ukr/vcmi-1.7/ce-ukr/mod.json",
 			"download" : "https://github.com/vcmi-mods/vcmi-mod-ce-ukr/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 13.283,
+			"downloadSize" : 13.737,
 			"githubStars" : 3,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/vcmi-mod-ce-ukr/vcmi-1.7/screenshots/screen1.png",
@@ -912,10 +912,16 @@
 		"small-era-mods" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/small-era-mods/vcmi-1.7/small-era-mods/mod.json",
 			"download" : "https://github.com/vcmi-mods/small-era-mods/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 21.967,
+			"downloadSize" : 32.116,
 			"githubStars" : 2,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/small-era-mods/vcmi-1.7/Screenshots/darkened.png",
+				"https://raw.githubusercontent.com/vcmi-mods/small-era-mods/vcmi-1.7/Screenshots/grid1.png",
+				"https://raw.githubusercontent.com/vcmi-mods/small-era-mods/vcmi-1.7/Screenshots/grid1b.png",
+				"https://raw.githubusercontent.com/vcmi-mods/small-era-mods/vcmi-1.7/Screenshots/grid2.png",
+				"https://raw.githubusercontent.com/vcmi-mods/small-era-mods/vcmi-1.7/Screenshots/grid3.png",
+				"https://raw.githubusercontent.com/vcmi-mods/small-era-mods/vcmi-1.7/Screenshots/grid4.png",
+				"https://raw.githubusercontent.com/vcmi-mods/small-era-mods/vcmi-1.7/Screenshots/grid5.png",
 				"https://raw.githubusercontent.com/vcmi-mods/small-era-mods/vcmi-1.7/Screenshots/unmount%26bubblarrows.png"
 			]
 		},
