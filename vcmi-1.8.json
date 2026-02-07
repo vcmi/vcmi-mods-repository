@@ -881,8 +881,12 @@
 		"small-era-mods" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/small-era-mods/vcmi-1.7/small-era-mods/mod.json",
 			"download" : "https://github.com/vcmi-mods/small-era-mods/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 16.095,
-			"githubStars" : 2
+			"downloadSize" : 21.967,
+			"githubStars" : 2,
+			"screenshots" : [
+				"https://raw.githubusercontent.com/vcmi-mods/small-era-mods/vcmi-1.7/Screenshots/darkened.png",
+				"https://raw.githubusercontent.com/vcmi-mods/small-era-mods/vcmi-1.7/Screenshots/unmount%26bubblarrows.png"
+			]
 		},
 		"phoenix-as-a-dream" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/phoenix-as-a-dream/vcmi-1.7/mod.json",
