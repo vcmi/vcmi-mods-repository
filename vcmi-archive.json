@@ -426,8 +426,8 @@
 		"githubStars" : 3
 	},
 	"fairytale-town" : {
-		"mod" : "https://raw.githubusercontent.com/misiokles/fairytale-town/main/mod.json",
-		"download" : "https://github.com/misiokles/fairytale-town/archive/refs/heads/main.zip",
+		"mod" : "https://raw.githubusercontent.com/misiokles/fairytale-town/vcmi-1.7/mod.json",
+		"download" : "https://github.com/misiokles/fairytale-town/archive/refs/heads/vcmi-1.7.zip",
 		"downloadSize" : 19.478,
 		"githubStars" : 0
 	}
