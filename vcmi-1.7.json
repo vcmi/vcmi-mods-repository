@@ -206,7 +206,7 @@
 		"czech-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/czech-translation/vcmi-1.7/czech-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/czech-translation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 8.412,
+			"downloadSize" : 39.347,
 			"githubStars" : 1
 		},
 		"finnish-translation" : {
@@ -314,7 +314,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/vcmi-mod-ce-ukr/vcmi-1.7/ce-ukr/mod.json",
 			"download" : "https://github.com/vcmi-mods/vcmi-mod-ce-ukr/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 13.737,
-			"githubStars" : 3,
+			"githubStars" : 4,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/vcmi-mod-ce-ukr/vcmi-1.7/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/vcmi-mod-ce-ukr/vcmi-1.7/screenshots/screen2.png",
