@@ -427,6 +427,8 @@
 	},
 	"fairytale-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/fairytale-town/main/mod.json",
-		"download" : "https://github.com/misiokles/fairytale-town/archive/refs/heads/main.zip"
+		"download" : "https://github.com/misiokles/fairytale-town/archive/refs/heads/main.zip",
+		"downloadSize" : 19.478,
+		"githubStars" : 0
 	}
 }

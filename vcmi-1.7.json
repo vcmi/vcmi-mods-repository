@@ -30,7 +30,7 @@
 		"wake-of-gods" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/wake-of-gods/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 89.961,
+			"downloadSize" : 40.96,
 			"githubStars" : 26
 		},
 		"tides-of-war" : {
@@ -206,8 +206,14 @@
 		"czech-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/czech-translation/vcmi-1.7/czech-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/czech-translation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 39.347,
-			"githubStars" : 1
+			"downloadSize" : 55.865,
+			"githubStars" : 1,
+			"screenshots" : [
+				"https://raw.githubusercontent.com/vcmi-mods/czech-translation/vcmi-1.7/screenshots/screen1.png",
+				"https://raw.githubusercontent.com/vcmi-mods/czech-translation/vcmi-1.7/screenshots/screen2.png",
+				"https://raw.githubusercontent.com/vcmi-mods/czech-translation/vcmi-1.7/screenshots/screen3.png",
+				"https://raw.githubusercontent.com/vcmi-mods/czech-translation/vcmi-1.7/screenshots/screen4.png"
+			]
 		},
 		"finnish-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/finnish-translation/vcmi-1.7/finnish-translation/mod.json",
