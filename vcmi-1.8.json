@@ -29,13 +29,13 @@
 		},
 		"wake-of-gods" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/mod.json",
-			"download" : "https://github.com/vcmi-mods/wake-of-gods/archive/refs/heads/vcmi-1.7.zip",
+			"download" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/vcmi-1.7/wake-of-gods-vcmi-1.7.zip",
 			"downloadSize" : 89.961,
 			"githubStars" : 26
 		},
 		"tides-of-war" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/tides-of-war/vcmi-1.7/mod.json",
-			"download" : "https://github.com/vcmi-mods/tides-of-war/archive/refs/heads/vcmi-1.7.zip",
+			"download" : "https://github.com/vcmi-mods/tides-of-war/releases/download/vcmi-1.7/tides-of-war-vcmi-1.7.zip",
 			"downloadSize" : 28.469,
 			"githubStars" : 17,
 			"screenshots" : [
@@ -284,6 +284,37 @@
 			"download" : "https://github.com/vcmi-mods/polish-translation/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 182.005,
 			"githubStars" : 3
+		},
+		"serbian-translation" : {
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/serbian-translation/vcmi-1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/serbian-translation/archive/refs/heads/vcmi-1.7.zip",
+			"screenshots" : [
+				"https://raw.githubusercontent.com/vcmi-mods/serbian-translation/vcmi-1.7/screenshots/screen1.png",
+				"https://raw.githubusercontent.com/vcmi-mods/serbian-translation/vcmi-1.7/screenshots/screen2.png",
+				"https://raw.githubusercontent.com/vcmi-mods/serbian-translation/vcmi-1.7/screenshots/screen3.png"
+			],
+			"downloadSize" : 5.657,
+			"githubStars" : 1
+		},
+		"filipino-translation" : {
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/filipino-translation/vcmi-1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/filipino-translation/archive/refs/heads/vcmi-1.7.zip",
+			"screenshots" : [
+				"https://raw.githubusercontent.com/vcmi-mods/filipino-translation/vcmi-1.7/screenshots/screen1.png",
+				"https://raw.githubusercontent.com/vcmi-mods/filipino-translation/vcmi-1.7/screenshots/screen2.png"
+			],
+			"downloadSize" : 4.338,
+			"githubStars" : 1
+		},
+		"dutch-translation" : {
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/dutch-translation/vcmi-1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/dutch-translation/archive/refs/heads/vcmi-1.7.zip",
+			"screenshots" : [
+				"https://raw.githubusercontent.com/vcmi-mods/dutch-translation/vcmi-1.7/screenshots/screen1.png",
+				"https://raw.githubusercontent.com/vcmi-mods/dutch-translation/vcmi-1.7/screenshots/screen2.png"
+			],
+			"downloadSize" : 4.301,
+			"githubStars" : 1
 		},
 		"vcmi-mod-ce-ukr" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/vcmi-mod-ce-ukr/vcmi-1.7/ce-ukr/mod.json",
@@ -1285,8 +1316,8 @@
 			"githubStars" : 1
 		},
 		"hd-remastered" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/hd-remastered/main/hd-remastered/mod.json",
-			"download" : "https://github.com/vcmi-mods/hd-remastered/archive/refs/heads/main.zip",
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/hd-remastered/vcmi-1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/hd-remastered/releases/download/vcmi-1.7/hd-remastered-vcmi-1.7.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/HD-remastered/main/screenshots/HDRemastered.png",
 				"https://raw.githubusercontent.com/vcmi-mods/HD-remastered/main/screenshots/OH3.png"
@@ -1319,6 +1350,43 @@
 			],
 			"downloadSize" : 37.829,
 			"githubStars" : 6
+		},
+		"tears-of-ashan" : {
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/main/tears-of-ashan/mod.json",
+			"download" : "https://github.com/vcmi-mods/tears-of-ashan/archive/refs/heads/main.zip",
+			"screenshots" : [
+				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/main/screenshots/biara.png",
+				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/main/screenshots/castle.png",
+				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/main/screenshots/castleNecropolisCombat.png",
+				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/main/screenshots/conflux.png",
+				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/main/screenshots/darkMagic.png",
+				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/main/screenshots/fortress.png",
+				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/main/screenshots/gating.png",
+				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/main/screenshots/haggashBattle.png",
+				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/main/screenshots/lightMagic.png"
+			],
+			"downloadSize" : 106.71,
+			"githubStars" : 4
+		},
+		"the-great-expansion" : {
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/the-great-expansion/vcmi-1.7/the-great-expansion/mod.json",
+			"download" : "https://github.com/vcmi-mods/the-great-expansion/archive/refs/heads/vcmi-1.7.zip",
+			"screenshots" : [
+				"https://raw.githubusercontent.com/vcmi-mods/the-great-expansion/vcmi-1.7/screenshots/screen01.png"
+			],
+			"downloadSize" : 6.617,
+			"githubStars" : 0
+		},
+		"forest-fort" : {
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/forest-fort/vcmi-1.7/forest-fort/mod.json",
+			"download" : "https://github.com/vcmi-mods/forest-fort/archive/refs/heads/vcmi-1.7.zip",
+			"screenshots" : [
+				"https://raw.githubusercontent.com/vcmi-mods/forest-fort/vcmi-1.7/screenshots/screen01.png",
+				"https://raw.githubusercontent.com/vcmi-mods/forest-fort/vcmi-1.7/screenshots/screen02.png",
+				"https://raw.githubusercontent.com/vcmi-mods/forest-fort/vcmi-1.7/screenshots/screen03.png"
+			],
+			"downloadSize" : 14.746,
+			"githubStars" : 0
 		}
 	}
 }
