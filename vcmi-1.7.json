@@ -917,7 +917,7 @@
 		},
 		"small-era-mods" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/small-era-mods/vcmi-1.7/small-era-mods/mod.json",
-			"download" : "https://github.com/vcmi-mods/small-era-mods/archive/refs/heads/vcmi-1.7.zip",
+			"download" : "https://github.com/vcmi-mods/small-era-mods/releases/download/vcmi-1.7/vcmi-1.7.zip",
 			"downloadSize" : 32.116,
 			"githubStars" : 2,
 			"screenshots" : [
