@@ -205,7 +205,7 @@
 		},
 		"czech-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/czech-translation/vcmi-1.7/czech-translation/mod.json",
-			"download" : "https://github.com/vcmi-mods/czech-translation/archive/refs/heads/vcmi-1.7.zip",
+			"download" : "https://github.com/vcmi-mods/czech-translation/releases/download/vcmi-1.7/czech-translation-vcmi-1.7.zip",
 			"downloadSize" : 55.861,
 			"githubStars" : 1,
 			"screenshots" : [
