@@ -23,7 +23,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/wiki2.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/wiki3.png"
 			],
-			"downloadSize" : 385.475,
+			"downloadSize" : 385.484,
 			"githubStars" : 66,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/description.md"
 		},
@@ -36,7 +36,7 @@
 		"tides-of-war" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/tides-of-war/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/tides-of-war/releases/download/vcmi-1.7/tides-of-war-vcmi-1.7.zip",
-			"downloadSize" : 28.109,
+			"downloadSize" : 28.12,
 			"githubStars" : 17,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/tides-of-war/vcmi-1.7/screenshots/screen1.png"
@@ -313,7 +313,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/dutch-translation/vcmi-1.7/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/dutch-translation/vcmi-1.7/screenshots/screen2.png"
 			],
-			"downloadSize" : 4.301,
+			"downloadSize" : 4.324,
 			"githubStars" : 1
 		},
 		"vcmi-mod-ce-ukr" : {
@@ -1151,7 +1151,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/hq-music/main/mod.json",
 			"download" : "https://github.com/vcmi-mods/hq-music/archive/refs/heads/main.zip",
 			"downloadSize" : 227.359,
-			"githubStars" : 3
+			"githubStars" : 4
 		},
 		"new-sfx-sounds" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-sfx-sounds/main/mod.json",
@@ -1365,7 +1365,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/main/screenshots/haggashBattle.png",
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/main/screenshots/lightMagic.png"
 			],
-			"downloadSize" : 106.71,
+			"downloadSize" : 109.824,
 			"githubStars" : 4
 		},
 		"the-great-expansion" : {
