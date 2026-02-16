@@ -23,15 +23,15 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/wiki2.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/wiki3.png"
 			],
-			"downloadSize" : 385.484,
+			"downloadSize" : 385.485,
 			"githubStars" : 66,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/description.md"
 		},
 		"wake-of-gods" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/vcmi-1.7/wake-of-gods-vcmi-1.7.zip",
-			"downloadSize" : 88.567,
-			"githubStars" : 26
+			"downloadSize" : 88.587,
+			"githubStars" : 27
 		},
 		"tides-of-war" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/tides-of-war/vcmi-1.7/mod.json",
@@ -206,7 +206,7 @@
 		"czech-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/czech-translation/vcmi-1.7/czech-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/czech-translation/releases/download/vcmi-1.7/czech-translation-vcmi-1.7.zip",
-			"downloadSize" : 55.739,
+			"downloadSize" : 55.74,
 			"githubStars" : 1,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/czech-translation/vcmi-1.7/screenshots/screen1.png",
@@ -918,7 +918,7 @@
 		"small-era-mods" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/small-era-mods/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/small-era-mods/releases/download/vcmi-1.7/small-era-mods-vcmi-1.7.zip",
-			"downloadSize" : 32.018,
+			"downloadSize" : 32.019,
 			"githubStars" : 2,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/small-era-mods/vcmi-1.7/Screenshots/darkened.png",
@@ -1313,7 +1313,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/market-of-time/vcmi-1.7/screenshots/screen1.png"
 			],
 			"downloadSize" : 1.326,
-			"githubStars" : 1
+			"githubStars" : 2
 		},
 		"hd-remastered" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/hd-remastered/vcmi-1.7/mod.json",
@@ -1322,7 +1322,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/HD-remastered/vcmi-1.7/screenshots/HDRemastered.png",
 				"https://raw.githubusercontent.com/vcmi-mods/HD-remastered/vcmi-1.7/screenshots/OH3.png"
 			],
-			"downloadSize" : 125.905,
+			"downloadSize" : 125.579,
 			"githubStars" : 4
 		},
 		"more-secondary" : {
@@ -1365,7 +1365,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/main/screenshots/haggashBattle.png",
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/main/screenshots/lightMagic.png"
 			],
-			"downloadSize" : 109.824,
+			"downloadSize" : 109.826,
 			"githubStars" : 4
 		},
 		"the-great-expansion" : {
