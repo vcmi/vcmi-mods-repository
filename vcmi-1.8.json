@@ -652,8 +652,8 @@
 			"githubStars" : 1
 		},
 		"lotrd-townscreens" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/lotrd-townscreens/vcmi-1.7/lotrd-townscreens/mod.json",
-			"download" : "https://github.com/vcmi-mods/lotrd-townscreens/archive/refs/heads/vcmi-1.7.zip",
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/lotrd-townscreens/vcmi-1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/lotrd-townscreens/releases/download/vcmi-1.7/lotrd-townscreens-vcmi-1.7.zip",
 			"downloadSize" : 13.257,
 			"githubStars" : 1
 		},
@@ -1167,8 +1167,8 @@
 			"githubStars" : 2
 		},
 		"alternate-townscreens" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/alternate-townscreens/vcmi-1.7/alternate-townscreens/mod.json",
-			"download" : "https://github.com/vcmi-mods/alternate-townscreens/archive/refs/heads/vcmi-1.7.zip",
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/alternate-townscreens/vcmi-1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/alternate-townscreens/releases/download/vcmi-1.7/alternate-townscreens-vcmi-1.7.zip",
 			"downloadSize" : 60.409,
 			"githubStars" : 2
 		},
@@ -1350,12 +1350,12 @@
 			"githubStars" : 3
 		},
 		"mmai" : {
-			"mod" : "https://github.com/vcmi-mods/mmai/releases/download/vcmi-1.8-latest/mod.json",
-			"download" : "https://github.com/vcmi-mods/mmai/releases/download/vcmi-1.8-latest/mod.zip",
+			"mod" : "https://github.com/vcmi-mods/mmai/releases/download/vcmi-1.7-latest/mod.json",
+			"download" : "https://github.com/vcmi-mods/mmai/releases/download/vcmi-1.7-latest/mod.zip",
 			"screenshots" : [
 				"https://github.com/vcmi-mods/mmai/releases/download/vcmi-1.7-latest/screenshot-01.png"
 			],
-			"downloadSize" : 37.829,
+			"downloadSize" : 113.543,
 			"githubStars" : 6
 		},
 		"tears-of-ashan" : {
@@ -1394,6 +1394,13 @@
 			],
 			"downloadSize" : 14.746,
 			"githubStars" : 0
+		},
+		"the-lost-tales" : {
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/vcmi-1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/the-lost-tales/releases/download/vcmi-1.7/the-lost-tales-vcmi-1.7.zip",
+			"downloadSize" : 54.017,
+			"githubStars" : 0,
+			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/vcmi-1.7/description.md"
 		}
 	}
 }
