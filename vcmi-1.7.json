@@ -1394,6 +1394,10 @@
 			],
 			"downloadSize" : 14.746,
 			"githubStars" : 0
+		},
+		"the-lost-tales" : {
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/vcmi-1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/the-lost-tales/archive/refs/heads/vcmi-1.7.zip"
 		}
 	}
 }
