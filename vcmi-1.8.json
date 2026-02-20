@@ -4,7 +4,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/vcmi-extras/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 10.406,
-			"githubStars" : 23,
+			"githubStars" : 24,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.7/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.7/screenshots/screen2.png",
@@ -135,7 +135,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.7/screenshots/screen7.png"
 			],
 			"downloadSize" : 62.365,
-			"githubStars" : 16
+			"githubStars" : 17
 		},
 		"cathedral-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.7/cathedral-town/mod.json",
@@ -854,7 +854,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.7/screenshots/screen06.png"
 			],
 			"downloadSize" : 74.657,
-			"githubStars" : 5
+			"githubStars" : 6
 		},
 		"mighty-heroes-iii" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/mighty-heroes-iii/vcmi-1.7/mighty-heroes-iii/mod.json",
