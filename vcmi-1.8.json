@@ -30,14 +30,14 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/wiki2.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/wiki3.png"
 			],
-			"downloadSize" : 386.045,
+			"downloadSize" : 386.029,
 			"githubStars" : 66,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/description.md"
 		},
 		"wake-of-gods" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/vcmi-1.7/wake-of-gods-vcmi-1.7.zip",
-			"downloadSize" : 88.587,
+			"downloadSize" : 88.571,
 			"githubStars" : 27
 		},
 		"tides-of-war" : {
@@ -289,7 +289,7 @@
 		"polish-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/polish-translation/vcmi-1.7/polish-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/polish-translation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 182.005,
+			"downloadSize" : 182.163,
 			"githubStars" : 3
 		},
 		"serbian-translation" : {
@@ -654,8 +654,8 @@
 		"lotrd-townscreens" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/lotrd-townscreens/vcmi-1.7/lotrd-townscreens/mod.json",
 			"download" : "https://github.com/vcmi-mods/lotrd-townscreens/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 13.253,
-			"githubStars" : 0
+			"downloadSize" : 13.257,
+			"githubStars" : 1
 		},
 		"boost-ai" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/boost-ai/vcmi-1.7/mod.json",
@@ -1169,7 +1169,7 @@
 		"alternate-townscreens" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/alternate-townscreens/vcmi-1.7/alternate-townscreens/mod.json",
 			"download" : "https://github.com/vcmi-mods/alternate-townscreens/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 60.407,
+			"downloadSize" : 60.409,
 			"githubStars" : 2
 		},
 		"a-song-of-ice-and-fire" : {
@@ -1372,7 +1372,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/vcmi-1.7/screenshots/haggashBattle.png",
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/vcmi-1.7/screenshots/lightMagic.png"
 			],
-			"downloadSize" : 108.43,
+			"downloadSize" : 109.888,
 			"githubStars" : 4
 		},
 		"the-great-expansion" : {
