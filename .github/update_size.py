@@ -4,8 +4,72 @@ import os
 import sys
 import urllib.request
 import urllib.error
+import re
 
 from ignore_json import ignore
+
+
+URL_SIZE_CACHE = {}
+
+
+def parse_size_from_headers(headers) -> int:
+    content_length = headers.get("Content-Length")
+    if content_length and content_length.isdigit():
+        return int(content_length)
+
+    content_range = headers.get("Content-Range", "")
+    match = re.match(r"^bytes\s+\d+-\d+/(\d+)$", content_range)
+    if match:
+        return int(match.group(1))
+
+    return 0
+
+
+def fetch_download_size_bytes(url: str) -> int:
+    if url in URL_SIZE_CACHE:
+        return URL_SIZE_CACHE[url]
+
+    headers = {"User-Agent": "vcmi-downloadsize-script"}
+
+    # Fast path: HEAD with redirects and Content-Length
+    req = urllib.request.Request(url, headers=headers, method="HEAD")
+    with urllib.request.urlopen(req, timeout=15) as resp:
+        size = parse_size_from_headers(resp.headers)
+    if size > 0:
+        URL_SIZE_CACHE[url] = size
+        return size
+
+    # Fallback: range probe for servers not exposing Content-Length on HEAD
+    range_headers = dict(headers)
+    range_headers["Range"] = "bytes=0-0"
+    req = urllib.request.Request(url, headers=range_headers)
+    with urllib.request.urlopen(req, timeout=20) as resp:
+        size = parse_size_from_headers(resp.headers)
+    if size > 0:
+        URL_SIZE_CACHE[url] = size
+        return size
+
+    # Some hosts don't expose size on HEAD/Range. Try regular GET headers first.
+    req = urllib.request.Request(url, headers=headers)
+    with urllib.request.urlopen(req, timeout=20) as resp:
+        size = parse_size_from_headers(resp.headers)
+        if size > 0:
+            URL_SIZE_CACHE[url] = size
+            return size
+
+        # Last-resort fallback: stream body and count bytes.
+        total = 0
+        while True:
+            chunk = resp.read(1024 * 1024)
+            if not chunk:
+                break
+            total += len(chunk)
+
+    if total > 0:
+        URL_SIZE_CACHE[url] = total
+        return total
+
+    raise ValueError("size not available from response headers/body")
 
 
 def gha_notice(msg: str) -> None:
@@ -67,12 +131,8 @@ for filename in glob.glob(os.path.join(".", "*.json")):
         existing = data.get("downloadSize")
 
         try:
-            # Add a UA to reduce chances of weird 403s
-            req = urllib.request.Request(url, headers={"User-Agent": "vcmi-downloadsize-script"})
-            with urllib.request.urlopen(req, timeout=30) as resp:
-                content = resp.read()
-
-            filesize = round(len(content) / 1024 / 1024, 3)
+            size_bytes = fetch_download_size_bytes(url)
+            filesize = round(size_bytes / 1024 / 1024, 3)
             data["downloadSize"] = filesize
             log_ok(mod, filesize)
             gha_notice(f"{mod}: downloadSize updated to {filesize} MB")
