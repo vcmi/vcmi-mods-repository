@@ -1395,7 +1395,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/vcmi-1.7/screenshots/haggashBattle.png",
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/vcmi-1.7/screenshots/lightMagic.png"
 			],
-			"downloadSize" : 109.888,
+			"downloadSize" : 109.895,
 			"githubStars" : 5
 		},
 		"the-great-expansion" : {
@@ -1421,7 +1421,7 @@
 		"the-lost-tales" : {
 			"mod" : "https://github.com/vcmi-mods/the-lost-tales/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/the-lost-tales/releases/download/1.7/the-lost-tales-vcmi-1.7.zip",
-			"downloadSize" : 54.017,
+			"downloadSize" : 65.804,
 			"githubStars" : 0,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/1.7/description.md"
 		}
