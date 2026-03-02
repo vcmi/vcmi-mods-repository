@@ -30,8 +30,8 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen11.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen12.png"
 			],
-			"downloadSize" : 387.112,
-			"githubStars" : 66,
+			"downloadSize" : 387.116,
+			"githubStars" : 68,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/1.7/description.md"
 		},
 		"wake-of-gods" : {
@@ -55,8 +55,8 @@
 		"tides-of-war" : {
 			"mod" : "https://github.com/vcmi-mods/tides-of-war/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/tides-of-war/releases/download/1.7/tides-of-war-vcmi-1.7.zip",
-			"downloadSize" : 28.111,
-			"githubStars" : 17,
+			"downloadSize" : 28.12,
+			"githubStars" : 18,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/tides-of-war/vcmi-1.7/screenshots/screen1.png"
 			]
@@ -147,7 +147,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.7/screenshots/screen7.png"
 			],
 			"downloadSize" : 62.365,
-			"githubStars" : 17
+			"githubStars" : 18
 		},
 		"cathedral-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.7/cathedral-town/mod.json",
@@ -192,7 +192,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/andruids-expansion/vcmi-1.7/screenshots/screen9.png"
 			],
 			"downloadSize" : 7.462,
-			"githubStars" : 6
+			"githubStars" : 7
 		},
 		"german-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/german-translation/vcmi-1.7/mod.json",
@@ -397,7 +397,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/campaign-heroes/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/campaign-heroes/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 0.131,
-			"githubStars" : 0
+			"githubStars" : 1
 		},
 		"tarnum" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/tarnum/vcmi-1.7/tarnum/mod.json",
@@ -733,7 +733,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/forge2k/vcmi-1.7/screenshots/screen02.png"
 			],
 			"downloadSize" : 21.928,
-			"githubStars" : 5
+			"githubStars" : 6
 		},
 		"ab-bad-ending-assets" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-assets/vcmi-1.7/AB Bad Ending Assets/mod.json",
@@ -1364,7 +1364,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/more-secondary/main/screenshots/screen3.png"
 			],
 			"downloadSize" : 1.227,
-			"githubStars" : 2
+			"githubStars" : 3
 		},
 		"diverse-battlefields" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/diverse-battlefields/vcmi-1.7/diverse-battlefields/mod.json",
@@ -1378,7 +1378,7 @@
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/mmai/vcmi-1.7-latest/screenshots/screenshot-01.png"
 			],
-			"downloadSize" : 37.85,
+			"downloadSize" : 37.829,
 			"githubStars" : 7
 		},
 		"tears-of-ashan" : {
@@ -1422,7 +1422,7 @@
 			"mod" : "https://github.com/vcmi-mods/the-lost-tales/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/the-lost-tales/releases/download/1.7/the-lost-tales-vcmi-1.7.zip",
 			"downloadSize" : 65.804,
-			"githubStars" : 0,
+			"githubStars" : 1,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/1.7/description.md"
 		}
 	}
