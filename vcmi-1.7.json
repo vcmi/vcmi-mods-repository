@@ -1137,7 +1137,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/overall-ai-bonus/vcmi-1.7/overall-ai-bonus/mod.json",
 			"download" : "https://github.com/vcmi-mods/overall-ai-bonus/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 0.063,
-			"githubStars" : 1
+			"githubStars" : 2
 		},
 		"vivid-battlefields" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/vivid-battlefields/vcmi-1.7/vivid-battlefields/mod.json",
@@ -1395,7 +1395,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/vcmi-1.7/screenshots/lightMagic.png",
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/vcmi-1.7/screenshots/warcries.png"
 			],
-			"downloadSize" : 110.031,
+			"downloadSize" : 110.126,
 			"githubStars" : 5
 		},
 		"the-great-expansion" : {
