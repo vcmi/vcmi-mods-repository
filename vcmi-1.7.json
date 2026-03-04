@@ -1428,7 +1428,9 @@
 		"h3landscape" : {
 			"mod" : "https://github.com/vcmi-mods/h3landscape/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/h3landscape/releases/download/1.7/h3landscape-vcmi-1.7.zip",
-			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/h3landscape/1.7/description.md"
+			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/h3landscape/1.7/description.md",
+			"downloadSize" : 47.034,
+			"githubStars" : 0
 		}
 	}
 }
