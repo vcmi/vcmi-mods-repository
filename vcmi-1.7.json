@@ -1404,7 +1404,7 @@
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/the-great-expansion/vcmi-1.7/screenshots/screen01.png"
 			],
-			"downloadSize" : 6.617,
+			"downloadSize" : 6.625,
 			"githubStars" : 0
 		},
 		"forest-fort" : {
@@ -1421,9 +1421,41 @@
 		"the-lost-tales" : {
 			"mod" : "https://github.com/vcmi-mods/the-lost-tales/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/the-lost-tales/releases/download/1.7/the-lost-tales-vcmi-1.7.zip",
-			"downloadSize" : 67.762,
+			"downloadSize" : 67.763,
 			"githubStars" : 1,
-			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/1.7/description.md"
+			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/1.7/description.md",
+			"screenshots" : [
+				"https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/vcmi-1.7/screenshots/ALTERNATIVE_CREATURES_CASTLE.png",
+				"https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/vcmi-1.7/screenshots/ALTERNATIVE_CREATURES_CASTLE_TOW_ENABLED.png",
+				"https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/vcmi-1.7/screenshots/ALTERNATIVE_CREATURES_CONFLUX.png",
+				"https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/vcmi-1.7/screenshots/ALTERNATIVE_CREATURES_CONFLUX_TOW_ENABLED.png",
+				"https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/vcmi-1.7/screenshots/ALTERNATIVE_CREATURES_DUNGEON.png",
+				"https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/vcmi-1.7/screenshots/ALTERNATIVE_CREATURES_DUNGEON_TOW_ENABLED.png",
+				"https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/vcmi-1.7/screenshots/ALTERNATIVE_CREATURES_FORTRESS.png",
+				"https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/vcmi-1.7/screenshots/ALTERNATIVE_CREATURES_FORTRESS_TOW_ENABLED.png",
+				"https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/vcmi-1.7/screenshots/ALTERNATIVE_CREATURES_INFERNO.png",
+				"https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/vcmi-1.7/screenshots/ALTERNATIVE_CREATURES_INFERNO_TOW_ENABLED.png",
+				"https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/vcmi-1.7/screenshots/ALTERNATIVE_CREATURES_NECROPOLIS.png",
+				"https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/vcmi-1.7/screenshots/ALTERNATIVE_CREATURES_NECROPOLIS_TOW_ENABLED.png",
+				"https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/vcmi-1.7/screenshots/ALTERNATIVE_CREATURES_NEUTRAL.png",
+				"https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/vcmi-1.7/screenshots/ALTERNATIVE_CREATURES_RAMPART.png",
+				"https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/vcmi-1.7/screenshots/ALTERNATIVE_CREATURES_RAMPART_TOW_ENABLED.png",
+				"https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/vcmi-1.7/screenshots/ALTERNATIVE_CREATURES_STRONGHOLD.png",
+				"https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/vcmi-1.7/screenshots/ALTERNATIVE_CREATURES_STRONGHOLD_TOW_ENABLED.png",
+				"https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/vcmi-1.7/screenshots/ALTERNATIVE_CREATURES_TOWER.png",
+				"https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/vcmi-1.7/screenshots/ALTERNATIVE_CREATURES_TOWER_TOW_ENABLED.png",
+				"https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/vcmi-1.7/screenshots/black%20gorgon.png",
+				"https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/vcmi-1.7/screenshots/Bowman.png",
+				"https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/vcmi-1.7/screenshots/centaur%20archer.png",
+				"https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/vcmi-1.7/screenshots/cyclop%20emperor.png",
+				"https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/vcmi-1.7/screenshots/cyclop%20king.png",
+				"https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/vcmi-1.7/screenshots/cyclop.png",
+				"https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/vcmi-1.7/screenshots/doom%20knight.png",
+				"https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/vcmi-1.7/screenshots/dwarf%20enforcer.png",
+				"https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/vcmi-1.7/screenshots/dwarfGuard.png",
+				"https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/vcmi-1.7/screenshots/lizarman%20soldier.png",
+				"https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/vcmi-1.7/screenshots/Skeleton%20Archer.png"
+			]
 		},
 		"h3landscape" : {
 			"mod" : "https://github.com/vcmi-mods/h3landscape/releases/download/1.7/mod.json",
