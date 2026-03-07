@@ -30,7 +30,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen11.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen12.png"
 			],
-			"downloadSize" : 387.113,
+			"downloadSize" : 387.178,
 			"githubStars" : 68,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/1.7/description.md"
 		},
@@ -468,7 +468,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.7/screenshots/wiki3.png"
 			],
 			"downloadSize" : 29.077,
-			"githubStars" : 6
+			"githubStars" : 7
 		},
 		"h3-themes" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.7/h3-themes/mod.json",
@@ -1395,7 +1395,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/vcmi-1.7/screenshots/lightMagic.png",
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/vcmi-1.7/screenshots/warcries.png"
 			],
-			"downloadSize" : 110.126,
+			"downloadSize" : 110.127,
 			"githubStars" : 5
 		},
 		"the-great-expansion" : {
