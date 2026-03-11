@@ -1232,7 +1232,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/kremlin-town/vcmi-1.6/screenshots/screen4.png",
 				"https://raw.githubusercontent.com/vcmi-mods/kremlin-town/vcmi-1.6/screenshots/screen5.png"
 			],
-			"downloadSize" : 34.269,
+			"downloadSize" : 34.271,
 			"githubStars" : 1
 		},
 		"new-skills-pack" : {
@@ -1261,7 +1261,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/cheat-mod/vcmi-1.7/cheat-mod/mod.json",
 			"download" : "https://github.com/vcmi-mods/cheat-mod/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 0.012,
-			"githubStars" : 3
+			"githubStars" : 4
 		},
 		"equal-stats" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/equal-stats/vcmi-1.7/equal-stats/mod.json",
