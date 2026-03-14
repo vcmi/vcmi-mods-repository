@@ -4,7 +4,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/vcmi-extras/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 10.406,
-			"githubStars" : 24,
+			"githubStars" : 25,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.7/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.7/screenshots/screen2.png",
@@ -30,15 +30,15 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen11.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen12.png"
 			],
-			"downloadSize" : 387.177,
-			"githubStars" : 69,
+			"downloadSize" : 387.19,
+			"githubStars" : 70,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/1.7/description.md"
 		},
 		"wake-of-gods" : {
 			"mod" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/wake-of-gods-vcmi-1.7.zip",
 			"downloadSize" : 97.644,
-			"githubStars" : 27,
+			"githubStars" : 28,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/screenshots/screen01.png",
 				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/screenshots/screen02.png",
@@ -56,7 +56,7 @@
 			"mod" : "https://github.com/vcmi-mods/tides-of-war/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/tides-of-war/releases/download/1.7/tides-of-war-vcmi-1.7.zip",
 			"downloadSize" : 28.12,
-			"githubStars" : 18,
+			"githubStars" : 19,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/tides-of-war/vcmi-1.7/screenshots/screen1.png"
 			]
@@ -132,7 +132,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/highlands-town/vcmi-1.7/screenshots/screen3.png"
 			],
 			"downloadSize" : 15.311,
-			"githubStars" : 6
+			"githubStars" : 7
 		},
 		"new-pavilion" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.7/New Pavilion/mod.json",
@@ -147,7 +147,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.7/screenshots/screen7.png"
 			],
 			"downloadSize" : 62.365,
-			"githubStars" : 18
+			"githubStars" : 19
 		},
 		"cathedral-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.7/cathedral-town/mod.json",
@@ -695,7 +695,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/boost-ai/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/boost-ai/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 0.008,
-			"githubStars" : 2
+			"githubStars" : 3
 		},
 		"refugee-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/refugee-town/vcmi-1.7/refugee-town/mod.json",
@@ -1186,7 +1186,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/heroes3-extended-soundtrack/main/mod.json",
 			"download" : "https://github.com/vcmi-mods/heroes3-extended-soundtrack/archive/refs/heads/main.zip",
 			"downloadSize" : 249.239,
-			"githubStars" : 3
+			"githubStars" : 4
 		},
 		"hq-music" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/hq-music/main/mod.json",
@@ -1390,7 +1390,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/mmai/vcmi-1.8-latest/screenshots/screenshot-01.png"
 			],
 			"downloadSize" : 37.829,
-			"githubStars" : 8
+			"githubStars" : 9
 		},
 		"tears-of-ashan" : {
 			"mod" : "https://github.com/vcmi-mods/tears-of-ashan/releases/download/1.7/mod.json",
