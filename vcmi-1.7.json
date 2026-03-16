@@ -30,7 +30,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen11.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen12.png"
 			],
-			"downloadSize" : 387.199,
+			"downloadSize" : 387.927,
 			"githubStars" : 70,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/1.7/description.md"
 		},
@@ -332,7 +332,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/french-translation/vcmi-1.7/french-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/french-translation/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 51.114,
-			"githubStars" : 0
+			"githubStars" : 1
 		},
 		"vietnamese-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/vietnamese-translation/vcmi-1.7/vietnamese-translation/mod.json",
