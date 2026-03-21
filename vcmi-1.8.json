@@ -4,7 +4,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/vcmi-extras/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 10.406,
-			"githubStars" : 27,
+			"githubStars" : 28,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.7/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.7/screenshots/screen2.png",
@@ -30,14 +30,14 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen11.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen12.png"
 			],
-			"downloadSize" : 388.199,
-			"githubStars" : 71,
+			"downloadSize" : 388.938,
+			"githubStars" : 72,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/1.7/description.md"
 		},
 		"wake-of-gods" : {
 			"mod" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/wake-of-gods-vcmi-1.7.zip",
-			"downloadSize" : 97.644,
+			"downloadSize" : 97.643,
 			"githubStars" : 28,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/screenshots/screen01.png",
@@ -1265,7 +1265,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/custom-templates/vcmi-1.7/screenshots/Sim-City-map-example.png",
 				"https://raw.githubusercontent.com/vcmi-mods/custom-templates/vcmi-1.7/screenshots/Sim-City-settings.png"
 			],
-			"downloadSize" : 9.213,
+			"downloadSize" : 9.215,
 			"githubStars" : 2
 		},
 		"cheat-mod" : {
