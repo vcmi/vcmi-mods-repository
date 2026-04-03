@@ -1367,12 +1367,12 @@
 			"githubStars" : 5
 		},
 		"more-secondary" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/more-secondary/main/more-secondary/mod.json",
-			"download" : "https://github.com/vcmi-mods/more-secondary/archive/refs/heads/main.zip",
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/more-secondary/vcmi-1.7/more-secondary/mod.json",
+			"download" : "https://github.com/vcmi-mods/more-secondary/archive/refs/heads/vcmi-1.7.zip",
 			"screenshots" : [
-				"https://raw.githubusercontent.com/vcmi-mods/more-secondary/main/screenshots/screen1.png",
-				"https://raw.githubusercontent.com/vcmi-mods/more-secondary/main/screenshots/screen2.png",
-				"https://raw.githubusercontent.com/vcmi-mods/more-secondary/main/screenshots/screen3.png"
+				"https://raw.githubusercontent.com/vcmi-mods/more-secondary/vcmi-1.7/screenshots/screen1.png",
+				"https://raw.githubusercontent.com/vcmi-mods/more-secondary/vcmi-1.7/screenshots/screen2.png",
+				"https://raw.githubusercontent.com/vcmi-mods/more-secondary/vcmi-1.7/screenshots/screen3.png"
 			],
 			"downloadSize" : 1.227,
 			"githubStars" : 3
