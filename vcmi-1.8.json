@@ -30,7 +30,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen11.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen12.png"
 			],
-			"downloadSize" : 419.311,
+			"downloadSize" : 419.24,
 			"githubStars" : 73,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/1.7/description.md"
 		},
@@ -888,7 +888,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.7/screenshots/screen06.png"
 			],
 			"downloadSize" : 74.657,
-			"githubStars" : 6
+			"githubStars" : 7
 		},
 		"mighty-heroes-iii" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/mighty-heroes-iii/vcmi-1.7/mighty-heroes-iii/mod.json",
