@@ -370,7 +370,7 @@
 	"naga-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/naga-town/vcmi-1.7/naga-town/mod.json",
 		"download" : "https://github.com/misiokles/naga-town/archive/refs/heads/vcmi-1.7.zip",
-		"downloadSize" : 33.763,
+		"downloadSize" : 33.462,
 		"githubStars" : 1
 	},
 	"land-of-light" : {

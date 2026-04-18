@@ -30,7 +30,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen11.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen12.png"
 			],
-			"downloadSize" : 419.298,
+			"downloadSize" : 419.299,
 			"githubStars" : 75,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/1.7/description.md"
 		},
@@ -1432,7 +1432,7 @@
 		"the-lost-tales" : {
 			"mod" : "https://github.com/vcmi-mods/the-lost-tales/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/the-lost-tales/releases/download/1.7/the-lost-tales-vcmi-1.7.zip",
-			"downloadSize" : 78.198,
+			"downloadSize" : 78.221,
 			"githubStars" : 1,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/1.7/description.md",
 			"screenshots" : [
