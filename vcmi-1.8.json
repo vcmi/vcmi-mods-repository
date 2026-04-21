@@ -14,25 +14,25 @@
 			]
 		},
 		"hota" : {
-			"mod" : "https://github.com/vcmi-mods/horn-of-the-abyss/releases/download/1.7/mod.json",
-			"download" : "https://github.com/vcmi-mods/horn-of-the-abyss/releases/download/1.7/horn-of-the-abyss-vcmi-1.7.zip",
+			"mod" : "https://github.com/vcmi-mods/horn-of-the-abyss/releases/download/1.8/mod.json",
+			"download" : "https://github.com/vcmi-mods/horn-of-the-abyss/releases/download/1.8/horn-of-the-abyss-vcmi-1.8.zip",
 			"screenshots" : [
-				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen01.png",
-				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen02.png",
-				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen03.png",
-				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen04.png",
-				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen05.png",
-				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen06.png",
-				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen07.png",
-				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen08.png",
-				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen09.png",
-				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen10.png",
-				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen11.png",
-				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen12.png"
+				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.8/screenshots/screen01.png",
+				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.8/screenshots/screen02.png",
+				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.8/screenshots/screen03.png",
+				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.8/screenshots/screen04.png",
+				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.8/screenshots/screen05.png",
+				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.8/screenshots/screen06.png",
+				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.8/screenshots/screen07.png",
+				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.8/screenshots/screen08.png",
+				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.8/screenshots/screen09.png",
+				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.8/screenshots/screen10.png",
+				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.8/screenshots/screen11.png",
+				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.8/screenshots/screen12.png"
 			],
-			"downloadSize" : 419.299,
+			"downloadSize" : 419.298,
 			"githubStars" : 75,
-			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/1.7/description.md"
+			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/1.8/description.md"
 		},
 		"wake-of-gods" : {
 			"mod" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/mod.json",
@@ -1415,7 +1415,7 @@
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/the-great-expansion/vcmi-1.7/screenshots/screen01.png"
 			],
-			"downloadSize" : 9.454,
+			"downloadSize" : 33.345,
 			"githubStars" : 1
 		},
 		"forest-fort" : {
