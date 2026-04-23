@@ -1480,6 +1480,11 @@
 				"https://raw.githubusercontent.com/vcmi-mods/cradle-town/vcmi-1.7/screenshots/screen5.png",
 				"https://raw.githubusercontent.com/vcmi-mods/cradle-town/vcmi-1.7/screenshots/screen6.png"
 			]
+		},
+		"nevermore-town" : {
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/nevermore-town/vcmi-1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/nevermore-town/archive/refs/heads/vcmi-1.7.zip"
+			]
 		}
 	}
 }
