@@ -30,7 +30,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen11.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen12.png"
 			],
-			"downloadSize" : 419.299,
+			"downloadSize" : 419.3,
 			"githubStars" : 75,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/1.7/description.md"
 		},
@@ -267,7 +267,7 @@
 			"mod" : "https://github.com/vcmi-mods/czech-translation/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/czech-translation/releases/download/1.7/czech-translation-vcmi-1.7.zip",
 			"downloadSize" : 55.74,
-			"githubStars" : 1,
+			"githubStars" : 2,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/czech-translation/vcmi-1.7/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/czech-translation/vcmi-1.7/screenshots/screen2.png",
@@ -636,7 +636,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/vcmi-1.7/screenshots/screen6.png",
 				"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/vcmi-1.7/screenshots/screen7.png"
 			],
-			"downloadSize" : 35.767,
+			"downloadSize" : 35.707,
 			"githubStars" : 2
 		},
 		"medusa-mod" : {
@@ -1407,7 +1407,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/vcmi-1.7/screenshots/warcries.png"
 			],
 			"downloadSize" : 110.081,
-			"githubStars" : 5
+			"githubStars" : 6
 		},
 		"the-great-expansion" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/the-great-expansion/vcmi-1.7/the-great-expansion/mod.json",
@@ -1484,7 +1484,7 @@
 		"nevermore-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/nevermore-town/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/nevermore-town/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 26.667,
+			"downloadSize" : 25.334,
 			"githubStars" : 1
 		}
 	}
