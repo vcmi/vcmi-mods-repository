@@ -636,7 +636,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/vcmi-1.7/screenshots/screen6.png",
 				"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/vcmi-1.7/screenshots/screen7.png"
 			],
-			"downloadSize" : 35.708,
+			"downloadSize" : 38.174,
 			"githubStars" : 2
 		},
 		"medusa-mod" : {
@@ -1486,6 +1486,12 @@
 			"download" : "https://github.com/vcmi-mods/nevermore-town/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 25.334,
 			"githubStars" : 1
+		},
+		"an-expansion" : {
+			"mod" : "https://github.com/vcmi-mods/an-expansion/releases/download/1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/an-expansion/releases/download/1.7/an-expansion-vcmi-1.7.zip",
+			"downloadSize" : 1.131,
+			"githubStars" : 3
 		}
 	}
 }
