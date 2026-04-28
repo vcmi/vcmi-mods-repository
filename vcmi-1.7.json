@@ -30,7 +30,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen11.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen12.png"
 			],
-			"downloadSize" : 419.3,
+			"downloadSize" : 419.348,
 			"githubStars" : 75,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/1.7/description.md"
 		},
@@ -266,7 +266,7 @@
 		"czech-translation" : {
 			"mod" : "https://github.com/vcmi-mods/czech-translation/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/czech-translation/releases/download/1.7/czech-translation-vcmi-1.7.zip",
-			"downloadSize" : 55.74,
+			"downloadSize" : 55.741,
 			"githubStars" : 2,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/czech-translation/vcmi-1.7/screenshots/screen1.png",
