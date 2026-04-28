@@ -625,8 +625,8 @@
 			"githubStars" : 2
 		},
 		"new-interface-mod" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/vcmi-1.7/New%20Interface%20Mod/mod.json",
-			"download" : "https://github.com/vcmi-mods/new-interface-mod/archive/refs/heads/vcmi-1.7.zip",
+			"mod" : "https://github.com/vcmi-mods/new-interface-mod/releases/download/1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/new-interface-mod/releases/download/1.7/new-interface-mod-vcmi-1.7.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/vcmi-1.7/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/vcmi-1.7/screenshots/screen2.png",
@@ -636,7 +636,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/vcmi-1.7/screenshots/screen6.png",
 				"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/vcmi-1.7/screenshots/screen7.png"
 			],
-			"downloadSize" : 38.711,
+			"downloadSize" : 38.174,
 			"githubStars" : 2
 		},
 		"medusa-mod" : {
@@ -1367,14 +1367,14 @@
 			"githubStars" : 5
 		},
 		"more-secondary" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/more-secondary/main/more-secondary/mod.json",
-			"download" : "https://github.com/vcmi-mods/more-secondary/archive/refs/heads/main.zip",
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/more-secondary/vcmi-1.7/more-secondary/mod.json",
+			"download" : "https://github.com/vcmi-mods/more-secondary/archive/refs/heads/vcmi-1.7.zip",
 			"screenshots" : [
-				"https://raw.githubusercontent.com/vcmi-mods/more-secondary/main/screenshots/screen1.png",
-				"https://raw.githubusercontent.com/vcmi-mods/more-secondary/main/screenshots/screen2.png",
-				"https://raw.githubusercontent.com/vcmi-mods/more-secondary/main/screenshots/screen3.png"
+				"https://raw.githubusercontent.com/vcmi-mods/more-secondary/vcmi-1.7/screenshots/screen1.png",
+				"https://raw.githubusercontent.com/vcmi-mods/more-secondary/vcmi-1.7/screenshots/screen2.png",
+				"https://raw.githubusercontent.com/vcmi-mods/more-secondary/vcmi-1.7/screenshots/screen3.png"
 			],
-			"downloadSize" : 1.227,
+			"downloadSize" : 1.23,
 			"githubStars" : 3
 		},
 		"diverse-battlefields" : {
@@ -1459,6 +1459,39 @@
 				"https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/vcmi-1.7/screenshots/lizarman%20soldier.png",
 				"https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/vcmi-1.7/screenshots/Skeleton%20Archer.png"
 			]
+		},
+		"h3landscape" : {
+			"mod" : "https://github.com/vcmi-mods/h3landscape/releases/download/1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/h3landscape/releases/download/1.7/h3landscape-vcmi-1.7.zip",
+			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/h3landscape/1.7/description.md",
+			"downloadSize" : 47.034,
+			"githubStars" : 0
+		},
+		"cradle-town" : {
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/cradle-town/vcmi-1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/cradle-town/archive/refs/heads/vcmi-1.7.zip",
+			"downloadSize" : 30.668,
+			"githubStars" : 0,
+			"screenshots" : [
+				"https://raw.githubusercontent.com/vcmi-mods/cradle-town/vcmi-1.7/screenshots/screen1.png",
+				"https://raw.githubusercontent.com/vcmi-mods/cradle-town/vcmi-1.7/screenshots/screen2.png",
+				"https://raw.githubusercontent.com/vcmi-mods/cradle-town/vcmi-1.7/screenshots/screen3.png",
+				"https://raw.githubusercontent.com/vcmi-mods/cradle-town/vcmi-1.7/screenshots/screen4.png",
+				"https://raw.githubusercontent.com/vcmi-mods/cradle-town/vcmi-1.7/screenshots/screen5.png",
+				"https://raw.githubusercontent.com/vcmi-mods/cradle-town/vcmi-1.7/screenshots/screen6.png"
+			]
+		},
+		"nevermore-town" : {
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/nevermore-town/vcmi-1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/nevermore-town/archive/refs/heads/vcmi-1.7.zip",
+			"downloadSize" : 25.334,
+			"githubStars" : 1
+		},
+		"an-expansion" : {
+			"mod" : "https://github.com/vcmi-mods/an-expansion/releases/download/1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/an-expansion/releases/download/1.7/an-expansion-vcmi-1.7.zip",
+			"downloadSize" : 1.131,
+			"githubStars" : 3
 		}
 	}
 }
