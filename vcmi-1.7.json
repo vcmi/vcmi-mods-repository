@@ -1486,6 +1486,10 @@
 			"download" : "https://github.com/vcmi-mods/nevermore-town/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 25.334,
 			"githubStars" : 1
+		},		
+		"an-expansion" : {
+			"mod" : "https://github.com/vcmi-mods/an-expansion/releases/download/1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/an-expansion/releases/download/1.7/an-expansion-vcmi-1.7.zip"
 		}
 	}
 }
