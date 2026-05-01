@@ -3,7 +3,7 @@
 		"vcmi-extras" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/vcmi-extras/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 10.409,
+			"downloadSize" : 10.411,
 			"githubStars" : 29,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.7/screenshots/screen1.png",
@@ -131,7 +131,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/highlands-town/vcmi-1.7/screenshots/screen2.png",
 				"https://raw.githubusercontent.com/vcmi-mods/highlands-town/vcmi-1.7/screenshots/screen3.png"
 			],
-			"downloadSize" : 25.937,
+			"downloadSize" : 26.367,
 			"githubStars" : 7
 		},
 		"new-pavilion" : {
@@ -494,7 +494,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.7/screenshots/WoG-menu.png"
 			],
 			"downloadSize" : 440.248,
-			"githubStars" : 3
+			"githubStars" : 4
 		},
 		"creatures-hidden-potential" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/creatures-hidden-potential/vcmi-1.7/creatures-hidden-potential/mod.json",
@@ -1318,7 +1318,7 @@
 		"japanese-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/japanese-translation/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/japanese-translation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 36.282,
+			"downloadSize" : 36.285,
 			"githubStars" : 1
 		},
 		"bulgarian-translation" : {
