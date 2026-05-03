@@ -414,7 +414,7 @@
 		"mod" : "https://raw.githubusercontent.com/vcmi-mods/an-expansion/vcmi-1.7/mod.json",
 		"download" : "https://github.com/vcmi-mods/an-expansion/archive/refs/heads/vcmi-1.7.zip",
 		"downloadSize" : 1.218,
-		"githubStars" : 3
+		"githubStars" : 4
 	},
 	"fairytale-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/fairytale-town/vcmi-1.7/mod.json",
