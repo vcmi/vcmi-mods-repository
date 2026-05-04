@@ -211,7 +211,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/filipino-translation/vcmi-1.7/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/filipino-translation/vcmi-1.7/screenshots/screen2.png"
 			],
-			"downloadSize" : 4.338,
+			"downloadSize" : 4.339,
 			"githubStars" : 1
 		},
 		"german-translation" : {
@@ -228,7 +228,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/serbian-translation/vcmi-1.7/screenshots/screen2.png",
 				"https://raw.githubusercontent.com/vcmi-mods/serbian-translation/vcmi-1.7/screenshots/screen3.png"
 			],
-			"downloadSize" : 5.657,
+			"downloadSize" : 5.658,
 			"githubStars" : 1
 		},
 		"spanish-translation" : {
@@ -250,7 +250,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/latvian-translation/vcmi-1.7/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/latvian-translation/vcmi-1.7/screenshots/screen2.png"
 			],
-			"downloadSize" : 4.142,
+			"downloadSize" : 4.143,
 			"githubStars" : 1
 		},
 		"italian-translation" : {
@@ -1407,7 +1407,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/vcmi-1.7/screenshots/warcries.png"
 			],
 			"downloadSize" : 110.081,
-			"githubStars" : 6
+			"githubStars" : 7
 		},
 		"the-great-expansion" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/the-great-expansion/vcmi-1.7/the-great-expansion/mod.json",
