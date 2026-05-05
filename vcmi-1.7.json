@@ -30,7 +30,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen11.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen12.png"
 			],
-			"downloadSize" : 419.739,
+			"downloadSize" : 419.741,
 			"githubStars" : 75,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/1.7/description.md"
 		},
@@ -463,7 +463,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/haven-town/vcmi-1.7/screenshots/screen3.png"
 			],
 			"downloadSize" : 14.299,
-			"githubStars" : 3
+			"githubStars" : 4
 		},
 		"ruins-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.7/ruins-town/mod.json",
