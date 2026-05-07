@@ -31,7 +31,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen12.png"
 			],
 			"downloadSize" : 420.573,
-			"githubStars" : 75,
+			"githubStars" : 76,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/1.7/description.md"
 		},
 		"wake-of-gods" : {
@@ -1168,7 +1168,7 @@
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/fused-artifacts/vcmi-1.7/screenshots/screen01.png"
 			],
-			"downloadSize" : 0.933,
+			"downloadSize" : 0.935,
 			"githubStars" : 2
 		},
 		"immortal-cultivation-heroes" : {
@@ -1490,7 +1490,7 @@
 		"an-expansion" : {
 			"mod" : "https://github.com/vcmi-mods/an-expansion/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/an-expansion/releases/download/1.7/an-expansion-vcmi-1.7.zip",
-			"downloadSize" : 1.131,
+			"downloadSize" : 1.13,
 			"githubStars" : 4
 		}
 	}

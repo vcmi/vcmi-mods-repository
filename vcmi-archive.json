@@ -79,7 +79,7 @@
 	"h2-artifacts" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/h2-artifacts/vcmi-1.4/h2-artifacts/mod.json",
 		"download" : "https://github.com/misiokles/h2-artifacts/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 0.173,
+		"downloadSize" : 0.185,
 		"githubStars" : 0
 	},
 	"alpha-mod" : {
