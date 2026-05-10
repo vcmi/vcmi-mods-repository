@@ -91,7 +91,7 @@
 	"regna-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/regna-town/vcmi-1.4/regna-town/mod.json",
 		"download" : "https://github.com/misiokles/regna-town/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 12.344,
+		"downloadSize" : 12.35,
 		"githubStars" : 0
 	},
 	"swarm-town" : {

@@ -37,7 +37,7 @@
 		"wake-of-gods" : {
 			"mod" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/wake-of-gods-vcmi-1.7.zip",
-			"downloadSize" : 98.535,
+			"downloadSize" : 98.538,
 			"githubStars" : 28,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/screenshots/screen01.png",
@@ -218,7 +218,7 @@
 		"german-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/german-translation/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/german-translation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 107.369,
+			"downloadSize" : 107.368,
 			"githubStars" : 1
 		},
 		"serbian-translation" : {
@@ -320,7 +320,7 @@
 		"hungarian-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/hungarian-translation/vcmi-1.7/hungarian-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/hungarian-translation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 17.622,
+			"downloadSize" : 17.623,
 			"githubStars" : 0
 		},
 		"chinese-translation" : {
@@ -338,7 +338,7 @@
 		"vietnamese-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/vietnamese-translation/vcmi-1.7/vietnamese-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/vietnamese-translation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 6.05,
+			"downloadSize" : 6.051,
 			"githubStars" : 1
 		},
 		"polish-translation" : {
@@ -520,7 +520,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/vcmi-1.7/screenshots/screen6.png"
 			],
 			"downloadSize" : 16.419,
-			"githubStars" : 3
+			"githubStars" : 4
 		},
 		"preserve-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/preserve-town/vcmi-1.7/preserve/mod.json",
@@ -1328,7 +1328,7 @@
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/bulgarian-translation/vcmi-1.7/screenshots/screen1.png"
 			],
-			"downloadSize" : 4.889,
+			"downloadSize" : 4.89,
 			"githubStars" : 0
 		},
 		"romanian-translation" : {
@@ -1465,8 +1465,8 @@
 			"mod" : "https://github.com/vcmi-mods/h3landscape/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/h3landscape/releases/download/1.7/h3landscape-vcmi-1.7.zip",
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/h3landscape/1.7/description.md",
-			"downloadSize" : 47.034,
-			"githubStars" : 0
+			"downloadSize" : 34.939,
+			"githubStars" : 1
 		},
 		"cradle-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/cradle-town/vcmi-1.7/mod.json",
