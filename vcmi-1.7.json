@@ -30,7 +30,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen11.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen12.png"
 			],
-			"downloadSize" : 420.586,
+			"downloadSize" : 420.591,
 			"githubStars" : 76,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/1.7/description.md"
 		},
@@ -218,7 +218,7 @@
 		"german-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/german-translation/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/german-translation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 107.555,
+			"downloadSize" : 107.548,
 			"githubStars" : 1
 		},
 		"serbian-translation" : {
@@ -235,13 +235,13 @@
 		"spanish-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/spanish-translation/vcmi-1.7/spanish-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/spanish-translation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 79.316,
+			"downloadSize" : 79.31,
 			"githubStars" : 1
 		},
 		"korean-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/korean-translation/vcmi-1.7/korean-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/korean-translation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 6.099,
+			"downloadSize" : 5.803,
 			"githubStars" : 0
 		},
 		"latvian-translation" : {
@@ -261,13 +261,13 @@
 				"https://raw.githubusercontent.com/vcmi-mods/italian-translation/vcmi-1.7/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/italian-translation/vcmi-1.7/screenshots/screen2.png"
 			],
-			"downloadSize" : 31.791,
+			"downloadSize" : 31.789,
 			"githubStars" : 0
 		},
 		"czech-translation" : {
 			"mod" : "https://github.com/vcmi-mods/czech-translation/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/czech-translation/releases/download/1.7/czech-translation-vcmi-1.7.zip",
-			"downloadSize" : 55.741,
+			"downloadSize" : 55.732,
 			"githubStars" : 2,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/czech-translation/vcmi-1.7/screenshots/screen1.png",
@@ -282,13 +282,13 @@
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/finnish-translation/vcmi-1.7/screenshots/screen1.png"
 			],
-			"downloadSize" : 5.229,
+			"downloadSize" : 5.228,
 			"githubStars" : 0
 		},
 		"portuguese-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/portuguese-translation/vcmi-1.7/portuguese-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/portuguese-translation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 11.576,
+			"downloadSize" : 11.575,
 			"githubStars" : 1,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/portuguese-translation/vcmi-1.7/screenshots/screen1.png",
@@ -305,7 +305,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/swedish-translation/vcmi-1.7/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/swedish-translation/vcmi-1.7/screenshots/screen2.png"
 			],
-			"downloadSize" : 18.572,
+			"downloadSize" : 18.571,
 			"githubStars" : 0
 		},
 		"turkish-translation" : {
@@ -314,43 +314,43 @@
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/turkish-translation/vcmi-1.7/screenshots/screen1.png"
 			],
-			"downloadSize" : 30.277,
+			"downloadSize" : 30.274,
 			"githubStars" : 0
 		},
 		"hungarian-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/hungarian-translation/vcmi-1.7/hungarian-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/hungarian-translation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 17.623,
+			"downloadSize" : 17.578,
 			"githubStars" : 0
 		},
 		"chinese-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/chinese-translation/vcmi-1.7/chinese-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/chinese-translation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 16.968,
+			"downloadSize" : 16.962,
 			"githubStars" : 3
 		},
 		"french-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/french-translation/vcmi-1.7/french-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/french-translation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 51.114,
+			"downloadSize" : 51.11,
 			"githubStars" : 1
 		},
 		"vietnamese-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/vietnamese-translation/vcmi-1.7/vietnamese-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/vietnamese-translation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 6.051,
+			"downloadSize" : 6.05,
 			"githubStars" : 1
 		},
 		"polish-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/polish-translation/vcmi-1.7/polish-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/polish-translation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 182.163,
+			"downloadSize" : 182.161,
 			"githubStars" : 3
 		},
 		"vcmi-mod-ce-ukr" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/vcmi-mod-ce-ukr/vcmi-1.7/ce-ukr/mod.json",
 			"download" : "https://github.com/vcmi-mods/vcmi-mod-ce-ukr/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 13.737,
+			"downloadSize" : 13.739,
 			"githubStars" : 4,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/vcmi-mod-ce-ukr/vcmi-1.7/screenshots/screen1.png",
@@ -361,7 +361,7 @@
 		"h3-for-vcmi-englisation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/h3-for-vcmi-englisation/vcmi-1.7/H3forVCMIenglisation/mod.json",
 			"download" : "https://github.com/vcmi-mods/h3-for-vcmi-englisation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 32.327,
+			"downloadSize" : 32.326,
 			"githubStars" : 1
 		},
 		"forge" : {
@@ -622,7 +622,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/vcmi-1.7/screenshots/sc-6.png",
 				"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/vcmi-1.7/screenshots/sc-7.png"
 			],
-			"downloadSize" : 57.642,
+			"downloadSize" : 57.639,
 			"githubStars" : 2
 		},
 		"new-interface-mod" : {
@@ -678,7 +678,7 @@
 		"lotrd-townscreens" : {
 			"mod" : "https://github.com/vcmi-mods/lotrd-townscreens/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/lotrd-townscreens/releases/download/1.7/lotrd-townscreens-vcmi-1.7.zip",
-			"downloadSize" : 24.274,
+			"downloadSize" : 24.278,
 			"githubStars" : 1,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/lotrd-townscreens/vcmi-1.7/screenshots/screen1.png",
@@ -960,7 +960,7 @@
 		"small-era-mods" : {
 			"mod" : "https://github.com/vcmi-mods/small-era-mods/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/small-era-mods/releases/download/1.7/small-era-mods-vcmi-1.7.zip",
-			"downloadSize" : 32.018,
+			"downloadSize" : 32.021,
 			"githubStars" : 2,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/small-era-mods/vcmi-1.7/Screenshots/darkened.png",
@@ -1204,7 +1204,7 @@
 		"alternate-townscreens" : {
 			"mod" : "https://github.com/vcmi-mods/alternate-townscreens/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/alternate-townscreens/releases/download/1.7/alternate-townscreens-vcmi-1.7.zip",
-			"downloadSize" : 58.402,
+			"downloadSize" : 58.406,
 			"githubStars" : 2
 		},
 		"a-song-of-ice-and-fire" : {
@@ -1319,7 +1319,7 @@
 		"japanese-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/japanese-translation/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/japanese-translation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 36.285,
+			"downloadSize" : 36.048,
 			"githubStars" : 1
 		},
 		"bulgarian-translation" : {
@@ -1328,7 +1328,7 @@
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/bulgarian-translation/vcmi-1.7/screenshots/screen1.png"
 			],
-			"downloadSize" : 4.89,
+			"downloadSize" : 4.889,
 			"githubStars" : 0
 		},
 		"romanian-translation" : {
@@ -1345,7 +1345,7 @@
 		"belarusian-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/belarusian-translation/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/belarusian-translation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 7.728,
+			"downloadSize" : 7.727,
 			"githubStars" : 1
 		},
 		"market-of-time" : {
@@ -1465,7 +1465,7 @@
 			"mod" : "https://github.com/vcmi-mods/h3landscape/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/h3landscape/releases/download/1.7/h3landscape-vcmi-1.7.zip",
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/h3landscape/1.7/description.md",
-			"downloadSize" : 34.939,
+			"downloadSize" : 34.943,
 			"githubStars" : 1
 		},
 		"cradle-town" : {
@@ -1491,7 +1491,7 @@
 		"an-expansion" : {
 			"mod" : "https://github.com/vcmi-mods/an-expansion/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/an-expansion/releases/download/1.7/an-expansion-vcmi-1.7.zip",
-			"downloadSize" : 1.13,
+			"downloadSize" : 1.134,
 			"githubStars" : 4
 		}
 	}
