@@ -4,7 +4,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/vcmi-extras/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 10.411,
-			"githubStars" : 30,
+			"githubStars" : 31,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.7/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.7/screenshots/screen2.png",
@@ -31,14 +31,14 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.8/screenshots/screen12.png"
 			],
 			"downloadSize" : 420.577,
-			"githubStars" : 77,
+			"githubStars" : 79,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/1.8/description.md"
 		},
 		"wake-of-gods" : {
 			"mod" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/wake-of-gods-vcmi-1.7.zip",
 			"downloadSize" : 98.541,
-			"githubStars" : 28,
+			"githubStars" : 29,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/screenshots/screen01.png",
 				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/screenshots/screen02.png",
@@ -57,7 +57,7 @@
 			"mod" : "https://github.com/vcmi-mods/tides-of-war/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/tides-of-war/releases/download/1.7/tides-of-war-vcmi-1.7.zip",
 			"downloadSize" : 28.667,
-			"githubStars" : 19,
+			"githubStars" : 20,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/tides-of-war/vcmi-1.7/screenshots/screen1.png"
 			]
@@ -148,7 +148,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.7/screenshots/screen7.png"
 			],
 			"downloadSize" : 62.366,
-			"githubStars" : 19
+			"githubStars" : 20
 		},
 		"cathedral-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.7/cathedral-town/mod.json",
@@ -623,7 +623,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/mega-pack-rus/vcmi-1.7/screenshots/sc-7.png"
 			],
 			"downloadSize" : 57.639,
-			"githubStars" : 2
+			"githubStars" : 3
 		},
 		"new-interface-mod" : {
 			"mod" : "https://github.com/vcmi-mods/new-interface-mod/releases/download/1.7/mod.json",
@@ -638,7 +638,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/vcmi-1.7/screenshots/screen7.png"
 			],
 			"downloadSize" : 38.174,
-			"githubStars" : 2
+			"githubStars" : 3
 		},
 		"medusa-mod" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/medusa-mod/refs/heads/vcmi-1.7/Medusa%20Mod/mod.json",
@@ -889,7 +889,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.7/screenshots/screen06.png"
 			],
 			"downloadSize" : 74.657,
-			"githubStars" : 7
+			"githubStars" : 8
 		},
 		"mighty-heroes-iii" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/mighty-heroes-iii/vcmi-1.7/mighty-heroes-iii/mod.json",
@@ -1187,7 +1187,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/heroes3-extended-soundtrack/main/mod.json",
 			"download" : "https://github.com/vcmi-mods/heroes3-extended-soundtrack/archive/refs/heads/main.zip",
 			"downloadSize" : 249.239,
-			"githubStars" : 4
+			"githubStars" : 5
 		},
 		"hq-music" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/hq-music/main/mod.json",
@@ -1355,7 +1355,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/market-of-time/vcmi-1.7/screenshots/screen1.png"
 			],
 			"downloadSize" : 1.326,
-			"githubStars" : 2
+			"githubStars" : 3
 		},
 		"hd-remastered" : {
 			"mod" : "https://github.com/vcmi-mods/hd-remastered/releases/download/1.7/mod.json",
@@ -1408,7 +1408,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/vcmi-1.7/screenshots/warcries.png"
 			],
 			"downloadSize" : 110.109,
-			"githubStars" : 7
+			"githubStars" : 8
 		},
 		"the-great-expansion" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/the-great-expansion/vcmi-1.7/the-great-expansion/mod.json",
@@ -1491,8 +1491,9 @@
 		"an-expansion" : {
 			"mod" : "https://github.com/vcmi-mods/an-expansion/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/an-expansion/releases/download/1.7/an-expansion-vcmi-1.7.zip",
-			"downloadSize" : 1.134,
-			"githubStars" : 4
+			"downloadSize" : 1.14,
+			"githubStars" : 4,
+			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/an-expansion/1.7/description.md"
 		}
 	}
 }
