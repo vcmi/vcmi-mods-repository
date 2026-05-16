@@ -345,7 +345,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/polish-translation/vcmi-1.7/polish-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/polish-translation/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 182.161,
-			"githubStars" : 3
+			"githubStars" : 4
 		},
 		"vcmi-mod-ce-ukr" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/vcmi-mod-ce-ukr/vcmi-1.7/ce-ukr/mod.json",
@@ -1408,7 +1408,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/vcmi-1.7/screenshots/warcries.png"
 			],
 			"downloadSize" : 110.109,
-			"githubStars" : 8
+			"githubStars" : 9
 		},
 		"the-great-expansion" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/the-great-expansion/vcmi-1.7/the-great-expansion/mod.json",
