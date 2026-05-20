@@ -4,7 +4,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/vcmi-extras/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 10.411,
-			"githubStars" : 31,
+			"githubStars" : 32,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.7/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.7/screenshots/screen2.png",
@@ -31,13 +31,13 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.8/screenshots/screen12.png"
 			],
 			"downloadSize" : 420.577,
-			"githubStars" : 79,
+			"githubStars" : 80,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/1.8/description.md"
 		},
 		"wake-of-gods" : {
 			"mod" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/wake-of-gods-vcmi-1.7.zip",
-			"downloadSize" : 98.575,
+			"downloadSize" : 98.577,
 			"githubStars" : 29,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/screenshots/screen01.png",
@@ -133,7 +133,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/highlands-town/vcmi-1.7/screenshots/screen3.png"
 			],
 			"downloadSize" : 28.327,
-			"githubStars" : 7
+			"githubStars" : 8
 		},
 		"new-pavilion" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.7/New Pavilion/mod.json",
@@ -809,7 +809,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/ensrick-portraits/vcmi-1.7/screenshots/Yog.png"
 			],
 			"downloadSize" : 113.523,
-			"githubStars" : 6
+			"githubStars" : 7
 		},
 		"morns-battlefields" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/morns-battlefields/vcmi-1.7/morns-battlefields/mod.json",
@@ -1376,7 +1376,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/more-secondary/vcmi-1.7/screenshots/screen3.png"
 			],
 			"downloadSize" : 1.23,
-			"githubStars" : 3
+			"githubStars" : 4
 		},
 		"diverse-battlefields" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/diverse-battlefields/vcmi-1.7/diverse-battlefields/mod.json",
@@ -1472,7 +1472,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/cradle-town/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/cradle-town/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 30.668,
-			"githubStars" : 1,
+			"githubStars" : 2,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/cradle-town/vcmi-1.7/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/cradle-town/vcmi-1.7/screenshots/screen2.png",
@@ -1492,7 +1492,7 @@
 			"mod" : "https://github.com/vcmi-mods/an-expansion/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/an-expansion/releases/download/1.7/an-expansion-vcmi-1.7.zip",
 			"downloadSize" : 1.14,
-			"githubStars" : 4,
+			"githubStars" : 5,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/an-expansion/1.7/description.md"
 		}
 	}
