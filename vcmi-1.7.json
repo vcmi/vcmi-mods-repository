@@ -3,7 +3,7 @@
 		"vcmi-extras" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/vcmi-extras/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 10.411,
+			"downloadSize" : 10.667,
 			"githubStars" : 32,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.7/screenshots/screen1.png",
@@ -1497,7 +1497,14 @@
 		},
 		"reinforcements-spell" : {
 			"mod" : "https://github.com/vcmi-mods/reinforcements-spell/releases/download/1.7/mod.json",
-			"download" : "https://github.com/vcmi-mods/reinforcements-spell/releases/download/1.7/reinforcements-spell-vcmi-1.7.zip"
+			"download" : "https://github.com/vcmi-mods/reinforcements-spell/releases/download/1.7/reinforcements-spell-vcmi-1.7.zip",
+			"downloadSize" : 0.62,
+			"githubStars" : 0,
+			"screenshots" : [
+				"https://raw.githubusercontent.com/vcmi-mods/reinforcements-spell/vcmi-1.7/screenshots/screen1.png",
+				"https://raw.githubusercontent.com/vcmi-mods/reinforcements-spell/vcmi-1.7/screenshots/screen2.png",
+				"https://raw.githubusercontent.com/vcmi-mods/reinforcements-spell/vcmi-1.7/screenshots/screen3.png"
+			]
 		}
 	}
 }
