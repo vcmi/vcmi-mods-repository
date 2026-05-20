@@ -1494,6 +1494,10 @@
 			"downloadSize" : 1.14,
 			"githubStars" : 5,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/an-expansion/1.7/description.md"
+		},
+		"reinforcements-spell" : {
+			"mod" : "https://github.com/vcmi-mods/reinforcements-spell/releases/download/1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/reinforcements-spell/releases/download/1.7/reinforcements-spell-vcmi-1.7.zip"
 		}
 	}
 }
