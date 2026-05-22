@@ -521,8 +521,9 @@
 				"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/vcmi-1.7/screenshots/screen5.png",
 				"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/vcmi-1.7/screenshots/screen6.png"
 			],
-			"downloadSize" : 21.588,
-			"githubStars" : 4
+			"downloadSize" : 21.595,
+			"githubStars" : 4,
+			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/tartarus-town/1.7/description.md"
 		},
 		"preserve-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/preserve-town/vcmi-1.7/preserve/mod.json",
