@@ -511,8 +511,8 @@
 			"githubStars" : 1
 		},
 		"tartarus-town" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/tartarus-town/vcmi-1.7/tartarus-town/mod.json",
-			"download" : "https://github.com/vcmi-mods/tartarus-town/archive/refs/heads/vcmi-1.7.zip",
+			"mod" : "https://github.com/vcmi-mods/tartarus-town/releases/download/1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/tartarus-town/releases/download/1.7/tartarus-town-vcmi-1.7.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/vcmi-1.7/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/vcmi-1.7/screenshots/screen2.png",
