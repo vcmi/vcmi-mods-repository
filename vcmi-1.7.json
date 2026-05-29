@@ -31,7 +31,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen11.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen12.png"
 			],
-			"downloadSize" : 420.647,
+			"downloadSize" : 420.7,
 			"githubStars" : 82,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/1.7/description.md"
 		},
@@ -147,7 +147,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.7/screenshots/screen4.png",
 				"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.7/screenshots/screen5.png"
 			],
-			"downloadSize" : 55.066,
+			"downloadSize" : 55.069,
 			"githubStars" : 20,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/new-pavilion/1.7/description.md"
 		},
@@ -345,13 +345,13 @@
 		"polish-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/polish-translation/vcmi-1.7/polish-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/polish-translation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 182.163,
+			"downloadSize" : 182.178,
 			"githubStars" : 4
 		},
 		"vcmi-mod-ce-ukr" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/vcmi-mod-ce-ukr/vcmi-1.7/ce-ukr/mod.json",
 			"download" : "https://github.com/vcmi-mods/vcmi-mod-ce-ukr/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 13.739,
+			"downloadSize" : 13.779,
 			"githubStars" : 4,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/vcmi-mod-ce-ukr/vcmi-1.7/screenshots/screen1.png",
@@ -480,8 +480,9 @@
 				"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.7/screenshots/wiki2.png",
 				"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.7/screenshots/wiki3.png"
 			],
-			"downloadSize" : 28.776,
-			"githubStars" : 7
+			"downloadSize" : 28.797,
+			"githubStars" : 7,
+			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/ruins-town/1.7/description.md"
 		},
 		"h3-themes" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.7/h3-themes/mod.json",
@@ -891,7 +892,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.7/screenshots/screen06.png"
 			],
 			"downloadSize" : 74.657,
-			"githubStars" : 8
+			"githubStars" : 9
 		},
 		"mighty-heroes-iii" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/mighty-heroes-iii/vcmi-1.7/mighty-heroes-iii/mod.json",
@@ -1418,7 +1419,7 @@
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/the-great-expansion/vcmi-1.7/screenshots/screen01.png"
 			],
-			"downloadSize" : 33.373,
+			"downloadSize" : 34.899,
 			"githubStars" : 2
 		},
 		"forest-fort" : {
