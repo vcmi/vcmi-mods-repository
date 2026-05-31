@@ -38,7 +38,7 @@
 		"wake-of-gods" : {
 			"mod" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/wake-of-gods-vcmi-1.7.zip",
-			"downloadSize" : 99.12,
+			"downloadSize" : 99.121,
 			"githubStars" : 30,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/screenshots/screen01.png",
@@ -141,13 +141,16 @@
 			"mod" : "https://github.com/vcmi-mods/new-pavilion/releases/download/1.8/mod.json",
 			"download" : "https://github.com/vcmi-mods/new-pavilion/releases/download/1.8/new-pavilion-vcmi-1.8.zip",
 			"screenshots" : [
+				"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.8/screenshots/dunes.png",
+				"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.8/screenshots/Dwarf.png",
 				"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.8/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.8/screenshots/screen2.png",
 				"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.8/screenshots/screen3.png",
 				"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.8/screenshots/screen4.png",
-				"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.8/screenshots/screen5.png"
+				"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.8/screenshots/screen5.png",
+				"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.8/screenshots/Whisperer.png"
 			],
-			"downloadSize" : 55.072,
+			"downloadSize" : 60.805,
 			"githubStars" : 20,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/new-pavilion/1.8/description.md"
 		},
@@ -345,7 +348,7 @@
 		"polish-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/polish-translation/vcmi-1.7/polish-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/polish-translation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 182.19,
+			"downloadSize" : 182.195,
 			"githubStars" : 4
 		},
 		"vcmi-mod-ce-ukr" : {
@@ -465,7 +468,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/haven-town/vcmi-1.7/screenshots/screen3.png"
 			],
 			"downloadSize" : 14.299,
-			"githubStars" : 4
+			"githubStars" : 5
 		},
 		"ruins-town" : {
 			"mod" : "https://github.com/vcmi-mods/ruins-town/releases/download/1.7/mod.json",
@@ -480,7 +483,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.7/screenshots/wiki2.png",
 				"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.7/screenshots/wiki3.png"
 			],
-			"downloadSize" : 28.823,
+			"downloadSize" : 28.848,
 			"githubStars" : 7,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/ruins-town/1.7/description.md"
 		},
