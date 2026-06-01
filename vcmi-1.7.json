@@ -727,8 +727,8 @@
 			"githubStars" : 3
 		},
 		"newtown-terrains" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.7/newtown-terrains/mod.json",
-			"download" : "https://github.com/vcmi-mods/newtown-terrains/archive/refs/heads/vcmi-1.7.zip",
+			"mod" : "https://github.com/vcmi-mods/newtown-terrains/releases/download/1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/newtown-terrains/releases/download/1.7/newtown-terrains-vcmi-1.7.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.7/screenshots/screen10.png",
 				"https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.7/screenshots/screen11.png",
