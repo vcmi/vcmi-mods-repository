@@ -1512,7 +1512,7 @@
 		"hirki-plus-patch" : {
 		"mod" : "https://raw.githubusercontent.com/bewb3w/hirki-plus-patch/main/mod.json",
 		"download" : "https://github.com/bewb3w/hirki-plus-patch/archive/refs/heads/main.zip",
-		"downloadSize" : 2.065
+		"downloadSize" : 2.062
 		}
 	}
 }
