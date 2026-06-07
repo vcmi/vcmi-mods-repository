@@ -1508,6 +1508,11 @@
 				"https://raw.githubusercontent.com/vcmi-mods/reinforcements-spell/vcmi-1.7/screenshots/screen2.png",
 				"https://raw.githubusercontent.com/vcmi-mods/reinforcements-spell/vcmi-1.7/screenshots/screen3.png"
 			]
+		},
+		"hirki-plus-patch" : {
+		"mod" : "https://raw.githubusercontent.com/bewb3w/hirki-plus-patch/main/mod.json",
+		"download" : "https://github.com/bewb3w/hirki-plus-patch/archive/refs/heads/main.zip",
+		"downloadSize" : 2.065
 		}
 	}
 }
