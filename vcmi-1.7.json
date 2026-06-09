@@ -38,7 +38,7 @@
 		"wake-of-gods" : {
 			"mod" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/wake-of-gods-vcmi-1.7.zip",
-			"downloadSize" : 99.125,
+			"downloadSize" : 99.13,
 			"githubStars" : 30,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/screenshots/screen01.png",
@@ -345,7 +345,7 @@
 		"polish-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/polish-translation/vcmi-1.7/polish-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/polish-translation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 182.2,
+			"downloadSize" : 182.199,
 			"githubStars" : 4
 		},
 		"vcmi-mod-ce-ukr" : {
@@ -1510,9 +1510,11 @@
 			]
 		},
 		"hirki-plus-patch" : {
-		"mod" : "https://raw.githubusercontent.com/bewb3w/hirki-plus-patch/main/mod.json",
-		"download" : "https://github.com/bewb3w/hirki-plus-patch/archive/refs/heads/main.zip",
-		"downloadSize" : 3.204
+			"mod" : "https://raw.githubusercontent.com/bewb3w/hirki-plus-patch/main/mod.json",
+			"download" : "https://github.com/bewb3w/hirki-plus-patch/archive/refs/heads/main.zip",
+			"downloadSize" : 1.966,
+			"githubStars" : 0,
+			"descriptionURL" : "https://raw.githubusercontent.com/bewb3w/hirki-plus-patch/main/description.md"
 		}
 	}
 }
