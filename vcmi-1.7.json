@@ -1007,7 +1007,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/tavern-invite/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/tavern-invite/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 0.001,
-			"githubStars" : 1
+			"githubStars" : 2
 		},
 		"ultimate-balance" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/simple-game-balance/vcmi-1.7/mod.json",
@@ -1411,7 +1411,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/vcmi-1.7/screenshots/warcries.png"
 			],
 			"downloadSize" : 110.109,
-			"githubStars" : 10
+			"githubStars" : 11
 		},
 		"the-great-expansion" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/the-great-expansion/vcmi-1.7/the-great-expansion/mod.json",
