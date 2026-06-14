@@ -720,8 +720,8 @@
 			"githubStars" : 5
 		},
 		"asphalt-terrain" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/asphalt-terrain/vcmi-1.7/asphalt-terrain/mod.json",
-			"download" : "https://github.com/vcmi-mods/asphalt-terrain/archive/refs/heads/vcmi-1.7.zip",
+			"mod" : "https://github.com/vcmi-mods/asphalt-terrain/releases/download/1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/asphalt-terrain/releases/download/1.7/asphalt-terrain-vcmi-1.7.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/asphalt-terrain/vcmi-1.7/screenshots/screen01.png",
 				"https://raw.githubusercontent.com/vcmi-mods/asphalt-terrain/vcmi-1.7/screenshots/screen02.png"
