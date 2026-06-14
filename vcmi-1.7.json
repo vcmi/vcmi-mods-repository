@@ -366,8 +366,8 @@
 			"githubStars" : 1
 		},
 		"forge" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/forge/vcmi-1.7/forge/mod.json",
-			"download" : "https://github.com/vcmi-mods/forge/archive/refs/heads/vcmi-1.7.zip",
+			"mod" : "https://github.com/vcmi-mods/forge/releases/download/1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/forge/releases/download/1.7/forge-vcmi-1.7.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/forge/vcmi-1.7/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/forge/vcmi-1.7/screenshots/screen2.png",
@@ -376,7 +376,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/forge/vcmi-1.7/screenshots/screen5.png",
 				"https://raw.githubusercontent.com/vcmi-mods/forge/vcmi-1.7/screenshots/screen6.png"
 			],
-			"downloadSize" : 31.39,
+			"downloadSize" : 31.135,
 			"githubStars" : 7
 		},
 		"ai trace" : {
@@ -741,8 +741,8 @@
 			"githubStars" : 9
 		},
 		"forge2k" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/forge2k/vcmi-1.7/Forge2k/mod.json",
-			"download" : "https://github.com/vcmi-mods/forge2k/archive/refs/heads/vcmi-1.7.zip",
+			"mod" : "https://github.com/vcmi-mods/forge2k/releases/download/1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/forge2k/releases/download/1.7/forge2k-vcmi-1.7.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/forge2k/vcmi-1.7/screenshots/screen01.png",
 				"https://raw.githubusercontent.com/vcmi-mods/forge2k/vcmi-1.7/screenshots/screen02.png"
