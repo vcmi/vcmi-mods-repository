@@ -337,8 +337,8 @@
 			"githubStars" : 1
 		},
 		"vietnamese-translation" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/vietnamese-translation/vcmi-1.7/vietnamese-translation/mod.json",
-			"download" : "https://github.com/vcmi-mods/vietnamese-translation/archive/refs/heads/vcmi-1.7.zip",
+			"mod" : "https://github.com/vcmi-mods/vietnamese-translation/releases/download/1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/vietnamese-translation/releases/download/1.7/vietnamese-translation-vcmi-1.7.zip",
 			"downloadSize" : 6.05,
 			"githubStars" : 1
 		},
