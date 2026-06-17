@@ -38,7 +38,7 @@
 		"wake-of-gods" : {
 			"mod" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/wake-of-gods-vcmi-1.7.zip",
-			"downloadSize" : 99.138,
+			"downloadSize" : 98.838,
 			"githubStars" : 30,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/screenshots/screen01.png",
@@ -376,7 +376,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/forge/vcmi-1.7/screenshots/screen5.png",
 				"https://raw.githubusercontent.com/vcmi-mods/forge/vcmi-1.7/screenshots/screen6.png"
 			],
-			"downloadSize" : 31.143,
+			"downloadSize" : 31.144,
 			"githubStars" : 7
 		},
 		"ai trace" : {
@@ -747,7 +747,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/forge2k/vcmi-1.7/screenshots/screen01.png",
 				"https://raw.githubusercontent.com/vcmi-mods/forge2k/vcmi-1.7/screenshots/screen02.png"
 			],
-			"downloadSize" : 21.92,
+			"downloadSize" : 21.927,
 			"githubStars" : 6
 		},
 		"ab-bad-ending-assets" : {
