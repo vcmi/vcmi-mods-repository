@@ -1355,8 +1355,8 @@
 			"githubStars" : 1
 		},
 		"market-of-time" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/market-of-time/vcmi-1.7/marketOfTime/mod.json",
-			"download" : "https://github.com/vcmi-mods/market-of-time/archive/refs/heads/vcmi-1.7.zip",
+			"mod" : "https://github.com/vcmi-mods/market-of-time/releases/download/1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/market-of-time/releases/download/1.7/market-of-time-vcmi-1.7.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/market-of-time/vcmi-1.7/screenshots/screen1.png"
 			],
