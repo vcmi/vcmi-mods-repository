@@ -38,7 +38,7 @@
 		"wake-of-gods" : {
 			"mod" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/wake-of-gods-vcmi-1.7.zip",
-			"downloadSize" : 98.838,
+			"downloadSize" : 99.022,
 			"githubStars" : 30,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/screenshots/screen01.png",
@@ -1430,8 +1430,8 @@
 				"https://raw.githubusercontent.com/vcmi-mods/forest-fort/vcmi-1.7/screenshots/screen02.png",
 				"https://raw.githubusercontent.com/vcmi-mods/forest-fort/vcmi-1.7/screenshots/screen03.png"
 			],
-			"downloadSize" : 14.746,
-			"githubStars" : 0
+			"downloadSize" : 14.753,
+			"githubStars" : 1
 		},
 		"the-lost-tales" : {
 			"mod" : "https://github.com/vcmi-mods/the-lost-tales/releases/download/1.7/mod.json",
