@@ -1322,7 +1322,7 @@
 		"japanese-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/japanese-translation/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/japanese-translation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 36.048,
+			"downloadSize" : 36.283,
 			"githubStars" : 1
 		},
 		"bulgarian-translation" : {
