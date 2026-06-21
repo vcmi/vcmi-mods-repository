@@ -4,7 +4,7 @@
 			"mod" : "https://github.com/vcmi-mods/vcmi-extras/releases/download/1.8/mod.json",
 			"download" : "https://github.com/vcmi-mods/vcmi-extras/releases/download/1.8/vcmi-extras-vcmi-1.8.zip",
 			"downloadSize" : 11.202,
-			"githubStars" : 33,
+			"githubStars" : 34,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.8/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.8/screenshots/screen2.png",
@@ -38,7 +38,7 @@
 		"wake-of-gods" : {
 			"mod" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/wake-of-gods-vcmi-1.7.zip",
-			"downloadSize" : 99.022,
+			"downloadSize" : 99.039,
 			"githubStars" : 31,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/screenshots/screen01.png",
@@ -163,7 +163,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.7/screenshots/screen3.png"
 			],
 			"downloadSize" : 13.186,
-			"githubStars" : 7
+			"githubStars" : 8
 		},
 		"death-valley-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/death-valley-town/vcmi-1.7/death-valley-town/mod.json",
@@ -484,7 +484,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.7/screenshots/wiki3.png"
 			],
 			"downloadSize" : 28.838,
-			"githubStars" : 7,
+			"githubStars" : 8,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/ruins-town/1.7/description.md"
 		},
 		"h3-themes" : {
@@ -553,7 +553,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/abyss-town/vcmi-1.7/screenshots/screen5.png"
 			],
 			"downloadSize" : 33.005,
-			"githubStars" : 5
+			"githubStars" : 6
 		},
 		"retreat-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/retreat-town/vcmi-1.7/retreat-town/mod.json",
@@ -1325,7 +1325,7 @@
 		"japanese-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/japanese-translation/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/japanese-translation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 36.283,
+			"downloadSize" : 36.34,
 			"githubStars" : 1
 		},
 		"bulgarian-translation" : {
