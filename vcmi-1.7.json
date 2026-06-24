@@ -1322,7 +1322,7 @@
 		"japanese-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/japanese-translation/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/japanese-translation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 38.156,
+			"downloadSize" : 41.1,
 			"githubStars" : 1
 		},
 		"bulgarian-translation" : {
@@ -1430,7 +1430,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/forest-fort/vcmi-1.7/screenshots/screen02.png",
 				"https://raw.githubusercontent.com/vcmi-mods/forest-fort/vcmi-1.7/screenshots/screen03.png"
 			],
-			"downloadSize" : 14.753,
+			"downloadSize" : 14.755,
 			"githubStars" : 1
 		},
 		"the-lost-tales" : {
