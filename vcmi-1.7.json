@@ -31,7 +31,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen11.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen12.png"
 			],
-			"downloadSize" : 420.741,
+			"downloadSize" : 420.76,
 			"githubStars" : 84,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/1.7/description.md"
 		},
@@ -268,7 +268,7 @@
 		"czech-translation" : {
 			"mod" : "https://github.com/vcmi-mods/czech-translation/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/czech-translation/releases/download/1.7/czech-translation-vcmi-1.7.zip",
-			"downloadSize" : 55.72,
+			"downloadSize" : 55.721,
 			"githubStars" : 3,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/czech-translation/vcmi-1.7/screenshots/screen1.png",
@@ -521,7 +521,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/vcmi-1.7/screenshots/screen5.png",
 				"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/vcmi-1.7/screenshots/screen6.png"
 			],
-			"downloadSize" : 20.314,
+			"downloadSize" : 20.313,
 			"githubStars" : 4,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/tartarus-town/1.7/description.md"
 		},
@@ -723,7 +723,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/asphalt-terrain/vcmi-1.7/screenshots/screen01.png",
 				"https://raw.githubusercontent.com/vcmi-mods/asphalt-terrain/vcmi-1.7/screenshots/screen02.png"
 			],
-			"downloadSize" : 14.355,
+			"downloadSize" : 14.356,
 			"githubStars" : 3
 		},
 		"newtown-terrains" : {
@@ -737,7 +737,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.7/screenshots/screen14.png",
 				"https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.7/screenshots/screen15.png"
 			],
-			"downloadSize" : 54.483,
+			"downloadSize" : 54.479,
 			"githubStars" : 9
 		},
 		"forge2k" : {
@@ -1207,7 +1207,7 @@
 		"alternate-townscreens" : {
 			"mod" : "https://github.com/vcmi-mods/alternate-townscreens/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/alternate-townscreens/releases/download/1.7/alternate-townscreens-vcmi-1.7.zip",
-			"downloadSize" : 58.393,
+			"downloadSize" : 58.414,
 			"githubStars" : 3
 		},
 		"a-song-of-ice-and-fire" : {
@@ -1357,7 +1357,7 @@
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/market-of-time/vcmi-1.7/screenshots/screen1.png"
 			],
-			"downloadSize" : 1.328,
+			"downloadSize" : 1.329,
 			"githubStars" : 4
 		},
 		"hd-remastered" : {
@@ -1410,7 +1410,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/vcmi-1.7/screenshots/lightMagic.png",
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/vcmi-1.7/screenshots/warcries.png"
 			],
-			"downloadSize" : 110.132,
+			"downloadSize" : 110.151,
 			"githubStars" : 11
 		},
 		"the-great-expansion" : {
@@ -1436,7 +1436,7 @@
 		"the-lost-tales" : {
 			"mod" : "https://github.com/vcmi-mods/the-lost-tales/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/the-lost-tales/releases/download/1.7/the-lost-tales-vcmi-1.7.zip",
-			"downloadSize" : 83.598,
+			"downloadSize" : 83.609,
 			"githubStars" : 1,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/1.7/description.md",
 			"screenshots" : [
@@ -1498,14 +1498,14 @@
 		"an-expansion" : {
 			"mod" : "https://github.com/vcmi-mods/an-expansion/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/an-expansion/releases/download/1.7/an-expansion-vcmi-1.7.zip",
-			"downloadSize" : 1.144,
+			"downloadSize" : 1.114,
 			"githubStars" : 5,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/an-expansion/1.7/description.md"
 		},
 		"reinforcements-spell" : {
 			"mod" : "https://github.com/vcmi-mods/reinforcements-spell/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/reinforcements-spell/releases/download/1.7/reinforcements-spell-vcmi-1.7.zip",
-			"downloadSize" : 0.621,
+			"downloadSize" : 0.622,
 			"githubStars" : 0,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/reinforcements-spell/vcmi-1.7/screenshots/screen1.png",
@@ -1516,7 +1516,7 @@
 		"hirki-plus-patch" : {
 			"mod" : "https://github.com/vcmi-mods/hirki-plus-patch/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/hirki-plus-patch/releases/download/1.7/hirki-plus-patch-vcmi-1.7.zip",
-			"downloadSize" : 2.169,
+			"downloadSize" : 2.17,
 			"githubStars" : 0,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/hirki-plus-patch/1.7/description.md"
 		}
