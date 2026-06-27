@@ -521,7 +521,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/vcmi-1.7/screenshots/screen5.png",
 				"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/vcmi-1.7/screenshots/screen6.png"
 			],
-			"downloadSize" : 20.313,
+			"downloadSize" : 20.314,
 			"githubStars" : 4,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/tartarus-town/1.7/description.md"
 		},
@@ -1436,7 +1436,7 @@
 		"the-lost-tales" : {
 			"mod" : "https://github.com/vcmi-mods/the-lost-tales/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/the-lost-tales/releases/download/1.7/the-lost-tales-vcmi-1.7.zip",
-			"downloadSize" : 83.609,
+			"downloadSize" : 83.61,
 			"githubStars" : 1,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/1.7/description.md",
 			"screenshots" : [
