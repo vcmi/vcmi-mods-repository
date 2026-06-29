@@ -4,7 +4,7 @@
 			"mod" : "https://github.com/vcmi-mods/vcmi-extras/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/vcmi-extras/releases/download/1.7/vcmi-extras-vcmi-1.7.zip",
 			"downloadSize" : 11.201,
-			"githubStars" : 34,
+			"githubStars" : 36,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.7/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.7/screenshots/screen2.png",
@@ -31,8 +31,8 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen11.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen12.png"
 			],
-			"downloadSize" : 420.771,
-			"githubStars" : 84,
+			"downloadSize" : 420.779,
+			"githubStars" : 85,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/1.7/description.md"
 		},
 		"wake-of-gods" : {
@@ -81,7 +81,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/courtyard/vcmi-1.7/screenshots/wiki5.png"
 			],
 			"downloadSize" : 32.966,
-			"githubStars" : 7
+			"githubStars" : 8
 		},
 		"neutral-heroes" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/neutral-heroes/vcmi-1.7/mod.json",
@@ -166,7 +166,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/death-valley-town/vcmi-1.7/death-valley-town/mod.json",
 			"download" : "https://github.com/vcmi-mods/death-valley-town/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 25.11,
-			"githubStars" : 3,
+			"githubStars" : 4,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/death-valley-town/vcmi-1.7/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/death-valley-town/vcmi-1.7/screenshots/screen2.png",
@@ -481,7 +481,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.7/screenshots/wiki3.png"
 			],
 			"downloadSize" : 28.838,
-			"githubStars" : 8,
+			"githubStars" : 9,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/ruins-town/1.7/description.md"
 		},
 		"h3-themes" : {
@@ -1322,7 +1322,7 @@
 		"japanese-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/japanese-translation/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/japanese-translation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 41.1,
+			"downloadSize" : 50.803,
 			"githubStars" : 1
 		},
 		"bulgarian-translation" : {
@@ -1411,7 +1411,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/vcmi-1.7/screenshots/warcries.png"
 			],
 			"downloadSize" : 110.151,
-			"githubStars" : 11
+			"githubStars" : 12
 		},
 		"the-great-expansion" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/the-great-expansion/vcmi-1.7/the-great-expansion/mod.json",
@@ -1517,7 +1517,7 @@
 			"mod" : "https://github.com/vcmi-mods/hirki-plus-patch/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/hirki-plus-patch/releases/download/1.7/hirki-plus-patch-vcmi-1.7.zip",
 			"downloadSize" : 2.17,
-			"githubStars" : 0,
+			"githubStars" : 1,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/hirki-plus-patch/1.7/description.md"
 		}
 	}
