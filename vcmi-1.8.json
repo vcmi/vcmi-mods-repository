@@ -151,7 +151,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.8/screenshots/Whisperer.png"
 			],
 			"downloadSize" : 60.824,
-			"githubStars" : 20,
+			"githubStars" : 21,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/new-pavilion/1.8/description.md"
 		},
 		"cathedral-town" : {
@@ -815,7 +815,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/ensrick-portraits/vcmi-1.7/screenshots/Yog.png"
 			],
 			"downloadSize" : 113.523,
-			"githubStars" : 9
+			"githubStars" : 10
 		},
 		"morns-battlefields" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/morns-battlefields/vcmi-1.7/morns-battlefields/mod.json",
