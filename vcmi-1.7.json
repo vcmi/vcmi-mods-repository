@@ -1098,8 +1098,8 @@
 			"githubStars" : 0
 		},
 		"new-monsters-pack" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-monsters-pack/vcmi-1.7/new-monsters-pack/mod.json",
-			"download" : "https://github.com/vcmi-mods/new-monsters-pack/archive/refs/heads/vcmi-1.7.zip",
+			"mod" : "https://github.com/vcmi-mods/new-monsters-pack/releases/download/1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/new-monsters-pack/releases/download/1.7/new-monsters-pack-vcmi-1.7.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/new-monsters-pack/vcmi-1.7/screenshots/screen01.png",
 				"https://raw.githubusercontent.com/vcmi-mods/new-monsters-pack/vcmi-1.7/screenshots/screen02.png",
