@@ -3,7 +3,7 @@
 		"vcmi-extras" : {
 			"mod" : "https://github.com/vcmi-mods/vcmi-extras/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/vcmi-extras/releases/download/1.7/vcmi-extras-vcmi-1.7.zip",
-			"downloadSize" : 11.201,
+			"downloadSize" : 11.202,
 			"githubStars" : 36,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.7/screenshots/screen1.png",
@@ -31,7 +31,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen11.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen12.png"
 			],
-			"downloadSize" : 420.796,
+			"downloadSize" : 420.799,
 			"githubStars" : 85,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/1.7/description.md"
 		},
@@ -340,7 +340,7 @@
 		"vietnamese-translation" : {
 			"mod" : "https://github.com/vcmi-mods/vietnamese-translation/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/vietnamese-translation/releases/download/1.7/vietnamese-translation-vcmi-1.7.zip",
-			"downloadSize" : 6.043,
+			"downloadSize" : 6.044,
 			"githubStars" : 1
 		},
 		"polish-translation" : {
@@ -465,7 +465,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/haven-town/vcmi-1.7/screenshots/screen2.png",
 				"https://raw.githubusercontent.com/vcmi-mods/haven-town/vcmi-1.7/screenshots/screen3.png"
 			],
-			"downloadSize" : 14.12,
+			"downloadSize" : 14.128,
 			"githubStars" : 5
 		},
 		"ruins-town" : {
@@ -481,7 +481,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.7/screenshots/wiki2.png",
 				"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.7/screenshots/wiki3.png"
 			],
-			"downloadSize" : 28.838,
+			"downloadSize" : 28.839,
 			"githubStars" : 9,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/ruins-town/1.7/description.md"
 		},
@@ -1112,7 +1112,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/new-monsters-pack/vcmi-1.7/screenshots/screen09.png",
 				"https://raw.githubusercontent.com/vcmi-mods/new-monsters-pack/vcmi-1.7/screenshots/screen10.png"
 			],
-			"downloadSize" : 211.861,
+			"downloadSize" : 211.869,
 			"githubStars" : 1
 		},
 		"czech-map-pack" : {
@@ -1437,7 +1437,7 @@
 		"the-lost-tales" : {
 			"mod" : "https://github.com/vcmi-mods/the-lost-tales/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/the-lost-tales/releases/download/1.7/the-lost-tales-vcmi-1.7.zip",
-			"downloadSize" : 83.611,
+			"downloadSize" : 83.612,
 			"githubStars" : 1,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/1.7/description.md",
 			"screenshots" : [
