@@ -31,7 +31,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen11.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen12.png"
 			],
-			"downloadSize" : 420.799,
+			"downloadSize" : 420.797,
 			"githubStars" : 85,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/1.7/description.md"
 		},
@@ -243,8 +243,14 @@
 		"korean-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/korean-translation/vcmi-1.7/korean-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/korean-translation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 5.803,
-			"githubStars" : 0
+			"downloadSize" : 8.939,
+			"githubStars" : 0,
+			"screenshots" : [
+				"https://raw.githubusercontent.com/vcmi-mods/korean-translation/vcmi-1.7/screenshots/screen1.png",
+				"https://raw.githubusercontent.com/vcmi-mods/korean-translation/vcmi-1.7/screenshots/screen2.png",
+				"https://raw.githubusercontent.com/vcmi-mods/korean-translation/vcmi-1.7/screenshots/screen3.png",
+				"https://raw.githubusercontent.com/vcmi-mods/korean-translation/vcmi-1.7/screenshots/screen4.png"
+			]
 		},
 		"latvian-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/latvian-translation/vcmi-1.7/mod.json",
@@ -305,9 +311,10 @@
 			"download" : "https://github.com/vcmi-mods/swedish-translation/archive/refs/heads/vcmi-1.7.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/swedish-translation/vcmi-1.7/screenshots/screen1.png",
-				"https://raw.githubusercontent.com/vcmi-mods/swedish-translation/vcmi-1.7/screenshots/screen2.png"
+				"https://raw.githubusercontent.com/vcmi-mods/swedish-translation/vcmi-1.7/screenshots/screen2.png",
+				"https://raw.githubusercontent.com/vcmi-mods/swedish-translation/vcmi-1.7/screenshots/screen3.png"
 			],
-			"downloadSize" : 22.034,
+			"downloadSize" : 22.949,
 			"githubStars" : 0
 		},
 		"turkish-translation" : {
