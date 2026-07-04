@@ -38,7 +38,7 @@
 		"wake-of-gods" : {
 			"mod" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/wake-of-gods-vcmi-1.7.zip",
-			"downloadSize" : 99.039,
+			"downloadSize" : 99.044,
 			"githubStars" : 31,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/screenshots/screen01.png",
@@ -205,9 +205,10 @@
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/dutch-translation/vcmi-1.7/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/dutch-translation/vcmi-1.7/screenshots/screen2.png",
-				"https://raw.githubusercontent.com/vcmi-mods/dutch-translation/vcmi-1.7/screenshots/screen3.png"
+				"https://raw.githubusercontent.com/vcmi-mods/dutch-translation/vcmi-1.7/screenshots/screen3.png",
+				"https://raw.githubusercontent.com/vcmi-mods/dutch-translation/vcmi-1.7/screenshots/screen4.png"
 			],
-			"downloadSize" : 5.274,
+			"downloadSize" : 10.444,
 			"githubStars" : 1
 		},
 		"filipino-translation" : {
@@ -969,7 +970,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/H3Evo/vcmi-1.7/Screenshots/ToW%20alternate%20creatures%20-%20Tower%20Recruting%20Screen.png"
 			],
 			"downloadSize" : 7.641,
-			"githubStars" : 0
+			"githubStars" : 1
 		},
 		"small-era-mods" : {
 			"mod" : "https://github.com/vcmi-mods/small-era-mods/releases/download/1.7/mod.json",
@@ -1379,7 +1380,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/HD-remastered/vcmi-1.7/screenshots/OH3.png"
 			],
 			"downloadSize" : 126.227,
-			"githubStars" : 6
+			"githubStars" : 7
 		},
 		"more-secondary" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/more-secondary/vcmi-1.7/more-secondary/mod.json",
@@ -1405,7 +1406,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/mmai/vcmi-1.8-latest/screenshots/screenshot-01.png"
 			],
 			"downloadSize" : 56.746,
-			"githubStars" : 10
+			"githubStars" : 11
 		},
 		"tears-of-ashan" : {
 			"mod" : "https://github.com/vcmi-mods/tears-of-ashan/releases/download/1.7/mod.json",
