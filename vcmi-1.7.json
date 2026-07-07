@@ -31,14 +31,14 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen11.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen12.png"
 			],
-			"downloadSize" : 420.812,
+			"downloadSize" : 421.361,
 			"githubStars" : 86,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/1.7/description.md"
 		},
 		"wake-of-gods" : {
 			"mod" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/wake-of-gods-vcmi-1.7.zip",
-			"downloadSize" : 99.208,
+			"downloadSize" : 99.207,
 			"githubStars" : 31,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/screenshots/screen01.png",
@@ -205,7 +205,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/dutch-translation/vcmi-1.7/screenshots/screen3.png",
 				"https://raw.githubusercontent.com/vcmi-mods/dutch-translation/vcmi-1.7/screenshots/screen4.png"
 			],
-			"downloadSize" : 10.554,
+			"downloadSize" : 10.582,
 			"githubStars" : 1
 		},
 		"filipino-translation" : {
@@ -530,7 +530,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/vcmi-1.7/screenshots/screen5.png",
 				"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/vcmi-1.7/screenshots/screen6.png"
 			],
-			"downloadSize" : 20.314,
+			"downloadSize" : 20.316,
 			"githubStars" : 4,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/tartarus-town/1.7/description.md"
 		},
@@ -1419,7 +1419,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/vcmi-1.7/screenshots/lightMagic.png",
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/vcmi-1.7/screenshots/warcries.png"
 			],
-			"downloadSize" : 110.152,
+			"downloadSize" : 110.153,
 			"githubStars" : 12
 		},
 		"the-great-expansion" : {
