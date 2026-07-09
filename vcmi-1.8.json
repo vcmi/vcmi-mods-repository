@@ -318,7 +318,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/swedish-translation/vcmi-1.7/screenshots/screen2.png",
 				"https://raw.githubusercontent.com/vcmi-mods/swedish-translation/vcmi-1.7/screenshots/screen3.png"
 			],
-			"downloadSize" : 22.951,
+			"downloadSize" : 22.952,
 			"githubStars" : 0
 		},
 		"turkish-translation" : {
@@ -357,7 +357,7 @@
 		"polish-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/polish-translation/vcmi-1.7/polish-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/polish-translation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 182.2,
+			"downloadSize" : 182.198,
 			"githubStars" : 4
 		},
 		"vcmi-mod-ce-ukr" : {
@@ -1129,8 +1129,8 @@
 		"czech-map-pack" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/czech-map-pack/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/czech-map-pack/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 14.94,
-			"githubStars" : 0
+			"downloadSize" : 15.936,
+			"githubStars" : 1
 		},
 		"modder-tools-pack" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/modder-tools-pack/main/modder-tools-pack/mod.json",
