@@ -725,7 +725,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/refugee-town/vcmi-1.7/screenshots/screen6.png",
 				"https://raw.githubusercontent.com/vcmi-mods/refugee-town/vcmi-1.7/screenshots/screen7.png"
 			],
-			"downloadSize" : 38.993,
+			"downloadSize" : 38.998,
 			"githubStars" : 5
 		},
 		"asphalt-terrain" : {
@@ -1185,7 +1185,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/fused-artifacts/vcmi-1.7/screenshots/screen01.png"
 			],
 			"downloadSize" : 0.935,
-			"githubStars" : 2
+			"githubStars" : 3
 		},
 		"immortal-cultivation-heroes" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/immortal-cultivation-heroes/vcmi-1.7/lmods/mod.json",
@@ -1196,7 +1196,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/immortal-cultivation-heroes/vcmi-1.7/screenshots/screen3.png"
 			],
 			"downloadSize" : 21.976,
-			"githubStars" : 0
+			"githubStars" : 1
 		},
 		"heroes3-extended-soundtrack" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/heroes3-extended-soundtrack/main/mod.json",
@@ -1367,7 +1367,7 @@
 			"mod" : "https://github.com/vcmi-mods/market-of-time/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/market-of-time/releases/download/1.7/market-of-time-vcmi-1.7.zip",
 			"screenshots" : [
-				"https://raw.githubusercontent.com/vcmi-mods/market-of-time/vcmi-1.7/screenshots/screen1.png"
+				"https://raw.githubusercontent.com/vcmi-mods/market-of-time/1.7/screenshots/screen1.png"
 			],
 			"downloadSize" : 1.329,
 			"githubStars" : 4
