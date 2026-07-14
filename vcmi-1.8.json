@@ -1547,6 +1547,6 @@
 			"mod" : "https://github.com/vcmi-mods/sylvan-town/releases/download/1.8/mod.json",
 			"download" : "https://github.com/vcmi-mods/sylvan-town/releases/download/1.8/sylvan-town-vcmi-1.8.zip",
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/sylvan-town/1.8/description.md"
-		},
+		}
 	}
 }
