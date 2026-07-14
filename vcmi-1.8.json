@@ -1546,7 +1546,17 @@
 		"sylvan-town" : {
 			"mod" : "https://github.com/vcmi-mods/sylvan-town/releases/download/1.8/mod.json",
 			"download" : "https://github.com/vcmi-mods/sylvan-town/releases/download/1.8/sylvan-town-vcmi-1.8.zip",
-			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/sylvan-town/1.8/description.md"
+			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/sylvan-town/1.8/description.md",
+			"downloadSize" : 17.384,
+			"githubStars" : 0,
+			"screenshots" : [
+				"https://raw.githubusercontent.com/vcmi-mods/sylvan-town/vcmi-1.8/screenshots/screen01.png",
+				"https://raw.githubusercontent.com/vcmi-mods/sylvan-town/vcmi-1.8/screenshots/screen02.png",
+				"https://raw.githubusercontent.com/vcmi-mods/sylvan-town/vcmi-1.8/screenshots/screen03.png",
+				"https://raw.githubusercontent.com/vcmi-mods/sylvan-town/vcmi-1.8/screenshots/screen04.png",
+				"https://raw.githubusercontent.com/vcmi-mods/sylvan-town/vcmi-1.8/screenshots/screen05.png",
+				"https://raw.githubusercontent.com/vcmi-mods/sylvan-town/vcmi-1.8/screenshots/screen06.png"
+			]
 		}
 	}
 }
