@@ -32,7 +32,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.8/screenshots/screen12.png"
 			],
 			"downloadSize" : 421.367,
-			"githubStars" : 86,
+			"githubStars" : 87,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/1.8/description.md"
 		},
 		"wake-of-gods" : {
@@ -208,7 +208,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/dutch-translation/vcmi-1.7/screenshots/screen3.png",
 				"https://raw.githubusercontent.com/vcmi-mods/dutch-translation/vcmi-1.7/screenshots/screen4.png"
 			],
-			"downloadSize" : 10.582,
+			"downloadSize" : 10.724,
 			"githubStars" : 1
 		},
 		"filipino-translation" : {
@@ -1123,7 +1123,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/new-monsters-pack/vcmi-1.7/screenshots/screen09.png",
 				"https://raw.githubusercontent.com/vcmi-mods/new-monsters-pack/vcmi-1.7/screenshots/screen10.png"
 			],
-			"downloadSize" : 211.869,
+			"downloadSize" : 211.878,
 			"githubStars" : 1
 		},
 		"czech-map-pack" : {
@@ -1367,7 +1367,7 @@
 			"mod" : "https://github.com/vcmi-mods/market-of-time/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/market-of-time/releases/download/1.7/market-of-time-vcmi-1.7.zip",
 			"screenshots" : [
-				"https://raw.githubusercontent.com/vcmi-mods/market-of-time/1.7/screenshots/screen1.png"
+				"https://raw.githubusercontent.com/vcmi-mods/market-of-time/vcmi-1.7/screenshots/screen1.png"
 			],
 			"downloadSize" : 1.329,
 			"githubStars" : 4
@@ -1433,7 +1433,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/vcmi-1.7/screenshots/toa_promo_town_sanctuary.png",
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/vcmi-1.7/screenshots/warcries.png"
 			],
-			"downloadSize" : 146.686,
+			"downloadSize" : 146.688,
 			"githubStars" : 12
 		},
 		"the-great-expansion" : {
@@ -1540,7 +1540,7 @@
 			"mod" : "https://github.com/vcmi-mods/hirki-plus-patch/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/hirki-plus-patch/releases/download/1.7/hirki-plus-patch-vcmi-1.7.zip",
 			"downloadSize" : 2.217,
-			"githubStars" : 1,
+			"githubStars" : 2,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/hirki-plus-patch/1.7/description.md"
 		}
 	}
