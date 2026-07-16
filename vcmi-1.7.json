@@ -4,7 +4,7 @@
 			"mod" : "https://github.com/vcmi-mods/vcmi-extras/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/vcmi-extras/releases/download/1.7/vcmi-extras-vcmi-1.7.zip",
 			"downloadSize" : 11.202,
-			"githubStars" : 36,
+			"githubStars" : 37,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.7/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.7/screenshots/screen2.png",
@@ -1430,8 +1430,8 @@
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/vcmi-1.7/screenshots/toa_promo_town_sanctuary.png",
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/vcmi-1.7/screenshots/warcries.png"
 			],
-			"downloadSize" : 146.688,
-			"githubStars" : 12
+			"downloadSize" : 127.607,
+			"githubStars" : 13
 		},
 		"the-great-expansion" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/the-great-expansion/vcmi-1.7/the-great-expansion/mod.json",
