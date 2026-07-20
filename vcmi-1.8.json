@@ -31,7 +31,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.8/screenshots/screen11.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.8/screenshots/screen12.png"
 			],
-			"downloadSize" : 421.367,
+			"downloadSize" : 421.295,
 			"githubStars" : 88,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/1.8/description.md"
 		},
@@ -318,7 +318,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/swedish-translation/vcmi-1.7/screenshots/screen2.png",
 				"https://raw.githubusercontent.com/vcmi-mods/swedish-translation/vcmi-1.7/screenshots/screen3.png"
 			],
-			"downloadSize" : 22.955,
+			"downloadSize" : 22.959,
 			"githubStars" : 0
 		},
 		"turkish-translation" : {
@@ -548,8 +548,9 @@
 				"https://raw.githubusercontent.com/vcmi-mods/preserve-town/vcmi-1.7/screenshots/screen5.png",
 				"https://raw.githubusercontent.com/vcmi-mods/preserve-town/vcmi-1.7/screenshots/screen6.png"
 			],
-			"downloadSize" : 21.401,
-			"githubStars" : 5
+			"downloadSize" : 21.419,
+			"githubStars" : 5,
+			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/preserve-town/1.7/description.md"
 		},
 		"abyss-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/abyss-town/vcmi-1.7/abyss-town/mod.json",
