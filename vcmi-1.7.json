@@ -31,14 +31,14 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen11.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen12.png"
 			],
-			"downloadSize" : 422.147,
+			"downloadSize" : 422.15,
 			"githubStars" : 88,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/1.7/description.md"
 		},
 		"wake-of-gods" : {
 			"mod" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/wake-of-gods-vcmi-1.7.zip",
-			"downloadSize" : 99.224,
+			"downloadSize" : 99.226,
 			"githubStars" : 32,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/screenshots/screen01.png",
@@ -822,7 +822,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/ensrick-portraits/vcmi-1.7/screenshots/Yog.png"
 			],
 			"downloadSize" : 113.523,
-			"githubStars" : 10
+			"githubStars" : 11
 		},
 		"morns-battlefields" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/morns-battlefields/vcmi-1.7/morns-battlefields/mod.json",
