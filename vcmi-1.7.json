@@ -32,8 +32,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen12.png"
 			],
 			"downloadSize" : 422.154,
-			"githubStars" : 89,
-			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/1.7/description.md"
+			"githubStars" : 89
 		},
 		"wake-of-gods" : {
 			"mod" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/mod.json",
@@ -52,8 +51,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/screenshots/screen09.png",
 				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/screenshots/screen10.png",
 				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/screenshots/screen11.png"
-			],
-			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/1.7/description.md"
+			]
 		},
 		"tides-of-war" : {
 			"mod" : "https://github.com/vcmi-mods/tides-of-war/releases/download/1.7/mod.json",
@@ -148,8 +146,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/new-pavilion/vcmi-1.7/screenshots/screen5.png"
 			],
 			"downloadSize" : 55.094,
-			"githubStars" : 21,
-			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/new-pavilion/1.7/description.md"
+			"githubStars" : 21
 		},
 		"cathedral-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.7/cathedral-town/mod.json",
@@ -490,8 +487,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.7/screenshots/wiki3.png"
 			],
 			"downloadSize" : 28.845,
-			"githubStars" : 10,
-			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/ruins-town/1.7/description.md"
+			"githubStars" : 10
 		},
 		"h3-themes" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.7/h3-themes/mod.json",
@@ -531,8 +527,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/vcmi-1.7/screenshots/screen6.png"
 			],
 			"downloadSize" : 20.316,
-			"githubStars" : 4,
-			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/tartarus-town/1.7/description.md"
+			"githubStars" : 4
 		},
 		"preserve-town" : {
 			"mod" : "https://github.com/vcmi-mods/preserve-town/releases/download/1.7/mod.json",
@@ -546,8 +541,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/preserve-town/vcmi-1.7/screenshots/screen6.png"
 			],
 			"downloadSize" : 21.419,
-			"githubStars" : 5,
-			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/preserve-town/1.7/description.md"
+			"githubStars" : 5
 		},
 		"abyss-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/abyss-town/vcmi-1.7/abyss-town/mod.json",
@@ -1459,7 +1453,6 @@
 			"download" : "https://github.com/vcmi-mods/the-lost-tales/releases/download/1.7/the-lost-tales-vcmi-1.7.zip",
 			"downloadSize" : 83.612,
 			"githubStars" : 1,
-			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/1.7/description.md",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/vcmi-1.7/screenshots/ALTERNATIVE_CREATURES_CASTLE.png",
 				"https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/vcmi-1.7/screenshots/ALTERNATIVE_CREATURES_CONFLUX.png",
@@ -1492,7 +1485,6 @@
 		"h3landscape" : {
 			"mod" : "https://github.com/vcmi-mods/h3landscape/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/h3landscape/releases/download/1.7/h3landscape-vcmi-1.7.zip",
-			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/h3landscape/1.7/description.md",
 			"downloadSize" : 34.945,
 			"githubStars" : 1
 		},
@@ -1520,8 +1512,7 @@
 			"mod" : "https://github.com/vcmi-mods/an-expansion/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/an-expansion/releases/download/1.7/an-expansion-vcmi-1.7.zip",
 			"downloadSize" : 1.114,
-			"githubStars" : 5,
-			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/an-expansion/1.7/description.md"
+			"githubStars" : 5
 		},
 		"reinforcements-spell" : {
 			"mod" : "https://github.com/vcmi-mods/reinforcements-spell/releases/download/1.7/mod.json",
@@ -1538,8 +1529,7 @@
 			"mod" : "https://github.com/vcmi-mods/hirki-plus-patch/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/hirki-plus-patch/releases/download/1.7/hirki-plus-patch-vcmi-1.7.zip",
 			"downloadSize" : 2.28,
-			"githubStars" : 2,
-			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/hirki-plus-patch/1.7/description.md"
+			"githubStars" : 2
 		}
 	}
 }
