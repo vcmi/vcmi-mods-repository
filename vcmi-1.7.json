@@ -31,15 +31,15 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen11.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen12.png"
 			],
-			"downloadSize" : 422.15,
-			"githubStars" : 88,
+			"downloadSize" : 422.154,
+			"githubStars" : 89,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/1.7/description.md"
 		},
 		"wake-of-gods" : {
 			"mod" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/wake-of-gods-vcmi-1.7.zip",
 			"downloadSize" : 99.226,
-			"githubStars" : 32,
+			"githubStars" : 34,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/screenshots/screen01.png",
 				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/screenshots/screen02.png",
@@ -316,7 +316,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/swedish-translation/vcmi-1.7/screenshots/screen3.png"
 			],
 			"downloadSize" : 22.959,
-			"githubStars" : 0
+			"githubStars" : 1
 		},
 		"turkish-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/turkish-translation/vcmi-1.7/turkish-translation/mod.json",
@@ -490,7 +490,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/ruins-town/vcmi-1.7/screenshots/wiki3.png"
 			],
 			"downloadSize" : 28.845,
-			"githubStars" : 9,
+			"githubStars" : 10,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/ruins-town/1.7/description.md"
 		},
 		"h3-themes" : {
@@ -1133,8 +1133,8 @@
 		"modder-tools-pack" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/modder-tools-pack/main/modder-tools-pack/mod.json",
 			"download" : "https://github.com/vcmi-mods/modder-tools-pack/archive/refs/heads/main.zip",
-			"downloadSize" : 84.759,
-			"githubStars" : 5
+			"downloadSize" : 84.764,
+			"githubStars" : 6
 		},
 		"heroes-o-pedia" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/heroes-o-pedia/vcmi-1.7/heroes-o-pedia/mod.json",
