@@ -1530,6 +1530,15 @@
 			"download" : "https://github.com/vcmi-mods/hirki-plus-patch/releases/download/1.7/hirki-plus-patch-vcmi-1.7.zip",
 			"downloadSize" : 2.096,
 			"githubStars" : 2
+		},
+		"dragon-citadel" : {
+			"mod" : "https://raw.githubusercontent.com/czcmjkfvy4-dotcom/Jakubabuba/main/mod.json",
+			"download" : "https://github.com/czcmjkfvy4-dotcom/Jakubabuba/archive/refs/heads/main.zip",
+			"downloadSize" : 31.84,
+			"screenshots" : [
+				"https://raw.githubusercontent.com/czcmjkfvy4-dotcom/Jakubabuba/main/screenshots/town-screen.png",
+				"https://raw.githubusercontent.com/czcmjkfvy4-dotcom/Jakubabuba/main/screenshots/building-catalog.png"
+			]
 		}
 	}
 }
