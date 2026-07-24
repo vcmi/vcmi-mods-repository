@@ -37,7 +37,7 @@
 		"wake-of-gods" : {
 			"mod" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/wake-of-gods-vcmi-1.7.zip",
-			"downloadSize" : 99.099,
+			"downloadSize" : 99.061,
 			"githubStars" : 34,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/screenshots/screen01.png",
@@ -276,7 +276,7 @@
 		"czech-translation" : {
 			"mod" : "https://github.com/vcmi-mods/czech-translation/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/czech-translation/releases/download/1.7/czech-translation-vcmi-1.7.zip",
-			"downloadSize" : 55.749,
+			"downloadSize" : 55.747,
 			"githubStars" : 3,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/czech-translation/vcmi-1.7/screenshots/screen1.png",
@@ -385,7 +385,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/forge/vcmi-1.7/screenshots/screen5.png",
 				"https://raw.githubusercontent.com/vcmi-mods/forge/vcmi-1.7/screenshots/screen6.png"
 			],
-			"downloadSize" : 31.15,
+			"downloadSize" : 31.154,
 			"githubStars" : 7
 		},
 		"ai trace" : {
@@ -529,7 +529,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/vcmi-1.7/screenshots/screen5.png",
 				"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/vcmi-1.7/screenshots/screen6.png"
 			],
-			"downloadSize" : 20.332,
+			"downloadSize" : 20.33,
 			"githubStars" : 4
 		},
 		"preserve-town" : {
@@ -688,7 +688,7 @@
 		"lotrd-townscreens" : {
 			"mod" : "https://github.com/vcmi-mods/lotrd-townscreens/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/lotrd-townscreens/releases/download/1.7/lotrd-townscreens-vcmi-1.7.zip",
-			"downloadSize" : 24.289,
+			"downloadSize" : 24.283,
 			"githubStars" : 1,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/lotrd-townscreens/vcmi-1.7/screenshots/screen1.png",
@@ -720,7 +720,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/refugee-town/vcmi-1.7/screenshots/screen6.png",
 				"https://raw.githubusercontent.com/vcmi-mods/refugee-town/vcmi-1.7/screenshots/screen7.png"
 			],
-			"downloadSize" : 38.634,
+			"downloadSize" : 38.635,
 			"githubStars" : 5
 		},
 		"asphalt-terrain" : {
@@ -744,7 +744,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.8/screenshots/screen14.png",
 				"https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.8/screenshots/screen15.png"
 			],
-			"downloadSize" : 54.103,
+			"downloadSize" : 54.104,
 			"githubStars" : 9
 		},
 		"forge2k" : {
@@ -754,7 +754,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/forge2k/vcmi-1.7/screenshots/screen01.png",
 				"https://raw.githubusercontent.com/vcmi-mods/forge2k/vcmi-1.7/screenshots/screen02.png"
 			],
-			"downloadSize" : 21.829,
+			"downloadSize" : 21.828,
 			"githubStars" : 6
 		},
 		"ab-bad-ending-assets" : {
@@ -764,7 +764,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-assets/vcmi-1.7/screenshots/screen01.png",
 				"https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-assets/vcmi-1.7/screenshots/screen02.png"
 			],
-			"downloadSize" : 16.451,
+			"downloadSize" : 16.46,
 			"githubStars" : 3
 		},
 		"ab-bad-ending-maps" : {
@@ -1118,7 +1118,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/new-monsters-pack/vcmi-1.7/screenshots/screen09.png",
 				"https://raw.githubusercontent.com/vcmi-mods/new-monsters-pack/vcmi-1.7/screenshots/screen10.png"
 			],
-			"downloadSize" : 211.497,
+			"downloadSize" : 211.488,
 			"githubStars" : 1
 		},
 		"czech-map-pack" : {
@@ -1214,7 +1214,7 @@
 		"alternate-townscreens" : {
 			"mod" : "https://github.com/vcmi-mods/alternate-townscreens/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/alternate-townscreens/releases/download/1.7/alternate-townscreens-vcmi-1.7.zip",
-			"downloadSize" : 58.442,
+			"downloadSize" : 58.418,
 			"githubStars" : 3
 		},
 		"a-song-of-ice-and-fire" : {
@@ -1364,7 +1364,7 @@
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/market-of-time/vcmi-1.7/screenshots/screen1.png"
 			],
-			"downloadSize" : 1.344,
+			"downloadSize" : 1.345,
 			"githubStars" : 4
 		},
 		"hd-remastered" : {
@@ -1374,7 +1374,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/HD-remastered/vcmi-1.7/screenshots/HDRemastered.png",
 				"https://raw.githubusercontent.com/vcmi-mods/HD-remastered/vcmi-1.7/screenshots/OH3.png"
 			],
-			"downloadSize" : 125.857,
+			"downloadSize" : 125.478,
 			"githubStars" : 7
 		},
 		"more-secondary" : {
@@ -1428,7 +1428,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/vcmi-1.7/screenshots/toa_promo_town_sanctuary.png",
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/vcmi-1.7/screenshots/warcries.png"
 			],
-			"downloadSize" : 127.625,
+			"downloadSize" : 127.626,
 			"githubStars" : 13
 		},
 		"the-great-expansion" : {
