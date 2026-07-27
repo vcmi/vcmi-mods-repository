@@ -31,7 +31,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.8/screenshots/screen11.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.8/screenshots/screen12.png"
 			],
-			"downloadSize" : 420.048,
+			"downloadSize" : 420.075,
 			"githubStars" : 89
 		},
 		"wake-of-gods" : {
@@ -56,7 +56,7 @@
 		"tides-of-war" : {
 			"mod" : "https://github.com/vcmi-mods/tides-of-war/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/tides-of-war/releases/download/1.7/tides-of-war-vcmi-1.7.zip",
-			"downloadSize" : 28.695,
+			"downloadSize" : 28.697,
 			"githubStars" : 20,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/tides-of-war/vcmi-1.7/screenshots/screen1.png"
@@ -764,7 +764,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-assets/vcmi-1.7/screenshots/screen01.png",
 				"https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-assets/vcmi-1.7/screenshots/screen02.png"
 			],
-			"downloadSize" : 16.46,
+			"downloadSize" : 16.461,
 			"githubStars" : 3
 		},
 		"ab-bad-ending-maps" : {
@@ -1428,7 +1428,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/vcmi-1.7/screenshots/toa_promo_town_sanctuary.png",
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/vcmi-1.7/screenshots/warcries.png"
 			],
-			"downloadSize" : 127.649,
+			"downloadSize" : 127.651,
 			"githubStars" : 13
 		},
 		"the-great-expansion" : {
@@ -1531,7 +1531,7 @@
 		"hirki-plus-patch" : {
 			"mod" : "https://github.com/vcmi-mods/hirki-plus-patch/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/hirki-plus-patch/releases/download/1.7/hirki-plus-patch-vcmi-1.7.zip",
-			"downloadSize" : 2.266,
+			"downloadSize" : 2.267,
 			"githubStars" : 2
 		},
 		"sylvan-town" : {
