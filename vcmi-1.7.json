@@ -1534,10 +1534,10 @@
 		"dragon-citadel" : {
 			"mod" : "https://raw.githubusercontent.com/czcmjkfvy4-dotcom/Jakubabuba/main/mod.json",
 			"download" : "https://github.com/czcmjkfvy4-dotcom/Jakubabuba/archive/refs/heads/main.zip",
-			"downloadSize" : 30.446,
+			"downloadSize" : 31.010,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/czcmjkfvy4-dotcom/Jakubabuba/main/screenshots/town-screen.png",
-				"https://raw.githubusercontent.com/czcmjkfvy4-dotcom/Jakubabuba/main/screenshots/building-catalog.png"
+				"https://raw.githubusercontent.com/czcmjkfvy4-dotcom/Jakubabuba/main/screenshots/creature-roster.jpg"
 			]
 		}
 	}
