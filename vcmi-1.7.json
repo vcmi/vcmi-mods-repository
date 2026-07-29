@@ -31,7 +31,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen11.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen12.png"
 			],
-			"downloadSize" : 420.959,
+			"downloadSize" : 420.96,
 			"githubStars" : 89
 		},
 		"wake-of-gods" : {
@@ -741,7 +741,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.7/screenshots/screen14.png",
 				"https://raw.githubusercontent.com/vcmi-mods/newtown-terrains/vcmi-1.7/screenshots/screen15.png"
 			],
-			"downloadSize" : 54.032,
+			"downloadSize" : 54.035,
 			"githubStars" : 9
 		},
 		"forge2k" : {
@@ -946,7 +946,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/farriery-town/vcmi-1.7/screenshots/screen06.png",
 				"https://raw.githubusercontent.com/vcmi-mods/farriery-town/vcmi-1.7/screenshots/Spoiled%20Land.png"
 			],
-			"downloadSize" : 34.277,
+			"downloadSize" : 34.284,
 			"githubStars" : 1
 		},
 		"h3Evo" : {
@@ -1115,7 +1115,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/new-monsters-pack/vcmi-1.7/screenshots/screen09.png",
 				"https://raw.githubusercontent.com/vcmi-mods/new-monsters-pack/vcmi-1.7/screenshots/screen10.png"
 			],
-			"downloadSize" : 211.488,
+			"downloadSize" : 211.44,
 			"githubStars" : 1
 		},
 		"czech-map-pack" : {
@@ -1451,7 +1451,7 @@
 		"the-lost-tales" : {
 			"mod" : "https://github.com/vcmi-mods/the-lost-tales/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/the-lost-tales/releases/download/1.7/the-lost-tales-vcmi-1.7.zip",
-			"downloadSize" : 83.639,
+			"downloadSize" : 83.641,
 			"githubStars" : 1,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/vcmi-1.7/screenshots/ALTERNATIVE_CREATURES_CASTLE.png",
@@ -1485,7 +1485,7 @@
 		"h3landscape" : {
 			"mod" : "https://github.com/vcmi-mods/h3landscape/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/h3landscape/releases/download/1.7/h3landscape-vcmi-1.7.zip",
-			"downloadSize" : 34.96,
+			"downloadSize" : 35.027,
 			"githubStars" : 1
 		},
 		"cradle-town" : {
@@ -1528,7 +1528,7 @@
 		"hirki-plus-patch" : {
 			"mod" : "https://github.com/vcmi-mods/hirki-plus-patch/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/hirki-plus-patch/releases/download/1.7/hirki-plus-patch-vcmi-1.7.zip",
-			"downloadSize" : 2.267,
+			"downloadSize" : 2.274,
 			"githubStars" : 2
 		}
 	}
