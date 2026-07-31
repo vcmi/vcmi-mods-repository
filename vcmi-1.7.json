@@ -31,7 +31,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen11.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen12.png"
 			],
-			"downloadSize" : 420.965,
+			"downloadSize" : 420.969,
 			"githubStars" : 89
 		},
 		"wake-of-gods" : {
@@ -1485,7 +1485,7 @@
 		"h3landscape" : {
 			"mod" : "https://github.com/vcmi-mods/h3landscape/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/h3landscape/releases/download/1.7/h3landscape-vcmi-1.7.zip",
-			"downloadSize" : 35.027,
+			"downloadSize" : 35.026,
 			"githubStars" : 1
 		},
 		"cradle-town" : {
