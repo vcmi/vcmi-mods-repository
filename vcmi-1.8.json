@@ -899,7 +899,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.7/screenshots/screen06.png"
 			],
 			"downloadSize" : 74.657,
-			"githubStars" : 9
+			"githubStars" : 10
 		},
 		"mighty-heroes-iii" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/mighty-heroes-iii/vcmi-1.7/mighty-heroes-iii/mod.json",
@@ -1118,7 +1118,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/new-monsters-pack/vcmi-1.7/screenshots/screen09.png",
 				"https://raw.githubusercontent.com/vcmi-mods/new-monsters-pack/vcmi-1.7/screenshots/screen10.png"
 			],
-			"downloadSize" : 211.44,
+			"downloadSize" : 211.445,
 			"githubStars" : 1
 		},
 		"czech-map-pack" : {
@@ -1214,7 +1214,7 @@
 		"alternate-townscreens" : {
 			"mod" : "https://github.com/vcmi-mods/alternate-townscreens/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/alternate-townscreens/releases/download/1.7/alternate-townscreens-vcmi-1.7.zip",
-			"downloadSize" : 58.418,
+			"downloadSize" : 58.442,
 			"githubStars" : 3
 		},
 		"a-song-of-ice-and-fire" : {
