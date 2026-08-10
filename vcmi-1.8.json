@@ -1429,7 +1429,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/vcmi-1.7/screenshots/warcries.png"
 			],
 			"downloadSize" : 127.744,
-			"githubStars" : 16
+			"githubStars" : 17
 		},
 		"the-great-expansion" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/the-great-expansion/vcmi-1.7/the-great-expansion/mod.json",
@@ -1437,7 +1437,7 @@
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/the-great-expansion/vcmi-1.7/screenshots/screen01.png"
 			],
-			"downloadSize" : 34.899,
+			"downloadSize" : 40.711,
 			"githubStars" : 3
 		},
 		"forest-fort" : {
@@ -1531,8 +1531,15 @@
 		"hirki-plus-patch" : {
 			"mod" : "https://github.com/vcmi-mods/hirki-plus-patch/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/hirki-plus-patch/releases/download/1.7/hirki-plus-patch-vcmi-1.7.zip",
-			"downloadSize" : 2.274,
-			"githubStars" : 2
+			"downloadSize" : 59.652,
+			"githubStars" : 2,
+			"screenshots" : [
+				"https://raw.githubusercontent.com/vcmi-mods/hirki-plus-patch/vcmi-1.7/screenshots/01_ice_storm_battle.png",
+				"https://raw.githubusercontent.com/vcmi-mods/hirki-plus-patch/vcmi-1.7/screenshots/02_spell_book.png",
+				"https://raw.githubusercontent.com/vcmi-mods/hirki-plus-patch/vcmi-1.7/screenshots/03_magic_university.png",
+				"https://raw.githubusercontent.com/vcmi-mods/hirki-plus-patch/vcmi-1.7/screenshots/04_melodia.png",
+				"https://raw.githubusercontent.com/vcmi-mods/hirki-plus-patch/vcmi-1.7/screenshots/05_roland.png"
+			]
 		},
 		"sylvan-town" : {
 			"mod" : "https://github.com/vcmi-mods/sylvan-town/releases/download/1.8/mod.json",
