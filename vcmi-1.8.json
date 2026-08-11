@@ -1323,7 +1323,7 @@
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/greek-translation/vcmi-1.7/screenshots/screen1.png"
 			],
-			"downloadSize" : 26.298,
+			"downloadSize" : 22.665,
 			"githubStars" : 0
 		},
 		"japanese-translation" : {
@@ -1531,7 +1531,7 @@
 		"hirki-plus-patch" : {
 			"mod" : "https://github.com/vcmi-mods/hirki-plus-patch/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/hirki-plus-patch/releases/download/1.7/hirki-plus-patch-vcmi-1.7.zip",
-			"downloadSize" : 59.652,
+			"downloadSize" : 59.654,
 			"githubStars" : 2,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/hirki-plus-patch/vcmi-1.7/screenshots/01_ice_storm_battle.png",
