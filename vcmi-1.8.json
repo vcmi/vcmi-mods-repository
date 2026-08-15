@@ -31,7 +31,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.8/screenshots/screen11.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.8/screenshots/screen12.png"
 			],
-			"downloadSize" : 420.94,
+			"downloadSize" : 420.873,
 			"githubStars" : 90
 		},
 		"wake-of-gods" : {
@@ -1323,7 +1323,7 @@
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/greek-translation/vcmi-1.7/screenshots/screen1.png"
 			],
-			"downloadSize" : 52.664,
+			"downloadSize" : 63.029,
 			"githubStars" : 0
 		},
 		"japanese-translation" : {
@@ -1428,7 +1428,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/vcmi-1.7/screenshots/toa_promo_town_sanctuary.png",
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/vcmi-1.7/screenshots/warcries.png"
 			],
-			"downloadSize" : 127.744,
+			"downloadSize" : 127.753,
 			"githubStars" : 17
 		},
 		"the-great-expansion" : {
