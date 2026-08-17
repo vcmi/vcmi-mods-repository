@@ -336,6 +336,12 @@
 			"downloadSize" : 16.962,
 			"githubStars" : 3
 		},
+		"shadowless-chinese-font" : {
+			"mod" : "https://raw.githubusercontent.com/aysuio/vcmi-shadowless-chinese-font/main/mod.json",
+			"download" : "https://github.com/aysuio/vcmi-shadowless-chinese-font/releases/download/v1.0.0/shadowless-chinese-font-v1.0.0.zip",
+			"downloadSize" : 13.669,
+			"githubStars" : 0
+		},
 		"french-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/french-translation/vcmi-1.7/french-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/french-translation/archive/refs/heads/vcmi-1.7.zip",
