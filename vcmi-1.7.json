@@ -1537,6 +1537,11 @@
 				"https://raw.githubusercontent.com/vcmi-mods/hirki-plus-patch/vcmi-1.7/screenshots/04_melodia.png",
 				"https://raw.githubusercontent.com/vcmi-mods/hirki-plus-patch/vcmi-1.7/screenshots/05_roland.png"
 			]
+		},
+		"shadowless-chinese-font" : {
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/vcmi-shadowless-chinese-font/main/mod.json",
+			"download" : "https://github.com/vcmi-mods/vcmi-shadowless-chinese-font/archive/refs/heads/main.zip",
+			"downloadSize" : 13.669
 		}
 	}
 }
