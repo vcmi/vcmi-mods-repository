@@ -31,7 +31,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen11.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen12.png"
 			],
-			"downloadSize" : 420.968,
+			"downloadSize" : 420.97,
 			"githubStars" : 90
 		},
 		"wake-of-gods" : {
@@ -327,7 +327,7 @@
 		"hungarian-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/hungarian-translation/vcmi-1.7/hungarian-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/hungarian-translation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 17.578,
+			"downloadSize" : 17.579,
 			"githubStars" : 0
 		},
 		"chinese-translation" : {
