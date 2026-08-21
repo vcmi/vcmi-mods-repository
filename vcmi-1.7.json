@@ -31,7 +31,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen11.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen12.png"
 			],
-			"downloadSize" : 420.97,
+			"downloadSize" : 420.978,
 			"githubStars" : 90
 		},
 		"wake-of-gods" : {
@@ -470,7 +470,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/haven-town/vcmi-1.7/screenshots/screen2.png",
 				"https://raw.githubusercontent.com/vcmi-mods/haven-town/vcmi-1.7/screenshots/screen3.png"
 			],
-			"downloadSize" : 14.148,
+			"downloadSize" : 14.149,
 			"githubStars" : 5
 		},
 		"ruins-town" : {
@@ -717,7 +717,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/refugee-town/vcmi-1.7/screenshots/screen6.png",
 				"https://raw.githubusercontent.com/vcmi-mods/refugee-town/vcmi-1.7/screenshots/screen7.png"
 			],
-			"downloadSize" : 38.633,
+			"downloadSize" : 38.643,
 			"githubStars" : 5
 		},
 		"asphalt-terrain" : {
@@ -1398,7 +1398,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/mmai/vcmi-1.7-latest/screenshots/screenshot-01.png"
 			],
 			"downloadSize" : 37.829,
-			"githubStars" : 12
+			"githubStars" : 13
 		},
 		"tears-of-ashan" : {
 			"mod" : "https://github.com/vcmi-mods/tears-of-ashan/releases/download/1.7/mod.json",
