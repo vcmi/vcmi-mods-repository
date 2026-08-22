@@ -31,7 +31,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen11.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen12.png"
 			],
-			"downloadSize" : 420.978,
+			"downloadSize" : 420.977,
 			"githubStars" : 90
 		},
 		"wake-of-gods" : {
@@ -1211,7 +1211,7 @@
 		"alternate-townscreens" : {
 			"mod" : "https://github.com/vcmi-mods/alternate-townscreens/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/alternate-townscreens/releases/download/1.7/alternate-townscreens-vcmi-1.7.zip",
-			"downloadSize" : 58.442,
+			"downloadSize" : 58.436,
 			"githubStars" : 3
 		},
 		"a-song-of-ice-and-fire" : {
