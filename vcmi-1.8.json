@@ -1552,6 +1552,19 @@
 				"https://raw.githubusercontent.com/vcmi-mods/hirki-plus-patch/vcmi-1.7/screenshots/05_roland.png"
 			]
 		},
+		"inferno-plus" : {
+			"mod" : "https://github.com/vcmi-mods/inferno-plus/blob/main/mod.json",
+			"download" : "https://github.com/vcmi-mods/inferno-plus/archive/refs/heads/main.zip",
+			"downloadSize" : 2.4,
+			"githubStars" : 0,
+			"screenshots" : [
+				"https://raw.githubusercontent.com/vcmi-mods/inferno-plus/blob/main/screenshots/Familiars.png",
+				"https://raw.githubusercontent.com/vcmi-mods/inferno-plus/blob/main/screenshots/Hounds.png",
+				"https://raw.githubusercontent.com/vcmi-mods/inferno-plus/blob/main/screenshots/Spellbook.png",
+				"https://raw.githubusercontent.com/vcmi-mods/inferno-plus/blob/main/screenshots/Screenshot%20from%202026-07-20%2014-49-25.png",
+				"https://raw.githubusercontent.com/vcmi-mods/inferno-plus/blob/main/screenshots/BirthingPools.png"
+			]
+		},
 		"sylvan-town" : {
 			"mod" : "https://github.com/vcmi-mods/sylvan-town/releases/download/1.8/mod.json",
 			"download" : "https://github.com/vcmi-mods/sylvan-town/releases/download/1.8/sylvan-town-vcmi-1.8.zip",
