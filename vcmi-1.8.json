@@ -1554,6 +1554,10 @@
 				"https://raw.githubusercontent.com/vcmi-mods/sylvan-town/vcmi-1.8/screenshots/screen05.png",
 				"https://raw.githubusercontent.com/vcmi-mods/sylvan-town/vcmi-1.8/screenshots/screen06.png"
 			]
+		},
+		"inferno-plus" : {
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/inferno-plus/vcmi-1.8/mod.json",
+			"download" : "https://github.com/vcmi-mods/inferno-plus/archive/refs/heads/vcmi-1.8.zip"
 		}
 	}
 }
