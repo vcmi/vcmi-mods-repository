@@ -37,7 +37,7 @@
 		"wake-of-gods" : {
 			"mod" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/wake-of-gods-vcmi-1.7.zip",
-			"downloadSize" : 99.147,
+			"downloadSize" : 99.167,
 			"githubStars" : 36,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/screenshots/screen01.png",
@@ -1505,7 +1505,7 @@
 			"mod" : "https://github.com/vcmi-mods/h3landscape/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/h3landscape/releases/download/1.7/h3landscape-vcmi-1.7.zip",
 			"downloadSize" : 35.026,
-			"githubStars" : 1
+			"githubStars" : 2
 		},
 		"cradle-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/cradle-town/vcmi-1.7/mod.json",
@@ -1573,7 +1573,18 @@
 		},
 		"inferno-plus" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/inferno-plus/vcmi-1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/inferno-plus/archive/refs/heads/vcmi-1.8.zip"
+			"download" : "https://github.com/vcmi-mods/inferno-plus/archive/refs/heads/vcmi-1.8.zip",
+			"downloadSize" : 2.297,
+			"githubStars" : 0,
+			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/inferno-plus/vcmi-1.8/description.md",
+			"screenshots" : [
+				"https://raw.githubusercontent.com/vcmi-mods/inferno-plus/vcmi-1.8/screenshots/BirthingPools.png",
+				"https://raw.githubusercontent.com/vcmi-mods/inferno-plus/vcmi-1.8/screenshots/DD.png",
+				"https://raw.githubusercontent.com/vcmi-mods/inferno-plus/vcmi-1.8/screenshots/Familiars.png",
+				"https://raw.githubusercontent.com/vcmi-mods/inferno-plus/vcmi-1.8/screenshots/Hounds.png",
+				"https://raw.githubusercontent.com/vcmi-mods/inferno-plus/vcmi-1.8/screenshots/Screenshot%20from%202026-07-20%2014-49-25.png",
+				"https://raw.githubusercontent.com/vcmi-mods/inferno-plus/vcmi-1.8/screenshots/Spellbook.png"
+			]
 		}
 	}
 }

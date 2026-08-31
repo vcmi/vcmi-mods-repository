@@ -37,7 +37,7 @@
 		"wake-of-gods" : {
 			"mod" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/wake-of-gods-vcmi-1.7.zip",
-			"downloadSize" : 99.147,
+			"downloadSize" : 99.167,
 			"githubStars" : 36,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/screenshots/screen01.png",
@@ -1502,7 +1502,7 @@
 			"mod" : "https://github.com/vcmi-mods/h3landscape/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/h3landscape/releases/download/1.7/h3landscape-vcmi-1.7.zip",
 			"downloadSize" : 35.026,
-			"githubStars" : 1
+			"githubStars" : 2
 		},
 		"cradle-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/cradle-town/vcmi-1.7/mod.json",
@@ -1556,7 +1556,9 @@
 		},
 		"shadowless-chinese-font" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/vcmi-shadowless-chinese-font/main/mod.json",
-			"download" : "https://github.com/vcmi-mods/vcmi-shadowless-chinese-font/archive/refs/heads/main.zip"
+			"download" : "https://github.com/vcmi-mods/vcmi-shadowless-chinese-font/archive/refs/heads/main.zip",
+			"downloadSize" : 12.971,
+			"githubStars" : 0
 		}
 	}
 }
