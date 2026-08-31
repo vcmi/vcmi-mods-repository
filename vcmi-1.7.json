@@ -1556,9 +1556,7 @@
 		},
 		"shadowless-chinese-font" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/vcmi-shadowless-chinese-font/main/mod.json",
-			"download" : "https://github.com/vcmi-mods/vcmi-shadowless-chinese-font/archive/refs/heads/main.zip",
-			"downloadSize" : 12.971,
-			"githubStars" : 0
+			"download" : "https://github.com/vcmi-mods/vcmi-shadowless-chinese-font/archive/refs/heads/main.zip"
 		}
 	}
 }
