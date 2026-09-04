@@ -3,7 +3,7 @@
 		"vcmi-extras" : {
 			"mod" : "https://github.com/vcmi-mods/vcmi-extras/releases/download/1.8/mod.json",
 			"download" : "https://github.com/vcmi-mods/vcmi-extras/releases/download/1.8/vcmi-extras-vcmi-1.8.zip",
-			"downloadSize" : 9.746,
+			"downloadSize" : 9.744,
 			"githubStars" : 41,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.8/screenshots/screen1.png",
@@ -37,7 +37,7 @@
 		"wake-of-gods" : {
 			"mod" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/wake-of-gods-vcmi-1.7.zip",
-			"downloadSize" : 99.17,
+			"downloadSize" : 99.169,
 			"githubStars" : 36,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/screenshots/screen01.png",
@@ -1276,7 +1276,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/custom-templates/vcmi-1.7/screenshots/Sim-City-map-example.png",
 				"https://raw.githubusercontent.com/vcmi-mods/custom-templates/vcmi-1.7/screenshots/Sim-City-settings.png"
 			],
-			"downloadSize" : 9.215,
+			"downloadSize" : 9.235,
 			"githubStars" : 2
 		},
 		"cheat-mod" : {
