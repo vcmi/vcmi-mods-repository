@@ -241,7 +241,7 @@
 		"korean-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/korean-translation/vcmi-1.7/korean-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/korean-translation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 8.939,
+			"downloadSize" : 11.737,
 			"githubStars" : 0,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/korean-translation/vcmi-1.7/screenshots/screen1.png",
@@ -257,7 +257,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/latvian-translation/vcmi-1.7/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/latvian-translation/vcmi-1.7/screenshots/screen2.png"
 			],
-			"downloadSize" : 4.143,
+			"downloadSize" : 8.268,
 			"githubStars" : 1
 		},
 		"italian-translation" : {
@@ -1430,7 +1430,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/vcmi-1.7/screenshots/toa_promo_town_sanctuary.png",
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/vcmi-1.7/screenshots/warcries.png"
 			],
-			"downloadSize" : 132.093,
+			"downloadSize" : 132.196,
 			"githubStars" : 21
 		},
 		"the-great-expansion" : {
