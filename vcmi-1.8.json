@@ -244,7 +244,7 @@
 		"korean-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/korean-translation/vcmi-1.7/korean-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/korean-translation/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 11.737,
+			"downloadSize" : 11.738,
 			"githubStars" : 0,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/korean-translation/vcmi-1.7/screenshots/screen1.png",
@@ -337,7 +337,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/chinese-translation/vcmi-1.7/chinese-translation/mod.json",
 			"download" : "https://github.com/vcmi-mods/chinese-translation/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 16.962,
-			"githubStars" : 3
+			"githubStars" : 4
 		},
 		"french-translation" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/french-translation/vcmi-1.7/french-translation/mod.json",
@@ -426,12 +426,13 @@
 			"download" : "https://github.com/vcmi-mods/tarnum/archive/refs/heads/vcmi-1.7.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/tarnum/vcmi-1.7/screenshots/asylum01.png",
+				"https://raw.githubusercontent.com/vcmi-mods/tarnum/vcmi-1.7/screenshots/tarnumChieftain.png",
 				"https://raw.githubusercontent.com/vcmi-mods/tarnum/vcmi-1.7/screenshots/tarnumCyborg2k.png",
 				"https://raw.githubusercontent.com/vcmi-mods/tarnum/vcmi-1.7/screenshots/tarnumMercenary.png",
 				"https://raw.githubusercontent.com/vcmi-mods/tarnum/vcmi-1.7/screenshots/tarnumPathfinder.png",
 				"https://raw.githubusercontent.com/vcmi-mods/tarnum/vcmi-1.7/screenshots/tarnumVizier.png"
 			],
-			"downloadSize" : 5.74,
+			"downloadSize" : 6.668,
 			"githubStars" : 0
 		},
 		"grove" : {
@@ -598,7 +599,7 @@
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/new-old-spells-plus/vcmi-1.7/screenshots/screen1.png"
 			],
-			"downloadSize" : 2.111,
+			"downloadSize" : 2.113,
 			"githubStars" : 5
 		},
 		"portraits-packs" : {
@@ -1338,7 +1339,7 @@
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/bulgarian-translation/vcmi-1.7/screenshots/screen1.png"
 			],
-			"downloadSize" : 4.889,
+			"downloadSize" : 7.551,
 			"githubStars" : 0
 		},
 		"romanian-translation" : {
@@ -1433,8 +1434,8 @@
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/vcmi-1.7/screenshots/toa_promo_town_sanctuary.png",
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/vcmi-1.7/screenshots/warcries.png"
 			],
-			"downloadSize" : 131.955,
-			"githubStars" : 21
+			"downloadSize" : 131.958,
+			"githubStars" : 22
 		},
 		"the-great-expansion" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/the-great-expansion/vcmi-1.7/the-great-expansion/mod.json",
