@@ -3,7 +3,7 @@
 		"vcmi-extras" : {
 			"mod" : "https://github.com/vcmi-mods/vcmi-extras/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/vcmi-extras/releases/download/1.7/vcmi-extras-vcmi-1.7.zip",
-			"downloadSize" : 9.75,
+			"downloadSize" : 9.759,
 			"githubStars" : 43,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.7/screenshots/screen1.png",
@@ -645,7 +645,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/vcmi-1.7/screenshots/screen6.png",
 				"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/vcmi-1.7/screenshots/screen7.png"
 			],
-			"downloadSize" : 38.295,
+			"downloadSize" : 38.256,
 			"githubStars" : 4
 		},
 		"medusa-mod" : {
@@ -968,7 +968,7 @@
 		"small-era-mods" : {
 			"mod" : "https://github.com/vcmi-mods/small-era-mods/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/small-era-mods/releases/download/1.7/small-era-mods-vcmi-1.7.zip",
-			"downloadSize" : 32.043,
+			"downloadSize" : 32.044,
 			"githubStars" : 2,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/small-era-mods/vcmi-1.7/Screenshots/darkened.png",
@@ -1336,7 +1336,7 @@
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/bulgarian-translation/vcmi-1.7/screenshots/screen1.png"
 			],
-			"downloadSize" : 7.551,
+			"downloadSize" : 7.635,
 			"githubStars" : 0
 		},
 		"romanian-translation" : {
