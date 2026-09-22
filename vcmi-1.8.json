@@ -721,7 +721,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/refugee-town/vcmi-1.7/screenshots/screen6.png",
 				"https://raw.githubusercontent.com/vcmi-mods/refugee-town/vcmi-1.7/screenshots/screen7.png"
 			],
-			"downloadSize" : 38.642,
+			"downloadSize" : 38.592,
 			"githubStars" : 5
 		},
 		"asphalt-terrain" : {
@@ -1131,7 +1131,7 @@
 		"modder-tools-pack" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/modder-tools-pack/main/modder-tools-pack/mod.json",
 			"download" : "https://github.com/vcmi-mods/modder-tools-pack/archive/refs/heads/main.zip",
-			"downloadSize" : 84.764,
+			"downloadSize" : 85.06,
 			"githubStars" : 6
 		},
 		"heroes-o-pedia" : {
@@ -1434,7 +1434,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/vcmi-1.7/screenshots/toa_promo_town_sanctuary.png",
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/vcmi-1.7/screenshots/warcries.png"
 			],
-			"downloadSize" : 133.908,
+			"downloadSize" : 133.997,
 			"githubStars" : 22
 		},
 		"the-great-expansion" : {
