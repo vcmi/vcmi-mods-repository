@@ -125,8 +125,8 @@
 			"githubStars" : 4
 		},
 		"highlands-town" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/highlands-town/vcmi-1.7/highlands-town/mod.json",
-			"download" : "https://github.com/vcmi-mods/highlands-town/archive/refs/heads/vcmi-1.7.zip",
+			"mod" : "https://github.com/vcmi-mods/highlands-town/releases/download/1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/highlands-town/releases/download/1.7/highlands-town-vcmi-1.7.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/highlands-town/vcmi-1.7/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/highlands-town/vcmi-1.7/screenshots/screen2.png",
