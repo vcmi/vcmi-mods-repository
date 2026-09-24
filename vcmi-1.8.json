@@ -132,7 +132,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/highlands-town/vcmi-1.7/screenshots/screen2.png",
 				"https://raw.githubusercontent.com/vcmi-mods/highlands-town/vcmi-1.7/screenshots/screen3.png"
 			],
-			"downloadSize" : 28.327,
+			"downloadSize" : 24.36,
 			"githubStars" : 9
 		},
 		"new-pavilion" : {
@@ -1576,7 +1576,7 @@
 		"inferno-plus" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/inferno-plus/vcmi-1.8/mod.json",
 			"download" : "https://github.com/vcmi-mods/inferno-plus/archive/refs/heads/vcmi-1.8.zip",
-			"downloadSize" : 2.297,
+			"downloadSize" : 2.299,
 			"githubStars" : 0,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/inferno-plus/vcmi-1.8/description.md",
 			"screenshots" : [
