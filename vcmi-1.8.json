@@ -37,8 +37,8 @@
 		"wake-of-gods" : {
 			"mod" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/wake-of-gods-vcmi-1.7.zip",
-			"downloadSize" : 99.155,
-			"githubStars" : 37,
+			"downloadSize" : 99.15,
+			"githubStars" : 38,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/screenshots/screen01.png",
 				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/screenshots/screen02.png",
@@ -56,7 +56,7 @@
 		"tides-of-war" : {
 			"mod" : "https://github.com/vcmi-mods/tides-of-war/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/tides-of-war/releases/download/1.7/tides-of-war-vcmi-1.7.zip",
-			"downloadSize" : 28.721,
+			"downloadSize" : 28.723,
 			"githubStars" : 21,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/tides-of-war/vcmi-1.7/screenshots/screen1.png"
@@ -205,7 +205,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/dutch-translation/vcmi-1.7/screenshots/screen3.png",
 				"https://raw.githubusercontent.com/vcmi-mods/dutch-translation/vcmi-1.7/screenshots/screen4.png"
 			],
-			"downloadSize" : 10.724,
+			"downloadSize" : 10.732,
 			"githubStars" : 1
 		},
 		"filipino-translation" : {
@@ -419,7 +419,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/campaign-heroes/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/campaign-heroes/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 0.131,
-			"githubStars" : 1
+			"githubStars" : 2
 		},
 		"tarnum" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/tarnum/vcmi-1.7/tarnum/mod.json",
@@ -721,7 +721,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/refugee-town/vcmi-1.7/screenshots/screen6.png",
 				"https://raw.githubusercontent.com/vcmi-mods/refugee-town/vcmi-1.7/screenshots/screen7.png"
 			],
-			"downloadSize" : 38.592,
+			"downloadSize" : 38.579,
 			"githubStars" : 5
 		},
 		"asphalt-terrain" : {
@@ -1181,7 +1181,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/fused-artifacts/vcmi-1.7/screenshots/screen01.png"
 			],
 			"downloadSize" : 0.935,
-			"githubStars" : 3
+			"githubStars" : 4
 		},
 		"immortal-cultivation-heroes" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/immortal-cultivation-heroes/vcmi-1.7/lmods/mod.json",
@@ -1402,7 +1402,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/mmai/vcmi-1.8-latest/screenshots/screenshot-01.png"
 			],
 			"downloadSize" : 56.746,
-			"githubStars" : 15
+			"githubStars" : 16
 		},
 		"tears-of-ashan" : {
 			"mod" : "https://github.com/vcmi-mods/tears-of-ashan/releases/download/1.7/mod.json",
