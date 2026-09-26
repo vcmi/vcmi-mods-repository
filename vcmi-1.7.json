@@ -63,8 +63,8 @@
 			]
 		},
 		"courtyard" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/courtyard/vcmi-1.7/Courtyard/mod.json",
-			"download" : "https://github.com/vcmi-mods/courtyard/archive/refs/heads/vcmi-1.7.zip",
+			"mod" : "https://github.com/vcmi-mods/courtyard/releases/download/1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/courtyard/releases/download/1.7/courtyard-vcmi-1.7.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/courtyard/vcmi-1.7/screenshots/lore_part1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/courtyard/vcmi-1.7/screenshots/lore_part2.png",
@@ -149,8 +149,8 @@
 			"githubStars" : 21
 		},
 		"cathedral-town" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.7/cathedral-town/mod.json",
-			"download" : "https://github.com/vcmi-mods/cathedral-town/archive/refs/heads/vcmi-1.7.zip",
+			"mod" : "https://github.com/vcmi-mods/cathedral-town/releases/download/1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/cathedral-town/releases/download/1.7/cathedral-town-vcmi-1.7.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.7/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.7/screenshots/screen2.png",
@@ -173,8 +173,8 @@
 			]
 		},
 		"andruids-expansion" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/andruids-expansion/vcmi-1.7/andruids-expansion/mod.json",
-			"download" : "https://github.com/vcmi-mods/andruids-expansion/archive/refs/heads/vcmi-1.7.zip",
+			"mod" : "https://github.com/vcmi-mods/andruids-expansion/releases/download/1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/andruids-expansion/releases/download/1.7/andruids-expansion-vcmi-1.7.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/andruids-expansion/vcmi-1.7/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/andruids-expansion/vcmi-1.7/screenshots/screen10.png",
@@ -545,8 +545,8 @@
 			"githubStars" : 6
 		},
 		"abyss-town" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/abyss-town/vcmi-1.7/abyss-town/mod.json",
-			"download" : "https://github.com/vcmi-mods/abyss-town/archive/refs/heads/vcmi-1.7.zip",
+			"mod" : "https://github.com/vcmi-mods/abyss-town/releases/download/1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/abyss-town/releases/download/1.7/abyss-town-vcmi-1.7.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/abyss-town/vcmi-1.7/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/abyss-town/vcmi-1.7/screenshots/screen2.png",
@@ -766,8 +766,8 @@
 			"githubStars" : 3
 		},
 		"ab-bad-ending-maps" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-maps/vcmi-1.7/AB Bad Ending Maps/mod.json",
-			"download" : "https://github.com/vcmi-mods/ab-bad-ending-maps/archive/refs/heads/vcmi-1.7.zip",
+			"mod" : "https://github.com/vcmi-mods/ab-bad-ending-maps/releases/download/1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/ab-bad-ending-maps/releases/download/1.7/ab-bad-ending-maps-vcmi-1.7.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-maps/vcmi-1.7/screenshots/screen01.png",
 				"https://raw.githubusercontent.com/vcmi-mods/ab-bad-ending-maps/vcmi-1.7/screenshots/screen02.png"
@@ -1040,8 +1040,8 @@
 			"githubStars" : 3
 		},
 		"witchking-artifacts" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/witchking-artifacts/vcmi-1.7/witchking-artifacts/mod.json",
-			"download" : "https://github.com/vcmi-mods/witchking-artifacts/archive/refs/heads/vcmi-1.7.zip",
+			"mod" : "https://github.com/vcmi-mods/witchking-artifacts/releases/download/1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/witchking-artifacts/releases/download/1.7/witchking-artifacts-vcmi-1.7.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/witchking-artifacts/vcmi-1.7/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/witchking-artifacts/vcmi-1.7/screenshots/screen10.png",
@@ -1132,8 +1132,8 @@
 			"githubStars" : 6
 		},
 		"heroes-o-pedia" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/heroes-o-pedia/vcmi-1.7/heroes-o-pedia/mod.json",
-			"download" : "https://github.com/vcmi-mods/heroes-o-pedia/archive/refs/heads/vcmi-1.7.zip",
+			"mod" : "https://github.com/vcmi-mods/heroes-o-pedia/releases/download/1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/heroes-o-pedia/releases/download/1.7/heroes-o-pedia-vcmi-1.7.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/heroes-o-pedia/vcmi-1.7/screenshots/screen01.png",
 				"https://raw.githubusercontent.com/vcmi-mods/heroes-o-pedia/vcmi-1.7/screenshots/screen02.png",
@@ -1256,8 +1256,8 @@
 			"githubStars" : 1
 		},
 		"new-skills-pack" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-skills-pack/vcmi-1.7/new-skills-pack/mod.json",
-			"download" : "https://github.com/vcmi-mods/new-skills-pack/archive/refs/heads/vcmi-1.7.zip",
+			"mod" : "https://github.com/vcmi-mods/new-skills-pack/releases/download/1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/new-skills-pack/releases/download/1.7/new-skills-pack-vcmi-1.7.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/new-skills-pack/vcmi-1.7/screenshots/screen1.png"
 			],
@@ -1376,8 +1376,8 @@
 			"githubStars" : 9
 		},
 		"more-secondary" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/more-secondary/vcmi-1.7/more-secondary/mod.json",
-			"download" : "https://github.com/vcmi-mods/more-secondary/archive/refs/heads/vcmi-1.7.zip",
+			"mod" : "https://github.com/vcmi-mods/more-secondary/releases/download/1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/more-secondary/releases/download/1.7/more-secondary-vcmi-1.7.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/more-secondary/vcmi-1.7/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/more-secondary/vcmi-1.7/screenshots/screen2.png",
