@@ -1,5 +1,9 @@
 {
 	"availableMods" : {
+		"seven-dragon-hells" : {
+			"mod" : "https://github.com/2513238602/seven-dragon-hells/releases/download/v1.0.0/mod.json",
+			"download" : "https://github.com/2513238602/seven-dragon-hells/releases/download/v1.0.0/seven-worlds-1.0.0.zip"
+		},
 		"vcmi-extras" : {
 			"mod" : "https://github.com/vcmi-mods/vcmi-extras/releases/download/1.8/mod.json",
 			"download" : "https://github.com/vcmi-mods/vcmi-extras/releases/download/1.8/vcmi-extras-vcmi-1.8.zip",
