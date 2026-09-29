@@ -410,21 +410,10 @@
 			"https://raw.githubusercontent.com/vcmi-mods/reworked-commanders/vcmi-1.7/screenshots/screen3.png"
 		]
 	},
-	"an-expansion" : {
-		"mod" : "https://raw.githubusercontent.com/vcmi-mods/an-expansion/vcmi-1.7/mod.json",
-		"download" : "https://github.com/vcmi-mods/an-expansion/archive/refs/heads/vcmi-1.7.zip",
-		"downloadSize" : 1.221,
-		"githubStars" : 6,
-		"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/an-expansion/vcmi-1.7/description.md"
-	},
 	"fairytale-town" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/fairytale-town/vcmi-1.7/mod.json",
 		"download" : "https://github.com/misiokles/fairytale-town/archive/refs/heads/vcmi-1.7.zip",
 		"downloadSize" : 19.484,
 		"githubStars" : 0
-	},
-	"blood-expansion" : {
-		"mod" : "https://raw.githubusercontent.com/misiokles/blood-expansion/vcmi-1.7/mod.json",
-		"download" : "https://github.com/misiokles/blood-expansion/archive/refs/heads/vcmi-1.7.zip",
 	}
 }
