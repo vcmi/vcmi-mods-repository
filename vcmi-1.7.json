@@ -1561,6 +1561,10 @@
 			"download" : "https://github.com/vcmi-mods/vcmi-shadowless-chinese-font/archive/refs/heads/main.zip",
 			"downloadSize" : 12.971,
 			"githubStars" : 0
+		},
+		"blood-expansion" : {
+			"mod" : "https://raw.githubusercontent.com/misiokles/blood-expansion/vcmi-1.7/mod.json",
+			"download" : "https://github.com/misiokles/blood-expansion/archive/refs/heads/vcmi-1.7.zip"
 		}
 	}
 }
