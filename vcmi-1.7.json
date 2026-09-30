@@ -1,5 +1,96 @@
 {
 	"availableMods" : {
+		"heroes3-new-design-portraits-bulwark-v1": {
+			"mod": "https://raw.githubusercontent.com/PeteNova/heroes3-new-design/d6c0224824742c6c07b2ef0d62af24498c66b78f/catalog/portraits-2026-09-25/heroes3-new-design-portraits-bulwark-v1.json",
+			"download": "https://github.com/PeteNova/heroes3-new-design/releases/download/portraits-2026-09-25/heroes3-new-design-portraits-bulwark-v1.zip",
+			"screenshots": [
+				"https://raw.githubusercontent.com/PeteNova/heroes3-new-design/d6c0224824742c6c07b2ef0d62af24498c66b78f/assets/sheets/bulwark-hpl.png"
+			]
+		},
+		"heroes3-new-design-portraits-castle-v1": {
+			"mod": "https://raw.githubusercontent.com/PeteNova/heroes3-new-design/d6c0224824742c6c07b2ef0d62af24498c66b78f/catalog/portraits-2026-09-25/heroes3-new-design-portraits-castle-v1.json",
+			"download": "https://github.com/PeteNova/heroes3-new-design/releases/download/portraits-2026-09-25/heroes3-new-design-portraits-castle-v1.zip",
+			"screenshots": [
+				"https://raw.githubusercontent.com/PeteNova/heroes3-new-design/d6c0224824742c6c07b2ef0d62af24498c66b78f/assets/sheets/castle-hpl.png"
+			]
+		},
+		"heroes3-new-design-portraits-conflux-v1": {
+			"mod": "https://raw.githubusercontent.com/PeteNova/heroes3-new-design/d6c0224824742c6c07b2ef0d62af24498c66b78f/catalog/portraits-2026-09-25/heroes3-new-design-portraits-conflux-v1.json",
+			"download": "https://github.com/PeteNova/heroes3-new-design/releases/download/portraits-2026-09-25/heroes3-new-design-portraits-conflux-v1.zip",
+			"screenshots": [
+				"https://raw.githubusercontent.com/PeteNova/heroes3-new-design/d6c0224824742c6c07b2ef0d62af24498c66b78f/assets/sheets/conflux-hpl.png"
+			]
+		},
+		"heroes3-new-design-portraits-cove-v1": {
+			"mod": "https://raw.githubusercontent.com/PeteNova/heroes3-new-design/d6c0224824742c6c07b2ef0d62af24498c66b78f/catalog/portraits-2026-09-25/heroes3-new-design-portraits-cove-v1.json",
+			"download": "https://github.com/PeteNova/heroes3-new-design/releases/download/portraits-2026-09-25/heroes3-new-design-portraits-cove-v1.zip",
+			"screenshots": [
+				"https://raw.githubusercontent.com/PeteNova/heroes3-new-design/d6c0224824742c6c07b2ef0d62af24498c66b78f/assets/sheets/cove-hpl.png"
+			]
+		},
+		"heroes3-new-design-portraits-dungeon-v1": {
+			"mod": "https://raw.githubusercontent.com/PeteNova/heroes3-new-design/d6c0224824742c6c07b2ef0d62af24498c66b78f/catalog/portraits-2026-09-25/heroes3-new-design-portraits-dungeon-v1.json",
+			"download": "https://github.com/PeteNova/heroes3-new-design/releases/download/portraits-2026-09-25/heroes3-new-design-portraits-dungeon-v1.zip",
+			"screenshots": [
+				"https://raw.githubusercontent.com/PeteNova/heroes3-new-design/d6c0224824742c6c07b2ef0d62af24498c66b78f/assets/sheets/dungeon-hpl.png"
+			]
+		},
+		"heroes3-new-design-portraits-factory-v1": {
+			"mod": "https://raw.githubusercontent.com/PeteNova/heroes3-new-design/d6c0224824742c6c07b2ef0d62af24498c66b78f/catalog/portraits-2026-09-25/heroes3-new-design-portraits-factory-v1.json",
+			"download": "https://github.com/PeteNova/heroes3-new-design/releases/download/portraits-2026-09-25/heroes3-new-design-portraits-factory-v1.zip",
+			"screenshots": [
+				"https://raw.githubusercontent.com/PeteNova/heroes3-new-design/d6c0224824742c6c07b2ef0d62af24498c66b78f/assets/sheets/factory-hpl.png"
+			]
+		},
+		"heroes3-new-design-portraits-fortress-v1": {
+			"mod": "https://raw.githubusercontent.com/PeteNova/heroes3-new-design/d6c0224824742c6c07b2ef0d62af24498c66b78f/catalog/portraits-2026-09-25/heroes3-new-design-portraits-fortress-v1.json",
+			"download": "https://github.com/PeteNova/heroes3-new-design/releases/download/portraits-2026-09-25/heroes3-new-design-portraits-fortress-v1.zip",
+			"screenshots": [
+				"https://raw.githubusercontent.com/PeteNova/heroes3-new-design/d6c0224824742c6c07b2ef0d62af24498c66b78f/assets/sheets/fortress-hpl.png"
+			]
+		},
+		"heroes3-new-design-portraits-inferno-v1": {
+			"mod": "https://raw.githubusercontent.com/PeteNova/heroes3-new-design/d6c0224824742c6c07b2ef0d62af24498c66b78f/catalog/portraits-2026-09-25/heroes3-new-design-portraits-inferno-v1.json",
+			"download": "https://github.com/PeteNova/heroes3-new-design/releases/download/portraits-2026-09-25/heroes3-new-design-portraits-inferno-v1.zip",
+			"screenshots": [
+				"https://raw.githubusercontent.com/PeteNova/heroes3-new-design/d6c0224824742c6c07b2ef0d62af24498c66b78f/assets/sheets/inferno-hpl.png"
+			]
+		},
+		"heroes3-new-design-portraits-necropolis-v1": {
+			"mod": "https://raw.githubusercontent.com/PeteNova/heroes3-new-design/d6c0224824742c6c07b2ef0d62af24498c66b78f/catalog/portraits-2026-09-25/heroes3-new-design-portraits-necropolis-v1.json",
+			"download": "https://github.com/PeteNova/heroes3-new-design/releases/download/portraits-2026-09-25/heroes3-new-design-portraits-necropolis-v1.zip",
+			"screenshots": [
+				"https://raw.githubusercontent.com/PeteNova/heroes3-new-design/d6c0224824742c6c07b2ef0d62af24498c66b78f/assets/sheets/necropolis-hpl.png"
+			]
+		},
+		"heroes3-new-design-portraits-rampart-v1": {
+			"mod": "https://raw.githubusercontent.com/PeteNova/heroes3-new-design/d6c0224824742c6c07b2ef0d62af24498c66b78f/catalog/portraits-2026-09-25/heroes3-new-design-portraits-rampart-v1.json",
+			"download": "https://github.com/PeteNova/heroes3-new-design/releases/download/portraits-2026-09-25/heroes3-new-design-portraits-rampart-v1.zip",
+			"screenshots": [
+				"https://raw.githubusercontent.com/PeteNova/heroes3-new-design/d6c0224824742c6c07b2ef0d62af24498c66b78f/assets/sheets/rampart-hpl.png"
+			]
+		},
+		"heroes3-new-design-portraits-specials-v1": {
+			"mod": "https://raw.githubusercontent.com/PeteNova/heroes3-new-design/d6c0224824742c6c07b2ef0d62af24498c66b78f/catalog/portraits-2026-09-25/heroes3-new-design-portraits-specials-v1.json",
+			"download": "https://github.com/PeteNova/heroes3-new-design/releases/download/portraits-2026-09-25/heroes3-new-design-portraits-specials-v1.zip",
+			"screenshots": [
+				"https://raw.githubusercontent.com/PeteNova/heroes3-new-design/d6c0224824742c6c07b2ef0d62af24498c66b78f/assets/sheets/specials-hpl.png"
+			]
+		},
+		"heroes3-new-design-portraits-stronghold-v1": {
+			"mod": "https://raw.githubusercontent.com/PeteNova/heroes3-new-design/d6c0224824742c6c07b2ef0d62af24498c66b78f/catalog/portraits-2026-09-25/heroes3-new-design-portraits-stronghold-v1.json",
+			"download": "https://github.com/PeteNova/heroes3-new-design/releases/download/portraits-2026-09-25/heroes3-new-design-portraits-stronghold-v1.zip",
+			"screenshots": [
+				"https://raw.githubusercontent.com/PeteNova/heroes3-new-design/d6c0224824742c6c07b2ef0d62af24498c66b78f/assets/sheets/stronghold-hpl.png"
+			]
+		},
+		"heroes3-new-design-portraits-tower-v1": {
+			"mod": "https://raw.githubusercontent.com/PeteNova/heroes3-new-design/d6c0224824742c6c07b2ef0d62af24498c66b78f/catalog/portraits-2026-09-25/heroes3-new-design-portraits-tower-v1.json",
+			"download": "https://github.com/PeteNova/heroes3-new-design/releases/download/portraits-2026-09-25/heroes3-new-design-portraits-tower-v1.zip",
+			"screenshots": [
+				"https://raw.githubusercontent.com/PeteNova/heroes3-new-design/d6c0224824742c6c07b2ef0d62af24498c66b78f/assets/sheets/tower-hpl.png"
+			]
+		},
 		"vcmi-extras" : {
 			"mod" : "https://github.com/vcmi-mods/vcmi-extras/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/vcmi-extras/releases/download/1.7/vcmi-extras-vcmi-1.7.zip",
