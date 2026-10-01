@@ -78,7 +78,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/courtyard/vcmi-1.7/screenshots/wiki4.png",
 				"https://raw.githubusercontent.com/vcmi-mods/courtyard/vcmi-1.7/screenshots/wiki5.png"
 			],
-			"downloadSize" : 32.829,
+			"downloadSize" : 32.831,
 			"githubStars" : 8
 		},
 		"neutral-heroes" : {
@@ -193,7 +193,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/andruids-expansion/vcmi-1.7/screenshots/screen8.png",
 				"https://raw.githubusercontent.com/vcmi-mods/andruids-expansion/vcmi-1.7/screenshots/screen9.png"
 			],
-			"downloadSize" : 7.434,
+			"downloadSize" : 7.436,
 			"githubStars" : 7
 		},
 		"dutch-translation" : {
@@ -315,7 +315,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/swedish-translation/vcmi-1.7/screenshots/screen2.png",
 				"https://raw.githubusercontent.com/vcmi-mods/swedish-translation/vcmi-1.7/screenshots/screen3.png"
 			],
-			"downloadSize" : 22.985,
+			"downloadSize" : 22.984,
 			"githubStars" : 1
 		},
 		"turkish-translation" : {
@@ -337,7 +337,7 @@
 			"mod" : "https://github.com/vcmi-mods/chinese-translation/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/chinese-translation/releases/download/1.7/chinese-translation-vcmi-1.7.zip",
 			"downloadSize" : 16.958,
-			"githubStars" : 4
+			"githubStars" : 5
 		},
 		"french-translation" : {
 			"mod" : "https://github.com/vcmi-mods/french-translation/releases/download/1.7/mod.json",
@@ -1264,7 +1264,7 @@
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/new-skills-pack/vcmi-1.7/screenshots/screen1.png"
 			],
-			"downloadSize" : 2.515,
+			"downloadSize" : 2.516,
 			"githubStars" : 5
 		},
 		"custom-templates" : {
