@@ -1587,6 +1587,10 @@
 				"https://raw.githubusercontent.com/vcmi-mods/inferno-plus/vcmi-1.8/screenshots/Screenshot%20from%202026-07-20%2014-49-25.png",
 				"https://raw.githubusercontent.com/vcmi-mods/inferno-plus/vcmi-1.8/screenshots/Spellbook.png"
 			]
+		},
+		"silver-spoon" : {
+			"mod" : "https://raw.githubusercontent.com/JarexGen/silver-spoon/vcmi-1.8/mod.json",
+			"download" : "https://github.com/JarexGen/silver-spoon/archive/refs/heads/vcmi-1.8.zip"
 		}
 	}
 }
