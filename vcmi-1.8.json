@@ -1587,6 +1587,14 @@
 				"https://raw.githubusercontent.com/vcmi-mods/inferno-plus/vcmi-1.8/screenshots/Screenshot%20from%202026-07-20%2014-49-25.png",
 				"https://raw.githubusercontent.com/vcmi-mods/inferno-plus/vcmi-1.8/screenshots/Spellbook.png"
 			]
+		},
+		"cathay" : {
+			"mod" : "https://github.com/2513238602/vcmi-cathay/releases/download/v1.2.0/mod.json",
+			"download" : "https://github.com/2513238602/vcmi-cathay/releases/download/v1.2.0/cathay-1.2.0.zip",
+			"screenshots" : [
+				"https://raw.githubusercontent.com/2513238602/vcmi-cathay/4fe5a170de9361d6c2980ad49c6fb67f3f2851de/screenshots/binxi.png",
+				"https://raw.githubusercontent.com/2513238602/vcmi-cathay/4fe5a170de9361d6c2980ad49c6fb67f3f2851de/screenshots/wuguan.png"
+			]
 		}
 	}
 }
