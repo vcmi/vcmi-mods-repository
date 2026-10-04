@@ -415,5 +415,9 @@
 		"download" : "https://github.com/misiokles/fairytale-town/archive/refs/heads/vcmi-1.7.zip",
 		"downloadSize" : 19.484,
 		"githubStars" : 0
+	},
+	"cathay-expansion" : {
+		"mod" : "https://raw.githubusercontent.com/2513238602/vcmi-cathay/vcmi-1.8/mod.json",
+		"download" : "https://github.com/2513238602/vcmi-cathay/archive/refs/heads/vcmi-1.8.zip"
 	}
 }

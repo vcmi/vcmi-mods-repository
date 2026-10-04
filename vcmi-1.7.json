@@ -1563,10 +1563,14 @@
 			"githubStars" : 0
 		},
 		"blood-expansion" : {
-			"mod" : "https://raw.githubusercontent.com/misiokles/blood-expansion/vcmi-1.7/mod.json",
-			"download" : "https://github.com/misiokles/blood-expansion/archive/refs/heads/vcmi-1.7.zip",
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/blood-expansion/vcmi-1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/blood-expansion/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 7.296,
 			"githubStars" : 0
+		},
+		"silver-spoon" : {
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/silver-spoon/vcmi-1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/silver-spoon/archive/refs/heads/vcmi-1.7.zip"
 		}
 	}
 }
