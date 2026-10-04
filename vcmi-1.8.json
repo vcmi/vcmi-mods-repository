@@ -1268,8 +1268,8 @@
 			"githubStars" : 5
 		},
 		"custom-templates" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/custom-templates/vcmi-1.7/custom-templates/mod.json",
-			"download" : "https://github.com/vcmi-mods/custom-templates/archive/refs/heads/vcmi-1.7.zip",
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/custom-templates/vcmi-1.8/custom-templates/mod.json",
+			"download" : "https://github.com/vcmi-mods/custom-templates/archive/refs/heads/vcmi-1.8.zip",
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/custom-templates/vcmi-1.7/screenshots/Grond-map-example.png",
 				"https://raw.githubusercontent.com/vcmi-mods/custom-templates/vcmi-1.7/screenshots/Grond-settings.png",
