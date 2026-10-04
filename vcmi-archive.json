@@ -418,6 +418,13 @@
 	},
 	"cathay-expansion" : {
 		"mod" : "https://raw.githubusercontent.com/2513238602/vcmi-cathay/vcmi-1.8/mod.json",
-		"download" : "https://github.com/2513238602/vcmi-cathay/archive/refs/heads/vcmi-1.8.zip"
+		"download" : "https://github.com/2513238602/vcmi-cathay/archive/refs/heads/vcmi-1.8.zip",
+		"downloadSize" : 750.516,
+		"githubStars" : 0,
+		"descriptionURL" : "https://raw.githubusercontent.com/2513238602/vcmi-cathay/vcmi-1.8/description.md",
+		"screenshots" : [
+			"https://raw.githubusercontent.com/2513238602/vcmi-cathay/vcmi-1.8/screenshots/binxi.png",
+			"https://raw.githubusercontent.com/2513238602/vcmi-cathay/vcmi-1.8/screenshots/wuguan.png"
+		]
 	}
 }
