@@ -32,7 +32,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.8/screenshots/screen12.png"
 			],
 			"downloadSize" : 423.062,
-			"githubStars" : 98
+			"githubStars" : 99
 		},
 		"wake-of-gods" : {
 			"mod" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/mod.json",
@@ -1143,7 +1143,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/heroes-o-pedia/vcmi-1.7/screenshots/screen03.png"
 			],
 			"downloadSize" : 3.618,
-			"githubStars" : 8
+			"githubStars" : 9
 		},
 		"chronicles-enhanced" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/chronicles-enhanced/vcmi-1.7/chronicles-enhanced/mod.json",
@@ -1376,7 +1376,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/HD-remastered/vcmi-1.7/screenshots/OH3.png"
 			],
 			"downloadSize" : 126.437,
-			"githubStars" : 9
+			"githubStars" : 10
 		},
 		"more-secondary" : {
 			"mod" : "https://github.com/vcmi-mods/more-secondary/releases/download/1.7/mod.json",
@@ -1402,7 +1402,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/mmai/vcmi-1.8-latest/screenshots/screenshot-01.png"
 			],
 			"downloadSize" : 56.746,
-			"githubStars" : 16
+			"githubStars" : 17
 		},
 		"tears-of-ashan" : {
 			"mod" : "https://github.com/vcmi-mods/tears-of-ashan/releases/download/1.7/mod.json",
