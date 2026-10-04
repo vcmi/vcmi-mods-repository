@@ -4,7 +4,7 @@
 			"mod" : "https://github.com/vcmi-mods/vcmi-extras/releases/download/1.8/mod.json",
 			"download" : "https://github.com/vcmi-mods/vcmi-extras/releases/download/1.8/vcmi-extras-vcmi-1.8.zip",
 			"downloadSize" : 16.838,
-			"githubStars" : 43,
+			"githubStars" : 42,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.8/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/vcmi-extras/vcmi-1.8/screenshots/screen2.png",
@@ -32,7 +32,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.8/screenshots/screen12.png"
 			],
 			"downloadSize" : 423.062,
-			"githubStars" : 98
+			"githubStars" : 99
 		},
 		"wake-of-gods" : {
 			"mod" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/mod.json",
@@ -354,13 +354,13 @@
 		"polish-translation" : {
 			"mod" : "https://github.com/vcmi-mods/polish-translation/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/polish-translation/releases/download/1.7/polish-translation-vcmi-1.7.zip",
-			"downloadSize" : 182.056,
+			"downloadSize" : 182.708,
 			"githubStars" : 4
 		},
 		"vcmi-mod-ce-ukr" : {
 			"mod" : "https://github.com/vcmi-mods/vcmi-mod-ce-ukr/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/vcmi-mod-ce-ukr/releases/download/1.7/vcmi-mod-ce-ukr-vcmi-1.7.zip",
-			"downloadSize" : 13.791,
+			"downloadSize" : 17.295,
 			"githubStars" : 4,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/vcmi-mod-ce-ukr/vcmi-1.7/screenshots/screen1.png",
@@ -1143,7 +1143,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/heroes-o-pedia/vcmi-1.7/screenshots/screen03.png"
 			],
 			"downloadSize" : 3.618,
-			"githubStars" : 8
+			"githubStars" : 9
 		},
 		"chronicles-enhanced" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/chronicles-enhanced/vcmi-1.7/chronicles-enhanced/mod.json",
@@ -1268,16 +1268,16 @@
 			"githubStars" : 5
 		},
 		"custom-templates" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/custom-templates/vcmi-1.7/custom-templates/mod.json",
-			"download" : "https://github.com/vcmi-mods/custom-templates/archive/refs/heads/vcmi-1.7.zip",
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/custom-templates/vcmi-1.8/custom-templates/mod.json",
+			"download" : "https://github.com/vcmi-mods/custom-templates/archive/refs/heads/vcmi-1.8.zip",
 			"screenshots" : [
-				"https://raw.githubusercontent.com/vcmi-mods/custom-templates/vcmi-1.7/screenshots/Grond-map-example.png",
-				"https://raw.githubusercontent.com/vcmi-mods/custom-templates/vcmi-1.7/screenshots/Grond-settings.png",
-				"https://raw.githubusercontent.com/vcmi-mods/custom-templates/vcmi-1.7/screenshots/screen1.png",
-				"https://raw.githubusercontent.com/vcmi-mods/custom-templates/vcmi-1.7/screenshots/Sim-City-map-example.png",
-				"https://raw.githubusercontent.com/vcmi-mods/custom-templates/vcmi-1.7/screenshots/Sim-City-settings.png"
+				"https://raw.githubusercontent.com/vcmi-mods/custom-templates/vcmi-1.8/screenshots/Grond-map-example.png",
+				"https://raw.githubusercontent.com/vcmi-mods/custom-templates/vcmi-1.8/screenshots/Grond-settings.png",
+				"https://raw.githubusercontent.com/vcmi-mods/custom-templates/vcmi-1.8/screenshots/screen1.png",
+				"https://raw.githubusercontent.com/vcmi-mods/custom-templates/vcmi-1.8/screenshots/Sim-City-map-example.png",
+				"https://raw.githubusercontent.com/vcmi-mods/custom-templates/vcmi-1.8/screenshots/Sim-City-settings.png"
 			],
-			"downloadSize" : 9.235,
+			"downloadSize" : 9.246,
 			"githubStars" : 2
 		},
 		"cheat-mod" : {
@@ -1350,7 +1350,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/romanian-translation/vcmi-1.7/screenshots/screen2.png",
 				"https://raw.githubusercontent.com/vcmi-mods/romanian-translation/vcmi-1.7/screenshots/screen3.png"
 			],
-			"downloadSize" : 6.447,
+			"downloadSize" : 6.538,
 			"githubStars" : 1
 		},
 		"belarusian-translation" : {
@@ -1376,7 +1376,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/HD-remastered/vcmi-1.7/screenshots/OH3.png"
 			],
 			"downloadSize" : 126.437,
-			"githubStars" : 9
+			"githubStars" : 10
 		},
 		"more-secondary" : {
 			"mod" : "https://github.com/vcmi-mods/more-secondary/releases/download/1.7/mod.json",
@@ -1402,7 +1402,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/mmai/vcmi-1.8-latest/screenshots/screenshot-01.png"
 			],
 			"downloadSize" : 56.746,
-			"githubStars" : 16
+			"githubStars" : 17
 		},
 		"tears-of-ashan" : {
 			"mod" : "https://github.com/vcmi-mods/tears-of-ashan/releases/download/1.7/mod.json",
@@ -1511,7 +1511,7 @@
 		"cradle-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/cradle-town/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/cradle-town/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 30.668,
+			"downloadSize" : 30.677,
 			"githubStars" : 3,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/cradle-town/vcmi-1.7/screenshots/screen1.png",
