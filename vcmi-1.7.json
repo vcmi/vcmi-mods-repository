@@ -31,7 +31,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen11.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen12.png"
 			],
-			"downloadSize" : 421.994,
+			"downloadSize" : 421.996,
 			"githubStars" : 99
 		},
 		"wake-of-gods" : {
@@ -339,7 +339,7 @@
 		"french-translation" : {
 			"mod" : "https://github.com/vcmi-mods/french-translation/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/french-translation/releases/download/1.7/french-translation-vcmi-1.7.zip",
-			"downloadSize" : 51.105,
+			"downloadSize" : 51.189,
 			"githubStars" : 1
 		},
 		"vietnamese-translation" : {
@@ -1571,7 +1571,7 @@
 		"silver-spoon" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/silver-spoon/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/silver-spoon/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 0.013,
+			"downloadSize" : 1.649,
 			"githubStars" : 0
 		}
 	}
