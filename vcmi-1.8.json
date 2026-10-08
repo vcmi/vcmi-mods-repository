@@ -31,7 +31,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.8/screenshots/screen11.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.8/screenshots/screen12.png"
 			],
-			"downloadSize" : 423.062,
+			"downloadSize" : 423.06,
 			"githubStars" : 99
 		},
 		"wake-of-gods" : {
@@ -159,7 +159,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.7/screenshots/screen2.png",
 				"https://raw.githubusercontent.com/vcmi-mods/cathedral-town/vcmi-1.7/screenshots/screen3.png"
 			],
-			"downloadSize" : 13.075,
+			"downloadSize" : 13.076,
 			"githubStars" : 8
 		},
 		"death-valley-town" : {
@@ -354,7 +354,7 @@
 		"polish-translation" : {
 			"mod" : "https://github.com/vcmi-mods/polish-translation/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/polish-translation/releases/download/1.7/polish-translation-vcmi-1.7.zip",
-			"downloadSize" : 182.708,
+			"downloadSize" : 182.709,
 			"githubStars" : 4
 		},
 		"vcmi-mod-ce-ukr" : {
@@ -648,7 +648,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/vcmi-1.7/screenshots/screen6.png",
 				"https://raw.githubusercontent.com/vcmi-mods/new-interface-mod/vcmi-1.7/screenshots/screen7.png"
 			],
-			"downloadSize" : 38.282,
+			"downloadSize" : 38.283,
 			"githubStars" : 4
 		},
 		"medusa-mod" : {
@@ -721,7 +721,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/refugee-town/vcmi-1.7/screenshots/screen6.png",
 				"https://raw.githubusercontent.com/vcmi-mods/refugee-town/vcmi-1.7/screenshots/screen7.png"
 			],
-			"downloadSize" : 38.584,
+			"downloadSize" : 38.583,
 			"githubStars" : 5
 		},
 		"asphalt-terrain" : {
@@ -755,7 +755,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/forge2k/vcmi-1.7/screenshots/screen01.png",
 				"https://raw.githubusercontent.com/vcmi-mods/forge2k/vcmi-1.7/screenshots/screen02.png"
 			],
-			"downloadSize" : 21.839,
+			"downloadSize" : 21.84,
 			"githubStars" : 7
 		},
 		"ab-bad-ending-assets" : {
@@ -971,7 +971,7 @@
 		"small-era-mods" : {
 			"mod" : "https://github.com/vcmi-mods/small-era-mods/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/small-era-mods/releases/download/1.7/small-era-mods-vcmi-1.7.zip",
-			"downloadSize" : 32.05,
+			"downloadSize" : 32.051,
 			"githubStars" : 2,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/small-era-mods/vcmi-1.7/Screenshots/darkened.png",
@@ -1330,7 +1330,7 @@
 		"japanese-translation" : {
 			"mod" : "https://github.com/vcmi-mods/japanese-translation/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/japanese-translation/releases/download/1.7/japanese-translation-vcmi-1.7.zip",
-			"downloadSize" : 54.442,
+			"downloadSize" : 54.441,
 			"githubStars" : 1
 		},
 		"bulgarian-translation" : {
@@ -1375,7 +1375,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/HD-remastered/vcmi-1.7/screenshots/HDRemastered.png",
 				"https://raw.githubusercontent.com/vcmi-mods/HD-remastered/vcmi-1.7/screenshots/OH3.png"
 			],
-			"downloadSize" : 126.437,
+			"downloadSize" : 126.433,
 			"githubStars" : 10
 		},
 		"more-secondary" : {
@@ -1434,7 +1434,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/vcmi-1.7/screenshots/toa_promo_town_sanctuary.png",
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/vcmi-1.7/screenshots/warcries.png"
 			],
-			"downloadSize" : 136.14,
+			"downloadSize" : 136.137,
 			"githubStars" : 24
 		},
 		"the-great-expansion" : {
@@ -1531,7 +1531,7 @@
 		"an-expansion" : {
 			"mod" : "https://github.com/vcmi-mods/an-expansion/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/an-expansion/releases/download/1.7/an-expansion-vcmi-1.7.zip",
-			"downloadSize" : 1.136,
+			"downloadSize" : 1.137,
 			"githubStars" : 6,
 			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/an-expansion/1.7/description.md"
 		},
