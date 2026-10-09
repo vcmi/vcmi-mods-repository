@@ -84,7 +84,7 @@
 		"neutral-heroes" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/neutral-heroes/vcmi-1.8/mod.json",
 			"download" : "https://github.com/vcmi-mods/neutral-heroes/archive/refs/heads/vcmi-1.8.zip",
-			"downloadSize" : 2.615,
+			"downloadSize" : 5.629,
 			"githubStars" : 3
 		},
 		"new-old-heroes" : {
