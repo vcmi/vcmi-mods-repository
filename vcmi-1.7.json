@@ -31,7 +31,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen11.png",
 				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen12.png"
 			],
-			"downloadSize" : 421.995,
+			"downloadSize" : 421.997,
 			"githubStars" : 100
 		},
 		"wake-of-gods" : {
@@ -257,7 +257,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/latvian-translation/vcmi-1.7/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/latvian-translation/vcmi-1.7/screenshots/screen2.png"
 			],
-			"downloadSize" : 8.323,
+			"downloadSize" : 8.34,
 			"githubStars" : 1
 		},
 		"italian-translation" : {
@@ -339,7 +339,7 @@
 		"french-translation" : {
 			"mod" : "https://github.com/vcmi-mods/french-translation/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/french-translation/releases/download/1.7/french-translation-vcmi-1.7.zip",
-			"downloadSize" : 51.189,
+			"downloadSize" : 51.188,
 			"githubStars" : 1
 		},
 		"vietnamese-translation" : {
@@ -527,7 +527,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/vcmi-1.7/screenshots/screen5.png",
 				"https://raw.githubusercontent.com/vcmi-mods/tartarus-town/vcmi-1.7/screenshots/screen6.png"
 			],
-			"downloadSize" : 20.348,
+			"downloadSize" : 20.349,
 			"githubStars" : 4
 		},
 		"preserve-town" : {
@@ -718,7 +718,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/refugee-town/vcmi-1.7/screenshots/screen6.png",
 				"https://raw.githubusercontent.com/vcmi-mods/refugee-town/vcmi-1.7/screenshots/screen7.png"
 			],
-			"downloadSize" : 38.583,
+			"downloadSize" : 38.584,
 			"githubStars" : 5
 		},
 		"asphalt-terrain" : {
@@ -752,7 +752,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/forge2k/vcmi-1.7/screenshots/screen01.png",
 				"https://raw.githubusercontent.com/vcmi-mods/forge2k/vcmi-1.7/screenshots/screen02.png"
 			],
-			"downloadSize" : 21.84,
+			"downloadSize" : 21.839,
 			"githubStars" : 7
 		},
 		"ab-bad-ending-assets" : {
@@ -1116,7 +1116,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/new-monsters-pack/vcmi-1.7/screenshots/screen09.png",
 				"https://raw.githubusercontent.com/vcmi-mods/new-monsters-pack/vcmi-1.7/screenshots/screen10.png"
 			],
-			"downloadSize" : 211.497,
+			"downloadSize" : 211.496,
 			"githubStars" : 1
 		},
 		"czech-map-pack" : {
@@ -1327,7 +1327,7 @@
 		"japanese-translation" : {
 			"mod" : "https://github.com/vcmi-mods/japanese-translation/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/japanese-translation/releases/download/1.7/japanese-translation-vcmi-1.7.zip",
-			"downloadSize" : 54.441,
+			"downloadSize" : 54.442,
 			"githubStars" : 1
 		},
 		"bulgarian-translation" : {
@@ -1353,7 +1353,7 @@
 		"belarusian-translation" : {
 			"mod" : "https://github.com/vcmi-mods/belarusian-translation/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/belarusian-translation/releases/download/1.7/belarusian-translation-vcmi-1.7.zip",
-			"downloadSize" : 7.678,
+			"downloadSize" : 7.679,
 			"githubStars" : 1
 		},
 		"market-of-time" : {
@@ -1431,7 +1431,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/vcmi-1.7/screenshots/toa_promo_town_sanctuary.png",
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/vcmi-1.7/screenshots/warcries.png"
 			],
-			"downloadSize" : 136.137,
+			"downloadSize" : 136.14,
 			"githubStars" : 24
 		},
 		"the-great-expansion" : {
