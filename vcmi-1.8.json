@@ -263,6 +263,14 @@
 			"downloadSize" : 8.281,
 			"githubStars" : 1
 		},
+		"lithuanian-translation" : {
+			"mod" : "https://github.com/vcmi-mods/lithuanian-translation/releases/download/1.8/mod.json",
+			"download" : "https://github.com/vcmi-mods/lithuanian-translation/releases/download/1.8/lithuanian-translation-vcmi-1.8.zip"
+		},
+		"tchinese-translation" : {
+			"mod" : "https://github.com/vcmi-mods/tchinese-translation/releases/download/1.8/mod.json",
+			"download" : "https://github.com/vcmi-mods/tchinese-translation/releases/download/1.8/tchinese-translation-vcmi-1.8.zip"
+		},
 		"italian-translation" : {
 			"mod" : "https://github.com/vcmi-mods/italian-translation/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/italian-translation/releases/download/1.7/italian-translation-vcmi-1.7.zip",
