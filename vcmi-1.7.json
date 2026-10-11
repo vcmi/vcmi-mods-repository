@@ -202,7 +202,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/dutch-translation/vcmi-1.7/screenshots/screen3.png",
 				"https://raw.githubusercontent.com/vcmi-mods/dutch-translation/vcmi-1.7/screenshots/screen4.png"
 			],
-			"downloadSize" : 10.765,
+			"downloadSize" : 10.808,
 			"githubStars" : 1
 		},
 		"filipino-translation" : {
@@ -212,7 +212,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/filipino-translation/vcmi-1.7/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/filipino-translation/vcmi-1.7/screenshots/screen2.png"
 			],
-			"downloadSize" : 4.443,
+			"downloadSize" : 4.485,
 			"githubStars" : 1
 		},
 		"german-translation" : {
@@ -229,7 +229,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/serbian-translation/vcmi-1.7/screenshots/screen2.png",
 				"https://raw.githubusercontent.com/vcmi-mods/serbian-translation/vcmi-1.7/screenshots/screen3.png"
 			],
-			"downloadSize" : 5.739,
+			"downloadSize" : 5.78,
 			"githubStars" : 1
 		},
 		"spanish-translation" : {
@@ -257,7 +257,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/latvian-translation/vcmi-1.7/screenshots/screen1.png",
 				"https://raw.githubusercontent.com/vcmi-mods/latvian-translation/vcmi-1.7/screenshots/screen2.png"
 			],
-			"downloadSize" : 8.281,
+			"downloadSize" : 8.323,
 			"githubStars" : 1
 		},
 		"italian-translation" : {
@@ -460,7 +460,7 @@
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/fairy-town/vcmi-1.7/screenshots/screen1.png"
 			],
-			"downloadSize" : 21.83,
+			"downloadSize" : 21.842,
 			"githubStars" : 4
 		},
 		"haven-town" : {
