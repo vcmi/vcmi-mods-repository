@@ -37,7 +37,7 @@
 		"wake-of-gods" : {
 			"mod" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.8/mod.json",
 			"download" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.8/wake-of-gods-vcmi-1.8.zip",
-			"downloadSize" : 99.154,
+			"downloadSize" : 99.133,
 			"githubStars" : 40,
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.8/screenshots/screen01.png",
