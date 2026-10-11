@@ -35,22 +35,22 @@
 			"githubStars" : 100
 		},
 		"wake-of-gods" : {
-			"mod" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/mod.json",
-			"download" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.7/wake-of-gods-vcmi-1.7.zip",
-			"downloadSize" : 99.154,
+			"mod" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.8/mod.json",
+			"download" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.8/wake-of-gods-vcmi-1.8.zip",
+			"downloadSize" : 99.133,
 			"githubStars" : 40,
 			"screenshots" : [
-				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/screenshots/screen01.png",
-				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/screenshots/screen02.png",
-				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/screenshots/screen03.png",
-				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/screenshots/screen04.png",
-				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/screenshots/screen05.png",
-				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/screenshots/screen06.png",
-				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/screenshots/screen07.png",
-				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/screenshots/screen08.png",
-				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/screenshots/screen09.png",
-				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/screenshots/screen10.png",
-				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.7/screenshots/screen11.png"
+				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.8/screenshots/screen01.png",
+				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.8/screenshots/screen02.png",
+				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.8/screenshots/screen03.png",
+				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.8/screenshots/screen04.png",
+				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.8/screenshots/screen05.png",
+				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.8/screenshots/screen06.png",
+				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.8/screenshots/screen07.png",
+				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.8/screenshots/screen08.png",
+				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.8/screenshots/screen09.png",
+				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.8/screenshots/screen10.png",
+				"https://raw.githubusercontent.com/vcmi-mods/wake-of-gods/vcmi-1.8/screenshots/screen11.png"
 			]
 		},
 		"tides-of-war" : {
