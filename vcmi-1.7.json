@@ -1293,7 +1293,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/chinese-maps-collection/main/chinese-maps-collection/mod.json",
 			"download" : "https://github.com/vcmi-mods/chinese-maps-collection/archive/refs/heads/main.zip",
 			"downloadSize" : 117.595,
-			"githubStars" : 0
+			"githubStars" : 1
 		},
 		"pah3-singleplayer-tournament" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/pah3-singleplayer-tournament/vcmi-1.7/pah3-singleplayer-tournament/mod.json",
@@ -1560,7 +1560,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/vcmi-shadowless-chinese-font/main/mod.json",
 			"download" : "https://github.com/vcmi-mods/vcmi-shadowless-chinese-font/archive/refs/heads/main.zip",
 			"downloadSize" : 12.971,
-			"githubStars" : 0
+			"githubStars" : 1
 		},
 		"blood-expansion" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/blood-expansion/vcmi-1.7/mod.json",
