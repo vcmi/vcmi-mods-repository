@@ -18,18 +18,18 @@
 			"mod" : "https://github.com/vcmi-mods/horn-of-the-abyss/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/horn-of-the-abyss/releases/download/1.7/horn-of-the-abyss-vcmi-1.7.zip",
 			"screenshots" : [
-				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen01.png",
-				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen02.png",
-				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen03.png",
-				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen04.png",
-				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen05.png",
-				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen06.png",
-				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen07.png",
-				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen08.png",
-				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen09.png",
-				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen10.png",
-				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen11.png",
-				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/vcmi-1.7/screenshots/screen12.png"
+				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/1.7/screenshots/screen01.png",
+				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/1.7/screenshots/screen02.png",
+				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/1.7/screenshots/screen03.png",
+				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/1.7/screenshots/screen04.png",
+				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/1.7/screenshots/screen05.png",
+				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/1.7/screenshots/screen06.png",
+				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/1.7/screenshots/screen07.png",
+				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/1.7/screenshots/screen08.png",
+				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/1.7/screenshots/screen09.png",
+				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/1.7/screenshots/screen10.png",
+				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/1.7/screenshots/screen11.png",
+				"https://raw.githubusercontent.com/vcmi-mods/horn-of-the-abyss/1.7/screenshots/screen12.png"
 			],
 			"downloadSize" : 421.758,
 			"githubStars" : 100
@@ -471,7 +471,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/haven-town/vcmi-1.7/screenshots/screen2.png",
 				"https://raw.githubusercontent.com/vcmi-mods/haven-town/vcmi-1.7/screenshots/screen3.png"
 			],
-			"downloadSize" : 14.15,
+			"downloadSize" : 14.158,
 			"githubStars" : 5
 		},
 		"ruins-town" : {
@@ -1431,7 +1431,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/vcmi-1.7/screenshots/toa_promo_town_sanctuary.png",
 				"https://raw.githubusercontent.com/vcmi-mods/tears-of-ashan/vcmi-1.7/screenshots/warcries.png"
 			],
-			"downloadSize" : 136.14,
+			"downloadSize" : 136.038,
 			"githubStars" : 24
 		},
 		"the-great-expansion" : {
