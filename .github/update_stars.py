@@ -29,6 +29,12 @@ for filename in glob.glob(os.path.join('.', '*.json')):
         )
 
         for mod, data in items:
+            # Shared CI releases (bare version tag) publish stars in their own mod.json
+            if re.search(r"/releases/download/\d", data.get("mod", "")):
+                data.pop("githubStars", None)
+                print(f"Skipping {mod}: stars provided by release mod.json")
+                continue
+
             url = data.get("download", "")
             owner, repo = extract_github_repo(url)
 

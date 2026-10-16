@@ -219,6 +219,14 @@ for filename in glob.glob(os.path.join(".", "*.json")):
             stats["skip"] += 1
             continue
 
+        # Shared CI tags releases with the bare version and embeds screenshots into the
+        # published mod.json, which the launcher merges over this entry
+        if "/releases/download/" in mod_url and ref[0].isdigit():
+            data.pop("screenshots", None)
+            log_skip(mod, "screenshots provided by release mod.json")
+            stats["skip"] += 1
+            continue
+
         existing = data.get("screenshots")
         existing_count = len(existing) if isinstance(existing, list) else 0
 
