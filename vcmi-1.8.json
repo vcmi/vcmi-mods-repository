@@ -21,10 +21,8 @@
 			"download" : "https://github.com/vcmi-mods/courtyard/releases/download/1.7/courtyard-vcmi-1.7.zip"
 		},
 		"neutral-heroes" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/neutral-heroes/vcmi-1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/neutral-heroes/archive/refs/heads/vcmi-1.8.zip",
-			"downloadSize" : 5.629,
-			"githubStars" : 3
+			"mod" : "https://github.com/vcmi-mods/neutral-heroes/releases/download/1.8/mod.json",
+			"download" : "https://github.com/vcmi-mods/neutral-heroes/releases/download/1.8/neutral-heroes-vcmi-1.8.zip"
 		},
 		"new-old-heroes" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-old-heroes/vcmi-1.7/new-old-heroes/mod.json",
