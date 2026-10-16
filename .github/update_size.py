@@ -116,6 +116,12 @@ for filename in glob.glob(os.path.join(".", "*.json")):
     items = modlist.items() if "availableMods" not in modlist else modlist["availableMods"].items()
 
     for mod, data in items:
+        # Shared CI releases (bare version tag) publish size in their own mod.json
+        if re.search(r"/releases/download/\d", data.get("mod") or ""):
+            data.pop("downloadSize", None)
+            print(f"⛔ {mod}: size provided by release mod.json")
+            continue
+
         if "download" not in data:
             log_missing_field(mod, "download")
             stats["missing"] += 1
