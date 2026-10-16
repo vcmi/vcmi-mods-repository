@@ -49,19 +49,8 @@
 			"githubStars" : 1
 		},
 		"asylum-town" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/asylum-town/vcmi-1.7/asylum-town/mod.json",
-			"download" : "https://github.com/vcmi-mods/asylum-town/archive/refs/heads/vcmi-1.7.zip",
-			"screenshots" : [
-				"https://raw.githubusercontent.com/vcmi-mods/asylum-town/vcmi-1.7/screenshots/screen1.png",
-				"https://raw.githubusercontent.com/vcmi-mods/asylum-town/vcmi-1.7/screenshots/screen2.png",
-				"https://raw.githubusercontent.com/vcmi-mods/asylum-town/vcmi-1.7/screenshots/screen3.png",
-				"https://raw.githubusercontent.com/vcmi-mods/asylum-town/vcmi-1.7/screenshots/screen4.png",
-				"https://raw.githubusercontent.com/vcmi-mods/asylum-town/vcmi-1.7/screenshots/screen5.png",
-				"https://raw.githubusercontent.com/vcmi-mods/asylum-town/vcmi-1.7/screenshots/screen6.png",
-				"https://raw.githubusercontent.com/vcmi-mods/asylum-town/vcmi-1.7/screenshots/screen7.png"
-			],
-			"downloadSize" : 26.722,
-			"githubStars" : 4
+			"mod" : "https://github.com/vcmi-mods/asylum-town/releases/download/1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/asylum-town/releases/download/1.7/asylum-town-vcmi-1.7.zip"
 		},
 		"highlands-town" : {
 			"mod" : "https://github.com/vcmi-mods/highlands-town/releases/download/1.7/mod.json",
@@ -76,17 +65,8 @@
 			"download" : "https://github.com/vcmi-mods/cathedral-town/releases/download/1.7/cathedral-town-vcmi-1.7.zip"
 		},
 		"death-valley-town" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/death-valley-town/vcmi-1.7/death-valley-town/mod.json",
-			"download" : "https://github.com/vcmi-mods/death-valley-town/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 25.11,
-			"githubStars" : 4,
-			"screenshots" : [
-				"https://raw.githubusercontent.com/vcmi-mods/death-valley-town/vcmi-1.7/screenshots/screen1.png",
-				"https://raw.githubusercontent.com/vcmi-mods/death-valley-town/vcmi-1.7/screenshots/screen2.png",
-				"https://raw.githubusercontent.com/vcmi-mods/death-valley-town/vcmi-1.7/screenshots/screen3.png",
-				"https://raw.githubusercontent.com/vcmi-mods/death-valley-town/vcmi-1.7/screenshots/screen4.png",
-				"https://raw.githubusercontent.com/vcmi-mods/death-valley-town/vcmi-1.7/screenshots/screen5.png"
-			]
+			"mod" : "https://github.com/vcmi-mods/death-valley-town/releases/download/1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/death-valley-town/releases/download/1.7/death-valley-town-vcmi-1.7.zip"
 		},
 		"andruids-expansion" : {
 			"mod" : "https://github.com/vcmi-mods/andruids-expansion/releases/download/1.7/mod.json",
@@ -254,13 +234,8 @@
 			"githubStars" : 1
 		},
 		"fairy-town" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/fairy-town/vcmi-1.7/fairy-town/mod.json",
-			"download" : "https://github.com/vcmi-mods/fairy-town/archive/refs/heads/vcmi-1.7.zip",
-			"screenshots" : [
-				"https://raw.githubusercontent.com/vcmi-mods/fairy-town/vcmi-1.7/screenshots/screen1.png"
-			],
-			"downloadSize" : 21.842,
-			"githubStars" : 4
+			"mod" : "https://github.com/vcmi-mods/fairy-town/releases/download/1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/fairy-town/releases/download/1.7/fairy-town-vcmi-1.7.zip"
 		},
 		"haven-town" : {
 			"mod" : "https://github.com/vcmi-mods/haven-town/releases/download/1.7/mod.json",
@@ -271,19 +246,8 @@
 			"download" : "https://github.com/vcmi-mods/ruins-town/releases/download/1.7/ruins-town-vcmi-1.7.zip"
 		},
 		"h3-themes" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.7/h3-themes/mod.json",
-			"download" : "https://github.com/vcmi-mods/h3-themes/archive/refs/heads/vcmi-1.7.zip",
-			"screenshots" : [
-				"https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.7/screenshots/AB-menu.png",
-				"https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.7/screenshots/HotA-16-menu.png",
-				"https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.7/screenshots/HotA-17-menu.png",
-				"https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.7/screenshots/RoE-menu.png",
-				"https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.7/screenshots/SoD-menu.png",
-				"https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.7/screenshots/ToW-menu.png",
-				"https://raw.githubusercontent.com/vcmi-mods/h3-themes/vcmi-1.7/screenshots/WoG-menu.png"
-			],
-			"downloadSize" : 440.248,
-			"githubStars" : 4
+			"mod" : "https://github.com/vcmi-mods/h3-themes/releases/download/1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/h3-themes/releases/download/1.7/h3-themes-vcmi-1.7.zip"
 		},
 		"creatures-hidden-potential" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/creatures-hidden-potential/vcmi-1.7/creatures-hidden-potential/mod.json",
@@ -412,10 +376,8 @@
 			"download" : "https://github.com/vcmi-mods/lotrd-townscreens/releases/download/1.7/lotrd-townscreens-vcmi-1.7.zip"
 		},
 		"boost-ai" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/boost-ai/vcmi-1.7/mod.json",
-			"download" : "https://github.com/vcmi-mods/boost-ai/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 0.008,
-			"githubStars" : 4
+			"mod" : "https://github.com/vcmi-mods/boost-ai/releases/download/1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/boost-ai/releases/download/1.7/boost-ai-vcmi-1.7.zip"
 		},
 		"refugee-town" : {
 			"mod" : "https://github.com/vcmi-mods/refugee-town/releases/download/1.7/mod.json",
@@ -493,23 +455,12 @@
 			"githubStars" : 1
 		},
 		"zefix" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/zefix/vcmi-1.7/ZEfix/mod.json",
-			"download" : "https://github.com/vcmi-mods/zefix/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 0.002,
-			"githubStars" : 4
+			"mod" : "https://github.com/vcmi-mods/zefix/releases/download/1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/zefix/releases/download/1.7/zefix-vcmi-1.7.zip"
 		},
 		"adventure-spells-pack" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/adventure-spells-pack/vcmi-1.7/adventure-spells-pack/mod.json",
-			"download" : "https://github.com/vcmi-mods/adventure-spells-pack/archive/refs/heads/vcmi-1.7.zip",
-			"screenshots" : [
-				"https://raw.githubusercontent.com/vcmi-mods/adventure-spells-pack/vcmi-1.7/screenshots/screen01.png",
-				"https://raw.githubusercontent.com/vcmi-mods/adventure-spells-pack/vcmi-1.7/screenshots/screen02.png",
-				"https://raw.githubusercontent.com/vcmi-mods/adventure-spells-pack/vcmi-1.7/screenshots/screen03.png",
-				"https://raw.githubusercontent.com/vcmi-mods/adventure-spells-pack/vcmi-1.7/screenshots/screen04.png",
-				"https://raw.githubusercontent.com/vcmi-mods/adventure-spells-pack/vcmi-1.7/screenshots/screen05.png"
-			],
-			"downloadSize" : 5.813,
-			"githubStars" : 4
+			"mod" : "https://github.com/vcmi-mods/adventure-spells-pack/releases/download/1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/adventure-spells-pack/releases/download/1.7/adventure-spells-pack-vcmi-1.7.zip"
 		},
 		"third-upgrades" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.7/third-upgrades/mod.json",
@@ -748,13 +699,8 @@
 			"githubStars" : 3
 		},
 		"fused-artifacts" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/fused-artifacts/vcmi-1.7/fused-artifacts/mod.json",
-			"download" : "https://github.com/vcmi-mods/fused-artifacts/archive/refs/heads/vcmi-1.7.zip",
-			"screenshots" : [
-				"https://raw.githubusercontent.com/vcmi-mods/fused-artifacts/vcmi-1.7/screenshots/screen01.png"
-			],
-			"downloadSize" : 0.935,
-			"githubStars" : 4
+			"mod" : "https://github.com/vcmi-mods/fused-artifacts/releases/download/1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/fused-artifacts/releases/download/1.7/fused-artifacts-vcmi-1.7.zip"
 		},
 		"immortal-cultivation-heroes" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/immortal-cultivation-heroes/vcmi-1.7/lmods/mod.json",
@@ -847,10 +793,8 @@
 			"githubStars" : 2
 		},
 		"cheat-mod" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/cheat-mod/vcmi-1.7/cheat-mod/mod.json",
-			"download" : "https://github.com/vcmi-mods/cheat-mod/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 0.012,
-			"githubStars" : 4
+			"mod" : "https://github.com/vcmi-mods/cheat-mod/releases/download/1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/cheat-mod/releases/download/1.7/cheat-mod-vcmi-1.7.zip"
 		},
 		"equal-stats" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/equal-stats/vcmi-1.7/equal-stats/mod.json",
@@ -912,10 +856,8 @@
 			"download" : "https://github.com/vcmi-mods/more-secondary/releases/download/1.7/more-secondary-vcmi-1.7.zip"
 		},
 		"diverse-battlefields" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/diverse-battlefields/vcmi-1.7/diverse-battlefields/mod.json",
-			"download" : "https://github.com/vcmi-mods/diverse-battlefields/archive/refs/heads/vcmi-1.7.zip",
-			"downloadSize" : 269.963,
-			"githubStars" : 4
+			"mod" : "https://github.com/vcmi-mods/diverse-battlefields/releases/download/1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/diverse-battlefields/releases/download/1.7/diverse-battlefields-vcmi-1.7.zip"
 		},
 		"mmai" : {
 			"mod" : "https://github.com/vcmi-mods/mmai/releases/download/vcmi-1.8-latest/mod.json",
@@ -931,13 +873,8 @@
 			"download" : "https://github.com/vcmi-mods/tears-of-ashan/releases/download/1.7/tears-of-ashan-vcmi-1.7.zip"
 		},
 		"the-great-expansion" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/the-great-expansion/vcmi-1.7/the-great-expansion/mod.json",
-			"download" : "https://github.com/vcmi-mods/the-great-expansion/archive/refs/heads/vcmi-1.7.zip",
-			"screenshots" : [
-				"https://raw.githubusercontent.com/vcmi-mods/the-great-expansion/vcmi-1.7/screenshots/screen01.png"
-			],
-			"downloadSize" : 40.711,
-			"githubStars" : 4
+			"mod" : "https://github.com/vcmi-mods/the-great-expansion/releases/download/1.7/mod.json",
+			"download" : "https://github.com/vcmi-mods/the-great-expansion/releases/download/1.7/the-great-expansion-vcmi-1.7.zip"
 		},
 		"forest-fort" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/forest-fort/vcmi-1.7/forest-fort/mod.json",
