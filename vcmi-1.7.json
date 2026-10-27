@@ -1,11 +1,10 @@
 {
 	"availableMods" : {
 "dragon-citadel": {
-        "mod": "https://raw.githubusercontent.com/czcmjkfvy4-dotcom/Jakubabuba/v1.5.8/mod.json",
-        "download": "https://github.com/czcmjkfvy4-dotcom/Jakubabuba/releases/download/v1.5.8/Dragon_Citadel_1.5.8.zip",
-        "downloadSize": 315.002,
+        "mod": "https://raw.githubusercontent.com/czcmjkfvy4-dotcom/Jakubabuba/v1.5.9/mod.json",
+        "download": "https://github.com/czcmjkfvy4-dotcom/Jakubabuba/archive/refs/tags/v1.5.9.zip",
         "screenshots": [
-            "https://raw.githubusercontent.com/czcmjkfvy4-dotcom/Jakubabuba/v1.5.8/qa-1.5.8/actual-language-windows/english/dragon-citadel-dragonCitadel.png"
+            "https://raw.githubusercontent.com/czcmjkfvy4-dotcom/Jakubabuba/v1.5.9/qa-1.5.9/actual-language-windows/english/dragon-citadel-dragonCitadel.png"
         ]
     },
 		"vcmi-extras" : {
