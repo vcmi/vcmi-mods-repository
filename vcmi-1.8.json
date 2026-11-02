@@ -949,6 +949,10 @@
 				"https://raw.githubusercontent.com/vcmi-mods/inferno-plus/vcmi-1.8/screenshots/Screenshot%20from%202026-07-20%2014-49-25.png",
 				"https://raw.githubusercontent.com/vcmi-mods/inferno-plus/vcmi-1.8/screenshots/Spellbook.png"
 			]
+		},
+		"the-grand-alliance" : {
+    		"mod" : "https://raw.githubusercontent.com/Mihail-Enoh/The-Grand-Alliance/main/mod.json",
+    		"download" : "https://github.com/Mihail-Enoh/The-Grand-Alliance/archive/refs/heads/main.zip"
 		}
 	}
 }
