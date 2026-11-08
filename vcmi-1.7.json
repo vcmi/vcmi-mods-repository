@@ -942,6 +942,12 @@
 			"download" : "https://github.com/vcmi-mods/silver-spoon/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 1.65,
 			"githubStars" : 0
+		},
+		"addition-to-wog" : {
+			"mod" : "https://raw.githubusercontent.com/igorkorsukov/vcmi-addition-to-wog/refs/heads/main/mod.json",
+			"download" : "https://github.com/igorkorsukov/vcmi-addition-to-wog/archive/refs/heads/main.zip",
+			"downloadSize" : 0.350,
+			"githubStars" : 0
 		}
 	}
 }
