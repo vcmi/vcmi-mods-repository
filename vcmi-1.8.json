@@ -13,12 +13,12 @@
 			"download" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.8/wake-of-gods-vcmi-1.8.zip"
 		},
 		"tides-of-war" : {
-			"mod" : "https://github.com/vcmi-mods/tides-of-war/releases/download/1.7/mod.json",
-			"download" : "https://github.com/vcmi-mods/tides-of-war/releases/download/1.7/tides-of-war-vcmi-1.7.zip"
+			"mod" : "https://github.com/vcmi-mods/tides-of-war/releases/download/1.8/mod.json",
+			"download" : "https://github.com/vcmi-mods/tides-of-war/releases/download/1.8/tides-of-war-vcmi-1.8.zip"
 		},
 		"courtyard" : {
-			"mod" : "https://github.com/vcmi-mods/courtyard/releases/download/1.7/mod.json",
-			"download" : "https://github.com/vcmi-mods/courtyard/releases/download/1.7/courtyard-vcmi-1.7.zip"
+			"mod" : "https://github.com/vcmi-mods/courtyard/releases/download/1.8/mod.json",
+			"download" : "https://github.com/vcmi-mods/courtyard/releases/download/1.8/courtyard-vcmi-1.8.zip"
 		},
 		"neutral-heroes" : {
 			"mod" : "https://github.com/vcmi-mods/neutral-heroes/releases/download/1.8/mod.json",
@@ -159,8 +159,8 @@
 			"download" : "https://github.com/vcmi-mods/h3-for-vcmi-englisation/releases/download/1.7/h3-for-vcmi-englisation-vcmi-1.7.zip"
 		},
 		"forge" : {
-			"mod" : "https://github.com/vcmi-mods/forge/releases/download/1.7/mod.json",
-			"download" : "https://github.com/vcmi-mods/forge/releases/download/1.7/forge-vcmi-1.7.zip"
+			"mod" : "https://github.com/vcmi-mods/forge/releases/download/1.8/mod.json",
+			"download" : "https://github.com/vcmi-mods/forge/releases/download/1.8/forge-vcmi-1.8.zip"
 		},
 		"ai trace" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/adventure-ai-trace/upstream/mod.json",
@@ -382,16 +382,16 @@
 			"download" : "https://github.com/vcmi-mods/refugee-town/releases/download/1.7/refugee-town-vcmi-1.7.zip"
 		},
 		"asphalt-terrain" : {
-			"mod" : "https://github.com/vcmi-mods/asphalt-terrain/releases/download/1.7/mod.json",
-			"download" : "https://github.com/vcmi-mods/asphalt-terrain/releases/download/1.7/asphalt-terrain-vcmi-1.7.zip"
+			"mod" : "https://github.com/vcmi-mods/asphalt-terrain/releases/download/1.8/mod.json",
+			"download" : "https://github.com/vcmi-mods/asphalt-terrain/releases/download/1.8/asphalt-terrain-vcmi-1.8.zip"
 		},
 		"newtown-terrains" : {
 			"mod" : "https://github.com/vcmi-mods/newtown-terrains/releases/download/1.8/mod.json",
 			"download" : "https://github.com/vcmi-mods/newtown-terrains/releases/download/1.8/newtown-terrains-vcmi-1.8.zip"
 		},
 		"forge2k" : {
-			"mod" : "https://github.com/vcmi-mods/forge2k/releases/download/1.7/mod.json",
-			"download" : "https://github.com/vcmi-mods/forge2k/releases/download/1.7/forge2k-vcmi-1.7.zip"
+			"mod" : "https://github.com/vcmi-mods/forge2k/releases/download/1.8/mod.json",
+			"download" : "https://github.com/vcmi-mods/forge2k/releases/download/1.8/forge2k-vcmi-1.8.zip"
 		},
 		"ab-bad-ending-assets" : {
 			"mod" : "https://github.com/vcmi-mods/ab-bad-ending-assets/releases/download/1.7/mod.json",
