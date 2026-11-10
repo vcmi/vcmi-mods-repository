@@ -721,7 +721,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-sfx-sounds/main/mod.json",
 			"download" : "https://github.com/vcmi-mods/new-sfx-sounds/archive/refs/heads/main.zip",
 			"downloadSize" : 68.948,
-			"githubStars" : 2
+			"githubStars" : 3
 		},
 		"alternate-townscreens" : {
 			"mod" : "https://github.com/vcmi-mods/alternate-townscreens/releases/download/1.7/mod.json",
@@ -858,7 +858,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/mmai/vcmi-1.7-latest/screenshots/screenshot-01.png"
 			],
 			"downloadSize" : 37.829,
-			"githubStars" : 18
+			"githubStars" : 19
 		},
 		"tears-of-ashan" : {
 			"mod" : "https://github.com/vcmi-mods/tears-of-ashan/releases/download/1.7/mod.json",
