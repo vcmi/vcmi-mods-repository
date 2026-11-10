@@ -942,6 +942,12 @@
 			"download" : "https://github.com/vcmi-mods/silver-spoon/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 1.65,
 			"githubStars" : 0
+		},
+		"random-template-tuning" : {
+			"mod" : "https://raw.githubusercontent.com/igorkorsukov/vcmi-random-template-tuning/refs/heads/main/mod.json",
+			"download" : "https://github.com/igorkorsukov/vcmi-random-template-tuning/archive/refs/heads/main.zip",
+			"downloadSize" : 0,
+			"githubStars" : 0
 		}
 	}
 }
