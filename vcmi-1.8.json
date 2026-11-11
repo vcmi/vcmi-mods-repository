@@ -291,6 +291,10 @@
 			"mod" : "https://github.com/vcmi-mods/andruids-spell-balance/releases/download/1.8/mod.json",
 			"download" : "https://github.com/vcmi-mods/andruids-spell-balance/releases/download/1.8/andruids-spell-balance-vcmi-1.8.zip"
 		},
+		"reworked-commanders" : {
+			"mod" : "https://github.com/vcmi-mods/reworked-commanders/releases/download/1.8/mod.json",
+			"download" : "https://github.com/vcmi-mods/reworked-commanders/releases/download/1.8/reworked-commanders-vcmi-1.8.zip"
+		},
 		"new-old-spells-plus" : {
 			"mod" : "https://github.com/vcmi-mods/new-old-spells-plus/releases/download/1.8/mod.json",
 			"download" : "https://github.com/vcmi-mods/new-old-spells-plus/releases/download/1.8/new-old-spells-plus-vcmi-1.8.zip"
@@ -857,8 +861,7 @@
 		},
 		"the-lost-tales" : {
 			"mod" : "https://github.com/vcmi-mods/the-lost-tales/releases/download/1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/the-lost-tales/releases/download/1.8/the-lost-tales-vcmi-1.8.zip",
-			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/1.8/description.md"
+			"download" : "https://github.com/vcmi-mods/the-lost-tales/releases/download/1.8/the-lost-tales-vcmi-1.8.zip"
 		},
 		"h3landscape" : {
 			"mod" : "https://github.com/vcmi-mods/h3landscape/releases/download/1.7/mod.json",
