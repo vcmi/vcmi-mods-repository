@@ -67,8 +67,8 @@
 			"download" : "https://github.com/vcmi-mods/death-valley-town/releases/download/1.7/death-valley-town-vcmi-1.7.zip"
 		},
 		"andruids-expansion" : {
-			"mod" : "https://github.com/vcmi-mods/andruids-expansion/releases/download/1.7/mod.json",
-			"download" : "https://github.com/vcmi-mods/andruids-expansion/releases/download/1.7/andruids-expansion-vcmi-1.7.zip"
+			"mod" : "https://github.com/vcmi-mods/andruids-expansion/releases/download/1.8/mod.json",
+			"download" : "https://github.com/vcmi-mods/andruids-expansion/releases/download/1.8/andruids-expansion-vcmi-1.8.zip"
 		},
 		"dutch-translation" : {
 			"mod" : "https://github.com/vcmi-mods/dutch-translation/releases/download/1.7/mod.json",
@@ -755,8 +755,8 @@
 			"githubStars" : 1
 		},
 		"new-skills-pack" : {
-			"mod" : "https://github.com/vcmi-mods/new-skills-pack/releases/download/1.7/mod.json",
-			"download" : "https://github.com/vcmi-mods/new-skills-pack/releases/download/1.7/new-skills-pack-vcmi-1.7.zip"
+			"mod" : "https://github.com/vcmi-mods/new-skills-pack/releases/download/1.8/mod.json",
+			"download" : "https://github.com/vcmi-mods/new-skills-pack/releases/download/1.8/new-skills-pack-vcmi-1.8.zip"
 		},
 		"custom-templates" : {
 			"mod" : "https://github.com/vcmi-mods/custom-templates/releases/download/1.8/mod.json",
