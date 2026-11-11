@@ -288,13 +288,8 @@
 			"githubStars" : 1
 		},
 		"andruids-spell-balance" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/andruids-spell-balance/vcmi-1.7/andruids-spell-balance/mod.json",
-			"download" : "https://github.com/vcmi-mods/andruids-spell-balance/archive/refs/heads/vcmi-1.7.zip",
-			"screenshots" : [
-				"https://raw.githubusercontent.com/vcmi-mods/andruids-spell-balance/vcmi-1.7/screenshots/screen1.png"
-			],
-			"downloadSize" : 0.812,
-			"githubStars" : 1
+			"mod" : "https://github.com/vcmi-mods/andruids-spell-balance/releases/download/1.8/mod.json",
+			"download" : "https://github.com/vcmi-mods/andruids-spell-balance/releases/download/1.8/andruids-spell-balance-vcmi-1.8.zip"
 		},
 		"new-old-spells-plus" : {
 			"mod" : "https://github.com/vcmi-mods/new-old-spells-plus/releases/download/1.8/mod.json",
@@ -395,8 +390,8 @@
 			"download" : "https://github.com/vcmi-mods/ab-bad-ending-maps/releases/download/1.7/ab-bad-ending-maps-vcmi-1.7.zip"
 		},
 		"ensrick-portraits" : {
-			"mod" : "https://github.com/vcmi-mods/ensrick-portraits/releases/download/1.7/mod.json",
-			"download" : "https://github.com/vcmi-mods/ensrick-portraits/releases/download/1.7/ensrick-portraits-vcmi-1.7.zip"
+			"mod" : "https://github.com/vcmi-mods/ensrick-portraits/releases/download/1.8/mod.json",
+			"download" : "https://github.com/vcmi-mods/ensrick-portraits/releases/download/1.8/ensrick-portraits-vcmi-1.8.zip"
 		},
 		"morns-battlefields" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/morns-battlefields/vcmi-1.7/morns-battlefields/mod.json",
@@ -583,17 +578,8 @@
 			"githubStars" : 2
 		},
 		"new-summon-spells" : {
-			"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-summon-spells/vcmi-1.7/new-summon-spells/mod.json",
-			"download" : "https://github.com/vcmi-mods/new-summon-spells/archive/refs/heads/vcmi-1.7.zip",
-			"screenshots" : [
-				"https://raw.githubusercontent.com/vcmi-mods/new-summon-spells/vcmi-1.7/screenshots/screen1.png",
-				"https://raw.githubusercontent.com/vcmi-mods/new-summon-spells/vcmi-1.7/screenshots/screen2.png",
-				"https://raw.githubusercontent.com/vcmi-mods/new-summon-spells/vcmi-1.7/screenshots/screen3.png",
-				"https://raw.githubusercontent.com/vcmi-mods/new-summon-spells/vcmi-1.7/screenshots/screen4.png",
-				"https://raw.githubusercontent.com/vcmi-mods/new-summon-spells/vcmi-1.7/screenshots/screen5.png"
-			],
-			"downloadSize" : 4.218,
-			"githubStars" : 3
+			"mod" : "https://github.com/vcmi-mods/new-summon-spells/releases/download/1.8/mod.json",
+			"download" : "https://github.com/vcmi-mods/new-summon-spells/releases/download/1.8/new-summon-spells-vcmi-1.8.zip"
 		},
 		"witchking-artifacts" : {
 			"mod" : "https://github.com/vcmi-mods/witchking-artifacts/releases/download/1.7/mod.json",
@@ -641,8 +627,8 @@
 			"githubStars" : 0
 		},
 		"new-monsters-pack" : {
-			"mod" : "https://github.com/vcmi-mods/new-monsters-pack/releases/download/1.7/mod.json",
-			"download" : "https://github.com/vcmi-mods/new-monsters-pack/releases/download/1.7/new-monsters-pack-vcmi-1.7.zip"
+			"mod" : "https://github.com/vcmi-mods/new-monsters-pack/releases/download/1.8/mod.json",
+			"download" : "https://github.com/vcmi-mods/new-monsters-pack/releases/download/1.8/new-monsters-pack-vcmi-1.8.zip"
 		},
 		"czech-map-pack" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/czech-map-pack/vcmi-1.7/mod.json",
@@ -851,12 +837,12 @@
 			"githubStars" : 19
 		},
 		"tears-of-ashan" : {
-			"mod" : "https://github.com/vcmi-mods/tears-of-ashan/releases/download/1.7/mod.json",
-			"download" : "https://github.com/vcmi-mods/tears-of-ashan/releases/download/1.7/tears-of-ashan-vcmi-1.7.zip"
+			"mod" : "https://github.com/vcmi-mods/tears-of-ashan/releases/download/1.8/mod.json",
+			"download" : "https://github.com/vcmi-mods/tears-of-ashan/releases/download/1.8/tears-of-ashan-vcmi-1.8.zip"
 		},
 		"the-great-expansion" : {
-			"mod" : "https://github.com/vcmi-mods/the-great-expansion/releases/download/1.7/mod.json",
-			"download" : "https://github.com/vcmi-mods/the-great-expansion/releases/download/1.7/the-great-expansion-vcmi-1.7.zip"
+			"mod" : "https://github.com/vcmi-mods/the-great-expansion/releases/download/1.8/mod.json",
+			"download" : "https://github.com/vcmi-mods/the-great-expansion/releases/download/1.8/the-great-expansion-vcmi-1.8.zip"
 		},
 		"forest-fort" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/forest-fort/vcmi-1.7/forest-fort/mod.json",
@@ -870,8 +856,9 @@
 			"githubStars" : 1
 		},
 		"the-lost-tales" : {
-			"mod" : "https://github.com/vcmi-mods/the-lost-tales/releases/download/1.7/mod.json",
-			"download" : "https://github.com/vcmi-mods/the-lost-tales/releases/download/1.7/the-lost-tales-vcmi-1.7.zip"
+			"mod" : "https://github.com/vcmi-mods/the-lost-tales/releases/download/1.8/mod.json",
+			"download" : "https://github.com/vcmi-mods/the-lost-tales/releases/download/1.8/the-lost-tales-vcmi-1.8.zip",
+			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/1.8/description.md"
 		},
 		"h3landscape" : {
 			"mod" : "https://github.com/vcmi-mods/h3landscape/releases/download/1.7/mod.json",
@@ -906,12 +893,12 @@
 			"download" : "https://github.com/vcmi-mods/an-expansion/releases/download/1.7/an-expansion-vcmi-1.7.zip"
 		},
 		"reinforcements-spell" : {
-			"mod" : "https://github.com/vcmi-mods/reinforcements-spell/releases/download/1.7/mod.json",
-			"download" : "https://github.com/vcmi-mods/reinforcements-spell/releases/download/1.7/reinforcements-spell-vcmi-1.7.zip"
+			"mod" : "https://github.com/vcmi-mods/reinforcements-spell/releases/download/1.8/mod.json",
+			"download" : "https://github.com/vcmi-mods/reinforcements-spell/releases/download/1.8/reinforcements-spell-vcmi-1.8.zip"
 		},
 		"hirki-plus-patch" : {
-			"mod" : "https://github.com/vcmi-mods/hirki-plus-patch/releases/download/1.7/mod.json",
-			"download" : "https://github.com/vcmi-mods/hirki-plus-patch/releases/download/1.7/hirki-plus-patch-vcmi-1.7.zip"
+			"mod" : "https://github.com/vcmi-mods/hirki-plus-patch/releases/download/1.8/mod.json",
+			"download" : "https://github.com/vcmi-mods/hirki-plus-patch/releases/download/1.8/hirki-plus-patch-vcmi-1.8.zip"
 		},
 		"sylvan-town" : {
 			"mod" : "https://github.com/vcmi-mods/sylvan-town/releases/download/1.8/mod.json",
