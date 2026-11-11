@@ -212,6 +212,10 @@ for filename in glob.glob(os.path.join(".", "*.json")):
     )
 
     for mod, data in items:
+        # Plain string entry is URL to release mod.json, which provides screenshots
+        if isinstance(data, str):
+            continue
+
         mod_url = (data.get("mod") or "").replace(" ", "%20")
         owner, repo, ref, mod_path = parse_mod_url(mod_url)
         if not owner or not repo or not ref or not mod_path:

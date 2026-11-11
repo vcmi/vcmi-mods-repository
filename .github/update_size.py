@@ -116,6 +116,10 @@ for filename in glob.glob(os.path.join(".", "*.json")):
     items = modlist.items() if "availableMods" not in modlist else modlist["availableMods"].items()
 
     for mod, data in items:
+        # Plain string entry is URL to release mod.json, which provides size
+        if isinstance(data, str):
+            continue
+
         # Shared CI releases (bare version tag) publish size in their own mod.json
         if re.search(r"/releases/download/\d", data.get("mod") or ""):
             data.pop("downloadSize", None)

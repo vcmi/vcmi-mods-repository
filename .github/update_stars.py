@@ -29,6 +29,10 @@ for filename in glob.glob(os.path.join('.', '*.json')):
         )
 
         for mod, data in items:
+            # Plain string entry is URL to release mod.json, which provides stars
+            if isinstance(data, str):
+                continue
+
             # Shared CI releases (bare version tag) publish stars in their own mod.json
             if re.search(r"/releases/download/\d", data.get("mod", "")):
                 data.pop("githubStars", None)
