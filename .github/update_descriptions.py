@@ -88,7 +88,17 @@ for filename in glob.glob(os.path.join('.', '*.json')):
         )
 
         for mod, data in items:
+            # Plain string entry is URL to release mod.json, which provides descriptions
+            if isinstance(data, str):
+                continue
+
             mod_url = (data.get('mod') or '').replace(' ', '%20')
+
+            # Shared CI releases (bare version tag) embed descriptions into their own mod.json
+            if re.search(r"/releases/download/\d", mod_url):
+                data.pop('descriptionURL', None)
+                continue
+
             description_url = make_description_url(mod_url)
             if not description_url:
                 data.pop('descriptionURL', None)

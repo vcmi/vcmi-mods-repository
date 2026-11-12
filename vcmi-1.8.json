@@ -871,8 +871,7 @@
 		},
 		"the-lost-tales" : {
 			"mod" : "https://github.com/vcmi-mods/the-lost-tales/releases/download/1.7/mod.json",
-			"download" : "https://github.com/vcmi-mods/the-lost-tales/releases/download/1.7/the-lost-tales-vcmi-1.7.zip",
-			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/the-lost-tales/1.7/description.md"
+			"download" : "https://github.com/vcmi-mods/the-lost-tales/releases/download/1.7/the-lost-tales-vcmi-1.7.zip"
 		},
 		"h3landscape" : {
 			"mod" : "https://github.com/vcmi-mods/h3landscape/releases/download/1.7/mod.json",
@@ -904,8 +903,7 @@
 		},
 		"an-expansion" : {
 			"mod" : "https://github.com/vcmi-mods/an-expansion/releases/download/1.7/mod.json",
-			"download" : "https://github.com/vcmi-mods/an-expansion/releases/download/1.7/an-expansion-vcmi-1.7.zip",
-			"descriptionURL" : "https://raw.githubusercontent.com/vcmi-mods/an-expansion/1.7/description.md"
+			"download" : "https://github.com/vcmi-mods/an-expansion/releases/download/1.7/an-expansion-vcmi-1.7.zip"
 		},
 		"reinforcements-spell" : {
 			"mod" : "https://github.com/vcmi-mods/reinforcements-spell/releases/download/1.7/mod.json",
