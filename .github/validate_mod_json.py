@@ -26,7 +26,12 @@ def retrieve_schema(uri):
     return Resource.from_contents(jstyleson.loads(load_url(urllib.parse.urljoin(SCHEMA_URL, uri))), default_specification=DRAFT4)
 
 
-validator = jsonschema.Draft4Validator(jstyleson.loads(load_url(SCHEMA_URL)), registry=Registry(retrieve=retrieve_schema))
+# Schema is fetched from VCMI repository; if it is unavailable, mods are still checked for download and JSON errors
+try:
+    validator = jsonschema.Draft4Validator(jstyleson.loads(load_url(SCHEMA_URL)), registry=Registry(retrieve=retrieve_schema))
+except Exception as err:
+    validator = None
+    print(f"::warning::Unable to load mod schema from {SCHEMA_URL}, schema validation skipped: {err}")
 
 error = False
 
@@ -66,7 +71,13 @@ for filename in glob.glob(os.path.join('.', '*.json')):
                 print(str(err))
                 continue
 
-            schema_errors = [] if filename in SCHEMA_IGNORE else list(validator.iter_errors(modjson))
+            schema_errors = []
+            if validator and filename not in SCHEMA_IGNORE:
+                # referenced schemas are fetched lazily, a network error must not stop validation of remaining mods
+                try:
+                    schema_errors = list(validator.iter_errors(modjson))
+                except Exception as err:
+                    print(f"::warning::{mod}: schema validation skipped: {err}")
             for err in schema_errors:
                 print(f"❌ Schema: {err.json_path}: {err.message}")
             if schema_errors:
