@@ -946,6 +946,10 @@
 			"download" : "https://github.com/vcmi-mods/addition-to-wog/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 0.292,
 			"githubStars" : 0
+		},
+		"heroes3-new-design-portraits" : {
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/heroes3-new-design-portraits/main/mod.json",
+			"download" : "https://github.com/vcmi-mods/heroes3-new-design-portraits/archive/refs/heads/main.zip"
 		}
 	}
 }
