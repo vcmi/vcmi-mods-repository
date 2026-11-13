@@ -477,7 +477,7 @@
 				"https://raw.githubusercontent.com/vcmi-mods/mighty-heroes-iii/vcmi-1.7/screenshots/03.png"
 			],
 			"downloadSize" : 19.214,
-			"githubStars" : 1
+			"githubStars" : 2
 		},
 		"erathian-font" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/erathian-font/vcmi-1.7/erathian-font/mod.json",
@@ -943,7 +943,9 @@
 		},
 		"addition-to-wog" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/addition-to-wog/vcmi-1.7/mod.json",
-			"download" : "https://github.com/vcmi-mods/addition-to-wog/archive/refs/heads/vcmi-1.7.zip"
+			"download" : "https://github.com/vcmi-mods/addition-to-wog/archive/refs/heads/vcmi-1.7.zip",
+			"downloadSize" : 0.292,
+			"githubStars" : 0
 		}
 	}
 }
