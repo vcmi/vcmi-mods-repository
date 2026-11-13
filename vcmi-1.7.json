@@ -949,7 +949,15 @@
 		},
 		"heroes3-new-design-portraits" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/heroes3-new-design-portraits/main/mod.json",
-			"download" : "https://github.com/vcmi-mods/heroes3-new-design-portraits/archive/refs/heads/main.zip"
+			"download" : "https://github.com/vcmi-mods/heroes3-new-design-portraits/archive/refs/heads/main.zip",
+			"downloadSize" : 66.16,
+			"githubStars" : 0,
+			"screenshots" : [
+				"https://raw.githubusercontent.com/vcmi-mods/heroes3-new-design-portraits/main/screenshots/screen1-castle-large.png",
+				"https://raw.githubusercontent.com/vcmi-mods/heroes3-new-design-portraits/main/screenshots/screen2-fortress-small.png",
+				"https://raw.githubusercontent.com/vcmi-mods/heroes3-new-design-portraits/main/screenshots/screen3-cove-large.png",
+				"https://raw.githubusercontent.com/vcmi-mods/heroes3-new-design-portraits/main/screenshots/screen4-bulwark-large.png"
+			]
 		}
 	}
 }
