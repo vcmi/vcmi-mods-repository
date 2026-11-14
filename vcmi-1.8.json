@@ -98,6 +98,10 @@
 			"mod" : "https://github.com/vcmi-mods/latvian-translation/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/latvian-translation/releases/download/1.7/latvian-translation-vcmi-1.7.zip"
 		},
+		"faroese-translation" : {
+			"mod" : "https://github.com/vcmi-mods/faroese-translation/releases/download/1.8/mod.json",
+			"download" : "https://github.com/vcmi-mods/faroese-translation/releases/download/1.8/faroese-translation-vcmi-1.8.zip"
+		},
 		"lithuanian-translation" : {
 			"mod" : "https://github.com/vcmi-mods/lithuanian-translation/releases/download/1.8/mod.json",
 			"download" : "https://github.com/vcmi-mods/lithuanian-translation/releases/download/1.8/lithuanian-translation-vcmi-1.8.zip"
