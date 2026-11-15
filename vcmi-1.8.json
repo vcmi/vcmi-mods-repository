@@ -1,29 +1,11 @@
 {
 	"availableMods" : {
-		"vcmi-extras" : {
-			"mod" : "https://github.com/vcmi-mods/vcmi-extras/releases/download/1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/vcmi-extras/releases/download/1.8/vcmi-extras-vcmi-1.8.zip"
-		},
-		"hota" : {
-			"mod" : "https://github.com/vcmi-mods/horn-of-the-abyss/releases/download/1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/horn-of-the-abyss/releases/download/1.8/horn-of-the-abyss-vcmi-1.8.zip"
-		},
-		"wake-of-gods" : {
-			"mod" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.8/wake-of-gods-vcmi-1.8.zip"
-		},
-		"tides-of-war" : {
-			"mod" : "https://github.com/vcmi-mods/tides-of-war/releases/download/1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/tides-of-war/releases/download/1.8/tides-of-war-vcmi-1.8.zip"
-		},
-		"courtyard" : {
-			"mod" : "https://github.com/vcmi-mods/courtyard/releases/download/1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/courtyard/releases/download/1.8/courtyard-vcmi-1.8.zip"
-		},
-		"neutral-heroes" : {
-			"mod" : "https://github.com/vcmi-mods/neutral-heroes/releases/download/1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/neutral-heroes/releases/download/1.8/neutral-heroes-vcmi-1.8.zip"
-		},
+		"vcmi-extras" : "https://github.com/vcmi-mods/vcmi-extras/releases/download/1.8/mod.json",
+		"hota" : "https://github.com/vcmi-mods/horn-of-the-abyss/releases/download/1.8/mod.json",
+		"wake-of-gods" : "https://github.com/vcmi-mods/wake-of-gods/releases/download/1.8/mod.json",
+		"tides-of-war" : "https://github.com/vcmi-mods/tides-of-war/releases/download/1.8/mod.json",
+		"courtyard" : "https://github.com/vcmi-mods/courtyard/releases/download/1.8/mod.json",
+		"neutral-heroes" : "https://github.com/vcmi-mods/neutral-heroes/releases/download/1.8/mod.json",
 		"new-old-heroes" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/new-old-heroes/vcmi-1.7/new-old-heroes/mod.json",
 			"download" : "https://github.com/vcmi-mods/new-old-heroes/archive/refs/heads/vcmi-1.7.zip",
@@ -54,22 +36,13 @@
 			"mod" : "https://github.com/vcmi-mods/highlands-town/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/highlands-town/releases/download/1.7/highlands-town-vcmi-1.7.zip"
 		},
-		"new-pavilion" : {
-			"mod" : "https://github.com/vcmi-mods/new-pavilion/releases/download/1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/new-pavilion/releases/download/1.8/new-pavilion-vcmi-1.8.zip"
-		},
+		"new-pavilion" : "https://github.com/vcmi-mods/new-pavilion/releases/download/1.8/mod.json",
 		"cathedral-town" : {
 			"mod" : "https://github.com/vcmi-mods/cathedral-town/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/cathedral-town/releases/download/1.7/cathedral-town-vcmi-1.7.zip"
 		},
-		"death-valley-town" : {
-			"mod" : "https://github.com/vcmi-mods/death-valley-town/releases/download/1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/death-valley-town/releases/download/1.8/death-valley-town-vcmi-1.8.zip"
-		},
-		"andruids-expansion" : {
-			"mod" : "https://github.com/vcmi-mods/andruids-expansion/releases/download/1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/andruids-expansion/releases/download/1.8/andruids-expansion-vcmi-1.8.zip"
-		},
+		"death-valley-town" : "https://github.com/vcmi-mods/death-valley-town/releases/download/1.8/mod.json",
+		"andruids-expansion" : "https://github.com/vcmi-mods/andruids-expansion/releases/download/1.8/mod.json",
 		"dutch-translation" : {
 			"mod" : "https://github.com/vcmi-mods/dutch-translation/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/dutch-translation/releases/download/1.7/dutch-translation-vcmi-1.7.zip"
@@ -98,18 +71,9 @@
 			"mod" : "https://github.com/vcmi-mods/latvian-translation/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/latvian-translation/releases/download/1.7/latvian-translation-vcmi-1.7.zip"
 		},
-		"faroese-translation" : {
-			"mod" : "https://github.com/vcmi-mods/faroese-translation/releases/download/1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/faroese-translation/releases/download/1.8/faroese-translation-vcmi-1.8.zip"
-		},
-		"lithuanian-translation" : {
-			"mod" : "https://github.com/vcmi-mods/lithuanian-translation/releases/download/1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/lithuanian-translation/releases/download/1.8/lithuanian-translation-vcmi-1.8.zip"
-		},
-		"tchinese-translation" : {
-			"mod" : "https://github.com/vcmi-mods/tchinese-translation/releases/download/1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/tchinese-translation/releases/download/1.8/tchinese-translation-vcmi-1.8.zip"
-		},
+		"faroese-translation" : "https://github.com/vcmi-mods/faroese-translation/releases/download/1.8/mod.json",
+		"lithuanian-translation" : "https://github.com/vcmi-mods/lithuanian-translation/releases/download/1.8/mod.json",
+		"tchinese-translation" : "https://github.com/vcmi-mods/tchinese-translation/releases/download/1.8/mod.json",
 		"italian-translation" : {
 			"mod" : "https://github.com/vcmi-mods/italian-translation/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/italian-translation/releases/download/1.7/italian-translation-vcmi-1.7.zip"
@@ -162,10 +126,7 @@
 			"mod" : "https://github.com/vcmi-mods/h3-for-vcmi-englisation/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/h3-for-vcmi-englisation/releases/download/1.7/h3-for-vcmi-englisation-vcmi-1.7.zip"
 		},
-		"forge" : {
-			"mod" : "https://github.com/vcmi-mods/forge/releases/download/1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/forge/releases/download/1.8/forge-vcmi-1.8.zip"
-		},
+		"forge" : "https://github.com/vcmi-mods/forge/releases/download/1.8/mod.json",
 		"ai trace" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/adventure-ai-trace/upstream/mod.json",
 			"download" : "https://github.com/vcmi-mods/adventure-ai-trace/archive/refs/heads/upstream.zip",
@@ -193,10 +154,7 @@
 			"downloadSize" : 4.062,
 			"githubStars" : 0
 		},
-		"campaign-heroes" : {
-			"mod" : "https://github.com/vcmi-mods/campaign-heroes/releases/download/1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/campaign-heroes/releases/download/1.8/campaign-heroes-vcmi-1.8.zip"
-		},
+		"campaign-heroes" : "https://github.com/vcmi-mods/campaign-heroes/releases/download/1.8/mod.json",
 		"tarnum" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/tarnum/vcmi-1.7/tarnum/mod.json",
 			"download" : "https://github.com/vcmi-mods/tarnum/archive/refs/heads/vcmi-1.7.zip",
@@ -237,34 +195,19 @@
 			"mod" : "https://github.com/vcmi-mods/fairy-town/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/fairy-town/releases/download/1.7/fairy-town-vcmi-1.7.zip"
 		},
-		"haven-town" : {
-			"mod" : "https://github.com/vcmi-mods/haven-town/releases/download/1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/haven-town/releases/download/1.8/haven-town-vcmi-1.8.zip"
-		},
-		"ruins-town" : {
-			"mod" : "https://github.com/vcmi-mods/ruins-town/releases/download/1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/ruins-town/releases/download/1.8/ruins-town-vcmi-1.8.zip"
-		},
+		"haven-town" : "https://github.com/vcmi-mods/haven-town/releases/download/1.8/mod.json",
+		"ruins-town" : "https://github.com/vcmi-mods/ruins-town/releases/download/1.8/mod.json",
 		"h3-themes" : {
 			"mod" : "https://github.com/vcmi-mods/h3-themes/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/h3-themes/releases/download/1.7/h3-themes-vcmi-1.7.zip"
 		},
-		"creatures-hidden-potential" : {
-			"mod" : "https://github.com/vcmi-mods/creatures-hidden-potential/releases/download/1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/creatures-hidden-potential/releases/download/1.8/creatures-hidden-potential-vcmi-1.8.zip"
-		},
-		"tartarus-town" : {
-			"mod" : "https://github.com/vcmi-mods/tartarus-town/releases/download/1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/tartarus-town/releases/download/1.8/tartarus-town-vcmi-1.8.zip"
-		},
+		"creatures-hidden-potential" : "https://github.com/vcmi-mods/creatures-hidden-potential/releases/download/1.8/mod.json",
+		"tartarus-town" : "https://github.com/vcmi-mods/tartarus-town/releases/download/1.8/mod.json",
 		"preserve-town" : {
 			"mod" : "https://github.com/vcmi-mods/preserve-town/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/preserve-town/releases/download/1.7/preserve-town-vcmi-1.7.zip"
 		},
-		"abyss-town" : {
-			"mod" : "https://github.com/vcmi-mods/abyss-town/releases/download/1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/abyss-town/releases/download/1.8/abyss-town-vcmi-1.8.zip"
-		},
+		"abyss-town" : "https://github.com/vcmi-mods/abyss-town/releases/download/1.8/mod.json",
 		"retreat-town" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/retreat-town/vcmi-1.7/retreat-town/mod.json",
 			"download" : "https://github.com/vcmi-mods/retreat-town/archive/refs/heads/vcmi-1.7.zip",
@@ -289,18 +232,9 @@
 			"downloadSize" : 14.496,
 			"githubStars" : 1
 		},
-		"andruids-spell-balance" : {
-			"mod" : "https://github.com/vcmi-mods/andruids-spell-balance/releases/download/1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/andruids-spell-balance/releases/download/1.8/andruids-spell-balance-vcmi-1.8.zip"
-		},
-		"reworked-commanders" : {
-			"mod" : "https://github.com/vcmi-mods/reworked-commanders/releases/download/1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/reworked-commanders/releases/download/1.8/reworked-commanders-vcmi-1.8.zip"
-		},
-		"new-old-spells-plus" : {
-			"mod" : "https://github.com/vcmi-mods/new-old-spells-plus/releases/download/1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/new-old-spells-plus/releases/download/1.8/new-old-spells-plus-vcmi-1.8.zip"
-		},
+		"andruids-spell-balance" : "https://github.com/vcmi-mods/andruids-spell-balance/releases/download/1.8/mod.json",
+		"reworked-commanders" : "https://github.com/vcmi-mods/reworked-commanders/releases/download/1.8/mod.json",
+		"new-old-spells-plus" : "https://github.com/vcmi-mods/new-old-spells-plus/releases/download/1.8/mod.json",
 		"portraits-packs" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/portraits-packs/vcmi-1.7/Portaits%20packs/mod.json",
 			"download" : "https://github.com/vcmi-mods/portraits-packs/archive/refs/heads/vcmi-1.7.zip",
@@ -371,34 +305,16 @@
 			"mod" : "https://github.com/vcmi-mods/boost-ai/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/boost-ai/releases/download/1.7/boost-ai-vcmi-1.7.zip"
 		},
-		"refugee-town" : {
-			"mod" : "https://github.com/vcmi-mods/refugee-town/releases/download/1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/refugee-town/releases/download/1.8/refugee-town-vcmi-1.8.zip"
-		},
-		"asphalt-terrain" : {
-			"mod" : "https://github.com/vcmi-mods/asphalt-terrain/releases/download/1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/asphalt-terrain/releases/download/1.8/asphalt-terrain-vcmi-1.8.zip"
-		},
-		"newtown-terrains" : {
-			"mod" : "https://github.com/vcmi-mods/newtown-terrains/releases/download/1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/newtown-terrains/releases/download/1.8/newtown-terrains-vcmi-1.8.zip"
-		},
-		"forge2k" : {
-			"mod" : "https://github.com/vcmi-mods/forge2k/releases/download/1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/forge2k/releases/download/1.8/forge2k-vcmi-1.8.zip"
-		},
-		"ab-bad-ending-assets" : {
-			"mod" : "https://github.com/vcmi-mods/ab-bad-ending-assets/releases/download/1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/ab-bad-ending-assets/releases/download/1.8/ab-bad-ending-assets-vcmi-1.8.zip"
-		},
+		"refugee-town" : "https://github.com/vcmi-mods/refugee-town/releases/download/1.8/mod.json",
+		"asphalt-terrain" : "https://github.com/vcmi-mods/asphalt-terrain/releases/download/1.8/mod.json",
+		"newtown-terrains" : "https://github.com/vcmi-mods/newtown-terrains/releases/download/1.8/mod.json",
+		"forge2k" : "https://github.com/vcmi-mods/forge2k/releases/download/1.8/mod.json",
+		"ab-bad-ending-assets" : "https://github.com/vcmi-mods/ab-bad-ending-assets/releases/download/1.8/mod.json",
 		"ab-bad-ending-maps" : {
 			"mod" : "https://github.com/vcmi-mods/ab-bad-ending-maps/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/ab-bad-ending-maps/releases/download/1.7/ab-bad-ending-maps-vcmi-1.7.zip"
 		},
-		"ensrick-portraits" : {
-			"mod" : "https://github.com/vcmi-mods/ensrick-portraits/releases/download/1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/ensrick-portraits/releases/download/1.8/ensrick-portraits-vcmi-1.8.zip"
-		},
+		"ensrick-portraits" : "https://github.com/vcmi-mods/ensrick-portraits/releases/download/1.8/mod.json",
 		"morns-battlefields" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/morns-battlefields/vcmi-1.7/morns-battlefields/mod.json",
 			"download" : "https://github.com/vcmi-mods/morns-battlefields/archive/refs/heads/vcmi-1.7.zip",
@@ -450,10 +366,7 @@
 			"mod" : "https://github.com/vcmi-mods/zefix/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/zefix/releases/download/1.7/zefix-vcmi-1.7.zip"
 		},
-		"adventure-spells-pack" : {
-			"mod" : "https://github.com/vcmi-mods/adventure-spells-pack/releases/download/1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/adventure-spells-pack/releases/download/1.8/adventure-spells-pack-vcmi-1.8.zip"
-		},
+		"adventure-spells-pack" : "https://github.com/vcmi-mods/adventure-spells-pack/releases/download/1.8/mod.json",
 		"third-upgrades" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/third-upgrades/vcmi-1.7/third-upgrades/mod.json",
 			"download" : "https://github.com/vcmi-mods/third-upgrades/archive/refs/heads/vcmi-1.7.zip",
@@ -583,10 +496,7 @@
 			"downloadSize" : 119.311,
 			"githubStars" : 2
 		},
-		"new-summon-spells" : {
-			"mod" : "https://github.com/vcmi-mods/new-summon-spells/releases/download/1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/new-summon-spells/releases/download/1.8/new-summon-spells-vcmi-1.8.zip"
-		},
+		"new-summon-spells" : "https://github.com/vcmi-mods/new-summon-spells/releases/download/1.8/mod.json",
 		"witchking-artifacts" : {
 			"mod" : "https://github.com/vcmi-mods/witchking-artifacts/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/witchking-artifacts/releases/download/1.7/witchking-artifacts-vcmi-1.7.zip"
@@ -632,10 +542,7 @@
 			"downloadSize" : 13.013,
 			"githubStars" : 0
 		},
-		"new-monsters-pack" : {
-			"mod" : "https://github.com/vcmi-mods/new-monsters-pack/releases/download/1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/new-monsters-pack/releases/download/1.8/new-monsters-pack-vcmi-1.8.zip"
-		},
+		"new-monsters-pack" : "https://github.com/vcmi-mods/new-monsters-pack/releases/download/1.8/mod.json",
 		"czech-map-pack" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/czech-map-pack/vcmi-1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/czech-map-pack/archive/refs/heads/vcmi-1.7.zip",
@@ -758,14 +665,8 @@
 			"downloadSize" : 28.306,
 			"githubStars" : 1
 		},
-		"new-skills-pack" : {
-			"mod" : "https://github.com/vcmi-mods/new-skills-pack/releases/download/1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/new-skills-pack/releases/download/1.8/new-skills-pack-vcmi-1.8.zip"
-		},
-		"custom-templates" : {
-			"mod" : "https://github.com/vcmi-mods/custom-templates/releases/download/1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/custom-templates/releases/download/1.8/custom-templates-vcmi-1.8.zip"
-		},
+		"new-skills-pack" : "https://github.com/vcmi-mods/new-skills-pack/releases/download/1.8/mod.json",
+		"custom-templates" : "https://github.com/vcmi-mods/custom-templates/releases/download/1.8/mod.json",
 		"cheat-mod" : {
 			"mod" : "https://github.com/vcmi-mods/cheat-mod/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/cheat-mod/releases/download/1.7/cheat-mod-vcmi-1.7.zip"
@@ -817,10 +718,7 @@
 			"mod" : "https://github.com/vcmi-mods/belarusian-translation/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/belarusian-translation/releases/download/1.7/belarusian-translation-vcmi-1.7.zip"
 		},
-		"market-of-time" : {
-			"mod" : "https://github.com/vcmi-mods/market-of-time/releases/download/1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/market-of-time/releases/download/1.8/market-of-time-vcmi-1.8.zip"
-		},
+		"market-of-time" : "https://github.com/vcmi-mods/market-of-time/releases/download/1.8/mod.json",
 		"hd-remastered" : {
 			"mod" : "https://github.com/vcmi-mods/hd-remastered/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/hd-remastered/releases/download/1.7/hd-remastered-vcmi-1.7.zip"
@@ -842,14 +740,8 @@
 			"downloadSize" : 47.914,
 			"githubStars" : 20
 		},
-		"tears-of-ashan" : {
-			"mod" : "https://github.com/vcmi-mods/tears-of-ashan/releases/download/1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/tears-of-ashan/releases/download/1.8/tears-of-ashan-vcmi-1.8.zip"
-		},
-		"the-great-expansion" : {
-			"mod" : "https://github.com/vcmi-mods/the-great-expansion/releases/download/1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/the-great-expansion/releases/download/1.8/the-great-expansion-vcmi-1.8.zip"
-		},
+		"tears-of-ashan" : "https://github.com/vcmi-mods/tears-of-ashan/releases/download/1.8/mod.json",
+		"the-great-expansion" : "https://github.com/vcmi-mods/the-great-expansion/releases/download/1.8/mod.json",
 		"forest-fort" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/forest-fort/vcmi-1.7/forest-fort/mod.json",
 			"download" : "https://github.com/vcmi-mods/forest-fort/archive/refs/heads/vcmi-1.7.zip",
@@ -861,10 +753,7 @@
 			"downloadSize" : 14.755,
 			"githubStars" : 1
 		},
-		"the-lost-tales" : {
-			"mod" : "https://github.com/vcmi-mods/the-lost-tales/releases/download/1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/the-lost-tales/releases/download/1.8/the-lost-tales-vcmi-1.8.zip"
-		},
+		"the-lost-tales" : "https://github.com/vcmi-mods/the-lost-tales/releases/download/1.8/mod.json",
 		"h3landscape" : {
 			"mod" : "https://github.com/vcmi-mods/h3landscape/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/h3landscape/releases/download/1.7/h3landscape-vcmi-1.7.zip"
@@ -897,18 +786,9 @@
 			"mod" : "https://github.com/vcmi-mods/an-expansion/releases/download/1.7/mod.json",
 			"download" : "https://github.com/vcmi-mods/an-expansion/releases/download/1.7/an-expansion-vcmi-1.7.zip"
 		},
-		"reinforcements-spell" : {
-			"mod" : "https://github.com/vcmi-mods/reinforcements-spell/releases/download/1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/reinforcements-spell/releases/download/1.8/reinforcements-spell-vcmi-1.8.zip"
-		},
-		"hirki-plus-patch" : {
-			"mod" : "https://github.com/vcmi-mods/hirki-plus-patch/releases/download/1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/hirki-plus-patch/releases/download/1.8/hirki-plus-patch-vcmi-1.8.zip"
-		},
-		"sylvan-town" : {
-			"mod" : "https://github.com/vcmi-mods/sylvan-town/releases/download/1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/sylvan-town/releases/download/1.8/sylvan-town-vcmi-1.8.zip"
-		},
+		"reinforcements-spell" : "https://github.com/vcmi-mods/reinforcements-spell/releases/download/1.8/mod.json",
+		"hirki-plus-patch" : "https://github.com/vcmi-mods/hirki-plus-patch/releases/download/1.8/mod.json",
+		"sylvan-town" : "https://github.com/vcmi-mods/sylvan-town/releases/download/1.8/mod.json",
 		"inferno-plus" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/inferno-plus/vcmi-1.8/mod.json",
 			"download" : "https://github.com/vcmi-mods/inferno-plus/archive/refs/heads/vcmi-1.8.zip",
