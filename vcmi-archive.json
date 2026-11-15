@@ -1,30 +1,30 @@
 {
 	"horde-town" : {
-		"mod" : "https://raw.githubusercontent.com/misiokles/horde-town/vcmi-1.4/horde-town/mod.json",
-		"download" : "https://github.com/misiokles/horde-town/archive/refs/heads/vcmi-1.4.zip",
+		"mod" : "https://raw.githubusercontent.com/misiokles/horde-town/vcmi-1.8/horde-town/mod.json",
+		"download" : "https://github.com/misiokles/horde-town/archive/refs/heads/vcmi-1.8.zip",
 		"screenshots" : [
-			"https://raw.githubusercontent.com/misiokles/horde-town/vcmi-1.4/screenshots/screen1.png",
-			"https://raw.githubusercontent.com/misiokles/horde-town/vcmi-1.4/screenshots/screen2.png",
-			"https://raw.githubusercontent.com/misiokles/horde-town/vcmi-1.4/screenshots/screen3.png",
-			"https://raw.githubusercontent.com/misiokles/horde-town/vcmi-1.4/screenshots/screen4.png"
+			"https://raw.githubusercontent.com/misiokles/horde-town/vcmi-1.8/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/misiokles/horde-town/vcmi-1.8/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/misiokles/horde-town/vcmi-1.8/screenshots/screen3.png",
+			"https://raw.githubusercontent.com/misiokles/horde-town/vcmi-1.8/screenshots/screen4.png"
 		],
 		"downloadSize" : 20.17,
 		"githubStars" : 0
 	},
 	"ciberium-town" : {
-		"mod" : "https://raw.githubusercontent.com/misiokles/ciberium-town/vcmi-1.4/ciberium-town/mod.json",
-		"download" : "https://github.com/misiokles/ciberium-town/archive/refs/heads/vcmi-1.4.zip",
+		"mod" : "https://raw.githubusercontent.com/misiokles/ciberium-town/vcmi-1.8/ciberium-town/mod.json",
+		"download" : "https://github.com/misiokles/ciberium-town/archive/refs/heads/vcmi-1.8.zip",
 		"screenshots" : [
-			"https://raw.githubusercontent.com/misiokles/ciberium-town/vcmi-1.4/screenshots/screen1.png",
-			"https://raw.githubusercontent.com/misiokles/ciberium-town/vcmi-1.4/screenshots/screen2.png",
-			"https://raw.githubusercontent.com/misiokles/ciberium-town/vcmi-1.4/screenshots/screen3.png"
+			"https://raw.githubusercontent.com/misiokles/ciberium-town/vcmi-1.8/screenshots/screen1.png",
+			"https://raw.githubusercontent.com/misiokles/ciberium-town/vcmi-1.8/screenshots/screen2.png",
+			"https://raw.githubusercontent.com/misiokles/ciberium-town/vcmi-1.8/screenshots/screen3.png"
 		],
 		"downloadSize" : 24.778,
 		"githubStars" : 0
 	},
 	"foundry-town" : {
-		"mod" : "https://raw.githubusercontent.com/misiokles/foundry-town/vcmi-1.4/foundry-town/mod.json",
-		"download" : "https://github.com/misiokles/foundry-town/archive/refs/heads/vcmi-1.4.zip",
+		"mod" : "https://raw.githubusercontent.com/misiokles/foundry-town/vcmi-1.8/foundry-town/mod.json",
+		"download" : "https://github.com/misiokles/foundry-town/archive/refs/heads/vcmi-1.8.zip",
 		"downloadSize" : 18.394,
 		"githubStars" : 0
 	},
@@ -41,20 +41,20 @@
 		"githubStars" : 0
 	},
 	"astral-town" : {
-		"mod" : "https://raw.githubusercontent.com/misiokles/astral-town/vcmi-1.4/astral-town/mod.json",
-		"download" : "https://github.com/misiokles/astral-town/archive/refs/heads/vcmi-1.4.zip",
+		"mod" : "https://raw.githubusercontent.com/misiokles/astral-town/vcmi-1.8/astral-town/mod.json",
+		"download" : "https://github.com/misiokles/astral-town/archive/refs/heads/vcmi-1.8.zip",
 		"downloadSize" : 10.293,
 		"githubStars" : 0
 	},
 	"golemcraft" : {
-		"mod" : "https://raw.githubusercontent.com/misiokles/golemcraft/vcmi-1.4/golemcraft/mod.json",
-		"download" : "https://github.com/misiokles/golemcraft/archive/refs/heads/vcmi-1.4.zip",
+		"mod" : "https://raw.githubusercontent.com/misiokles/golemcraft/vcmi-1.8/golemcraft/mod.json",
+		"download" : "https://github.com/misiokles/golemcraft/archive/refs/heads/vcmi-1.8.zip",
 		"downloadSize" : 0.075,
 		"githubStars" : 0
 	},
 	"slothlux-town" : {
-		"mod" : "https://raw.githubusercontent.com/misiokles/slothlux-town/vcmi-1.4/slothlux-town/mod.json",
-		"download" : "https://github.com/misiokles/slothlux-town/archive/refs/heads/vcmi-1.4.zip",
+		"mod" : "https://raw.githubusercontent.com/misiokles/slothlux-town/vcmi-1.8/slothlux-town/mod.json",
+		"download" : "https://github.com/misiokles/slothlux-town/archive/refs/heads/vcmi-1.8.zip",
 		"downloadSize" : 8.811,
 		"githubStars" : 0
 	},
@@ -65,8 +65,8 @@
 		"githubStars" : 0
 	},
 	"palace-town" : {
-		"mod" : "https://raw.githubusercontent.com/misiokles/palace-town/vcmi-1.4/palace-town/mod.json",
-		"download" : "https://github.com/misiokles/palace-town/archive/refs/heads/vcmi-1.4.zip",
+		"mod" : "https://raw.githubusercontent.com/misiokles/palace-town/vcmi-1.8/palace-town/mod.json",
+		"download" : "https://github.com/misiokles/palace-town/archive/refs/heads/vcmi-1.8.zip",
 		"downloadSize" : 14.683,
 		"githubStars" : 0
 	},
