@@ -817,8 +817,8 @@
 			]
 		},
 		"aom-atlantean" : {
-			"mod" : "https://raw.githubusercontent.com/yche2990/aom-atlantean/main/mod.json",
-			"download" : "https://github.com/yche2990/aom-atlantean/archive/refs/heads/main.zip"
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/aom-atlantean/main/mod.json",
+			"download" : "https://github.com/vcmi-mods/aom-atlantean/archive/refs/heads/main.zip"
 		}
 	}
 }
