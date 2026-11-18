@@ -818,7 +818,12 @@
 		},
 		"aom-atlantean" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/aom-atlantean/vcmi-1.8/mod.json",
-			"download" : "https://github.com/vcmi-mods/aom-atlantean/archive/refs/heads/vcmi-1.8.zip"
+			"download" : "https://github.com/vcmi-mods/aom-atlantean/archive/refs/heads/vcmi-1.8.zip",
+			"downloadSize" : 571.713,
+			"githubStars" : 0,
+			"screenshots" : [
+				"https://raw.githubusercontent.com/vcmi-mods/aom-atlantean/vcmi-1.8/screenshots/01-atlantis-loading.png"
+			]
 		}
 	}
 }
