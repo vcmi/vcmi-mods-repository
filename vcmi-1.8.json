@@ -815,6 +815,10 @@
 				"https://raw.githubusercontent.com/vcmi-mods/heroes3-new-design-portraits/main/screenshots/screen3-cove-large.png",
 				"https://raw.githubusercontent.com/vcmi-mods/heroes3-new-design-portraits/main/screenshots/screen4-bulwark-large.png"
 			]
+		},
+		"aom-atlantean" : {
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/aom-atlantean/vcmi-1.8/mod.json",
+			"download" : "https://github.com/vcmi-mods/aom-atlantean/archive/refs/heads/vcmi-1.8.zip"
 		}
 	}
 }
