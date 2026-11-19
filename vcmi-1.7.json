@@ -961,7 +961,9 @@
 		},
 		"no-more-upg-prefixes_HoMM3" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/no-more-upg-prefixes_HoMM3/vcmi-1.7/mod.json",
-			"download" : "https://github.com/vcmi-mods/no-more-upg-prefixes_HoMM3/archive/refs/heads/vcmi-1.7.zip"
-		}		
+			"download" : "https://github.com/vcmi-mods/no-more-upg-prefixes_HoMM3/archive/refs/heads/vcmi-1.7.zip",
+			"downloadSize" : 0.01,
+			"githubStars" : 0
+		}
 	}
 }
