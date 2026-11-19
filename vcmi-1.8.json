@@ -824,6 +824,14 @@
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/aom-atlantean/vcmi-1.8/screenshots/01-atlantis-loading.png"
 			]
+		},
+		"summit-town" : {
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/summit-town/vcmi-1.8/mod.json",
+			"download" : "https://github.com/vcmi-mods/summit-town/archive/refs/heads/vcmi-1.8.zip"
+		},
+		"no-more-upg-prefixes_HoMM3" : {
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/no-more-upg-prefixes_HoMM3/vcmi-1.8/mod.json",
+			"download" : "https://github.com/vcmi-mods/no-more-upg-prefixes_HoMM3/archive/refs/heads/vcmi-1.8.zip"
 		}
 	}
 }
