@@ -38,8 +38,8 @@
 		},
 		"new-pavilion" : "https://github.com/vcmi-mods/new-pavilion/releases/download/1.8/mod.json",
 		"cathedral-town" : {
-			"mod" : "https://github.com/vcmi-mods/cathedral-town/releases/download/1.7/mod.json",
-			"download" : "https://github.com/vcmi-mods/cathedral-town/releases/download/1.7/cathedral-town-vcmi-1.7.zip"
+			"mod" : "https://github.com/vcmi-mods/cathedral-town/releases/download/1.8/mod.json",
+			"download" : "https://github.com/vcmi-mods/cathedral-town/releases/download/1.8/cathedral-town-vcmi-1.8.zip"
 		},
 		"death-valley-town" : "https://github.com/vcmi-mods/death-valley-town/releases/download/1.8/mod.json",
 		"andruids-expansion" : "https://github.com/vcmi-mods/andruids-expansion/releases/download/1.8/mod.json",
