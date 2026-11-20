@@ -964,6 +964,10 @@
 			"download" : "https://github.com/vcmi-mods/no-more-upg-prefixes_HoMM3/archive/refs/heads/vcmi-1.7.zip",
 			"downloadSize" : 0.01,
 			"githubStars" : 0
+		},
+		"grandalliance": {
+  		  	"mod": "https://raw.githubusercontent.com/Mihail-Enoh/The-Grand-Alliance/main/mod.json",
+    		"download": "https://github.com/Mihail-Enoh/The-Grand-Alliance/archive/refs/heads/main.zip"
 		}
 	}
 }
