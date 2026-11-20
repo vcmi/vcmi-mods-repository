@@ -85,7 +85,7 @@
 	"alpha-mod" : {
 		"mod" : "https://raw.githubusercontent.com/misiokles/alpha-mod/vcmi-1.4/alpha-mod/mod.json",
 		"download" : "https://github.com/misiokles/alpha-mod/archive/refs/heads/vcmi-1.4.zip",
-		"downloadSize" : 6.885,
+		"downloadSize" : 6.888,
 		"githubStars" : 0
 	},
 	"regna-town" : {
@@ -150,7 +150,7 @@
 			"https://raw.githubusercontent.com/misiokles/bastille-old/vcmi-1.5/screenshots/screen3.png",
 			"https://raw.githubusercontent.com/misiokles/bastille-old/vcmi-1.5/screenshots/screen4.png"
 		],
-		"downloadSize" : 17.588,
+		"downloadSize" : 17.591,
 		"githubStars" : 0
 	},
 	"fiorin-heroes" : {
@@ -272,7 +272,7 @@
 			"https://raw.githubusercontent.com/misiokles/abode-town/vcmi-1.5/screenshots/screen2.png",
 			"https://raw.githubusercontent.com/misiokles/abode-town/vcmi-1.5/screenshots/screen3.png"
 		],
-		"downloadSize" : 21.358,
+		"downloadSize" : 21.36,
 		"githubStars" : 0
 	},
 	"pah3-singleplayer-tournament" : {
@@ -312,7 +312,7 @@
 			"https://raw.githubusercontent.com/misiokles/blazers-town/main/screenshots/screen02.png",
 			"https://raw.githubusercontent.com/misiokles/blazers-town/main/screenshots/screen03.png"
 		],
-		"downloadSize" : 18.686,
+		"downloadSize" : 18.689,
 		"githubStars" : 0
 	},
 	"wild-valley-town" : {
