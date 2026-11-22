@@ -837,9 +837,14 @@
 			"downloadSize" : 0.01,
 			"githubStars" : 0
 		},
-		"aom-atlantean" : {
+		"aom-norse" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/aom-norse/vcmi-1.8/mod.json",
 			"download" : "https://github.com/vcmi-mods/aom-norse/archive/refs/heads/vcmi-1.8.zip",
+			"downloadSize" : 199.4,
+			"githubStars" : 0,
+			"screenshots" : [
+				"https://raw.githubusercontent.com/vcmi-mods/aom-norse/vcmi-1.8/screenshots/01-norse-loading.png"
+			]
 		}
 	}
 }
