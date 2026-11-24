@@ -829,7 +829,7 @@
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/summit-town/vcmi-1.8/mod.json",
 			"download" : "https://github.com/vcmi-mods/summit-town/archive/refs/heads/vcmi-1.8.zip",
 			"downloadSize" : 16.611,
-			"githubStars" : 0
+			"githubStars" : 1
 		},
 		"no-more-upg-prefixes_HoMM3" : {
 			"mod" : "https://raw.githubusercontent.com/vcmi-mods/no-more-upg-prefixes_HoMM3/vcmi-1.8/mod.json",
