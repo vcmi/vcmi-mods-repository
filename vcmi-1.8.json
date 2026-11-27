@@ -845,6 +845,10 @@
 			"screenshots" : [
 				"https://raw.githubusercontent.com/vcmi-mods/aom-norse/vcmi-1.8/screenshots/01-norse-loading.png"
 			]
+		},
+		"aom-aztec" : {
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/aom-aztec/vcmi-1.8/mod.json",
+			"download" : "https://github.com/vcmi-mods/aom-aztec/archive/refs/heads/vcmi-1.8.zip"
 		}
 	}
 }
