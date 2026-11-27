@@ -847,12 +847,12 @@
 			]
 		},
 		"aom-aztec" : {
-			"mod" : "https://raw.githubusercontent.com/yche2990/aom-aztec/vcmi-1.8/mod.json",
-			"download" : "https://github.com/yche2990/aom-aztec/archive/refs/heads/vcmi-1.8.zip",
+			"mod" : "https://raw.githubusercontent.com/vcmi-mods/aom-aztec/vcmi-1.8/mod.json",
+			"download" : "https://github.com/vcmi-mods/aom-aztec/archive/refs/heads/vcmi-1.8.zip",
 			"downloadSize" : 145.739,
 			"githubStars" : 0,
 			"screenshots" : [
-				"https://raw.githubusercontent.com/yche2990/aom-aztec/vcmi-1.8/screenshots/01-aztec-loading.png"
+				"https://raw.githubusercontent.com/vcmi-mods/aom-aztec/vcmi-1.8/screenshots/01-aztec-loading.png"
 			]
 		}
 	}
